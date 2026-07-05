@@ -56,6 +56,7 @@
     });
 
     els.clearFilterBtn.addEventListener("click", () => {
+      state.activeEndingKey = null;
       state.activeFilterKey = null;
       renderFilters();
       updateResults();
@@ -63,22 +64,81 @@
   }
 
   function renderFilters() {
-    const activeFilter = state.filters.find(f => f.key === state.activeFilterKey);
-    els.activeFilterLabel.textContent = ShabdaFilters.activeFilterLabel(activeFilter);
+    const activeFullFilter = state.filters.find(f => f.key === state.activeFilterKey);
+    const endingGroups = ShabdaFilters.getEndingGroups(state.filters);
+    const activeEndingGroup = endingGroups.find(g => g.key === state.activeEndingKey);
 
-    els.filterGrid.innerHTML = state.filters.map(filter => {
-      const activeClass = filter.key === state.activeFilterKey ? " active" : "";
+    els.activeFilterLabel.textContent = ShabdaFilters.activeFilterLabel(
+      activeFullFilter,
+      activeEndingGroup
+    );
+
+    const endingButtons = endingGroups.map(group => {
+      const activeClass = group.key === state.activeEndingKey ? " active" : "";
 
       return `
         <button
           type="button"
-          class="filter-chip${activeClass}"
-          data-filter-key="${filter.key}"
+          class="filter-chip ending-chip${activeClass}"
+          data-ending-key="${group.key}"
+          title="${group.count} stems"
         >
-          ${filter.endingDeva} · ${filter.gender} · ${filter.count}
+          <span class="chip-deva">${group.endingDeva}</span>
+          <span class="chip-count">${group.count}</span>
         </button>
       `;
     }).join("");
+
+    let genderButtons = "";
+
+    if (state.activeEndingKey) {
+      const genderFilters = ShabdaFilters.getFiltersForEnding(
+        state.filters,
+        state.activeEndingKey
+      );
+
+      genderButtons = `
+        <div class="filter-subtitle">Choose gender</div>
+        <div class="gender-filter-grid">
+          ${genderFilters.map(filter => {
+            const activeClass = filter.key === state.activeFilterKey ? " active" : "";
+
+            return `
+              <button
+                type="button"
+                class="filter-chip gender-chip${activeClass}"
+                data-filter-key="${filter.key}"
+              >
+                ${filter.gender} · ${filter.count}
+              </button>
+            `;
+          }).join("")}
+        </div>
+      `;
+    } else {
+      genderButtons = `
+        <div class="filter-subtitle muted">
+          Select an ending first.
+        </div>
+      `;
+    }
+
+    els.filterGrid.innerHTML = `
+      <div class="filter-subtitle">Choose ending</div>
+      <div class="ending-filter-grid">
+        ${endingButtons}
+      </div>
+      ${genderButtons}
+    `;
+
+    els.filterGrid.querySelectorAll("[data-ending-key]").forEach(button => {
+      button.addEventListener("click", () => {
+        state.activeEndingKey = button.dataset.endingKey;
+        state.activeFilterKey = null;
+        renderFilters();
+        updateResults();
+      });
+    });
 
     els.filterGrid.querySelectorAll("[data-filter-key]").forEach(button => {
       button.addEventListener("click", () => {
@@ -90,15 +150,24 @@
   }
 
   function updateResults() {
-    const matches = ShabdaSearch.searchEntries(
+    const effectiveFilterKey = state.activeFilterKey;
+
+    let matches = ShabdaSearch.searchEntries(
       state.index,
       state.query,
-      state.activeFilterKey
+      effectiveFilterKey
     );
+
+    if (!effectiveFilterKey && state.activeEndingKey) {
+      matches = matches.filter(entry => {
+        const endingKey = `${entry.endingType}:${entry.endingSlp1}`;
+        return endingKey === state.activeEndingKey;
+      });
+    }
 
     els.matchCount.textContent = `${matches.length} matches`;
 
-    if (!state.query && !state.activeFilterKey) {
+    if (!state.query && !state.activeEndingKey && !state.activeFilterKey) {
       els.resultsHint.textContent = "Type a search term or choose a filter.";
       els.resultsList.innerHTML = "";
       return;
@@ -111,7 +180,7 @@
     }
 
     if (matches.length > 80) {
-      els.resultsHint.textContent = `${matches.length} matches. Refine the search or add a filter. Showing first 80.`;
+      els.resultsHint.textContent = `${matches.length} matches. Refine the search or choose gender. Showing first 80.`;
     } else if (matches.length > 12) {
       els.resultsHint.textContent = `${matches.length} matches. Showing all matches.`;
     } else {

@@ -223,3 +223,44 @@ h2 {
     flex-direction: column;
   }
 }
+
+.filter-subtitle {
+  margin: 12px 0 8px;
+  color: var(--primary);
+  font-weight: 800;
+  font-size: 0.94rem;
+}
+
+.ending-filter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(62px, 1fr));
+  gap: 8px;
+}
+
+.gender-filter-grid {
+  display: grid;
+  gap: 8px;
+}
+
+.ending-chip {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 14px;
+}
+
+.chip-deva {
+  font-family: var(--font-devanagari);
+  font-size: 1.15rem;
+  font-weight: 800;
+}
+
+.chip-count {
+  color: var(--ink-muted);
+  font-size: 0.82rem;
+}
+
+.gender-chip {
+  text-align: left;
+  border-radius: 14px;
+}
