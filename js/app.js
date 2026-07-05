@@ -2,6 +2,8 @@
   "use strict";
 
   const state = window.ShabdaState;
+  const RECENT_STORAGE_KEY = "shabdrupani.recentIds";
+  const RECENT_LIMIT = 8;
 
   const els = {
     searchInput: document.getElementById("searchInput"),
@@ -12,6 +14,8 @@
     clearFilterBtn: document.getElementById("clearFilterBtn"),
     resultsHint: document.getElementById("resultsHint"),
     resultsList: document.getElementById("resultsList"),
+    recentPanel: document.getElementById("recentPanel"),
+    recentList: document.getElementById("recentList"),
     tableOutput: document.getElementById("tableOutput")
   };
 
@@ -36,10 +40,12 @@
       state.index = index;
       state.tables = tables;
       state.filters = ShabdaFilters.sortFilters(filters);
+      state.recentIds = loadRecentIds().filter(id => state.tables[id]);
 
       els.totalCount.textContent = `${state.index.length} stems available`;
 
       renderFilters();
+      renderRecent();
       updateResults();
       bindEvents();
     } catch (error) {
@@ -61,19 +67,74 @@
       renderFilters();
       updateResults();
     });
+
     document.querySelectorAll("[data-display-mode]").forEach(button => {
-  button.addEventListener("click", () => {
-    state.displayMode = button.dataset.displayMode;
+      button.addEventListener("click", () => {
+        state.displayMode = button.dataset.displayMode;
 
-    document.querySelectorAll("[data-display-mode]").forEach(btn => {
-      btn.classList.toggle("active", btn.dataset.displayMode === state.displayMode);
+        document.querySelectorAll("[data-display-mode]").forEach(btn => {
+          btn.classList.toggle("active", btn.dataset.displayMode === state.displayMode);
+        });
+
+        if (state.selectedId) {
+          const entry = state.tables[state.selectedId];
+          els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(entry, state.displayMode);
+        }
+      });
     });
+  }
 
-    if (state.selectedId) {
-      const entry = state.tables[state.selectedId];
-      els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(entry, state.displayMode);
+  function loadRecentIds() {
+    try {
+      const raw = localStorage.getItem(RECENT_STORAGE_KEY);
+      const parsed = JSON.parse(raw || "[]");
+      return Array.isArray(parsed) ? parsed : [];
+    } catch {
+      return [];
     }
-  });
+  }
+
+  function saveRecentIds() {
+    localStorage.setItem(RECENT_STORAGE_KEY, JSON.stringify(state.recentIds));
+  }
+
+  function addRecentId(id) {
+    state.recentIds = [
+      id,
+      ...state.recentIds.filter(existingId => existingId !== id)
+    ].slice(0, RECENT_LIMIT);
+
+    saveRecentIds();
+    renderRecent();
+  }
+
+  function renderRecent() {
+    if (!state.recentIds.length) {
+      els.recentPanel.classList.add("hidden");
+      els.recentList.innerHTML = "";
+      return;
+    }
+
+    els.recentPanel.classList.remove("hidden");
+
+    els.recentList.innerHTML = state.recentIds.map(id => {
+      const entry = state.tables[id];
+      if (!entry) return "";
+
+      const activeClass = id === state.selectedId ? " active" : "";
+
+      return `
+        <button type="button" class="recent-chip${activeClass}" data-recent-id="${id}">
+          <span class="recent-deva">${entry.word.deva}</span>
+          <span class="recent-iast">${entry.word.iast}</span>
+        </button>
+      `;
+    }).join("");
+
+    els.recentList.querySelectorAll("[data-recent-id]").forEach(button => {
+      button.addEventListener("click", () => {
+        selectEntry(button.dataset.recentId);
+      });
     });
   }
 
@@ -163,7 +224,7 @@
     });
   }
 
-  function updateResults() {
+  function getCurrentMatches() {
     const effectiveFilterKey = state.activeFilterKey;
 
     let matches = ShabdaSearch.searchEntries(
@@ -178,6 +239,12 @@
         return endingKey === state.activeEndingKey;
       });
     }
+
+    return matches;
+  }
+
+  function updateResults() {
+    const matches = getCurrentMatches();
 
     els.matchCount.textContent = `${matches.length} matches`;
 
@@ -205,18 +272,22 @@
   }
 
   function renderResults(matches) {
-    els.resultsList.innerHTML = matches.map(entry => `
-      <button type="button" class="result-item" data-entry-id="${entry.id}">
-        <div class="result-main">
-          <span class="result-deva">${entry.deva}</span>
-          <span class="result-iast">${entry.iast}</span>
-          <span class="result-iast">${entry.slp1}</span>
-        </div>
-        <div class="result-meta">
-          ${entry.gender} · ${entry.endingDeva}-ending · ${entry.meaning || entry.artha || ""}
-        </div>
-      </button>
-    `).join("");
+    els.resultsList.innerHTML = matches.map(entry => {
+      const activeClass = entry.id === state.selectedId ? " selected" : "";
+
+      return `
+        <button type="button" class="result-item${activeClass}" data-entry-id="${entry.id}">
+          <div class="result-main">
+            <span class="result-deva">${entry.deva}</span>
+            <span class="result-iast">${entry.iast}</span>
+            <span class="result-iast">${entry.slp1}</span>
+          </div>
+          <div class="result-meta">
+            ${entry.gender} · ${entry.endingDeva}-ending · ${entry.meaning || entry.artha || ""}
+          </div>
+        </button>
+      `;
+    }).join("");
 
     els.resultsList.querySelectorAll("[data-entry-id]").forEach(button => {
       button.addEventListener("click", () => {
@@ -230,6 +301,11 @@
     const entry = state.tables[id];
 
     els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(entry, state.displayMode);
+
+    addRecentId(id);
+    renderRecent();
+    updateResults();
+
     window.scrollTo({
       top: document.body.scrollHeight,
       behavior: "smooth"

@@ -9,5 +9,7 @@ window.ShabdaState = {
   activeFilterKey: null,
 
   selectedId: null,
+  recentIds: [],
+
   displayMode: "deva-iast"
 };

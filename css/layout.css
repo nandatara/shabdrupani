@@ -264,3 +264,70 @@ h2 {
   text-align: left;
   border-radius: 14px;
 }
+
+.hidden {
+  display: none !important;
+}
+
+.recent-panel {
+  background: var(--bg-card-soft);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  padding: 12px;
+  margin: 12px 0 14px;
+}
+
+.recent-title {
+  color: var(--primary);
+  font-weight: 900;
+  font-size: 0.86rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 8px;
+}
+
+.recent-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.recent-chip {
+  border: 1px solid var(--border);
+  background: white;
+  border-radius: 999px;
+  padding: 7px 10px;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 7px;
+  color: var(--ink-main);
+}
+
+.recent-chip:hover,
+.recent-chip.active {
+  background: var(--accent-soft);
+  border-color: var(--accent-line);
+}
+
+.recent-deva {
+  font-family: var(--font-devanagari);
+  color: var(--primary-deep);
+  font-weight: 900;
+  font-size: 1.05rem;
+}
+
+.recent-iast {
+  font-family: var(--font-main);
+  color: var(--ink-muted);
+  font-size: 0.88rem;
+}
+
+.result-item.selected {
+  background: var(--primary-soft);
+  border-color: #9FB8D6;
+  box-shadow: inset 4px 0 0 var(--primary);
+}
+
+.result-item.selected .result-deva {
+  color: var(--primary-deep);
+}
