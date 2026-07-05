@@ -197,3 +197,117 @@
     justify-content: flex-start;
   }
 }
+
+.word-profile {
+  display: grid;
+  grid-template-columns: minmax(260px, 1.2fr) minmax(260px, 1fr);
+  gap: 18px;
+  align-items: stretch;
+  margin-bottom: 22px;
+}
+
+.profile-main,
+.profile-details,
+.profile-notes {
+  background: var(--bg-card-soft);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 18px;
+}
+
+.profile-main {
+  background:
+    linear-gradient(135deg, rgba(230, 238, 247, 0.95), rgba(255, 243, 214, 0.72));
+}
+
+.profile-kicker,
+.profile-section-title {
+  color: var(--primary);
+  font-weight: 900;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-size: 0.78rem;
+  margin-bottom: 8px;
+}
+
+.profile-word {
+  font-family: var(--font-devanagari);
+  font-size: clamp(2.6rem, 5vw, 4.4rem);
+  line-height: 1.05;
+  color: var(--primary-deep);
+  margin-bottom: 6px;
+}
+
+.profile-translit {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+  color: var(--ink-muted);
+  font-family: var(--font-main);
+  font-size: 1.12rem;
+  margin-bottom: 12px;
+}
+
+.profile-translit code {
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 3px 8px;
+  color: var(--primary-deep);
+  font-family: "Consolas", "Courier New", monospace;
+  font-size: 0.95rem;
+}
+
+.profile-dot {
+  color: var(--accent);
+  font-weight: 900;
+}
+
+.profile-row {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 10px;
+  padding: 7px 0;
+  border-bottom: 1px dashed rgba(188, 169, 140, 0.72);
+}
+
+.profile-row:last-child {
+  border-bottom: 0;
+}
+
+.profile-label {
+  color: var(--ink-muted);
+  font-size: 0.88rem;
+  font-weight: 800;
+}
+
+.profile-value {
+  color: var(--ink-main);
+  font-family: var(--font-devanagari);
+  overflow-wrap: anywhere;
+}
+
+.profile-source-title {
+  margin-top: 16px;
+}
+
+.profile-notes {
+  grid-column: 1 / -1;
+  background: #FFFDF8;
+}
+
+@media (max-width: 860px) {
+  .word-profile {
+    grid-template-columns: 1fr;
+  }
+
+  .profile-notes {
+    grid-column: auto;
+  }
+
+  .profile-row {
+    grid-template-columns: 1fr;
+    gap: 2px;
+  }
+}
