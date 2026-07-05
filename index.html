@@ -56,12 +56,34 @@
         <div id="resultsList" class="results-list"></div>
       </section>
 
-      <section class="card table-card">
-        <div id="tableOutput" class="empty-table">
-          Select a stem to view its declension table.
-        </div>
-      </section>
-    </main>
+<section class="card table-card">
+  <div class="table-toolbar">
+    <div>
+      <h2>Declension Table</h2>
+      <p class="muted">Choose how forms should be displayed.</p>
+    </div>
+
+    <div class="display-toggle" aria-label="Display mode">
+      <button type="button" class="display-button active" data-display-mode="deva-iast">
+        देव + IAST
+      </button>
+      <button type="button" class="display-button" data-display-mode="deva">
+        देव
+      </button>
+      <button type="button" class="display-button" data-display-mode="iast">
+        IAST
+      </button>
+      <button type="button" class="display-button" data-display-mode="slp1">
+        SLP1
+      </button>
+    </div>
+  </div>
+
+  <div id="tableOutput" class="empty-table">
+    Select a stem to view its declension table.
+  </div>
+</section>    
+</main>
   </div>
 
   <script src="js/transliteration.js"></script>

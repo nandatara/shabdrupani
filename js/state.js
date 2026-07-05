@@ -8,5 +8,6 @@ window.ShabdaState = {
   activeEndingKey: null,
   activeFilterKey: null,
 
-  selectedId: null
+  selectedId: null,
+  displayMode: "deva-iast"
 };

@@ -27,7 +27,26 @@
       .replaceAll("'", "&#039;");
   }
 
-  function renderFormCell(forms) {
+  function renderOneForm(form, displayMode) {
+    if (displayMode === "deva") {
+      return `<span class="form-deva">${escapeHtml(form.deva)}</span>`;
+    }
+
+    if (displayMode === "iast") {
+      return `<span class="form-iast-only">${escapeHtml(form.iast)}</span>`;
+    }
+
+    if (displayMode === "slp1") {
+      return `<span class="form-slp1">${escapeHtml(form.slp1)}</span>`;
+    }
+
+    return `
+      <span class="form-deva">${escapeHtml(form.deva)}</span>
+      <span class="form-iast">${escapeHtml(form.iast)}</span>
+    `;
+  }
+
+  function renderFormCell(forms, displayMode) {
     if (!forms || forms.length === 0) {
       return `<span class="muted">—</span>`;
     }
@@ -38,14 +57,13 @@
       return `
         ${sep}
         <span class="form-alt">
-          <span class="form-deva">${escapeHtml(form.deva)}</span>
-          <span class="form-iast">${escapeHtml(form.iast)}</span>
+          ${renderOneForm(form, displayMode)}
         </span>
       `;
     }).join("");
   }
 
-  function renderTable(entry) {
+  function renderTable(entry, displayMode = "deva-iast") {
     if (!entry) {
       return `<div class="empty-table">Select a stem to view its declension table.</div>`;
     }
@@ -66,7 +84,7 @@
 
     const rows = CASES.map(([caseKey, caseDeva, caseIast]) => {
       const cells = NUMBERS.map(([numKey]) => {
-        return `<td>${renderFormCell(entry.forms[caseKey]?.[numKey])}</td>`;
+        return `<td>${renderFormCell(entry.forms[caseKey]?.[numKey], displayMode)}</td>`;
       }).join("");
 
       return `
@@ -84,7 +102,9 @@
       <div class="table-header">
         <div>
           <div class="word-title">${escapeHtml(entry.word.deva)}</div>
-          <div class="word-subtitle">${escapeHtml(entry.word.iast)} · ${escapeHtml(entry.word.slp1)}</div>
+          <div class="word-subtitle">
+            ${escapeHtml(entry.word.iast)} · ${escapeHtml(entry.word.slp1)}
+          </div>
 
           <div class="word-badges">
             <span class="badge">${escapeHtml(entry.linga.deva)}</span>

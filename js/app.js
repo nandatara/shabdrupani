@@ -61,6 +61,20 @@
       renderFilters();
       updateResults();
     });
+    document.querySelectorAll("[data-display-mode]").forEach(button => {
+  button.addEventListener("click", () => {
+    state.displayMode = button.dataset.displayMode;
+
+    document.querySelectorAll("[data-display-mode]").forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.displayMode === state.displayMode);
+    });
+
+    if (state.selectedId) {
+      const entry = state.tables[state.selectedId];
+      els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(entry, state.displayMode);
+    }
+  });
+    });
   }
 
   function renderFilters() {
@@ -215,8 +229,7 @@
     state.selectedId = id;
     const entry = state.tables[id];
 
-    els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(entry);
-
+    els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(entry, state.displayMode);
     window.scrollTo({
       top: document.body.scrollHeight,
       behavior: "smooth"
