@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shabdrupāṇi</title>
+
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/tables.css">
+</head>
+
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div class="hero-kicker">संस्कृत-शब्दरूपाणि</div>
+      <h1>Shabdrupāṇi</h1>
+      <p class="hero-subtitle">
+        Search Sanskrit stems and view validated declension tables.
+      </p>
+
+      <div class="search-panel">
+        <label for="searchInput">Search stems</label>
+        <input
+          id="searchInput"
+          type="search"
+          autocomplete="off"
+          spellcheck="false"
+          placeholder="राम, rāma, rAma"
+        >
+
+        <div class="search-meta">
+          <span id="totalCount">Loading database...</span>
+          <span id="matchCount"></span>
+        </div>
+      </div>
+    </header>
+
+    <main class="main-grid">
+      <section class="card browse-card">
+        <div class="section-title-row">
+          <div>
+            <h2>Browse by ending</h2>
+            <p>Use grammatical filters when the result set is large.</p>
+          </div>
+          <button id="clearFilterBtn" class="small-button" type="button">Clear</button>
+        </div>
+
+        <div id="activeFilterLabel" class="active-filter">No filter selected</div>
+        <div id="filterGrid" class="filter-grid"></div>
+      </section>
+
+      <section class="card results-card">
+        <h2>Results</h2>
+        <p id="resultsHint" class="muted">Type a search term or choose a filter.</p>
+        <div id="resultsList" class="results-list"></div>
+      </section>
+
+      <section class="card table-card">
+        <div id="tableOutput" class="empty-table">
+          Select a stem to view its declension table.
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="js/transliteration.js"></script>
+  <script src="js/state.js"></script>
+  <script src="js/filters.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/table-renderer.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
