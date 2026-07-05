@@ -331,3 +331,31 @@ h2 {
 .result-item.selected .result-deva {
   color: var(--primary-deep);
 }
+
+.recent-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.recent-header .recent-title {
+  margin-bottom: 0;
+}
+
+.clear-recent-button {
+  border: 1px solid var(--border);
+  background: white;
+  color: var(--ink-muted);
+  border-radius: 999px;
+  padding: 4px 9px;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.clear-recent-button:hover {
+  background: var(--accent-soft);
+  border-color: var(--accent-line);
+  color: var(--primary-deep);
+}

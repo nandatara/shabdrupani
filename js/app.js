@@ -16,6 +16,7 @@
     resultsList: document.getElementById("resultsList"),
     recentPanel: document.getElementById("recentPanel"),
     recentList: document.getElementById("recentList"),
+    clearRecentBtn: document.getElementById("clearRecentBtn"),
     tableOutput: document.getElementById("tableOutput")
   };
 
@@ -66,6 +67,12 @@
       state.activeFilterKey = null;
       renderFilters();
       updateResults();
+    });
+    
+    els.clearRecentBtn.addEventListener("click", () => {
+      state.recentIds = [];
+      saveRecentIds();
+      renderRecent();
     });
 
     document.querySelectorAll("[data-display-mode]").forEach(button => {
