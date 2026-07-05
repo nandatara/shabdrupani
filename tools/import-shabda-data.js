@@ -4,8 +4,8 @@ const path = require("path");
 const Translit = require("../js/transliteration.js");
 
 const ROOT = path.join(__dirname, "..");
-const INPUT_FILE = path.join(ROOT, "data", "raw", "sample_data_shabd.txt");
-const OUTPUT_DIR = path.join(ROOT, "data", "generated");
+const inputFileName = process.argv[2] || "sample_data_shabd.txt";
+const INPUT_FILE = path.join(ROOT, "data", "raw", inputFileName);const OUTPUT_DIR = path.join(ROOT, "data", "generated");
 
 const CASES = [
   { key: "1", deva: "प्रथमा", iast: "prathamā" },
