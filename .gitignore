@@ -1,0 +1,38 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node / package managers, if we later use them
+node_modules/
+package-lock.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+~$*
+
+# Local test / build folders, if created later
+dist/
+build/
+.cache/
+
+# Python cache, if we later use Python scripts
+__pycache__/
+*.pyc
+
+# Local notes not meant for repo
+_private/
+scratch/
