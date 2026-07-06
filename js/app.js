@@ -184,17 +184,19 @@
     });
   }
 
-  function renderFilters() {
-    const activeFullFilter = state.filters.find(f => f.key === state.activeFilterKey);
-    const endingGroups = ShabdaFilters.getEndingGroups(state.filters);
-    const activeEndingGroup = endingGroups.find(g => g.key === state.activeEndingKey);
+function renderFilters() {
+  const activeFullFilter = state.filters.find(f => f.key === state.activeFilterKey);
+  const endingGroups = ShabdaFilters.getEndingGroups(state.filters);
+  const endingSections = ShabdaFilters.getEndingSections(state.filters);
+  const activeEndingGroup = endingGroups.find(g => g.key === state.activeEndingKey);
 
-    els.activeFilterLabel.textContent = ShabdaFilters.activeFilterLabel(
-      activeFullFilter,
-      activeEndingGroup
-    );
+  els.activeFilterLabel.textContent = ShabdaFilters.activeFilterLabel(
+    activeFullFilter,
+    activeEndingGroup
+  );
 
-    const endingButtons = endingGroups.map(group => {
+  const endingSectionsHtml = endingSections.map(section => {
+    const buttons = section.groups.map(group => {
       const activeClass = group.key === state.activeEndingKey ? " active" : "";
 
       return `
@@ -210,66 +212,77 @@
       `;
     }).join("");
 
-    let genderButtons = "";
-
-    if (state.activeEndingKey) {
-      const genderFilters = ShabdaFilters.getFiltersForEnding(
-        state.filters,
-        state.activeEndingKey
-      );
-
-      genderButtons = `
-        <div class="filter-subtitle">Choose gender</div>
-        <div class="gender-filter-grid">
-          ${genderFilters.map(filter => {
-            const activeClass = filter.key === state.activeFilterKey ? " active" : "";
-
-            return `
-              <button
-                type="button"
-                class="filter-chip gender-chip${activeClass}"
-                data-filter-key="${filter.key}"
-              >
-                ${filter.gender} · ${filter.count}
-              </button>
-            `;
-          }).join("")}
+    return `
+      <div class="ending-section">
+        <div class="ending-section-title">
+          <span>${section.title}</span>
+          <span class="ending-section-deva">${section.deva}</span>
         </div>
-      `;
-    } else {
-      genderButtons = `
-        <div class="filter-subtitle muted">
-          Select an ending first.
-        </div>
-      `;
-    }
 
-    els.filterGrid.innerHTML = `
-      <div class="filter-subtitle">Choose ending</div>
-      <div class="ending-filter-grid">
-        ${endingButtons}
+        <div class="ending-filter-grid">
+          ${buttons}
+        </div>
       </div>
-      ${genderButtons}
     `;
+  }).join("");
 
-    els.filterGrid.querySelectorAll("[data-ending-key]").forEach(button => {
-      button.addEventListener("click", () => {
-        state.activeEndingKey = button.dataset.endingKey;
-        state.activeFilterKey = null;
-        renderFilters();
-        updateResults();
-      });
-    });
+  let genderButtons = "";
 
-    els.filterGrid.querySelectorAll("[data-filter-key]").forEach(button => {
-      button.addEventListener("click", () => {
-        state.activeFilterKey = button.dataset.filterKey;
-        renderFilters();
-        updateResults();
-      });
-    });
+  if (state.activeEndingKey) {
+    const genderFilters = ShabdaFilters.getFiltersForEnding(
+      state.filters,
+      state.activeEndingKey
+    );
+
+    genderButtons = `
+      <div class="filter-subtitle">Choose gender</div>
+      <div class="gender-filter-grid">
+        ${genderFilters.map(filter => {
+          const activeClass = filter.key === state.activeFilterKey ? " active" : "";
+
+          return `
+            <button
+              type="button"
+              class="filter-chip gender-chip${activeClass}"
+              data-filter-key="${filter.key}"
+            >
+              ${filter.gender} · ${filter.count}
+            </button>
+          `;
+        }).join("")}
+      </div>
+    `;
+  } else {
+    genderButtons = `
+      <div class="filter-subtitle muted">
+        Select an ending first.
+      </div>
+    `;
   }
 
+  els.filterGrid.innerHTML = `
+    <div class="filter-subtitle">Choose ending</div>
+    ${endingSectionsHtml}
+    ${genderButtons}
+  `;
+
+  els.filterGrid.querySelectorAll("[data-ending-key]").forEach(button => {
+    button.addEventListener("click", () => {
+      state.activeEndingKey = button.dataset.endingKey;
+      state.activeFilterKey = null;
+      renderFilters();
+      updateResults();
+    });
+  });
+
+  els.filterGrid.querySelectorAll("[data-filter-key]").forEach(button => {
+    button.addEventListener("click", () => {
+      state.activeFilterKey = button.dataset.filterKey;
+      renderFilters();
+      updateResults();
+    });
+  });
+}
   function getCurrentMatches() {
     const effectiveFilterKey = state.activeFilterKey;
 
