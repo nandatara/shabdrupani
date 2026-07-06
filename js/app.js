@@ -32,16 +32,16 @@
 
   async function init() {
     try {
-      const [index, tables, filters] = await Promise.all([
+      const [index, filters] = await Promise.all([
         loadJson("data/generated/shabda-index.json"),
-        loadJson("data/generated/shabda-tables.json"),
         loadJson("data/generated/filter-counts.json")
       ]);
 
       state.index = index;
-      state.tables = tables;
       state.filters = ShabdaFilters.sortFilters(filters);
-      state.recentIds = loadRecentIds().filter(id => state.tables[id]);
+      state.recentIds = loadRecentIds().filter(id =>
+        state.index.some(entry => entry.id === id)
+      );
 
       els.totalCount.textContent = `${state.index.length} stems available`;
 
@@ -68,7 +68,7 @@
       renderFilters();
       updateResults();
     });
-    
+
     els.clearRecentBtn.addEventListener("click", () => {
       state.recentIds = [];
       saveRecentIds();
@@ -84,8 +84,17 @@
         });
 
         if (state.selectedId) {
-          const entry = state.tables[state.selectedId];
-          els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(entry, state.displayMode);
+          loadTableEntry(state.selectedId).then(entry => {
+            els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(
+              entry,
+              state.displayMode
+            );
+          }).catch(error => {
+            console.error(error);
+            els.tableOutput.innerHTML = `
+              <div class="empty-table">Could not reload this declension table.</div>
+            `;
+          });
         }
       });
     });
@@ -115,6 +124,36 @@
     renderRecent();
   }
 
+  function getIndexEntryById(id) {
+    return state.index.find(entry => entry.id === id);
+  }
+
+  async function loadTableEntry(id) {
+    const indexEntry = getIndexEntryById(id);
+
+    if (!indexEntry) {
+      throw new Error(`No index entry found for ${id}`);
+    }
+
+    const tableFile = indexEntry.tableFile;
+
+    if (!tableFile) {
+      throw new Error(`No table file recorded for ${id}`);
+    }
+
+    if (!state.tableCache[tableFile]) {
+      state.tableCache[tableFile] = await loadJson(`data/generated/${tableFile}`);
+    }
+
+    const tableEntry = state.tableCache[tableFile][id];
+
+    if (!tableEntry) {
+      throw new Error(`Table entry ${id} not found in ${tableFile}`);
+    }
+
+    return tableEntry;
+  }
+
   function renderRecent() {
     if (!state.recentIds.length) {
       els.recentPanel.classList.add("hidden");
@@ -125,15 +164,15 @@
     els.recentPanel.classList.remove("hidden");
 
     els.recentList.innerHTML = state.recentIds.map(id => {
-      const entry = state.tables[id];
+      const entry = getIndexEntryById(id);
       if (!entry) return "";
 
       const activeClass = id === state.selectedId ? " active" : "";
 
       return `
         <button type="button" class="recent-chip${activeClass}" data-recent-id="${id}">
-          <span class="recent-deva">${entry.word.deva}</span>
-          <span class="recent-iast">${entry.word.iast}</span>
+          <span class="recent-deva">${entry.deva}</span>
+          <span class="recent-iast">${entry.iast}</span>
         </button>
       `;
     }).join("");
@@ -303,20 +342,35 @@
     });
   }
 
-  function selectEntry(id) {
+  async function selectEntry(id) {
     state.selectedId = id;
-    const entry = state.tables[id];
 
-    els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(entry, state.displayMode);
+    els.tableOutput.innerHTML = `
+      <div class="empty-table">Loading declension table...</div>
+    `;
 
-    addRecentId(id);
-    renderRecent();
-    updateResults();
+    try {
+      const entry = await loadTableEntry(id);
 
-    window.scrollTo({
-      top: document.body.scrollHeight,
-      behavior: "smooth"
-    });
+      els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(
+        entry,
+        state.displayMode
+      );
+
+      addRecentId(id);
+      renderRecent();
+      updateResults();
+
+      window.scrollTo({
+        top: document.body.scrollHeight,
+        behavior: "smooth"
+      });
+    } catch (error) {
+      console.error(error);
+      els.tableOutput.innerHTML = `
+        <div class="empty-table">Could not load this declension table.</div>
+      `;
+    }
   }
 
   init();

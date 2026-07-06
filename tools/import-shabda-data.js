@@ -273,9 +273,23 @@ function normalizeEntry(entry, index, seenIds, report) {
   return { tableEntry, indexEntry };
 }
 
+function removeOldGeneratedFiles() {
+  const oldSingleTableFile = path.join(OUTPUT_DIR, "shabda-tables.json");
+
+  if (fs.existsSync(oldSingleTableFile)) {
+    fs.rmSync(oldSingleTableFile, { force: true });
+  }
+
+  if (fs.existsSync(TABLES_DIR)) {
+    fs.rmSync(TABLES_DIR, { recursive: true, force: true });
+  }
+
+  fs.mkdirSync(TABLES_DIR, { recursive: true });
+}
+
 function main() {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-  fs.mkdirSync(TABLES_DIR, { recursive: true });
+  removeOldGeneratedFiles();
 
   const sourceText = readSourceFile();
   const source = parseSource(sourceText);
@@ -290,6 +304,7 @@ function main() {
     totalEntries: source.data.length,
     validEntries: 0,
     invalidEntries: 0,
+    tableChunkCount: 0,
     lingaCounts: {},
     endingCounts: {},
     filterCounts: {},
@@ -301,16 +316,18 @@ function main() {
   const seenIds = new Set();
   const indexEntries = [];
   const tableChunks = {};
+
   for (let i = 0; i < source.data.length; i++) {
     const entry = source.data[i];
     const { tableEntry, indexEntry } = normalizeEntry(entry, i, seenIds, report);
 
     indexEntries.push(indexEntry);
+
     if (!tableChunks[tableEntry.tableFile]) {
-        tableChunks[tableEntry.tableFile] = {};
+      tableChunks[tableEntry.tableFile] = {};
     }
 
-tableChunks[tableEntry.tableFile][tableEntry.id] = tableEntry;
+    tableChunks[tableEntry.tableFile][tableEntry.id] = tableEntry;
 
     increment(report.lingaCounts, tableEntry.linga.code);
     increment(report.endingCounts, `${tableEntry.ending.type}:${tableEntry.ending.slp1}`);
@@ -323,13 +340,18 @@ tableChunks[tableEntry.tableFile][tableEntry.id] = tableEntry;
     }
   }
 
+  report.tableChunkCount = Object.keys(tableChunks).length;
   report.lingaCounts = sortedObject(report.lingaCounts);
   report.endingCounts = sortedObject(report.endingCounts);
   report.filterCounts = sortedObject(report.filterCounts);
 
   const filterCounts = Object.entries(report.filterCounts).map(([key, count]) => {
     const [endingType, endingSlp1, lingaCode] = key.split(":");
-    const linga = LINGA_MAP[lingaCode] || { english: "unknown", deva: "अज्ञातलिङ्ग", iast: "ajñātaliṅga" };
+    const linga = LINGA_MAP[lingaCode] || {
+      english: "unknown",
+      deva: "अज्ञातलिङ्ग",
+      iast: "ajñātaliṅga"
+    };
 
     return {
       key,
@@ -345,26 +367,23 @@ tableChunks[tableEntry.tableFile][tableEntry.id] = tableEntry;
     };
   });
 
-    for (const [relativeFile, chunk] of Object.entries(tableChunks)) {
-      const outputPath = path.join(OUTPUT_DIR, relativeFile);
-      fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-
-      fs.writeFileSync(
-        outputPath,
-        JSON.stringify(chunk, null, 2),
-        "utf8"
-      );
-    }
-for (const [relativeFile, chunk] of Object.entries(tableChunks)) {
-  const outputPath = path.join(OUTPUT_DIR, relativeFile);
-  fs.mkdirSync(path.dirname(outputPath), { recursive: true });
-
   fs.writeFileSync(
-    outputPath,
-    JSON.stringify(chunk, null, 2),
+    path.join(OUTPUT_DIR, "shabda-index.json"),
+    JSON.stringify(indexEntries, null, 2),
     "utf8"
   );
-}
+
+  for (const [relativeFile, chunk] of Object.entries(tableChunks)) {
+    const outputPath = path.join(OUTPUT_DIR, relativeFile);
+    fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+
+    fs.writeFileSync(
+      outputPath,
+      JSON.stringify(chunk, null, 2),
+      "utf8"
+    );
+  }
+
   fs.writeFileSync(
     path.join(OUTPUT_DIR, "filter-counts.json"),
     JSON.stringify(filterCounts, null, 2),
@@ -378,13 +397,15 @@ for (const [relativeFile, chunk] of Object.entries(tableChunks)) {
   );
 
   console.log("Import complete.");
+  console.log(`Input file:      ${inputFileName}`);
   console.log(`Total entries:   ${report.totalEntries}`);
   console.log(`Valid entries:   ${report.validEntries}`);
   console.log(`Invalid entries: ${report.invalidEntries}`);
+  console.log(`Table chunks:    ${report.tableChunkCount}`);
   console.log("");
   console.log("Generated:");
   console.log("  data/generated/shabda-index.json");
-  console.log(`  data/generated/tables/ (${Object.keys(tableChunks).length} table chunks)`);
+  console.log(`  data/generated/tables/ (${report.tableChunkCount} table chunks)`);
   console.log("  data/generated/filter-counts.json");
   console.log("  data/generated/import-report.json");
 

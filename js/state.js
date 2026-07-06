@@ -1,6 +1,6 @@
 window.ShabdaState = {
   index: [],
-  tables: {},
+  tableCache: {},
   filters: [],
 
   query: "",

@@ -4,6 +4,7 @@
   "totalEntries": 9007,
   "validEntries": 9007,
   "invalidEntries": 0,
+  "tableChunkCount": 31,
   "lingaCounts": {
     "A": 2,
     "N": 2106,
