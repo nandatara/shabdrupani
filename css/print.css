@@ -1,0 +1,133 @@
+@media print {
+  @page {
+    size: landscape;
+    margin: 0.45in;
+  }
+
+  body {
+    background: white !important;
+    color: black !important;
+  }
+
+  .hero,
+  .browse-card,
+  .results-card,
+  .table-toolbar,
+  .recent-panel,
+  .display-toggle,
+  .print-button {
+    display: none !important;
+  }
+
+  .app-shell {
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  .main-grid {
+    display: block !important;
+    margin: 0 !important;
+  }
+
+  .table-card {
+    display: block !important;
+    box-shadow: none !important;
+    border: none !important;
+    background: white !important;
+    padding: 0 !important;
+  }
+
+  .word-profile {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 10px !important;
+    margin-bottom: 12px !important;
+    page-break-inside: avoid;
+  }
+
+  .profile-main,
+  .profile-details,
+  .profile-notes {
+    box-shadow: none !important;
+    background: white !important;
+    border: 1px solid #999 !important;
+    padding: 10px !important;
+  }
+
+  .profile-notes {
+    grid-column: 1 / -1 !important;
+  }
+
+  .profile-word {
+    font-size: 34pt !important;
+    color: black !important;
+  }
+
+  .profile-translit,
+  .profile-label,
+  .profile-value,
+  .case-iast,
+  .form-iast,
+  .form-iast-only {
+    color: black !important;
+  }
+
+  .word-badges {
+    gap: 5px !important;
+  }
+
+  .badge {
+    background: white !important;
+    color: black !important;
+    border: 1px solid #777 !important;
+    padding: 3px 7px !important;
+  }
+
+  .declension-table-wrap {
+    overflow: visible !important;
+  }
+
+  .declension-table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    background: white !important;
+    font-size: 11pt !important;
+    page-break-inside: avoid;
+  }
+
+  .declension-table th {
+    background: white !important;
+    color: black !important;
+    border: 1px solid #555 !important;
+    font-weight: 900 !important;
+  }
+
+  .declension-table td {
+    border: 1px solid #777 !important;
+    padding: 7px 8px !important;
+  }
+
+  .case-label {
+    color: black !important;
+  }
+
+  .form-deva {
+    color: black !important;
+    font-size: 15pt !important;
+  }
+
+  .form-iast {
+    font-size: 9pt !important;
+  }
+
+  .form-slp1 {
+    color: black !important;
+    font-size: 10pt !important;
+  }
+
+  a {
+    color: black !important;
+    text-decoration: none !important;
+  }
+}

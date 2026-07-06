@@ -311,3 +311,29 @@
     gap: 2px;
   }
 }
+
+.table-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-end;
+}
+
+.print-button {
+  border: 1px solid var(--border-strong);
+  background: var(--primary);
+  color: white;
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-weight: 900;
+}
+
+.print-button:hover {
+  background: var(--primary-deep);
+}
+
+@media (max-width: 760px) {
+  .table-actions {
+    align-items: flex-start;
+  }
+}

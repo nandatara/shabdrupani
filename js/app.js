@@ -17,7 +17,8 @@
     recentPanel: document.getElementById("recentPanel"),
     recentList: document.getElementById("recentList"),
     clearRecentBtn: document.getElementById("clearRecentBtn"),
-    tableOutput: document.getElementById("tableOutput")
+    tableOutput: document.getElementById("tableOutput"),
+    printTableBtn: document.getElementById("printTableBtn")
   };
 
   async function loadJson(url) {
@@ -74,6 +75,15 @@
       saveRecentIds();
       renderRecent();
     });
+    
+    els.printTableBtn.addEventListener("click", () => {
+  if (!state.selectedId) {
+    alert("Please select a stem before printing.");
+    return;
+  }
+
+  window.print();
+});
 
     document.querySelectorAll("[data-display-mode]").forEach(button => {
       button.addEventListener("click", () => {

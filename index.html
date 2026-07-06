@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="css/theme.css">
   <link rel="stylesheet" href="css/layout.css">
   <link rel="stylesheet" href="css/tables.css">
+  <link rel="stylesheet" href="css/print.css">
 </head>
 
 <body>
@@ -73,18 +74,24 @@
       <p class="muted">Choose how forms should be displayed.</p>
     </div>
 
-    <div class="display-toggle" aria-label="Display mode">
-      <button type="button" class="display-button active" data-display-mode="deva-iast">
-        देव + IAST
-      </button>
-      <button type="button" class="display-button" data-display-mode="deva">
-        देव
-      </button>
-      <button type="button" class="display-button" data-display-mode="iast">
-        IAST
-      </button>
-      <button type="button" class="display-button" data-display-mode="slp1">
-        SLP1
+    <div class="table-actions">
+      <div class="display-toggle" aria-label="Display mode">
+        <button type="button" class="display-button active" data-display-mode="deva-iast">
+          देव + IAST
+        </button>
+        <button type="button" class="display-button" data-display-mode="deva">
+          देव
+        </button>
+        <button type="button" class="display-button" data-display-mode="iast">
+          IAST
+        </button>
+        <button type="button" class="display-button" data-display-mode="slp1">
+          SLP1
+        </button>
+      </div>
+
+      <button id="printTableBtn" class="print-button" type="button">
+        Print table
       </button>
     </div>
   </div>
