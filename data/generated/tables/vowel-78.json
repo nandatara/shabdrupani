@@ -1,0 +1,947 @@
+{
+  "lR1": {
+    "id": "lR1",
+    "urlid": "@lR1",
+    "zbaseindex": "8.3",
+    "word": {
+      "deva": "ऌ",
+      "slp1": "x",
+      "iast": "ḷ",
+      "ascii": "l"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "वर्णविशेषः",
+      "hindi": "",
+      "english": ""
+    },
+    "notes": {
+      "sk": "",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "P"
+    },
+    "ending": {
+      "type": "vowel",
+      "slp1": "x",
+      "deva": "ऌ",
+      "iast": "ḷ"
+    },
+    "filterKey": "vowel:x:P",
+    "tableFile": "tables/vowel-78.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "आ",
+            "slp1": "A",
+            "iast": "ā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "अलौ",
+            "slp1": "alO",
+            "iast": "alau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "अलः",
+            "slp1": "alaH",
+            "iast": "alaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "अलम्",
+            "slp1": "alam",
+            "iast": "alam"
+          }
+        ],
+        "du": [
+          {
+            "deva": "अलौ",
+            "slp1": "alO",
+            "iast": "alau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ॠन्",
+            "slp1": "Fn",
+            "iast": "ṝn"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "ला",
+            "slp1": "lA",
+            "iast": "lā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "ऌभ्याम्",
+            "slp1": "xByAm",
+            "iast": "ḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ऌभिः",
+            "slp1": "xBiH",
+            "iast": "ḷbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "ले",
+            "slp1": "le",
+            "iast": "le"
+          }
+        ],
+        "du": [
+          {
+            "deva": "ऌभ्याम्",
+            "slp1": "xByAm",
+            "iast": "ḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ऌभ्यः",
+            "slp1": "xByaH",
+            "iast": "ḷbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "उल्",
+            "slp1": "ul",
+            "iast": "ul"
+          }
+        ],
+        "du": [
+          {
+            "deva": "ऌभ्याम्",
+            "slp1": "xByAm",
+            "iast": "ḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ऌभ्यः",
+            "slp1": "xByaH",
+            "iast": "ḷbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "उल्",
+            "slp1": "ul",
+            "iast": "ul"
+          }
+        ],
+        "du": [
+          {
+            "deva": "लोः",
+            "slp1": "loH",
+            "iast": "loḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ॠणाम्",
+            "slp1": "FRAm",
+            "iast": "ṝṇām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "अलि",
+            "slp1": "ali",
+            "iast": "ali"
+          }
+        ],
+        "du": [
+          {
+            "deva": "लोः",
+            "slp1": "loH",
+            "iast": "loḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ऌषु",
+            "slp1": "xzu",
+            "iast": "ḷṣu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे अल्",
+            "slp1": "he al",
+            "iast": "he al"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे अलौ",
+            "slp1": "he alO",
+            "iast": "he alau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे अलः",
+            "slp1": "he alaH",
+            "iast": "he alaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "gamlR1": {
+    "id": "gamlR1",
+    "urlid": "@gamlR1",
+    "zbaseindex": "8.4",
+    "word": {
+      "deva": "गमॢ",
+      "slp1": "gamx",
+      "iast": "gamḷ",
+      "ascii": "gaml"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "गमॢ (गतौ) इति धातुः",
+      "hindi": "",
+      "english": ""
+    },
+    "notes": {
+      "sk": "283",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "P"
+    },
+    "ending": {
+      "type": "vowel",
+      "slp1": "x",
+      "deva": "ऌ",
+      "iast": "ḷ"
+    },
+    "filterKey": "vowel:x:P",
+    "tableFile": "tables/vowel-78.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "गमा",
+            "slp1": "gamA",
+            "iast": "gamā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमलौ",
+            "slp1": "gamalO",
+            "iast": "gamalau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमलः",
+            "slp1": "gamalaH",
+            "iast": "gamalaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "गमलम्",
+            "slp1": "gamalam",
+            "iast": "gamalam"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमलौ",
+            "slp1": "gamalO",
+            "iast": "gamalau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॄन्",
+            "slp1": "gamFn",
+            "iast": "gamṝn"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "गम्ला",
+            "slp1": "gamlA",
+            "iast": "gamlā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमॢभ्याम्",
+            "slp1": "gamxByAm",
+            "iast": "gamḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॢभिः",
+            "slp1": "gamxBiH",
+            "iast": "gamḷbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "गम्ले",
+            "slp1": "gamle",
+            "iast": "gamle"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमॢभ्याम्",
+            "slp1": "gamxByAm",
+            "iast": "gamḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॢभ्यः",
+            "slp1": "gamxByaH",
+            "iast": "gamḷbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "गमुल्",
+            "slp1": "gamul",
+            "iast": "gamul"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमॢभ्याम्",
+            "slp1": "gamxByAm",
+            "iast": "gamḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॢभ्यः",
+            "slp1": "gamxByaH",
+            "iast": "gamḷbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "गमुल्",
+            "slp1": "gamul",
+            "iast": "gamul"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गम्लोः",
+            "slp1": "gamloH",
+            "iast": "gamloḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॄणाम्",
+            "slp1": "gamFRAm",
+            "iast": "gamṝṇām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "गमलि",
+            "slp1": "gamali",
+            "iast": "gamali"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गम्लोः",
+            "slp1": "gamloH",
+            "iast": "gamloḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॢषु",
+            "slp1": "gamxzu",
+            "iast": "gamḷṣu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे गमल्",
+            "slp1": "he gamal",
+            "iast": "he gamal"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे गमलौ",
+            "slp1": "he gamalO",
+            "iast": "he gamalau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे गमलः",
+            "slp1": "he gamalaH",
+            "iast": "he gamalaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "gamlR2": {
+    "id": "gamlR2",
+    "urlid": "@gamlR2",
+    "zbaseindex": "34.1",
+    "word": {
+      "deva": "गमॢ",
+      "slp1": "gamx",
+      "iast": "gamḷ",
+      "ascii": "gaml"
+    },
+    "linga": {
+      "code": "N",
+      "deva": "नपुंसकलिङ्ग",
+      "iast": "napuṃsakaliṅga",
+      "english": "neuter"
+    },
+    "meaning": {
+      "sanskrit": "गमॢ (गमने) इति धातुः",
+      "hindi": "",
+      "english": ""
+    },
+    "notes": {
+      "sk": "",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "इगन्त_नपुंसकलिङ्ग_भाषितपुंस्क": true,
+      "linga": "N"
+    },
+    "ending": {
+      "type": "vowel",
+      "slp1": "x",
+      "deva": "ऌ",
+      "iast": "ḷ"
+    },
+    "filterKey": "vowel:x:N",
+    "tableFile": "tables/vowel-78.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "गमॢ",
+            "slp1": "gamx",
+            "iast": "gamḷ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमॢनी",
+            "slp1": "gamxnI",
+            "iast": "gamḷnī"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॄणि",
+            "slp1": "gamFRi",
+            "iast": "gamṝṇi"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "गमॢ",
+            "slp1": "gamx",
+            "iast": "gamḷ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमॢनी",
+            "slp1": "gamxnI",
+            "iast": "gamḷnī"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॄणि",
+            "slp1": "gamFRi",
+            "iast": "gamṝṇi"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "गमॢना",
+            "slp1": "gamxnA",
+            "iast": "gamḷnā"
+          },
+          {
+            "deva": "गम्ला",
+            "slp1": "gamlA",
+            "iast": "gamlā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमॢभ्याम्",
+            "slp1": "gamxByAm",
+            "iast": "gamḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॢभिः",
+            "slp1": "gamxBiH",
+            "iast": "gamḷbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "गमॢने",
+            "slp1": "gamxne",
+            "iast": "gamḷne"
+          },
+          {
+            "deva": "गम्ले",
+            "slp1": "gamle",
+            "iast": "gamle"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमॢभ्याम्",
+            "slp1": "gamxByAm",
+            "iast": "gamḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॢभ्यः",
+            "slp1": "gamxByaH",
+            "iast": "gamḷbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "गमॢनः",
+            "slp1": "gamxnaH",
+            "iast": "gamḷnaḥ"
+          },
+          {
+            "deva": "गमुल्",
+            "slp1": "gamul",
+            "iast": "gamul"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमॢभ्याम्",
+            "slp1": "gamxByAm",
+            "iast": "gamḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॢभ्यः",
+            "slp1": "gamxByaH",
+            "iast": "gamḷbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "गमॢनः",
+            "slp1": "gamxnaH",
+            "iast": "gamḷnaḥ"
+          },
+          {
+            "deva": "गमुल्",
+            "slp1": "gamul",
+            "iast": "gamul"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमॢनोः",
+            "slp1": "gamxnoH",
+            "iast": "gamḷnoḥ"
+          },
+          {
+            "deva": "गम्लोः",
+            "slp1": "gamloH",
+            "iast": "gamloḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॄणाम्",
+            "slp1": "gamFRAm",
+            "iast": "gamṝṇām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "गमॢनि",
+            "slp1": "gamxni",
+            "iast": "gamḷni"
+          },
+          {
+            "deva": "गमलि",
+            "slp1": "gamali",
+            "iast": "gamali"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गमॢनोः",
+            "slp1": "gamxnoH",
+            "iast": "gamḷnoḥ"
+          },
+          {
+            "deva": "गम्लोः",
+            "slp1": "gamloH",
+            "iast": "gamloḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गमॢषु",
+            "slp1": "gamxzu",
+            "iast": "gamḷṣu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे गमॢ",
+            "slp1": "he gamx",
+            "iast": "he gamḷ"
+          },
+          {
+            "deva": "हे गमल्",
+            "slp1": "he gamal",
+            "iast": "he gamal"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे गमॢनी",
+            "slp1": "he gamxnI",
+            "iast": "he gamḷnī"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे गमॄणि",
+            "slp1": "he gamFRi",
+            "iast": "he gamṝṇi"
+          }
+        ]
+      }
+    }
+  },
+  "zaklR1": {
+    "id": "zaklR1",
+    "urlid": "@zaklR1",
+    "zbaseindex": "8.5",
+    "word": {
+      "deva": "शकॢ",
+      "slp1": "Sakx",
+      "iast": "śakḷ",
+      "ascii": "sakl"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "शकॢ (शक्तौ) इति धातुः",
+      "hindi": "",
+      "english": ""
+    },
+    "notes": {
+      "sk": "283",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "P"
+    },
+    "ending": {
+      "type": "vowel",
+      "slp1": "x",
+      "deva": "ऌ",
+      "iast": "ḷ"
+    },
+    "filterKey": "vowel:x:P",
+    "tableFile": "tables/vowel-78.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "शका",
+            "slp1": "SakA",
+            "iast": "śakā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "शकलौ",
+            "slp1": "SakalO",
+            "iast": "śakalau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "शकलः",
+            "slp1": "SakalaH",
+            "iast": "śakalaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "शकलम्",
+            "slp1": "Sakalam",
+            "iast": "śakalam"
+          }
+        ],
+        "du": [
+          {
+            "deva": "शकलौ",
+            "slp1": "SakalO",
+            "iast": "śakalau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "शकॄन्",
+            "slp1": "SakFn",
+            "iast": "śakṝn"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "शक्ला",
+            "slp1": "SaklA",
+            "iast": "śaklā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "शकॢभ्याम्",
+            "slp1": "SakxByAm",
+            "iast": "śakḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "शकॢभिः",
+            "slp1": "SakxBiH",
+            "iast": "śakḷbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "शक्ले",
+            "slp1": "Sakle",
+            "iast": "śakle"
+          }
+        ],
+        "du": [
+          {
+            "deva": "शकॢभ्याम्",
+            "slp1": "SakxByAm",
+            "iast": "śakḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "शकॢभ्यः",
+            "slp1": "SakxByaH",
+            "iast": "śakḷbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "शकुल्",
+            "slp1": "Sakul",
+            "iast": "śakul"
+          }
+        ],
+        "du": [
+          {
+            "deva": "शकॢभ्याम्",
+            "slp1": "SakxByAm",
+            "iast": "śakḷbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "शकॢभ्यः",
+            "slp1": "SakxByaH",
+            "iast": "śakḷbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "शकुल्",
+            "slp1": "Sakul",
+            "iast": "śakul"
+          }
+        ],
+        "du": [
+          {
+            "deva": "शक्लोः",
+            "slp1": "SakloH",
+            "iast": "śakloḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "शकॄणाम्",
+            "slp1": "SakFRAm",
+            "iast": "śakṝṇām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "शकलि",
+            "slp1": "Sakali",
+            "iast": "śakali"
+          }
+        ],
+        "du": [
+          {
+            "deva": "शक्लोः",
+            "slp1": "SakloH",
+            "iast": "śakloḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "शकॢषु",
+            "slp1": "Sakxzu",
+            "iast": "śakḷṣu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे शकल्",
+            "slp1": "he Sakal",
+            "iast": "he śakal"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे शकलौ",
+            "slp1": "he SakalO",
+            "iast": "he śakalau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे शकलः",
+            "slp1": "he SakalaH",
+            "iast": "he śakalaḥ"
+          }
+        ]
+      }
+    }
+  }
+}

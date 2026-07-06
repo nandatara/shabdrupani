@@ -1,0 +1,474 @@
+{
+  "sugaN1": {
+    "id": "sugaN1",
+    "urlid": "@sugaN1",
+    "zbaseindex": "44.1",
+    "word": {
+      "deva": "सुगण्",
+      "slp1": "sugaR",
+      "iast": "sugaṇ",
+      "ascii": "sugan"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "सुगणयति सः",
+      "hindi": "अच्छी तरह से गिननेवाला",
+      "english": "One who counts well"
+    },
+    "notes": {
+      "sk": "351",
+      "lsk": "",
+      "vyutpatti": "सुगणयति सः\n= सु + गण् + विच्",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "P"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "R",
+      "deva": "ण्",
+      "iast": "ṇ"
+    },
+    "filterKey": "consonant:R:P",
+    "tableFile": "tables/consonant-52.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "सुगण्",
+            "slp1": "sugaR",
+            "iast": "sugaṇ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगणौ",
+            "slp1": "sugaRO",
+            "iast": "sugaṇau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगणः",
+            "slp1": "sugaRaH",
+            "iast": "sugaṇaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "सुगणम्",
+            "slp1": "sugaRam",
+            "iast": "sugaṇam"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगणौ",
+            "slp1": "sugaRO",
+            "iast": "sugaṇau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगणः",
+            "slp1": "sugaRaH",
+            "iast": "sugaṇaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "सुगणा",
+            "slp1": "sugaRA",
+            "iast": "sugaṇā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगण्भ्याम्",
+            "slp1": "sugaRByAm",
+            "iast": "sugaṇbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगण्भिः",
+            "slp1": "sugaRBiH",
+            "iast": "sugaṇbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "सुगणे",
+            "slp1": "sugaRe",
+            "iast": "sugaṇe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगण्भ्याम्",
+            "slp1": "sugaRByAm",
+            "iast": "sugaṇbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगण्भ्यः",
+            "slp1": "sugaRByaH",
+            "iast": "sugaṇbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "सुगणः",
+            "slp1": "sugaRaH",
+            "iast": "sugaṇaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगण्भ्याम्",
+            "slp1": "sugaRByAm",
+            "iast": "sugaṇbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगण्भ्यः",
+            "slp1": "sugaRByaH",
+            "iast": "sugaṇbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "सुगणः",
+            "slp1": "sugaRaH",
+            "iast": "sugaṇaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगणोः",
+            "slp1": "sugaRoH",
+            "iast": "sugaṇoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगणाम्",
+            "slp1": "sugaRAm",
+            "iast": "sugaṇām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "सुगणि",
+            "slp1": "sugaRi",
+            "iast": "sugaṇi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगणोः",
+            "slp1": "sugaRoH",
+            "iast": "sugaṇoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगण्सु",
+            "slp1": "sugaRsu",
+            "iast": "sugaṇsu"
+          },
+          {
+            "deva": "सुगण्ट्सु",
+            "slp1": "sugaRwsu",
+            "iast": "sugaṇṭsu"
+          },
+          {
+            "deva": "सुगण्ठ्सु",
+            "slp1": "sugaRWsu",
+            "iast": "sugaṇṭhsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे सुगण्",
+            "slp1": "he sugaR",
+            "iast": "he sugaṇ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे सुगणौ",
+            "slp1": "he sugaRO",
+            "iast": "he sugaṇau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे सुगणः",
+            "slp1": "he sugaRaH",
+            "iast": "he sugaṇaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "sugAN1": {
+    "id": "sugAN1",
+    "urlid": "@sugAN1",
+    "zbaseindex": "44.2",
+    "word": {
+      "deva": "सुगाण्",
+      "slp1": "sugAR",
+      "iast": "sugāṇ",
+      "ascii": "sugan"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "सुगणयति सः",
+      "hindi": "अच्छी तरह से गिननेवाला",
+      "english": "One who counts well"
+    },
+    "notes": {
+      "sk": "351",
+      "lsk": "",
+      "vyutpatti": "सुगणयति सः\n= सु + गण् + क्विप्",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "P"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "R",
+      "deva": "ण्",
+      "iast": "ṇ"
+    },
+    "filterKey": "consonant:R:P",
+    "tableFile": "tables/consonant-52.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "सुगाण्",
+            "slp1": "sugAR",
+            "iast": "sugāṇ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगाणौ",
+            "slp1": "sugARO",
+            "iast": "sugāṇau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगाणः",
+            "slp1": "sugARaH",
+            "iast": "sugāṇaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "सुगाणम्",
+            "slp1": "sugARam",
+            "iast": "sugāṇam"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगाणौ",
+            "slp1": "sugARO",
+            "iast": "sugāṇau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगाणः",
+            "slp1": "sugARaH",
+            "iast": "sugāṇaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "सुगाणा",
+            "slp1": "sugARA",
+            "iast": "sugāṇā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगाण्भ्याम्",
+            "slp1": "sugARByAm",
+            "iast": "sugāṇbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगाण्भिः",
+            "slp1": "sugARBiH",
+            "iast": "sugāṇbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "सुगाणे",
+            "slp1": "sugARe",
+            "iast": "sugāṇe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगाण्भ्याम्",
+            "slp1": "sugARByAm",
+            "iast": "sugāṇbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगाण्भ्यः",
+            "slp1": "sugARByaH",
+            "iast": "sugāṇbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "सुगाणः",
+            "slp1": "sugARaH",
+            "iast": "sugāṇaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगाण्भ्याम्",
+            "slp1": "sugARByAm",
+            "iast": "sugāṇbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगाण्भ्यः",
+            "slp1": "sugARByaH",
+            "iast": "sugāṇbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "सुगाणः",
+            "slp1": "sugARaH",
+            "iast": "sugāṇaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगाणोः",
+            "slp1": "sugARoH",
+            "iast": "sugāṇoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगाणाम्",
+            "slp1": "sugARAm",
+            "iast": "sugāṇām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "सुगाणि",
+            "slp1": "sugARi",
+            "iast": "sugāṇi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "सुगाणोः",
+            "slp1": "sugARoH",
+            "iast": "sugāṇoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "सुगाण्सु",
+            "slp1": "sugARsu",
+            "iast": "sugāṇsu"
+          },
+          {
+            "deva": "सुगाण्ट्सु",
+            "slp1": "sugARwsu",
+            "iast": "sugāṇṭsu"
+          },
+          {
+            "deva": "सुगाण्ठ्सु",
+            "slp1": "sugARWsu",
+            "iast": "sugāṇṭhsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे सुगाण्",
+            "slp1": "he sugAR",
+            "iast": "he sugāṇ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे सुगाणौ",
+            "slp1": "he sugARO",
+            "iast": "he sugāṇau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे सुगाणः",
+            "slp1": "he sugARaH",
+            "iast": "he sugāṇaḥ"
+          }
+        ]
+      }
+    }
+  }
+}

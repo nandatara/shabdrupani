@@ -1,0 +1,630 @@
+{
+  "ap1": {
+    "id": "ap1",
+    "urlid": "@ap1",
+    "zbaseindex": "82.1",
+    "word": {
+      "deva": "अप्",
+      "slp1": "ap",
+      "iast": "ap",
+      "ascii": "ap"
+    },
+    "linga": {
+      "code": "S",
+      "deva": "स्त्रीलिङ्ग",
+      "iast": "strīliṅga",
+      "english": "feminine"
+    },
+    "meaning": {
+      "sanskrit": "जलम्",
+      "hindi": "पानी",
+      "english": "Water"
+    },
+    "notes": {
+      "sk": "441, 442",
+      "lsk": "360, 361",
+      "vyutpatti": "",
+      "shabda_notes": "नित्यबहुवचनान्तः अयं शब्दः ।",
+      "info": ""
+    },
+    "prakriya_options": {
+      "अप्_अप्तृन्तृच्स्वसृनप्तृनेष्टृत्वष्टृक्षत्तृहोतृपोतृप्रशास्तॄणाम्": true,
+      "अप्": true,
+      "एकवचनाभावः": true,
+      "द्विवचनाभावः": true,
+      "linga": "S"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "p",
+      "deva": "प्",
+      "iast": "p"
+    },
+    "filterKey": "consonant:p:S",
+    "tableFile": "tables/consonant-70.json",
+    "forms": {
+      "1": {
+        "sg": [],
+        "du": [],
+        "pl": [
+          {
+            "deva": "आपः",
+            "slp1": "ApaH",
+            "iast": "āpaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [],
+        "du": [],
+        "pl": [
+          {
+            "deva": "अपः",
+            "slp1": "apaH",
+            "iast": "apaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [],
+        "du": [],
+        "pl": [
+          {
+            "deva": "अद्भिः",
+            "slp1": "adBiH",
+            "iast": "adbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [],
+        "du": [],
+        "pl": [
+          {
+            "deva": "अद्भ्यः",
+            "slp1": "adByaH",
+            "iast": "adbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [],
+        "du": [],
+        "pl": [
+          {
+            "deva": "अद्भ्यः",
+            "slp1": "adByaH",
+            "iast": "adbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [],
+        "du": [],
+        "pl": [
+          {
+            "deva": "अपाम्",
+            "slp1": "apAm",
+            "iast": "apām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [],
+        "du": [],
+        "pl": [
+          {
+            "deva": "अप्सु",
+            "slp1": "apsu",
+            "iast": "apsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [],
+        "du": [],
+        "pl": [
+          {
+            "deva": "हे आपः",
+            "slp1": "he ApaH",
+            "iast": "he āpaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "gup1": {
+    "id": "gup1",
+    "urlid": "@gup1",
+    "zbaseindex": "51.1",
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup",
+      "ascii": "gup"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "गोपयति (रक्षति) सः",
+      "hindi": "छिपानेवाला, संभल कर रखनेवाला, रक्षक",
+      "english": "one who preserves, protects, hides."
+    },
+    "notes": {
+      "sk": "428",
+      "lsk": "345",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "P"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "p",
+      "deva": "प्",
+      "iast": "p"
+    },
+    "filterKey": "consonant:p:P",
+    "tableFile": "tables/consonant-70.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "गुब्",
+            "slp1": "gub",
+            "iast": "gub"
+          },
+          {
+            "deva": "गुप्",
+            "slp1": "gup",
+            "iast": "gup"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गुपौ",
+            "slp1": "gupO",
+            "iast": "gupau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गुपः",
+            "slp1": "gupaH",
+            "iast": "gupaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "गुपम्",
+            "slp1": "gupam",
+            "iast": "gupam"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गुपौ",
+            "slp1": "gupO",
+            "iast": "gupau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गुपः",
+            "slp1": "gupaH",
+            "iast": "gupaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "गुपा",
+            "slp1": "gupA",
+            "iast": "gupā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गुब्भ्याम्",
+            "slp1": "gubByAm",
+            "iast": "gubbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गुब्भिः",
+            "slp1": "gubBiH",
+            "iast": "gubbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "गुपे",
+            "slp1": "gupe",
+            "iast": "gupe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गुब्भ्याम्",
+            "slp1": "gubByAm",
+            "iast": "gubbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गुब्भ्यः",
+            "slp1": "gubByaH",
+            "iast": "gubbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "गुपः",
+            "slp1": "gupaH",
+            "iast": "gupaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गुब्भ्याम्",
+            "slp1": "gubByAm",
+            "iast": "gubbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गुब्भ्यः",
+            "slp1": "gubByaH",
+            "iast": "gubbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "गुपः",
+            "slp1": "gupaH",
+            "iast": "gupaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गुपोः",
+            "slp1": "gupoH",
+            "iast": "gupoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गुपाम्",
+            "slp1": "gupAm",
+            "iast": "gupām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "गुपि",
+            "slp1": "gupi",
+            "iast": "gupi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गुपोः",
+            "slp1": "gupoH",
+            "iast": "gupoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गुप्सु",
+            "slp1": "gupsu",
+            "iast": "gupsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे गुब्",
+            "slp1": "he gub",
+            "iast": "he gub"
+          },
+          {
+            "deva": "हे गुप्",
+            "slp1": "he gup",
+            "iast": "he gup"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे गुपौ",
+            "slp1": "he gupO",
+            "iast": "he gupau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे गुपः",
+            "slp1": "he gupaH",
+            "iast": "he gupaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "svap1": {
+    "id": "svap1",
+    "urlid": "@svap1",
+    "zbaseindex": "78.1",
+    "word": {
+      "deva": "स्वप्",
+      "slp1": "svap",
+      "iast": "svap",
+      "ascii": "svap"
+    },
+    "linga": {
+      "code": "N",
+      "deva": "नपुंसकलिङ्ग",
+      "iast": "napuṃsakaliṅga",
+      "english": "neuter"
+    },
+    "meaning": {
+      "sanskrit": "शोभनाः आपः यस्मिन् तत् सरः",
+      "hindi": "स्वच्छ पानीवाला तालाब",
+      "english": "A lake with clean water"
+    },
+    "notes": {
+      "sk": "446",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "अबन्त": true,
+      "अप्": true,
+      "linga": "N"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "p",
+      "deva": "प्",
+      "iast": "p"
+    },
+    "filterKey": "consonant:p:N",
+    "tableFile": "tables/consonant-70.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "स्वब्",
+            "slp1": "svab",
+            "iast": "svab"
+          },
+          {
+            "deva": "स्वप्",
+            "slp1": "svap",
+            "iast": "svap"
+          }
+        ],
+        "du": [
+          {
+            "deva": "स्वपी",
+            "slp1": "svapI",
+            "iast": "svapī"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "स्वम्पि",
+            "slp1": "svampi",
+            "iast": "svampi"
+          },
+          {
+            "deva": "स्वाम्पि",
+            "slp1": "svAmpi",
+            "iast": "svāmpi"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "स्वब्",
+            "slp1": "svab",
+            "iast": "svab"
+          },
+          {
+            "deva": "स्वप्",
+            "slp1": "svap",
+            "iast": "svap"
+          }
+        ],
+        "du": [
+          {
+            "deva": "स्वपी",
+            "slp1": "svapI",
+            "iast": "svapī"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "स्वम्पि",
+            "slp1": "svampi",
+            "iast": "svampi"
+          },
+          {
+            "deva": "स्वाम्पि",
+            "slp1": "svAmpi",
+            "iast": "svāmpi"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "स्वपा",
+            "slp1": "svapA",
+            "iast": "svapā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "स्वद्भ्याम्",
+            "slp1": "svadByAm",
+            "iast": "svadbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "स्वद्भिः",
+            "slp1": "svadBiH",
+            "iast": "svadbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "स्वपे",
+            "slp1": "svape",
+            "iast": "svape"
+          }
+        ],
+        "du": [
+          {
+            "deva": "स्वद्भ्याम्",
+            "slp1": "svadByAm",
+            "iast": "svadbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "स्वद्भ्यः",
+            "slp1": "svadByaH",
+            "iast": "svadbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "स्वपः",
+            "slp1": "svapaH",
+            "iast": "svapaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "स्वद्भ्याम्",
+            "slp1": "svadByAm",
+            "iast": "svadbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "स्वद्भ्यः",
+            "slp1": "svadByaH",
+            "iast": "svadbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "स्वपः",
+            "slp1": "svapaH",
+            "iast": "svapaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "स्वपोः",
+            "slp1": "svapoH",
+            "iast": "svapoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "स्वपाम्",
+            "slp1": "svapAm",
+            "iast": "svapām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "स्वपि",
+            "slp1": "svapi",
+            "iast": "svapi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "स्वपोः",
+            "slp1": "svapoH",
+            "iast": "svapoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "स्वप्सु",
+            "slp1": "svapsu",
+            "iast": "svapsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे स्वब्",
+            "slp1": "he svab",
+            "iast": "he svab"
+          },
+          {
+            "deva": "हे स्वप्",
+            "slp1": "he svap",
+            "iast": "he svap"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे स्वपी",
+            "slp1": "he svapI",
+            "iast": "he svapī"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे स्वम्पि",
+            "slp1": "he svampi",
+            "iast": "he svampi"
+          },
+          {
+            "deva": "हे स्वाम्पि",
+            "slp1": "he svAmpi",
+            "iast": "he svāmpi"
+          }
+        ]
+      }
+    }
+  }
+}

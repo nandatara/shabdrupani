@@ -1,0 +1,238 @@
+{
+  "agnimath1": {
+    "id": "agnimath1",
+    "urlid": "@agnimath1",
+    "zbaseindex": "48.1",
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath",
+      "ascii": "agnimath"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "अग्निं मथ्नाति",
+      "hindi": "अग्नि का मन्थन करनेवाला",
+      "english": "One who churns the fire"
+    },
+    "notes": {
+      "sk": "414",
+      "lsk": "332",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "P"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "T",
+      "deva": "थ्",
+      "iast": "th"
+    },
+    "filterKey": "consonant:T:P",
+    "tableFile": "tables/consonant-54.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "अग्निमद्",
+            "slp1": "agnimad",
+            "iast": "agnimad"
+          },
+          {
+            "deva": "अग्निमत्",
+            "slp1": "agnimat",
+            "iast": "agnimat"
+          }
+        ],
+        "du": [
+          {
+            "deva": "अग्निमथौ",
+            "slp1": "agnimaTO",
+            "iast": "agnimathau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "अग्निमथः",
+            "slp1": "agnimaTaH",
+            "iast": "agnimathaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "अग्निमथम्",
+            "slp1": "agnimaTam",
+            "iast": "agnimatham"
+          }
+        ],
+        "du": [
+          {
+            "deva": "अग्निमथौ",
+            "slp1": "agnimaTO",
+            "iast": "agnimathau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "अग्निमथः",
+            "slp1": "agnimaTaH",
+            "iast": "agnimathaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "अग्निमथा",
+            "slp1": "agnimaTA",
+            "iast": "agnimathā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "अग्निमद्भ्याम्",
+            "slp1": "agnimadByAm",
+            "iast": "agnimadbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "अग्निमद्भिः",
+            "slp1": "agnimadBiH",
+            "iast": "agnimadbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "अग्निमथे",
+            "slp1": "agnimaTe",
+            "iast": "agnimathe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "अग्निमद्भ्याम्",
+            "slp1": "agnimadByAm",
+            "iast": "agnimadbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "अग्निमद्भ्यः",
+            "slp1": "agnimadByaH",
+            "iast": "agnimadbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "अग्निमथः",
+            "slp1": "agnimaTaH",
+            "iast": "agnimathaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "अग्निमद्भ्याम्",
+            "slp1": "agnimadByAm",
+            "iast": "agnimadbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "अग्निमद्भ्यः",
+            "slp1": "agnimadByaH",
+            "iast": "agnimadbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "अग्निमथः",
+            "slp1": "agnimaTaH",
+            "iast": "agnimathaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "अग्निमथोः",
+            "slp1": "agnimaToH",
+            "iast": "agnimathoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "अग्निमथाम्",
+            "slp1": "agnimaTAm",
+            "iast": "agnimathām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "अग्निमथि",
+            "slp1": "agnimaTi",
+            "iast": "agnimathi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "अग्निमथोः",
+            "slp1": "agnimaToH",
+            "iast": "agnimathoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "अग्निमत्सु",
+            "slp1": "agnimatsu",
+            "iast": "agnimatsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे अग्निमद्",
+            "slp1": "he agnimad",
+            "iast": "he agnimad"
+          },
+          {
+            "deva": "हे अग्निमत्",
+            "slp1": "he agnimat",
+            "iast": "he agnimat"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे अग्निमथौ",
+            "slp1": "he agnimaTO",
+            "iast": "he agnimathau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे अग्निमथः",
+            "slp1": "he agnimaTaH",
+            "iast": "he agnimathaḥ"
+          }
+        ]
+      }
+    }
+  }
+}

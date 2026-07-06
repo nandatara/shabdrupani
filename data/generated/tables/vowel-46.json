@@ -1,0 +1,696 @@
+{
+  "kRR1": {
+    "id": "kRR1",
+    "urlid": "@kRR1",
+    "zbaseindex": "8.1",
+    "word": {
+      "deva": "कॄ",
+      "slp1": "kF",
+      "iast": "kṝ",
+      "ascii": "kr"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "कॄ (विक्षेपे) इति धातुः",
+      "hindi": "",
+      "english": ""
+    },
+    "notes": {
+      "sk": "283",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "प्रकृतिवदनुकरणम्": true,
+      "linga": "P"
+    },
+    "ending": {
+      "type": "vowel",
+      "slp1": "F",
+      "deva": "ॠ",
+      "iast": "ṝ"
+    },
+    "filterKey": "vowel:F:P",
+    "tableFile": "tables/vowel-46.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "कॄः",
+            "slp1": "kFH",
+            "iast": "kṝḥ"
+          },
+          {
+            "deva": "कीः",
+            "slp1": "kIH",
+            "iast": "kīḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रौ",
+            "slp1": "krO",
+            "iast": "krau"
+          },
+          {
+            "deva": "किरौ",
+            "slp1": "kirO",
+            "iast": "kirau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्रः",
+            "slp1": "kraH",
+            "iast": "kraḥ"
+          },
+          {
+            "deva": "किरः",
+            "slp1": "kiraH",
+            "iast": "kiraḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "कॄम्",
+            "slp1": "kFm",
+            "iast": "kṝm"
+          },
+          {
+            "deva": "किरम्",
+            "slp1": "kiram",
+            "iast": "kiram"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रौ",
+            "slp1": "krO",
+            "iast": "krau"
+          },
+          {
+            "deva": "किरौ",
+            "slp1": "kirO",
+            "iast": "kirau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कॄन्",
+            "slp1": "kFn",
+            "iast": "kṝn"
+          },
+          {
+            "deva": "किरः",
+            "slp1": "kiraH",
+            "iast": "kiraḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "क्रा",
+            "slp1": "krA",
+            "iast": "krā"
+          },
+          {
+            "deva": "किरा",
+            "slp1": "kirA",
+            "iast": "kirā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "कॄभ्याम्",
+            "slp1": "kFByAm",
+            "iast": "kṝbhyām"
+          },
+          {
+            "deva": "कीर्भ्याम्",
+            "slp1": "kIrByAm",
+            "iast": "kīrbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कॄभिः",
+            "slp1": "kFBiH",
+            "iast": "kṝbhiḥ"
+          },
+          {
+            "deva": "कीर्भिः",
+            "slp1": "kIrBiH",
+            "iast": "kīrbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "क्रे",
+            "slp1": "kre",
+            "iast": "kre"
+          },
+          {
+            "deva": "किरे",
+            "slp1": "kire",
+            "iast": "kire"
+          }
+        ],
+        "du": [
+          {
+            "deva": "कॄभ्याम्",
+            "slp1": "kFByAm",
+            "iast": "kṝbhyām"
+          },
+          {
+            "deva": "कीर्भ्याम्",
+            "slp1": "kIrByAm",
+            "iast": "kīrbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कॄभ्यः",
+            "slp1": "kFByaH",
+            "iast": "kṝbhyaḥ"
+          },
+          {
+            "deva": "कीर्भ्यः",
+            "slp1": "kIrByaH",
+            "iast": "kīrbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "क्रः",
+            "slp1": "kraH",
+            "iast": "kraḥ"
+          },
+          {
+            "deva": "किरः",
+            "slp1": "kiraH",
+            "iast": "kiraḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "कॄभ्याम्",
+            "slp1": "kFByAm",
+            "iast": "kṝbhyām"
+          },
+          {
+            "deva": "कीर्भ्याम्",
+            "slp1": "kIrByAm",
+            "iast": "kīrbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कॄभ्यः",
+            "slp1": "kFByaH",
+            "iast": "kṝbhyaḥ"
+          },
+          {
+            "deva": "कीर्भ्यः",
+            "slp1": "kIrByaH",
+            "iast": "kīrbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "क्रः",
+            "slp1": "kraH",
+            "iast": "kraḥ"
+          },
+          {
+            "deva": "किरः",
+            "slp1": "kiraH",
+            "iast": "kiraḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रोः",
+            "slp1": "kroH",
+            "iast": "kroḥ"
+          },
+          {
+            "deva": "किरोः",
+            "slp1": "kiroH",
+            "iast": "kiroḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्राम्",
+            "slp1": "krAm",
+            "iast": "krām"
+          },
+          {
+            "deva": "किराम्",
+            "slp1": "kirAm",
+            "iast": "kirām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "क्रि",
+            "slp1": "kri",
+            "iast": "kri"
+          },
+          {
+            "deva": "किरि",
+            "slp1": "kiri",
+            "iast": "kiri"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रोः",
+            "slp1": "kroH",
+            "iast": "kroḥ"
+          },
+          {
+            "deva": "किरोः",
+            "slp1": "kiroH",
+            "iast": "kiroḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कॄषु",
+            "slp1": "kFzu",
+            "iast": "kṝṣu"
+          },
+          {
+            "deva": "कीर्षु",
+            "slp1": "kIrzu",
+            "iast": "kīrṣu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे कॄः",
+            "slp1": "he kFH",
+            "iast": "he kṝḥ"
+          },
+          {
+            "deva": "हे कीः",
+            "slp1": "he kIH",
+            "iast": "he kīḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे क्रौ",
+            "slp1": "he krO",
+            "iast": "he krau"
+          },
+          {
+            "deva": "हे किरौ",
+            "slp1": "he kirO",
+            "iast": "he kirau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे क्रः",
+            "slp1": "he kraH",
+            "iast": "he kraḥ"
+          },
+          {
+            "deva": "हे किरः",
+            "slp1": "he kiraH",
+            "iast": "he kiraḥ"
+          }
+        ]
+      }
+    }
+  },
+  "tRR1": {
+    "id": "tRR1",
+    "urlid": "@tRR1",
+    "zbaseindex": "8.2",
+    "word": {
+      "deva": "तॄ",
+      "slp1": "tF",
+      "iast": "tṝ",
+      "ascii": "tr"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "तॄ (तरणे) इति धातुः",
+      "hindi": "",
+      "english": ""
+    },
+    "notes": {
+      "sk": "283",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "प्रकृतिवदनुकरणम्": true,
+      "linga": "P"
+    },
+    "ending": {
+      "type": "vowel",
+      "slp1": "F",
+      "deva": "ॠ",
+      "iast": "ṝ"
+    },
+    "filterKey": "vowel:F:P",
+    "tableFile": "tables/vowel-46.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "तॄः",
+            "slp1": "tFH",
+            "iast": "tṝḥ"
+          },
+          {
+            "deva": "तीः",
+            "slp1": "tIH",
+            "iast": "tīḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "त्रौ",
+            "slp1": "trO",
+            "iast": "trau"
+          },
+          {
+            "deva": "तिरौ",
+            "slp1": "tirO",
+            "iast": "tirau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "त्रः",
+            "slp1": "traH",
+            "iast": "traḥ"
+          },
+          {
+            "deva": "तिरः",
+            "slp1": "tiraH",
+            "iast": "tiraḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "तॄम्",
+            "slp1": "tFm",
+            "iast": "tṝm"
+          },
+          {
+            "deva": "तिरम्",
+            "slp1": "tiram",
+            "iast": "tiram"
+          }
+        ],
+        "du": [
+          {
+            "deva": "त्रौ",
+            "slp1": "trO",
+            "iast": "trau"
+          },
+          {
+            "deva": "तिरौ",
+            "slp1": "tirO",
+            "iast": "tirau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "तॄन्",
+            "slp1": "tFn",
+            "iast": "tṝn"
+          },
+          {
+            "deva": "तिरः",
+            "slp1": "tiraH",
+            "iast": "tiraḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "त्रा",
+            "slp1": "trA",
+            "iast": "trā"
+          },
+          {
+            "deva": "तिरा",
+            "slp1": "tirA",
+            "iast": "tirā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "तॄभ्याम्",
+            "slp1": "tFByAm",
+            "iast": "tṝbhyām"
+          },
+          {
+            "deva": "तीर्भ्याम्",
+            "slp1": "tIrByAm",
+            "iast": "tīrbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "तॄभिः",
+            "slp1": "tFBiH",
+            "iast": "tṝbhiḥ"
+          },
+          {
+            "deva": "तीर्भिः",
+            "slp1": "tIrBiH",
+            "iast": "tīrbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "त्रे",
+            "slp1": "tre",
+            "iast": "tre"
+          },
+          {
+            "deva": "तिरे",
+            "slp1": "tire",
+            "iast": "tire"
+          }
+        ],
+        "du": [
+          {
+            "deva": "तॄभ्याम्",
+            "slp1": "tFByAm",
+            "iast": "tṝbhyām"
+          },
+          {
+            "deva": "तीर्भ्याम्",
+            "slp1": "tIrByAm",
+            "iast": "tīrbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "तॄभ्यः",
+            "slp1": "tFByaH",
+            "iast": "tṝbhyaḥ"
+          },
+          {
+            "deva": "तीर्भ्यः",
+            "slp1": "tIrByaH",
+            "iast": "tīrbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "त्रः",
+            "slp1": "traH",
+            "iast": "traḥ"
+          },
+          {
+            "deva": "तिरः",
+            "slp1": "tiraH",
+            "iast": "tiraḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "तॄभ्याम्",
+            "slp1": "tFByAm",
+            "iast": "tṝbhyām"
+          },
+          {
+            "deva": "तीर्भ्याम्",
+            "slp1": "tIrByAm",
+            "iast": "tīrbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "तॄभ्यः",
+            "slp1": "tFByaH",
+            "iast": "tṝbhyaḥ"
+          },
+          {
+            "deva": "तीर्भ्यः",
+            "slp1": "tIrByaH",
+            "iast": "tīrbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "त्रः",
+            "slp1": "traH",
+            "iast": "traḥ"
+          },
+          {
+            "deva": "तिरः",
+            "slp1": "tiraH",
+            "iast": "tiraḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "त्रोः",
+            "slp1": "troH",
+            "iast": "troḥ"
+          },
+          {
+            "deva": "तिरोः",
+            "slp1": "tiroH",
+            "iast": "tiroḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "त्राम्",
+            "slp1": "trAm",
+            "iast": "trām"
+          },
+          {
+            "deva": "तिराम्",
+            "slp1": "tirAm",
+            "iast": "tirām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "त्रि",
+            "slp1": "tri",
+            "iast": "tri"
+          },
+          {
+            "deva": "तिरि",
+            "slp1": "tiri",
+            "iast": "tiri"
+          }
+        ],
+        "du": [
+          {
+            "deva": "त्रोः",
+            "slp1": "troH",
+            "iast": "troḥ"
+          },
+          {
+            "deva": "तिरोः",
+            "slp1": "tiroH",
+            "iast": "tiroḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "तॄषु",
+            "slp1": "tFzu",
+            "iast": "tṝṣu"
+          },
+          {
+            "deva": "तीर्षु",
+            "slp1": "tIrzu",
+            "iast": "tīrṣu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे तॄः",
+            "slp1": "he tFH",
+            "iast": "he tṝḥ"
+          },
+          {
+            "deva": "हे तीः",
+            "slp1": "he tIH",
+            "iast": "he tīḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे त्रौ",
+            "slp1": "he trO",
+            "iast": "he trau"
+          },
+          {
+            "deva": "हे तिरौ",
+            "slp1": "he tirO",
+            "iast": "he tirau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे त्रः",
+            "slp1": "he traH",
+            "iast": "he traḥ"
+          },
+          {
+            "deva": "हे तिरः",
+            "slp1": "he tiraH",
+            "iast": "he tiraḥ"
+          }
+        ]
+      }
+    }
+  }
+}

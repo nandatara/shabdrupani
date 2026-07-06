@@ -1,0 +1,228 @@
+{
+  "kamal1": {
+    "id": "kamal1",
+    "urlid": "@kamal1",
+    "zbaseindex": "42.1",
+    "word": {
+      "deva": "कमल्",
+      "slp1": "kamal",
+      "iast": "kamal",
+      "ascii": "kamal"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "कमलं कमलां वा आचष्टे",
+      "hindi": "कमल / कमला के साथ बोलनेवाला",
+      "english": "One who speaks to कमल / कमला"
+    },
+    "notes": {
+      "sk": "340",
+      "lsk": "",
+      "vyutpatti": "कमलं / कमलाम् आचष्टे",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "P"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "l",
+      "deva": "ल्",
+      "iast": "l"
+    },
+    "filterKey": "consonant:l:P",
+    "tableFile": "tables/consonant-6c.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "कमल्",
+            "slp1": "kamal",
+            "iast": "kamal"
+          }
+        ],
+        "du": [
+          {
+            "deva": "कमलौ",
+            "slp1": "kamalO",
+            "iast": "kamalau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कमलः",
+            "slp1": "kamalaH",
+            "iast": "kamalaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "कमलम्",
+            "slp1": "kamalam",
+            "iast": "kamalam"
+          }
+        ],
+        "du": [
+          {
+            "deva": "कमलौ",
+            "slp1": "kamalO",
+            "iast": "kamalau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कमलः",
+            "slp1": "kamalaH",
+            "iast": "kamalaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "कमला",
+            "slp1": "kamalA",
+            "iast": "kamalā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "कमल्भ्याम्",
+            "slp1": "kamalByAm",
+            "iast": "kamalbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कमल्भिः",
+            "slp1": "kamalBiH",
+            "iast": "kamalbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "कमले",
+            "slp1": "kamale",
+            "iast": "kamale"
+          }
+        ],
+        "du": [
+          {
+            "deva": "कमल्भ्याम्",
+            "slp1": "kamalByAm",
+            "iast": "kamalbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कमल्भ्यः",
+            "slp1": "kamalByaH",
+            "iast": "kamalbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "कमलः",
+            "slp1": "kamalaH",
+            "iast": "kamalaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "कमल्भ्याम्",
+            "slp1": "kamalByAm",
+            "iast": "kamalbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कमल्भ्यः",
+            "slp1": "kamalByaH",
+            "iast": "kamalbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "कमलः",
+            "slp1": "kamalaH",
+            "iast": "kamalaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "कमलोः",
+            "slp1": "kamaloH",
+            "iast": "kamaloḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कमलाम्",
+            "slp1": "kamalAm",
+            "iast": "kamalām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "कमलि",
+            "slp1": "kamali",
+            "iast": "kamali"
+          }
+        ],
+        "du": [
+          {
+            "deva": "कमलोः",
+            "slp1": "kamaloH",
+            "iast": "kamaloḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "कमल्षु",
+            "slp1": "kamalzu",
+            "iast": "kamalṣu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे कमल्",
+            "slp1": "he kamal",
+            "iast": "he kamal"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे कमलौ",
+            "slp1": "he kamalO",
+            "iast": "he kamalau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे कमलः",
+            "slp1": "he kamalaH",
+            "iast": "he kamalaḥ"
+          }
+        ]
+      }
+    }
+  }
+}

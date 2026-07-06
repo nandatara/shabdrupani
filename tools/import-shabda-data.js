@@ -5,7 +5,9 @@ const Translit = require("../js/transliteration.js");
 
 const ROOT = path.join(__dirname, "..");
 const inputFileName = process.argv[2] || "sample_data_shabd.txt";
-const INPUT_FILE = path.join(ROOT, "data", "raw", inputFileName);const OUTPUT_DIR = path.join(ROOT, "data", "generated");
+const INPUT_FILE = path.join(ROOT, "data", "raw", inputFileName);
+const OUTPUT_DIR = path.join(ROOT, "data", "generated");
+const TABLES_DIR = path.join(OUTPUT_DIR, "tables");
 
 const CASES = [
   { key: "1", deva: "प्रथमा", iast: "prathamā" },
@@ -136,6 +138,14 @@ function getFinalSoundSlp1(slp1) {
   return chars[chars.length - 1];
 }
 
+function tableFileForEnding(endingType, endingSlp1) {
+  const code = endingSlp1
+    ? endingSlp1.charCodeAt(0).toString(16)
+    : "unknown";
+
+  return `tables/${endingType}-${code}.json`;
+}
+
 function increment(obj, key) {
   obj[key] = (obj[key] || 0) + 1;
 }
@@ -187,6 +197,7 @@ function normalizeEntry(entry, index, seenIds, report) {
   const endingDeva = Translit.slp1ToDeva(endingSlp1);
   const endingIast = Translit.slp1ToIast(endingSlp1);
   const filterKey = `${endingType}:${endingSlp1}:${linga.code}`;
+  const tableFile = tableFileForEnding(endingType, endingSlp1);
 
   let forms;
 
@@ -235,6 +246,7 @@ function normalizeEntry(entry, index, seenIds, report) {
       iast: endingIast
     },
     filterKey,
+    tableFile,
     forms
   };
 
@@ -254,7 +266,8 @@ function normalizeEntry(entry, index, seenIds, report) {
     endingSlp1,
     endingDeva,
     endingIast,
-    filterKey
+    filterKey,
+    tableFile
   };
 
   return { tableEntry, indexEntry };
@@ -262,6 +275,7 @@ function normalizeEntry(entry, index, seenIds, report) {
 
 function main() {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+  fs.mkdirSync(TABLES_DIR, { recursive: true });
 
   const sourceText = readSourceFile();
   const source = parseSource(sourceText);
@@ -286,14 +300,17 @@ function main() {
 
   const seenIds = new Set();
   const indexEntries = [];
-  const tableEntries = {};
-
+  const tableChunks = {};
   for (let i = 0; i < source.data.length; i++) {
     const entry = source.data[i];
     const { tableEntry, indexEntry } = normalizeEntry(entry, i, seenIds, report);
 
     indexEntries.push(indexEntry);
-    tableEntries[tableEntry.id] = tableEntry;
+    if (!tableChunks[tableEntry.tableFile]) {
+        tableChunks[tableEntry.tableFile] = {};
+    }
+
+tableChunks[tableEntry.tableFile][tableEntry.id] = tableEntry;
 
     increment(report.lingaCounts, tableEntry.linga.code);
     increment(report.endingCounts, `${tableEntry.ending.type}:${tableEntry.ending.slp1}`);
@@ -328,18 +345,26 @@ function main() {
     };
   });
 
-  fs.writeFileSync(
-    path.join(OUTPUT_DIR, "shabda-index.json"),
-    JSON.stringify(indexEntries, null, 2),
-    "utf8"
-  );
+    for (const [relativeFile, chunk] of Object.entries(tableChunks)) {
+      const outputPath = path.join(OUTPUT_DIR, relativeFile);
+      fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+
+      fs.writeFileSync(
+        outputPath,
+        JSON.stringify(chunk, null, 2),
+        "utf8"
+      );
+    }
+for (const [relativeFile, chunk] of Object.entries(tableChunks)) {
+  const outputPath = path.join(OUTPUT_DIR, relativeFile);
+  fs.mkdirSync(path.dirname(outputPath), { recursive: true });
 
   fs.writeFileSync(
-    path.join(OUTPUT_DIR, "shabda-tables.json"),
-    JSON.stringify(tableEntries, null, 2),
+    outputPath,
+    JSON.stringify(chunk, null, 2),
     "utf8"
   );
-
+}
   fs.writeFileSync(
     path.join(OUTPUT_DIR, "filter-counts.json"),
     JSON.stringify(filterCounts, null, 2),
@@ -359,7 +384,7 @@ function main() {
   console.log("");
   console.log("Generated:");
   console.log("  data/generated/shabda-index.json");
-  console.log("  data/generated/shabda-tables.json");
+  console.log(`  data/generated/tables/ (${Object.keys(tableChunks).length} table chunks)`);
   console.log("  data/generated/filter-counts.json");
   console.log("  data/generated/import-report.json");
 

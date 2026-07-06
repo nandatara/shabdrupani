@@ -1,0 +1,1655 @@
+{
+  "krudh1": {
+    "id": "krudh1",
+    "urlid": "@krudh1",
+    "zbaseindex": "101.1665",
+    "word": {
+      "deva": "क्रुध्",
+      "slp1": "kruD",
+      "iast": "krudh",
+      "ascii": "krudh"
+    },
+    "linga": {
+      "code": "S",
+      "deva": "स्त्रीलिङ्ग",
+      "iast": "strīliṅga",
+      "english": "feminine"
+    },
+    "meaning": {
+      "sanskrit": "कोपः",
+      "hindi": "",
+      "english": ""
+    },
+    "notes": {
+      "sk": "",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "S"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "D",
+      "deva": "ध्",
+      "iast": "dh"
+    },
+    "filterKey": "consonant:D:S",
+    "tableFile": "tables/consonant-44.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "क्रुद्",
+            "slp1": "krud",
+            "iast": "krud"
+          },
+          {
+            "deva": "क्रुत्",
+            "slp1": "krut",
+            "iast": "krut"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रुधौ",
+            "slp1": "kruDO",
+            "iast": "krudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्रुधः",
+            "slp1": "kruDaH",
+            "iast": "krudhaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "क्रुधम्",
+            "slp1": "kruDam",
+            "iast": "krudham"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रुधौ",
+            "slp1": "kruDO",
+            "iast": "krudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्रुधः",
+            "slp1": "kruDaH",
+            "iast": "krudhaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "क्रुधा",
+            "slp1": "kruDA",
+            "iast": "krudhā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रुद्भ्याम्",
+            "slp1": "krudByAm",
+            "iast": "krudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्रुद्भिः",
+            "slp1": "krudBiH",
+            "iast": "krudbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "क्रुधे",
+            "slp1": "kruDe",
+            "iast": "krudhe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रुद्भ्याम्",
+            "slp1": "krudByAm",
+            "iast": "krudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्रुद्भ्यः",
+            "slp1": "krudByaH",
+            "iast": "krudbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "क्रुधः",
+            "slp1": "kruDaH",
+            "iast": "krudhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रुद्भ्याम्",
+            "slp1": "krudByAm",
+            "iast": "krudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्रुद्भ्यः",
+            "slp1": "krudByaH",
+            "iast": "krudbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "क्रुधः",
+            "slp1": "kruDaH",
+            "iast": "krudhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रुधोः",
+            "slp1": "kruDoH",
+            "iast": "krudhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्रुधाम्",
+            "slp1": "kruDAm",
+            "iast": "krudhām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "क्रुधि",
+            "slp1": "kruDi",
+            "iast": "krudhi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्रुधोः",
+            "slp1": "kruDoH",
+            "iast": "krudhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्रुत्सु",
+            "slp1": "krutsu",
+            "iast": "krutsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे क्रुद्",
+            "slp1": "he krud",
+            "iast": "he krud"
+          },
+          {
+            "deva": "हे क्रुत्",
+            "slp1": "he krut",
+            "iast": "he krut"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे क्रुधौ",
+            "slp1": "he kruDO",
+            "iast": "he krudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे क्रुधः",
+            "slp1": "he kruDaH",
+            "iast": "he krudhaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "kSudh1": {
+    "id": "kSudh1",
+    "urlid": "@kSudh1",
+    "zbaseindex": "67.1",
+    "word": {
+      "deva": "क्षुध्",
+      "slp1": "kzuD",
+      "iast": "kṣudh",
+      "ascii": "ksudh"
+    },
+    "linga": {
+      "code": "S",
+      "deva": "स्त्रीलिङ्ग",
+      "iast": "strīliṅga",
+      "english": "feminine"
+    },
+    "meaning": {
+      "sanskrit": "बुभुक्षा, क्षुधा",
+      "hindi": "भूख, क्षुधा",
+      "english": "Hunger"
+    },
+    "notes": {
+      "sk": "",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "S"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "D",
+      "deva": "ध्",
+      "iast": "dh"
+    },
+    "filterKey": "consonant:D:S",
+    "tableFile": "tables/consonant-44.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "क्षुद्",
+            "slp1": "kzud",
+            "iast": "kṣud"
+          },
+          {
+            "deva": "क्षुत्",
+            "slp1": "kzut",
+            "iast": "kṣut"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्षुधौ",
+            "slp1": "kzuDO",
+            "iast": "kṣudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्षुधः",
+            "slp1": "kzuDaH",
+            "iast": "kṣudhaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "क्षुधम्",
+            "slp1": "kzuDam",
+            "iast": "kṣudham"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्षुधौ",
+            "slp1": "kzuDO",
+            "iast": "kṣudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्षुधः",
+            "slp1": "kzuDaH",
+            "iast": "kṣudhaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "क्षुधा",
+            "slp1": "kzuDA",
+            "iast": "kṣudhā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्षुद्भ्याम्",
+            "slp1": "kzudByAm",
+            "iast": "kṣudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्षुद्भिः",
+            "slp1": "kzudBiH",
+            "iast": "kṣudbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "क्षुधे",
+            "slp1": "kzuDe",
+            "iast": "kṣudhe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्षुद्भ्याम्",
+            "slp1": "kzudByAm",
+            "iast": "kṣudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्षुद्भ्यः",
+            "slp1": "kzudByaH",
+            "iast": "kṣudbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "क्षुधः",
+            "slp1": "kzuDaH",
+            "iast": "kṣudhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्षुद्भ्याम्",
+            "slp1": "kzudByAm",
+            "iast": "kṣudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्षुद्भ्यः",
+            "slp1": "kzudByaH",
+            "iast": "kṣudbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "क्षुधः",
+            "slp1": "kzuDaH",
+            "iast": "kṣudhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्षुधोः",
+            "slp1": "kzuDoH",
+            "iast": "kṣudhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्षुधाम्",
+            "slp1": "kzuDAm",
+            "iast": "kṣudhām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "क्षुधि",
+            "slp1": "kzuDi",
+            "iast": "kṣudhi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "क्षुधोः",
+            "slp1": "kzuDoH",
+            "iast": "kṣudhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "क्षुत्सु",
+            "slp1": "kzutsu",
+            "iast": "kṣutsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे क्षुद्",
+            "slp1": "he kzud",
+            "iast": "he kṣud"
+          },
+          {
+            "deva": "हे क्षुत्",
+            "slp1": "he kzut",
+            "iast": "he kṣut"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे क्षुधौ",
+            "slp1": "he kzuDO",
+            "iast": "he kṣudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे क्षुधः",
+            "slp1": "he kzuDaH",
+            "iast": "he kṣudhaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "budh1": {
+    "id": "budh1",
+    "urlid": "@budh1",
+    "zbaseindex": "81.1",
+    "word": {
+      "deva": "बुध्",
+      "slp1": "buD",
+      "iast": "budh",
+      "ascii": "budh"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "बोद्धा, पण्डितः",
+      "hindi": "ज्ञानी",
+      "english": "Scholar"
+    },
+    "notes": {
+      "sk": "372",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "एकाचो_बशो_भष्": true,
+      "linga": "P"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "D",
+      "deva": "ध्",
+      "iast": "dh"
+    },
+    "filterKey": "consonant:D:P",
+    "tableFile": "tables/consonant-44.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "भुद्",
+            "slp1": "Bud",
+            "iast": "bhud"
+          },
+          {
+            "deva": "भुत्",
+            "slp1": "But",
+            "iast": "bhut"
+          }
+        ],
+        "du": [
+          {
+            "deva": "बुधौ",
+            "slp1": "buDO",
+            "iast": "budhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "बुधः",
+            "slp1": "buDaH",
+            "iast": "budhaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "बुधम्",
+            "slp1": "buDam",
+            "iast": "budham"
+          }
+        ],
+        "du": [
+          {
+            "deva": "बुधौ",
+            "slp1": "buDO",
+            "iast": "budhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "बुधः",
+            "slp1": "buDaH",
+            "iast": "budhaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "बुधा",
+            "slp1": "buDA",
+            "iast": "budhā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "भुद्भ्याम्",
+            "slp1": "BudByAm",
+            "iast": "bhudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "भुद्भिः",
+            "slp1": "BudBiH",
+            "iast": "bhudbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "बुधे",
+            "slp1": "buDe",
+            "iast": "budhe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "भुद्भ्याम्",
+            "slp1": "BudByAm",
+            "iast": "bhudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "भुद्भ्यः",
+            "slp1": "BudByaH",
+            "iast": "bhudbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "बुधः",
+            "slp1": "buDaH",
+            "iast": "budhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "भुद्भ्याम्",
+            "slp1": "BudByAm",
+            "iast": "bhudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "भुद्भ्यः",
+            "slp1": "BudByaH",
+            "iast": "bhudbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "बुधः",
+            "slp1": "buDaH",
+            "iast": "budhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "बुधोः",
+            "slp1": "buDoH",
+            "iast": "budhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "बुधाम्",
+            "slp1": "buDAm",
+            "iast": "budhām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "बुधि",
+            "slp1": "buDi",
+            "iast": "budhi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "बुधोः",
+            "slp1": "buDoH",
+            "iast": "budhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "भुत्सु",
+            "slp1": "Butsu",
+            "iast": "bhutsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे भुद्",
+            "slp1": "he Bud",
+            "iast": "he bhud"
+          },
+          {
+            "deva": "हे भुत्",
+            "slp1": "he But",
+            "iast": "he bhut"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे बुधौ",
+            "slp1": "he buDO",
+            "iast": "he budhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे बुधः",
+            "slp1": "he buDaH",
+            "iast": "he budhaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "yudh1": {
+    "id": "yudh1",
+    "urlid": "@yudh1",
+    "zbaseindex": "101.1666",
+    "word": {
+      "deva": "युध्",
+      "slp1": "yuD",
+      "iast": "yudh",
+      "ascii": "yudh"
+    },
+    "linga": {
+      "code": "S",
+      "deva": "स्त्रीलिङ्ग",
+      "iast": "strīliṅga",
+      "english": "feminine"
+    },
+    "meaning": {
+      "sanskrit": "युद्धम्",
+      "hindi": "",
+      "english": ""
+    },
+    "notes": {
+      "sk": "",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "S"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "D",
+      "deva": "ध्",
+      "iast": "dh"
+    },
+    "filterKey": "consonant:D:S",
+    "tableFile": "tables/consonant-44.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "युद्",
+            "slp1": "yud",
+            "iast": "yud"
+          },
+          {
+            "deva": "युत्",
+            "slp1": "yut",
+            "iast": "yut"
+          }
+        ],
+        "du": [
+          {
+            "deva": "युधौ",
+            "slp1": "yuDO",
+            "iast": "yudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "युधः",
+            "slp1": "yuDaH",
+            "iast": "yudhaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "युधम्",
+            "slp1": "yuDam",
+            "iast": "yudham"
+          }
+        ],
+        "du": [
+          {
+            "deva": "युधौ",
+            "slp1": "yuDO",
+            "iast": "yudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "युधः",
+            "slp1": "yuDaH",
+            "iast": "yudhaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "युधा",
+            "slp1": "yuDA",
+            "iast": "yudhā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "युद्भ्याम्",
+            "slp1": "yudByAm",
+            "iast": "yudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "युद्भिः",
+            "slp1": "yudBiH",
+            "iast": "yudbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "युधे",
+            "slp1": "yuDe",
+            "iast": "yudhe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "युद्भ्याम्",
+            "slp1": "yudByAm",
+            "iast": "yudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "युद्भ्यः",
+            "slp1": "yudByaH",
+            "iast": "yudbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "युधः",
+            "slp1": "yuDaH",
+            "iast": "yudhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "युद्भ्याम्",
+            "slp1": "yudByAm",
+            "iast": "yudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "युद्भ्यः",
+            "slp1": "yudByaH",
+            "iast": "yudbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "युधः",
+            "slp1": "yuDaH",
+            "iast": "yudhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "युधोः",
+            "slp1": "yuDoH",
+            "iast": "yudhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "युधाम्",
+            "slp1": "yuDAm",
+            "iast": "yudhām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "युधि",
+            "slp1": "yuDi",
+            "iast": "yudhi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "युधोः",
+            "slp1": "yuDoH",
+            "iast": "yudhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "युत्सु",
+            "slp1": "yutsu",
+            "iast": "yutsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे युद्",
+            "slp1": "he yud",
+            "iast": "he yud"
+          },
+          {
+            "deva": "हे युत्",
+            "slp1": "he yut",
+            "iast": "he yut"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे युधौ",
+            "slp1": "he yuDO",
+            "iast": "he yudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे युधः",
+            "slp1": "he yuDaH",
+            "iast": "he yudhaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "vIrudh1": {
+    "id": "vIrudh1",
+    "urlid": "@vIrudh1",
+    "zbaseindex": "86.1",
+    "word": {
+      "deva": "वीरुध्",
+      "slp1": "vIruD",
+      "iast": "vīrudh",
+      "ascii": "virudh"
+    },
+    "linga": {
+      "code": "S",
+      "deva": "स्त्रीलिङ्ग",
+      "iast": "strīliṅga",
+      "english": "feminine"
+    },
+    "meaning": {
+      "sanskrit": "लता, शाखादिभिर्विस्तृतवल्ली",
+      "hindi": "लता",
+      "english": "Creeper"
+    },
+    "notes": {
+      "sk": "",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "S"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "D",
+      "deva": "ध्",
+      "iast": "dh"
+    },
+    "filterKey": "consonant:D:S",
+    "tableFile": "tables/consonant-44.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "वीरुद्",
+            "slp1": "vIrud",
+            "iast": "vīrud"
+          },
+          {
+            "deva": "वीरुत्",
+            "slp1": "vIrut",
+            "iast": "vīrut"
+          }
+        ],
+        "du": [
+          {
+            "deva": "वीरुधौ",
+            "slp1": "vIruDO",
+            "iast": "vīrudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "वीरुधः",
+            "slp1": "vIruDaH",
+            "iast": "vīrudhaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "वीरुधम्",
+            "slp1": "vIruDam",
+            "iast": "vīrudham"
+          }
+        ],
+        "du": [
+          {
+            "deva": "वीरुधौ",
+            "slp1": "vIruDO",
+            "iast": "vīrudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "वीरुधः",
+            "slp1": "vIruDaH",
+            "iast": "vīrudhaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "वीरुधा",
+            "slp1": "vIruDA",
+            "iast": "vīrudhā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "वीरुद्भ्याम्",
+            "slp1": "vIrudByAm",
+            "iast": "vīrudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "वीरुद्भिः",
+            "slp1": "vIrudBiH",
+            "iast": "vīrudbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "वीरुधे",
+            "slp1": "vIruDe",
+            "iast": "vīrudhe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "वीरुद्भ्याम्",
+            "slp1": "vIrudByAm",
+            "iast": "vīrudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "वीरुद्भ्यः",
+            "slp1": "vIrudByaH",
+            "iast": "vīrudbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "वीरुधः",
+            "slp1": "vIruDaH",
+            "iast": "vīrudhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "वीरुद्भ्याम्",
+            "slp1": "vIrudByAm",
+            "iast": "vīrudbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "वीरुद्भ्यः",
+            "slp1": "vIrudByaH",
+            "iast": "vīrudbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "वीरुधः",
+            "slp1": "vIruDaH",
+            "iast": "vīrudhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "वीरुधोः",
+            "slp1": "vIruDoH",
+            "iast": "vīrudhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "वीरुधाम्",
+            "slp1": "vIruDAm",
+            "iast": "vīrudhām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "वीरुधि",
+            "slp1": "vIruDi",
+            "iast": "vīrudhi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "वीरुधोः",
+            "slp1": "vIruDoH",
+            "iast": "vīrudhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "वीरुत्सु",
+            "slp1": "vIrutsu",
+            "iast": "vīrutsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे वीरुद्",
+            "slp1": "he vIrud",
+            "iast": "he vīrud"
+          },
+          {
+            "deva": "हे वीरुत्",
+            "slp1": "he vIrut",
+            "iast": "he vīrut"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे वीरुधौ",
+            "slp1": "he vIruDO",
+            "iast": "he vīrudhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे वीरुधः",
+            "slp1": "he vIruDaH",
+            "iast": "he vīrudhaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "zvAvidh1": {
+    "id": "zvAvidh1",
+    "urlid": "@zvAvidh1",
+    "zbaseindex": "101.1664",
+    "word": {
+      "deva": "श्वाविध्",
+      "slp1": "SvAviD",
+      "iast": "śvāvidh",
+      "ascii": "svavidh"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "शल्यः",
+      "hindi": "",
+      "english": ""
+    },
+    "notes": {
+      "sk": "",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "P"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "D",
+      "deva": "ध्",
+      "iast": "dh"
+    },
+    "filterKey": "consonant:D:P",
+    "tableFile": "tables/consonant-44.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "श्वाविद्",
+            "slp1": "SvAvid",
+            "iast": "śvāvid"
+          },
+          {
+            "deva": "श्वावित्",
+            "slp1": "SvAvit",
+            "iast": "śvāvit"
+          }
+        ],
+        "du": [
+          {
+            "deva": "श्वाविधौ",
+            "slp1": "SvAviDO",
+            "iast": "śvāvidhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "श्वाविधः",
+            "slp1": "SvAviDaH",
+            "iast": "śvāvidhaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "श्वाविधम्",
+            "slp1": "SvAviDam",
+            "iast": "śvāvidham"
+          }
+        ],
+        "du": [
+          {
+            "deva": "श्वाविधौ",
+            "slp1": "SvAviDO",
+            "iast": "śvāvidhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "श्वाविधः",
+            "slp1": "SvAviDaH",
+            "iast": "śvāvidhaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "श्वाविधा",
+            "slp1": "SvAviDA",
+            "iast": "śvāvidhā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "श्वाविद्भ्याम्",
+            "slp1": "SvAvidByAm",
+            "iast": "śvāvidbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "श्वाविद्भिः",
+            "slp1": "SvAvidBiH",
+            "iast": "śvāvidbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "श्वाविधे",
+            "slp1": "SvAviDe",
+            "iast": "śvāvidhe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "श्वाविद्भ्याम्",
+            "slp1": "SvAvidByAm",
+            "iast": "śvāvidbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "श्वाविद्भ्यः",
+            "slp1": "SvAvidByaH",
+            "iast": "śvāvidbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "श्वाविधः",
+            "slp1": "SvAviDaH",
+            "iast": "śvāvidhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "श्वाविद्भ्याम्",
+            "slp1": "SvAvidByAm",
+            "iast": "śvāvidbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "श्वाविद्भ्यः",
+            "slp1": "SvAvidByaH",
+            "iast": "śvāvidbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "श्वाविधः",
+            "slp1": "SvAviDaH",
+            "iast": "śvāvidhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "श्वाविधोः",
+            "slp1": "SvAviDoH",
+            "iast": "śvāvidhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "श्वाविधाम्",
+            "slp1": "SvAviDAm",
+            "iast": "śvāvidhām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "श्वाविधि",
+            "slp1": "SvAviDi",
+            "iast": "śvāvidhi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "श्वाविधोः",
+            "slp1": "SvAviDoH",
+            "iast": "śvāvidhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "श्वावित्सु",
+            "slp1": "SvAvitsu",
+            "iast": "śvāvitsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे श्वाविद्",
+            "slp1": "he SvAvid",
+            "iast": "he śvāvid"
+          },
+          {
+            "deva": "हे श्वावित्",
+            "slp1": "he SvAvit",
+            "iast": "he śvāvit"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे श्वाविधौ",
+            "slp1": "he SvAviDO",
+            "iast": "he śvāvidhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे श्वाविधः",
+            "slp1": "he SvAviDaH",
+            "iast": "he śvāvidhaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "samidh1": {
+    "id": "samidh1",
+    "urlid": "@samidh1",
+    "zbaseindex": "86.3",
+    "word": {
+      "deva": "समिध्",
+      "slp1": "samiD",
+      "iast": "samidh",
+      "ascii": "samidh"
+    },
+    "linga": {
+      "code": "S",
+      "deva": "स्त्रीलिङ्ग",
+      "iast": "strīliṅga",
+      "english": "feminine"
+    },
+    "meaning": {
+      "sanskrit": "काष्ठम्, होमीयकाष्ठभेदः",
+      "hindi": "",
+      "english": ""
+    },
+    "notes": {
+      "sk": "",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "S"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "D",
+      "deva": "ध्",
+      "iast": "dh"
+    },
+    "filterKey": "consonant:D:S",
+    "tableFile": "tables/consonant-44.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "समिद्",
+            "slp1": "samid",
+            "iast": "samid"
+          },
+          {
+            "deva": "समित्",
+            "slp1": "samit",
+            "iast": "samit"
+          }
+        ],
+        "du": [
+          {
+            "deva": "समिधौ",
+            "slp1": "samiDO",
+            "iast": "samidhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "समिधः",
+            "slp1": "samiDaH",
+            "iast": "samidhaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "समिधम्",
+            "slp1": "samiDam",
+            "iast": "samidham"
+          }
+        ],
+        "du": [
+          {
+            "deva": "समिधौ",
+            "slp1": "samiDO",
+            "iast": "samidhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "समिधः",
+            "slp1": "samiDaH",
+            "iast": "samidhaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "समिधा",
+            "slp1": "samiDA",
+            "iast": "samidhā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "समिद्भ्याम्",
+            "slp1": "samidByAm",
+            "iast": "samidbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "समिद्भिः",
+            "slp1": "samidBiH",
+            "iast": "samidbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "समिधे",
+            "slp1": "samiDe",
+            "iast": "samidhe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "समिद्भ्याम्",
+            "slp1": "samidByAm",
+            "iast": "samidbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "समिद्भ्यः",
+            "slp1": "samidByaH",
+            "iast": "samidbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "समिधः",
+            "slp1": "samiDaH",
+            "iast": "samidhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "समिद्भ्याम्",
+            "slp1": "samidByAm",
+            "iast": "samidbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "समिद्भ्यः",
+            "slp1": "samidByaH",
+            "iast": "samidbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "समिधः",
+            "slp1": "samiDaH",
+            "iast": "samidhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "समिधोः",
+            "slp1": "samiDoH",
+            "iast": "samidhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "समिधाम्",
+            "slp1": "samiDAm",
+            "iast": "samidhām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "समिधि",
+            "slp1": "samiDi",
+            "iast": "samidhi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "समिधोः",
+            "slp1": "samiDoH",
+            "iast": "samidhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "समित्सु",
+            "slp1": "samitsu",
+            "iast": "samitsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे समिद्",
+            "slp1": "he samid",
+            "iast": "he samid"
+          },
+          {
+            "deva": "हे समित्",
+            "slp1": "he samit",
+            "iast": "he samit"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे समिधौ",
+            "slp1": "he samiDO",
+            "iast": "he samidhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे समिधः",
+            "slp1": "he samiDaH",
+            "iast": "he samidhaḥ"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,475 @@
+{
+  "kakubh1": {
+    "id": "kakubh1",
+    "urlid": "@kakubh1",
+    "zbaseindex": "69.1",
+    "word": {
+      "deva": "ककुभ्",
+      "slp1": "kakuB",
+      "iast": "kakubh",
+      "ascii": "kakubh"
+    },
+    "linga": {
+      "code": "S",
+      "deva": "स्त्रीलिङ्ग",
+      "iast": "strīliṅga",
+      "english": "feminine"
+    },
+    "meaning": {
+      "sanskrit": "दिशा, दिक्",
+      "hindi": "दिशा",
+      "english": "Direction"
+    },
+    "notes": {
+      "sk": "",
+      "lsk": "",
+      "vyutpatti": "",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "linga": "S"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "B",
+      "deva": "भ्",
+      "iast": "bh"
+    },
+    "filterKey": "consonant:B:S",
+    "tableFile": "tables/consonant-42.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "ककुब्",
+            "slp1": "kakub",
+            "iast": "kakub"
+          },
+          {
+            "deva": "ककुप्",
+            "slp1": "kakup",
+            "iast": "kakup"
+          }
+        ],
+        "du": [
+          {
+            "deva": "ककुभौ",
+            "slp1": "kakuBO",
+            "iast": "kakubhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ककुभः",
+            "slp1": "kakuBaH",
+            "iast": "kakubhaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "ककुभम्",
+            "slp1": "kakuBam",
+            "iast": "kakubham"
+          }
+        ],
+        "du": [
+          {
+            "deva": "ककुभौ",
+            "slp1": "kakuBO",
+            "iast": "kakubhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ककुभः",
+            "slp1": "kakuBaH",
+            "iast": "kakubhaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "ककुभा",
+            "slp1": "kakuBA",
+            "iast": "kakubhā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "ककुब्भ्याम्",
+            "slp1": "kakubByAm",
+            "iast": "kakubbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ककुब्भिः",
+            "slp1": "kakubBiH",
+            "iast": "kakubbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "ककुभे",
+            "slp1": "kakuBe",
+            "iast": "kakubhe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "ककुब्भ्याम्",
+            "slp1": "kakubByAm",
+            "iast": "kakubbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ककुब्भ्यः",
+            "slp1": "kakubByaH",
+            "iast": "kakubbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "ककुभः",
+            "slp1": "kakuBaH",
+            "iast": "kakubhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "ककुब्भ्याम्",
+            "slp1": "kakubByAm",
+            "iast": "kakubbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ककुब्भ्यः",
+            "slp1": "kakubByaH",
+            "iast": "kakubbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "ककुभः",
+            "slp1": "kakuBaH",
+            "iast": "kakubhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "ककुभोः",
+            "slp1": "kakuBoH",
+            "iast": "kakubhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ककुभाम्",
+            "slp1": "kakuBAm",
+            "iast": "kakubhām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "ककुभि",
+            "slp1": "kakuBi",
+            "iast": "kakubhi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "ककुभोः",
+            "slp1": "kakuBoH",
+            "iast": "kakubhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "ककुप्सु",
+            "slp1": "kakupsu",
+            "iast": "kakupsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे ककुब्",
+            "slp1": "he kakub",
+            "iast": "he kakub"
+          },
+          {
+            "deva": "हे ककुप्",
+            "slp1": "he kakup",
+            "iast": "he kakup"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे ककुभौ",
+            "slp1": "he kakuBO",
+            "iast": "he kakubhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे ककुभः",
+            "slp1": "he kakuBaH",
+            "iast": "he kakubhaḥ"
+          }
+        ]
+      }
+    }
+  },
+  "gardabh1": {
+    "id": "gardabh1",
+    "urlid": "@gardabh1",
+    "zbaseindex": "84.1",
+    "word": {
+      "deva": "गर्दभ्",
+      "slp1": "gardaB",
+      "iast": "gardabh",
+      "ascii": "gardabh"
+    },
+    "linga": {
+      "code": "P",
+      "deva": "पुंलिङ्ग",
+      "iast": "puṃliṅga",
+      "english": "masculine"
+    },
+    "meaning": {
+      "sanskrit": "गर्दभम् आचष्टे सः",
+      "hindi": "गधे को बुलानेवाला",
+      "english": "One who calls a donkey"
+    },
+    "notes": {
+      "sk": "326",
+      "lsk": "",
+      "vyutpatti": "गर्दभम् आचष्टे इति गर्दभयति । तत्करोति तदाचष्टे इति णिच् । ततः 'गर्दभयति इति' अस्मिन् अर्थे गर्दभ-धातोः क्विप् । अकारस्य <<अतो लोपः>> [[6.4.48]] इति लोपे 'गर्दभ्' इति भकारान्तम् प्रातिपदिकं सिद्ध्यति ।",
+      "shabda_notes": "",
+      "info": ""
+    },
+    "prakriya_options": {
+      "एकाचो_बशो_भष्": true,
+      "linga": "P"
+    },
+    "ending": {
+      "type": "consonant",
+      "slp1": "B",
+      "deva": "भ्",
+      "iast": "bh"
+    },
+    "filterKey": "consonant:B:P",
+    "tableFile": "tables/consonant-42.json",
+    "forms": {
+      "1": {
+        "sg": [
+          {
+            "deva": "गर्धब्",
+            "slp1": "garDab",
+            "iast": "gardhab"
+          },
+          {
+            "deva": "गर्धप्",
+            "slp1": "garDap",
+            "iast": "gardhap"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गर्दभौ",
+            "slp1": "gardaBO",
+            "iast": "gardabhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गर्दभः",
+            "slp1": "gardaBaH",
+            "iast": "gardabhaḥ"
+          }
+        ]
+      },
+      "2": {
+        "sg": [
+          {
+            "deva": "गर्दभम्",
+            "slp1": "gardaBam",
+            "iast": "gardabham"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गर्दभौ",
+            "slp1": "gardaBO",
+            "iast": "gardabhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गर्दभः",
+            "slp1": "gardaBaH",
+            "iast": "gardabhaḥ"
+          }
+        ]
+      },
+      "3": {
+        "sg": [
+          {
+            "deva": "गर्दभा",
+            "slp1": "gardaBA",
+            "iast": "gardabhā"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गर्धब्भ्याम्",
+            "slp1": "garDabByAm",
+            "iast": "gardhabbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गर्धब्भिः",
+            "slp1": "garDabBiH",
+            "iast": "gardhabbhiḥ"
+          }
+        ]
+      },
+      "4": {
+        "sg": [
+          {
+            "deva": "गर्दभे",
+            "slp1": "gardaBe",
+            "iast": "gardabhe"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गर्धब्भ्याम्",
+            "slp1": "garDabByAm",
+            "iast": "gardhabbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गर्धब्भ्यः",
+            "slp1": "garDabByaH",
+            "iast": "gardhabbhyaḥ"
+          }
+        ]
+      },
+      "5": {
+        "sg": [
+          {
+            "deva": "गर्दभः",
+            "slp1": "gardaBaH",
+            "iast": "gardabhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गर्धब्भ्याम्",
+            "slp1": "garDabByAm",
+            "iast": "gardhabbhyām"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गर्धब्भ्यः",
+            "slp1": "garDabByaH",
+            "iast": "gardhabbhyaḥ"
+          }
+        ]
+      },
+      "6": {
+        "sg": [
+          {
+            "deva": "गर्दभः",
+            "slp1": "gardaBaH",
+            "iast": "gardabhaḥ"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गर्दभोः",
+            "slp1": "gardaBoH",
+            "iast": "gardabhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गर्दभाम्",
+            "slp1": "gardaBAm",
+            "iast": "gardabhām"
+          }
+        ]
+      },
+      "7": {
+        "sg": [
+          {
+            "deva": "गर्दभि",
+            "slp1": "gardaBi",
+            "iast": "gardabhi"
+          }
+        ],
+        "du": [
+          {
+            "deva": "गर्दभोः",
+            "slp1": "gardaBoH",
+            "iast": "gardabhoḥ"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "गर्धप्सु",
+            "slp1": "garDapsu",
+            "iast": "gardhapsu"
+          }
+        ]
+      },
+      "8": {
+        "sg": [
+          {
+            "deva": "हे गर्धब्",
+            "slp1": "he garDab",
+            "iast": "he gardhab"
+          },
+          {
+            "deva": "हे गर्धप्",
+            "slp1": "he garDap",
+            "iast": "he gardhap"
+          }
+        ],
+        "du": [
+          {
+            "deva": "हे गर्दभौ",
+            "slp1": "he gardaBO",
+            "iast": "he gardabhau"
+          }
+        ],
+        "pl": [
+          {
+            "deva": "हे गर्दभः",
+            "slp1": "he gardaBaH",
+            "iast": "he gardabhaḥ"
+          }
+        ]
+      }
+    }
+  }
+}
