@@ -195,7 +195,79 @@
     `;
   }
 
-  global.ShabdaTableRenderer = {
-    renderTable
-  };
+function formToCopyText(form, displayMode) {
+  if (displayMode === "deva") {
+    return form.deva;
+  }
+
+  if (displayMode === "iast") {
+    return form.iast;
+  }
+
+  if (displayMode === "slp1") {
+    return form.slp1;
+  }
+
+  return `${form.deva} (${form.iast})`;
+}
+
+function formCellToCopyText(forms, displayMode) {
+  if (!forms || forms.length === 0) {
+    return "—";
+  }
+
+  return forms
+    .map(form => formToCopyText(form, displayMode))
+    .join(" / ");
+}
+
+function buildCopyText(entry, displayMode = "deva-iast") {
+  if (!entry || !entry.forms) {
+    return "";
+  }
+
+  const lines = [];
+
+  lines.push("Shabdrupāṇi");
+  lines.push(`Stem\t${entry.word.deva}`);
+  lines.push(`IAST\t${entry.word.iast}`);
+  lines.push(`SLP1\t${entry.word.slp1}`);
+  lines.push(`Gender\t${entry.linga.deva} / ${entry.linga.english}`);
+  lines.push(`Ending\t${entry.ending.deva} / ${entry.ending.iast}`);
+  lines.push(`Source\t${entry.zbaseindex || entry.urlid || ""}`);
+
+  const meanings = [
+    entry.meaning?.english,
+    entry.meaning?.hindi,
+    entry.meaning?.sanskrit
+  ].filter(Boolean);
+
+  if (meanings.length) {
+    lines.push(`Meaning\t${meanings.join(" | ")}`);
+  }
+
+  lines.push("");
+  lines.push(["विभक्ति", "एकवचन", "द्विवचन", "बहुवचन"].join("\t"));
+
+  for (const [caseKey, caseDeva, caseIast] of CASES) {
+    const row = [
+      `${caseDeva} (${caseIast})`,
+      formCellToCopyText(entry.forms[caseKey]?.sg, displayMode),
+      formCellToCopyText(entry.forms[caseKey]?.du, displayMode),
+      formCellToCopyText(entry.forms[caseKey]?.pl, displayMode)
+    ];
+
+    lines.push(row.join("\t"));
+  }
+
+  lines.push("");
+  lines.push("Generated from Shabdrupāṇi");
+
+  return lines.join("\n");
+}
+
+global.ShabdaTableRenderer = {
+  renderTable,
+  buildCopyText
+};
 })(window);

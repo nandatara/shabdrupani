@@ -337,3 +337,31 @@
     align-items: flex-start;
   }
 }
+
+.table-action-buttons {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+.copy-button {
+  border: 1px solid var(--border-strong);
+  background: white;
+  color: var(--primary);
+  border-radius: 999px;
+  padding: 8px 14px;
+  font-weight: 900;
+}
+
+.copy-button:hover {
+  background: var(--accent-soft);
+  border-color: var(--accent-line);
+  color: var(--primary-deep);
+}
+
+@media (max-width: 760px) {
+  .table-action-buttons {
+    justify-content: flex-start;
+  }
+}

@@ -18,6 +18,7 @@
     recentList: document.getElementById("recentList"),
     clearRecentBtn: document.getElementById("clearRecentBtn"),
     tableOutput: document.getElementById("tableOutput"),
+    copyTableBtn: document.getElementById("copyTableBtn"),
     printTableBtn: document.getElementById("printTableBtn")
   };
 
@@ -57,59 +58,85 @@
     }
   }
 
-  function bindEvents() {
-    els.searchInput.addEventListener("input", () => {
-      state.query = els.searchInput.value.trim();
-      updateResults();
-    });
+function bindEvents() {
+  els.searchInput.addEventListener("input", () => {
+    state.query = els.searchInput.value.trim();
+    updateResults();
+  });
 
-    els.clearFilterBtn.addEventListener("click", () => {
-      state.activeEndingKey = null;
-      state.activeFilterKey = null;
-      renderFilters();
-      updateResults();
-    });
+  els.clearFilterBtn.addEventListener("click", () => {
+    state.activeEndingKey = null;
+    state.activeFilterKey = null;
+    renderFilters();
+    updateResults();
+  });
 
-    els.clearRecentBtn.addEventListener("click", () => {
-      state.recentIds = [];
-      saveRecentIds();
-      renderRecent();
-    });
-    
-    els.printTableBtn.addEventListener("click", () => {
-  if (!state.selectedId) {
-    alert("Please select a stem before printing.");
+  els.clearRecentBtn.addEventListener("click", () => {
+    state.recentIds = [];
+    saveRecentIds();
+    renderRecent();
+  });
+
+  els.printTableBtn.addEventListener("click", () => {
+    if (!state.selectedId) {
+      alert("Please select a stem before printing.");
+      return;
+    }
+
+    window.print();
+  });
+
+els.copyTableBtn.addEventListener("click", () => {
+  console.log("Copy table clicked.");
+
+  if (!state.selectedId || !state.selectedEntry) {
+    alert("Please select a stem before copying.");
     return;
   }
 
-  window.print();
-});
+  try {
+    const text = ShabdaTableRenderer.buildCopyText(
+      state.selectedEntry,
+      state.displayMode
+    );
 
-    document.querySelectorAll("[data-display-mode]").forEach(button => {
-      button.addEventListener("click", () => {
-        state.displayMode = button.dataset.displayMode;
+    copyTextToClipboard(text);
 
-        document.querySelectorAll("[data-display-mode]").forEach(btn => {
-          btn.classList.toggle("active", btn.dataset.displayMode === state.displayMode);
-        });
+    const oldText = els.copyTableBtn.textContent;
+    els.copyTableBtn.textContent = "Copied!";
 
-        if (state.selectedId) {
-          loadTableEntry(state.selectedId).then(entry => {
-            els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(
-              entry,
-              state.displayMode
-            );
-          }).catch(error => {
-            console.error(error);
-            els.tableOutput.innerHTML = `
-              <div class="empty-table">Could not reload this declension table.</div>
-            `;
-          });
-        }
-      });
-    });
+    setTimeout(() => {
+      els.copyTableBtn.textContent = oldText;
+    }, 1200);
+  } catch (error) {
+    console.error(error);
+    alert("Could not copy this table.");
   }
+}); 
+ document.querySelectorAll("[data-display-mode]").forEach(button => {
+    button.addEventListener("click", () => {
+      state.displayMode = button.dataset.displayMode;
 
+      document.querySelectorAll("[data-display-mode]").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.displayMode === state.displayMode);
+      });
+
+      if (state.selectedId) {
+        loadTableEntry(state.selectedId).then(entry => {
+          els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(
+            entry,
+            state.displayMode
+          );
+        }).catch(error => {
+          console.error(error);
+          els.tableOutput.innerHTML = `
+            <div class="empty-table">Could not reload this declension table.</div>
+          `;
+        });
+      }
+    });
+  });
+}  
   function loadRecentIds() {
     try {
       const raw = localStorage.getItem(RECENT_STORAGE_KEY);
@@ -194,7 +221,7 @@
     });
   }
 
-function renderFilters() {
+  function renderFilters() {
   const activeFullFilter = state.filters.find(f => f.key === state.activeFilterKey);
   const endingGroups = ShabdaFilters.getEndingGroups(state.filters);
   const endingSections = ShabdaFilters.getEndingSections(state.filters);
@@ -364,7 +391,31 @@ function renderFilters() {
       });
     });
   }
+    
+  function copyTextToClipboard(text) {
+  const textarea = document.createElement("textarea");
 
+  textarea.value = text;
+  textarea.setAttribute("readonly", "");
+  textarea.style.position = "fixed";
+  textarea.style.left = "-9999px";
+  textarea.style.top = "0";
+  textarea.style.opacity = "0";
+
+  document.body.appendChild(textarea);
+
+  textarea.focus();
+  textarea.select();
+  textarea.setSelectionRange(0, textarea.value.length);
+
+  const ok = document.execCommand("copy");
+
+  document.body.removeChild(textarea);
+
+  if (!ok) {
+    throw new Error("Fallback copy failed.");
+  }
+}  
   async function selectEntry(id) {
     state.selectedId = id;
 
@@ -374,11 +425,12 @@ function renderFilters() {
 
     try {
       const entry = await loadTableEntry(id);
+        state.selectedEntry = entry;
 
-      els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(
-        entry,
-        state.displayMode
-      );
+        els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(
+          entry,
+          state.displayMode
+        );
 
       addRecentId(id);
       renderRecent();
