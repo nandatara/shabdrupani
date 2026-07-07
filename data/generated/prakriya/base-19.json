@@ -1,0 +1,1275 @@
+{
+  "19.001_1_1_DenuH_1618": {
+    "id": "19.001_1_1_DenuH_1618",
+    "key": "19.1|1|1|DenuH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनुः",
+      "slp1": "DenuH",
+      "iast": "dhenuḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनुस्",
+        "slp1": "Denus",
+        "iast": "dhenus",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धेनुरुँ",
+        "slp1": "Denuru~",
+        "iast": "dhenurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेनुः",
+        "slp1": "DenuH",
+        "iast": "dhenuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_1_2_DenU_1619": {
+    "id": "19.001_1_2_DenU_1619",
+    "key": "19.1|1|2|DenU",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनू",
+      "slp1": "DenU",
+      "iast": "dhenū"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनू",
+        "slp1": "DenU",
+        "iast": "dhenū",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "19.001_1_3_DenavaH_1620": {
+    "id": "19.001_1_3_DenavaH_1620",
+    "key": "19.1|1|3|DenavaH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनवः",
+      "slp1": "DenavaH",
+      "iast": "dhenavaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनो+अस्",
+        "slp1": "Deno+as",
+        "iast": "dheno+as",
+        "sutras": [
+          "7.3.109"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनवस्",
+        "slp1": "Denavas",
+        "iast": "dhenavas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेनवरुँ",
+        "slp1": "Denavaru~",
+        "iast": "dhenavarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धेनवः",
+        "slp1": "DenavaH",
+        "iast": "dhenavaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_2_1_Denum_1621": {
+    "id": "19.001_2_1_Denum_1621",
+    "key": "19.1|2|1|Denum",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनुम्",
+      "slp1": "Denum",
+      "iast": "dhenum"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनुम्",
+        "slp1": "Denum",
+        "iast": "dhenum",
+        "sutras": [
+          "6.1.107"
+        ]
+      }
+    ]
+  },
+  "19.001_2_2_DenU_1622": {
+    "id": "19.001_2_2_DenU_1622",
+    "key": "19.1|2|2|DenU",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनू",
+      "slp1": "DenU",
+      "iast": "dhenū"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनू",
+        "slp1": "DenU",
+        "iast": "dhenū",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "19.001_2_3_DenUH_1623": {
+    "id": "19.001_2_3_DenUH_1623",
+    "key": "19.1|2|3|DenUH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनूः",
+      "slp1": "DenUH",
+      "iast": "dhenūḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनूस्",
+        "slp1": "DenUs",
+        "iast": "dhenūs",
+        "sutras": [
+          "6.1.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनूरुँ",
+        "slp1": "DenUru~",
+        "iast": "dhenūrum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेनूः",
+        "slp1": "DenUH",
+        "iast": "dhenūḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_3_1_DenvA_1624": {
+    "id": "19.001_3_1_DenvA_1624",
+    "key": "19.1|3|1|DenvA",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेन्वा",
+      "slp1": "DenvA",
+      "iast": "dhenvā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेन्वा",
+        "slp1": "DenvA",
+        "iast": "dhenvā",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "19.001_3_2_DenuByAm_1625": {
+    "id": "19.001_3_2_DenuByAm_1625",
+    "key": "19.1|3|2|DenuByAm",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनुभ्याम्",
+      "slp1": "DenuByAm",
+      "iast": "dhenubhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनुभ्याम्",
+        "slp1": "DenuByAm",
+        "iast": "dhenubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "19.001_3_3_DenuBiH_1626": {
+    "id": "19.001_3_3_DenuBiH_1626",
+    "key": "19.1|3|3|DenuBiH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनुभिः",
+      "slp1": "DenuBiH",
+      "iast": "dhenubhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनुभिस्",
+        "slp1": "DenuBis",
+        "iast": "dhenubhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धेनुभिरुँ",
+        "slp1": "DenuBiru~",
+        "iast": "dhenubhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेनुभिः",
+        "slp1": "DenuBiH",
+        "iast": "dhenubhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_4_1_Denave_1627": {
+    "id": "19.001_4_1_Denave_1627",
+    "key": "19.1|4|1|Denave",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनवे",
+      "slp1": "Denave",
+      "iast": "dhenave"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनो+ए",
+        "slp1": "Deno+e",
+        "iast": "dheno+e",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनवे",
+        "slp1": "Denave",
+        "iast": "dhenave",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "19.001_4_1_DenvE_1628": {
+    "id": "19.001_4_1_DenvE_1628",
+    "key": "19.1|4|1|DenvE",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेन्वै",
+      "slp1": "DenvE",
+      "iast": "dhenvai"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनु+आ+ए",
+        "slp1": "Denu+A+e",
+        "iast": "dhenu+ā+e",
+        "sutras": [
+          "1.4.6",
+          "7.3.112"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनु+ऐ",
+        "slp1": "Denu+E",
+        "iast": "dhenu+ai",
+        "sutras": [
+          "6.1.90"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेन्वै",
+        "slp1": "DenvE",
+        "iast": "dhenvai",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "19.001_4_2_DenuByAm_1629": {
+    "id": "19.001_4_2_DenuByAm_1629",
+    "key": "19.1|4|2|DenuByAm",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनुभ्याम्",
+      "slp1": "DenuByAm",
+      "iast": "dhenubhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनुभ्याम्",
+        "slp1": "DenuByAm",
+        "iast": "dhenubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "19.001_4_3_DenuByaH_1630": {
+    "id": "19.001_4_3_DenuByaH_1630",
+    "key": "19.1|4|3|DenuByaH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनुभ्यः",
+      "slp1": "DenuByaH",
+      "iast": "dhenubhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनुभ्यस्",
+        "slp1": "DenuByas",
+        "iast": "dhenubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धेनुभ्यरुँ",
+        "slp1": "DenuByaru~",
+        "iast": "dhenubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेनुभ्यः",
+        "slp1": "DenuByaH",
+        "iast": "dhenubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_5_1_DenoH_1631": {
+    "id": "19.001_5_1_DenoH_1631",
+    "key": "19.1|5|1|DenoH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनोः",
+      "slp1": "DenoH",
+      "iast": "dhenoḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनो+अस्",
+        "slp1": "Deno+as",
+        "iast": "dheno+as",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनोस्",
+        "slp1": "Denos",
+        "iast": "dhenos",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेनोरुँ",
+        "slp1": "Denoru~",
+        "iast": "dhenorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धेनोः",
+        "slp1": "DenoH",
+        "iast": "dhenoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_5_1_DenvAH_1632": {
+    "id": "19.001_5_1_DenvAH_1632",
+    "key": "19.1|5|1|DenvAH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेन्वाः",
+      "slp1": "DenvAH",
+      "iast": "dhenvāḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनु+आ+अस्",
+        "slp1": "Denu+A+as",
+        "iast": "dhenu+ā+as",
+        "sutras": [
+          "1.4.6",
+          "7.3.112"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनु+आस्",
+        "slp1": "Denu+As",
+        "iast": "dhenu+ās",
+        "sutras": [
+          "6.1.90"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेन्वास्",
+        "slp1": "DenvAs",
+        "iast": "dhenvās",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धेन्वारुँ",
+        "slp1": "DenvAru~",
+        "iast": "dhenvārum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "धेन्वाः",
+        "slp1": "DenvAH",
+        "iast": "dhenvāḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_5_2_DenuByAm_1633": {
+    "id": "19.001_5_2_DenuByAm_1633",
+    "key": "19.1|5|2|DenuByAm",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनुभ्याम्",
+      "slp1": "DenuByAm",
+      "iast": "dhenubhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनुभ्याम्",
+        "slp1": "DenuByAm",
+        "iast": "dhenubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "19.001_5_3_DenuByaH_1634": {
+    "id": "19.001_5_3_DenuByaH_1634",
+    "key": "19.1|5|3|DenuByaH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनुभ्यः",
+      "slp1": "DenuByaH",
+      "iast": "dhenubhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनुभ्यस्",
+        "slp1": "DenuByas",
+        "iast": "dhenubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धेनुभ्यरुँ",
+        "slp1": "DenuByaru~",
+        "iast": "dhenubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेनुभ्यः",
+        "slp1": "DenuByaH",
+        "iast": "dhenubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_6_1_DenoH_1635": {
+    "id": "19.001_6_1_DenoH_1635",
+    "key": "19.1|6|1|DenoH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनोः",
+      "slp1": "DenoH",
+      "iast": "dhenoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनो+अस्",
+        "slp1": "Deno+as",
+        "iast": "dheno+as",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनोस्",
+        "slp1": "Denos",
+        "iast": "dhenos",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेनोरुँ",
+        "slp1": "Denoru~",
+        "iast": "dhenorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धेनोः",
+        "slp1": "DenoH",
+        "iast": "dhenoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_6_1_DenvAH_1636": {
+    "id": "19.001_6_1_DenvAH_1636",
+    "key": "19.1|6|1|DenvAH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेन्वाः",
+      "slp1": "DenvAH",
+      "iast": "dhenvāḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनु+आ+अस्",
+        "slp1": "Denu+A+as",
+        "iast": "dhenu+ā+as",
+        "sutras": [
+          "1.4.6",
+          "7.3.112"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनु+आस्",
+        "slp1": "Denu+As",
+        "iast": "dhenu+ās",
+        "sutras": [
+          "6.1.90"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेन्वास्",
+        "slp1": "DenvAs",
+        "iast": "dhenvās",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धेन्वारुँ",
+        "slp1": "DenvAru~",
+        "iast": "dhenvārum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "धेन्वाः",
+        "slp1": "DenvAH",
+        "iast": "dhenvāḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_6_2_DenvoH_1637": {
+    "id": "19.001_6_2_DenvoH_1637",
+    "key": "19.1|6|2|DenvoH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेन्वोः",
+      "slp1": "DenvoH",
+      "iast": "dhenvoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेन्वोस्",
+        "slp1": "Denvos",
+        "iast": "dhenvos",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेन्वोरुँ",
+        "slp1": "Denvoru~",
+        "iast": "dhenvorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेन्वोः",
+        "slp1": "DenvoH",
+        "iast": "dhenvoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_6_3_DenUnAm_1638": {
+    "id": "19.001_6_3_DenUnAm_1638",
+    "key": "19.1|6|3|DenUnAm",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनूनाम्",
+      "slp1": "DenUnAm",
+      "iast": "dhenūnām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनु+न्+आम्",
+        "slp1": "Denu+n+Am",
+        "iast": "dhenu+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनूनाम्",
+        "slp1": "DenUnAm",
+        "iast": "dhenūnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      }
+    ]
+  },
+  "19.001_7_1_DenO_1639": {
+    "id": "19.001_7_1_DenO_1639",
+    "key": "19.1|7|1|DenO",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनौ",
+      "slp1": "DenO",
+      "iast": "dhenau"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेन+औ",
+        "slp1": "Dena+O",
+        "iast": "dhena+au",
+        "sutras": [
+          "7.3.119"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनौ",
+        "slp1": "DenO",
+        "iast": "dhenau",
+        "sutras": [
+          "6.1.88"
+        ]
+      }
+    ]
+  },
+  "19.001_7_1_DenvAm_1640": {
+    "id": "19.001_7_1_DenvAm_1640",
+    "key": "19.1|7|1|DenvAm",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेन्वाम्",
+      "slp1": "DenvAm",
+      "iast": "dhenvām"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनु+आम्",
+        "slp1": "Denu+Am",
+        "iast": "dhenu+ām",
+        "sutras": [
+          "1.4.6",
+          "7.3.117"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनु+आ+आम्",
+        "slp1": "Denu+A+Am",
+        "iast": "dhenu+ā+ām",
+        "sutras": [
+          "7.3.112"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेनु+आम्",
+        "slp1": "Denu+Am",
+        "iast": "dhenu+ām",
+        "sutras": [
+          "6.1.90"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धेन्वाम्",
+        "slp1": "DenvAm",
+        "iast": "dhenvām",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "19.001_7_2_DenvoH_1641": {
+    "id": "19.001_7_2_DenvoH_1641",
+    "key": "19.1|7|2|DenvoH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेन्वोः",
+      "slp1": "DenvoH",
+      "iast": "dhenvoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेन्वोस्",
+        "slp1": "Denvos",
+        "iast": "dhenvos",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेन्वोरुँ",
+        "slp1": "Denvoru~",
+        "iast": "dhenvorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेन्वोः",
+        "slp1": "DenvoH",
+        "iast": "dhenvoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "19.001_7_3_Denuzu_1642": {
+    "id": "19.001_7_3_Denuzu_1642",
+    "key": "19.1|7|3|Denuzu",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "धेनुषु",
+      "slp1": "Denuzu",
+      "iast": "dhenuṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनुषु",
+        "slp1": "Denuzu",
+        "iast": "dhenuṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "19.001_8_1_he Deno_1643": {
+    "id": "19.001_8_1_he Deno_1643",
+    "key": "19.1|8|1|he Deno",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "हे धेनो",
+      "slp1": "he Deno",
+      "iast": "he dheno"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनो+स्",
+        "slp1": "Deno+s",
+        "iast": "dheno+s",
+        "sutras": [
+          "7.3.108"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे धेनो",
+        "slp1": "he Deno",
+        "iast": "he dheno",
+        "sutras": [
+          "6.1.69"
+        ]
+      }
+    ]
+  },
+  "19.001_8_2_he DenU_1644": {
+    "id": "19.001_8_2_he DenU_1644",
+    "key": "19.1|8|2|he DenU",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "हे धेनू",
+      "slp1": "he DenU",
+      "iast": "he dhenū"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे धेनू",
+        "slp1": "he DenU",
+        "iast": "he dhenū",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "19.001_8_3_he DenavaH_1645": {
+    "id": "19.001_8_3_he DenavaH_1645",
+    "key": "19.1|8|3|he DenavaH",
+    "baseindex": {
+      "raw": "19.001",
+      "normalized": "19.1"
+    },
+    "word": {
+      "deva": "धेनु",
+      "slp1": "Denu",
+      "iast": "dhenu"
+    },
+    "form": {
+      "deva": "हे धेनवः",
+      "slp1": "he DenavaH",
+      "iast": "he dhenavaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-19.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धेनो+अस्",
+        "slp1": "Deno+as",
+        "iast": "dheno+as",
+        "sutras": [
+          "7.3.109"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धेनवस्",
+        "slp1": "Denavas",
+        "iast": "dhenavas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धेनवरुँ",
+        "slp1": "Denavaru~",
+        "iast": "dhenavarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हे धेनवः",
+        "slp1": "he DenavaH",
+        "iast": "he dhenavaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

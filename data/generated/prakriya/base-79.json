@@ -1,0 +1,1135 @@
+{
+  "79.001_1_1_DanuH_4772": {
+    "id": "79.001_1_1_DanuH_4772",
+    "key": "79.1|1|1|DanuH",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुः",
+      "slp1": "DanuH",
+      "iast": "dhanuḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुष्",
+        "slp1": "Danuz",
+        "iast": "dhanuṣ",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुरुँ",
+        "slp1": "Danuru~",
+        "iast": "dhanurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुः",
+        "slp1": "DanuH",
+        "iast": "dhanuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "79.001_1_2_DanuzI_4773": {
+    "id": "79.001_1_2_DanuzI_4773",
+    "key": "79.1|1|2|DanuzI",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुषी",
+      "slp1": "DanuzI",
+      "iast": "dhanuṣī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुषी",
+        "slp1": "DanuzI",
+        "iast": "dhanuṣī",
+        "sutras": [
+          "7.1.19"
+        ]
+      }
+    ]
+  },
+  "79.001_1_3_DanUMzi_4774": {
+    "id": "79.001_1_3_DanUMzi_4774",
+    "key": "79.1|1|3|DanUMzi",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनूंषि",
+      "slp1": "DanUMzi",
+      "iast": "dhanūṃṣi"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुष्+इ",
+        "slp1": "Danuz+i",
+        "iast": "dhanuṣ+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुन्षि",
+        "slp1": "Danunzi",
+        "iast": "dhanunṣi",
+        "sutras": [
+          "7.1.72"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनून्सि",
+        "slp1": "DanUnsi",
+        "iast": "dhanūnsi",
+        "sutras": [
+          "6.4.10"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धनूंसि",
+        "slp1": "DanUMsi",
+        "iast": "dhanūṃsi",
+        "sutras": [
+          "8.3.24"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "धनूंषि",
+        "slp1": "DanUMzi",
+        "iast": "dhanūṃṣi",
+        "sutras": [
+          "8.3.58"
+        ]
+      }
+    ]
+  },
+  "79.001_2_1_DanuH_4775": {
+    "id": "79.001_2_1_DanuH_4775",
+    "key": "79.1|2|1|DanuH",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुः",
+      "slp1": "DanuH",
+      "iast": "dhanuḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुष्",
+        "slp1": "Danuz",
+        "iast": "dhanuṣ",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुरुँ",
+        "slp1": "Danuru~",
+        "iast": "dhanurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुः",
+        "slp1": "DanuH",
+        "iast": "dhanuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "79.001_2_2_DanuzI_4776": {
+    "id": "79.001_2_2_DanuzI_4776",
+    "key": "79.1|2|2|DanuzI",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुषी",
+      "slp1": "DanuzI",
+      "iast": "dhanuṣī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुषी",
+        "slp1": "DanuzI",
+        "iast": "dhanuṣī",
+        "sutras": [
+          "7.1.19"
+        ]
+      }
+    ]
+  },
+  "79.001_2_3_DanUMzi_4777": {
+    "id": "79.001_2_3_DanUMzi_4777",
+    "key": "79.1|2|3|DanUMzi",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनूंषि",
+      "slp1": "DanUMzi",
+      "iast": "dhanūṃṣi"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुष्+इ",
+        "slp1": "Danuz+i",
+        "iast": "dhanuṣ+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुन्षि",
+        "slp1": "Danunzi",
+        "iast": "dhanunṣi",
+        "sutras": [
+          "7.1.72"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनून्सि",
+        "slp1": "DanUnsi",
+        "iast": "dhanūnsi",
+        "sutras": [
+          "6.4.10"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धनूंसि",
+        "slp1": "DanUMsi",
+        "iast": "dhanūṃsi",
+        "sutras": [
+          "8.3.24"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "धनूंषि",
+        "slp1": "DanUMzi",
+        "iast": "dhanūṃṣi",
+        "sutras": [
+          "8.3.58"
+        ]
+      }
+    ]
+  },
+  "79.001_3_1_DanuzA_4778": {
+    "id": "79.001_3_1_DanuzA_4778",
+    "key": "79.1|3|1|DanuzA",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुषा",
+      "slp1": "DanuzA",
+      "iast": "dhanuṣā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुषा",
+        "slp1": "DanuzA",
+        "iast": "dhanuṣā",
+        "sutras": []
+      }
+    ]
+  },
+  "79.001_3_2_DanurByAm_4779": {
+    "id": "79.001_3_2_DanurByAm_4779",
+    "key": "79.1|3|2|DanurByAm",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुर्भ्याम्",
+      "slp1": "DanurByAm",
+      "iast": "dhanurbhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुर्भ्याम्",
+        "slp1": "DanurByAm",
+        "iast": "dhanurbhyām",
+        "sutras": [
+          "8.2.66"
+        ]
+      }
+    ]
+  },
+  "79.001_3_3_DanurBiH_4780": {
+    "id": "79.001_3_3_DanurBiH_4780",
+    "key": "79.1|3|3|DanurBiH",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुर्भिः",
+      "slp1": "DanurBiH",
+      "iast": "dhanurbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुर्भिस्",
+        "slp1": "DanurBis",
+        "iast": "dhanurbhis",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुर्भिरुँ",
+        "slp1": "DanurBiru~",
+        "iast": "dhanurbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुर्भिः",
+        "slp1": "DanurBiH",
+        "iast": "dhanurbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "79.001_4_1_Danuze_4781": {
+    "id": "79.001_4_1_Danuze_4781",
+    "key": "79.1|4|1|Danuze",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुषे",
+      "slp1": "Danuze",
+      "iast": "dhanuṣe"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुषे",
+        "slp1": "Danuze",
+        "iast": "dhanuṣe",
+        "sutras": []
+      }
+    ]
+  },
+  "79.001_4_2_DanurByAm_4782": {
+    "id": "79.001_4_2_DanurByAm_4782",
+    "key": "79.1|4|2|DanurByAm",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुर्भ्याम्",
+      "slp1": "DanurByAm",
+      "iast": "dhanurbhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुर्भ्याम्",
+        "slp1": "DanurByAm",
+        "iast": "dhanurbhyām",
+        "sutras": [
+          "8.2.66"
+        ]
+      }
+    ]
+  },
+  "79.001_4_3_DanurByaH_4783": {
+    "id": "79.001_4_3_DanurByaH_4783",
+    "key": "79.1|4|3|DanurByaH",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुर्भ्यः",
+      "slp1": "DanurByaH",
+      "iast": "dhanurbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुर्भ्यस्",
+        "slp1": "DanurByas",
+        "iast": "dhanurbhyas",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुर्भ्यरुँ",
+        "slp1": "DanurByaru~",
+        "iast": "dhanurbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुर्भ्यः",
+        "slp1": "DanurByaH",
+        "iast": "dhanurbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "79.001_5_1_DanuzaH_4784": {
+    "id": "79.001_5_1_DanuzaH_4784",
+    "key": "79.1|5|1|DanuzaH",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुषः",
+      "slp1": "DanuzaH",
+      "iast": "dhanuṣaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुषस्",
+        "slp1": "Danuzas",
+        "iast": "dhanuṣas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धनुषरुँ",
+        "slp1": "Danuzaru~",
+        "iast": "dhanuṣarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुषः",
+        "slp1": "DanuzaH",
+        "iast": "dhanuṣaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "79.001_5_2_DanurByAm_4785": {
+    "id": "79.001_5_2_DanurByAm_4785",
+    "key": "79.1|5|2|DanurByAm",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुर्भ्याम्",
+      "slp1": "DanurByAm",
+      "iast": "dhanurbhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुर्भ्याम्",
+        "slp1": "DanurByAm",
+        "iast": "dhanurbhyām",
+        "sutras": [
+          "8.2.66"
+        ]
+      }
+    ]
+  },
+  "79.001_5_3_DanurByaH_4786": {
+    "id": "79.001_5_3_DanurByaH_4786",
+    "key": "79.1|5|3|DanurByaH",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुर्भ्यः",
+      "slp1": "DanurByaH",
+      "iast": "dhanurbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुर्भ्यस्",
+        "slp1": "DanurByas",
+        "iast": "dhanurbhyas",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुर्भ्यरुँ",
+        "slp1": "DanurByaru~",
+        "iast": "dhanurbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुर्भ्यः",
+        "slp1": "DanurByaH",
+        "iast": "dhanurbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "79.001_6_1_DanuzaH_4787": {
+    "id": "79.001_6_1_DanuzaH_4787",
+    "key": "79.1|6|1|DanuzaH",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुषः",
+      "slp1": "DanuzaH",
+      "iast": "dhanuṣaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुषस्",
+        "slp1": "Danuzas",
+        "iast": "dhanuṣas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धनुषरुँ",
+        "slp1": "Danuzaru~",
+        "iast": "dhanuṣarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुषः",
+        "slp1": "DanuzaH",
+        "iast": "dhanuṣaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "79.001_6_2_DanuzoH_4788": {
+    "id": "79.001_6_2_DanuzoH_4788",
+    "key": "79.1|6|2|DanuzoH",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुषोः",
+      "slp1": "DanuzoH",
+      "iast": "dhanuṣoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुषोस्",
+        "slp1": "Danuzos",
+        "iast": "dhanuṣos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धनुषोरुँ",
+        "slp1": "Danuzoru~",
+        "iast": "dhanuṣorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुषोः",
+        "slp1": "DanuzoH",
+        "iast": "dhanuṣoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "79.001_6_3_DanuzAm_4789": {
+    "id": "79.001_6_3_DanuzAm_4789",
+    "key": "79.1|6|3|DanuzAm",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुषाम्",
+      "slp1": "DanuzAm",
+      "iast": "dhanuṣām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुषाम्",
+        "slp1": "DanuzAm",
+        "iast": "dhanuṣām",
+        "sutras": []
+      }
+    ]
+  },
+  "79.001_7_1_Danuzi_4790": {
+    "id": "79.001_7_1_Danuzi_4790",
+    "key": "79.1|7|1|Danuzi",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुषि",
+      "slp1": "Danuzi",
+      "iast": "dhanuṣi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुषि",
+        "slp1": "Danuzi",
+        "iast": "dhanuṣi",
+        "sutras": []
+      }
+    ]
+  },
+  "79.001_7_2_DanuzoH_4791": {
+    "id": "79.001_7_2_DanuzoH_4791",
+    "key": "79.1|7|2|DanuzoH",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुषोः",
+      "slp1": "DanuzoH",
+      "iast": "dhanuṣoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुषोस्",
+        "slp1": "Danuzos",
+        "iast": "dhanuṣos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धनुषोरुँ",
+        "slp1": "Danuzoru~",
+        "iast": "dhanuṣorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुषोः",
+        "slp1": "DanuzoH",
+        "iast": "dhanuṣoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "79.001_7_3_Danuzzu_4792": {
+    "id": "79.001_7_3_Danuzzu_4792",
+    "key": "79.1|7|3|Danuzzu",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुष्षु",
+      "slp1": "Danuzzu",
+      "iast": "dhanuṣṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुरुँ+सु",
+        "slp1": "Danuru~+su",
+        "iast": "dhanurum̐+su",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुः+सु",
+        "slp1": "DanuH+su",
+        "iast": "dhanuḥ+su",
+        "sutras": [
+          "8.3.15"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुस्+सु",
+        "slp1": "Danus+su",
+        "iast": "dhanus+su",
+        "sutras": [
+          "8.3.36"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धनुस्+षु",
+        "slp1": "Danus+zu",
+        "iast": "dhanus+ṣu",
+        "sutras": [
+          "8.3.58"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "धनुष्षु",
+        "slp1": "Danuzzu",
+        "iast": "dhanuṣṣu",
+        "sutras": [
+          "8.4.41"
+        ]
+      }
+    ]
+  },
+  "79.001_7_3_DanuHzu_4793": {
+    "id": "79.001_7_3_DanuHzu_4793",
+    "key": "79.1|7|3|DanuHzu",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "धनुःषु",
+      "slp1": "DanuHzu",
+      "iast": "dhanuḥṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुरुँ+सु",
+        "slp1": "Danuru~+su",
+        "iast": "dhanurum̐+su",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुः+सु",
+        "slp1": "DanuH+su",
+        "iast": "dhanuḥ+su",
+        "sutras": [
+          "8.3.15"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनुः+षु",
+        "slp1": "DanuH+zu",
+        "iast": "dhanuḥ+ṣu",
+        "sutras": [
+          "8.3.58"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धनुःषु",
+        "slp1": "DanuHzu",
+        "iast": "dhanuḥṣu",
+        "sutras": []
+      }
+    ]
+  },
+  "79.001_8_1_he DanuH_4794": {
+    "id": "79.001_8_1_he DanuH_4794",
+    "key": "79.1|8|1|he DanuH",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "हे धनुः",
+      "slp1": "he DanuH",
+      "iast": "he dhanuḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुष्",
+        "slp1": "Danuz",
+        "iast": "dhanuṣ",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुरुँ",
+        "slp1": "Danuru~",
+        "iast": "dhanurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे धनुः",
+        "slp1": "he DanuH",
+        "iast": "he dhanuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "79.001_8_2_he DanuzI_4795": {
+    "id": "79.001_8_2_he DanuzI_4795",
+    "key": "79.1|8|2|he DanuzI",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "हे धनुषी",
+      "slp1": "he DanuzI",
+      "iast": "he dhanuṣī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे धनुषी",
+        "slp1": "he DanuzI",
+        "iast": "he dhanuṣī",
+        "sutras": [
+          "7.1.19"
+        ]
+      }
+    ]
+  },
+  "79.001_8_3_he DanUMzi_4796": {
+    "id": "79.001_8_3_he DanUMzi_4796",
+    "key": "79.1|8|3|he DanUMzi",
+    "baseindex": {
+      "raw": "79.001",
+      "normalized": "79.1"
+    },
+    "word": {
+      "deva": "धनुष्",
+      "slp1": "Danuz",
+      "iast": "dhanuṣ"
+    },
+    "form": {
+      "deva": "हे धनूंषि",
+      "slp1": "he DanUMzi",
+      "iast": "he dhanūṃṣi"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-79.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धनुष्+इ",
+        "slp1": "Danuz+i",
+        "iast": "dhanuṣ+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धनुन्षि",
+        "slp1": "Danunzi",
+        "iast": "dhanunṣi",
+        "sutras": [
+          "7.1.72"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धनून्सि",
+        "slp1": "DanUnsi",
+        "iast": "dhanūnsi",
+        "sutras": [
+          "6.4.10"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धनूंसि",
+        "slp1": "DanUMsi",
+        "iast": "dhanūṃsi",
+        "sutras": [
+          "8.3.24"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हे धनूंषि",
+        "slp1": "he DanUMzi",
+        "iast": "he dhanūṃṣi",
+        "sutras": [
+          "8.3.58"
+        ]
+      }
+    ]
+  }
+}

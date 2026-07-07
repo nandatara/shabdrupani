@@ -1,0 +1,1110 @@
+{
+  "10.001_1_1_gOH_1183": {
+    "id": "10.001_1_1_gOH_1183",
+    "key": "10.1|1|1|gOH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गौः",
+      "slp1": "gOH",
+      "iast": "gauḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गो+स्",
+        "slp1": "go+s",
+        "iast": "go+s",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गौ+स्",
+        "slp1": "gO+s",
+        "iast": "gau+s",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गौस्",
+        "slp1": "gOs",
+        "iast": "gaus",
+        "sutras": []
+      },
+      {
+        "index": 4,
+        "deva": "गौरुँ",
+        "slp1": "gOru~",
+        "iast": "gaurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "गौः",
+        "slp1": "gOH",
+        "iast": "gauḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_1_2_gAvO_1184": {
+    "id": "10.001_1_2_gAvO_1184",
+    "key": "10.1|1|2|gAvO",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गावौ",
+      "slp1": "gAvO",
+      "iast": "gāvau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गो+औ",
+        "slp1": "go+O",
+        "iast": "go+au",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गौ+औ",
+        "slp1": "gO+O",
+        "iast": "gau+au",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गावौ",
+        "slp1": "gAvO",
+        "iast": "gāvau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "10.001_1_3_gAvaH_1185": {
+    "id": "10.001_1_3_gAvaH_1185",
+    "key": "10.1|1|3|gAvaH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गावः",
+      "slp1": "gAvaH",
+      "iast": "gāvaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गो+अस्",
+        "slp1": "go+as",
+        "iast": "go+as",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गौ+अस्",
+        "slp1": "gO+as",
+        "iast": "gau+as",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गावस्",
+        "slp1": "gAvas",
+        "iast": "gāvas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "गावरुँ",
+        "slp1": "gAvaru~",
+        "iast": "gāvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "गावः",
+        "slp1": "gAvaH",
+        "iast": "gāvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_2_1_gAm_1186": {
+    "id": "10.001_2_1_gAm_1186",
+    "key": "10.1|2|1|gAm",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गाम्",
+      "slp1": "gAm",
+      "iast": "gām"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्+आ+म्",
+        "slp1": "g+A+m",
+        "iast": "g+ā+m",
+        "sutras": [
+          "6.1.93"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गाम्",
+        "slp1": "gAm",
+        "iast": "gām",
+        "sutras": []
+      }
+    ]
+  },
+  "10.001_2_2_gAvO_1187": {
+    "id": "10.001_2_2_gAvO_1187",
+    "key": "10.1|2|2|gAvO",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गावौ",
+      "slp1": "gAvO",
+      "iast": "gāvau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गो+औ",
+        "slp1": "go+O",
+        "iast": "go+au",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गौ+औ",
+        "slp1": "gO+O",
+        "iast": "gau+au",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गावौ",
+        "slp1": "gAvO",
+        "iast": "gāvau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "10.001_2_3_gAH_1188": {
+    "id": "10.001_2_3_gAH_1188",
+    "key": "10.1|2|3|gAH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गाः",
+      "slp1": "gAH",
+      "iast": "gāḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्+आ+स्",
+        "slp1": "g+A+s",
+        "iast": "g+ā+s",
+        "sutras": [
+          "6.1.93"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गास्",
+        "slp1": "gAs",
+        "iast": "gās",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "गारुँ",
+        "slp1": "gAru~",
+        "iast": "gārum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "गाः",
+        "slp1": "gAH",
+        "iast": "gāḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_3_1_gavA_1189": {
+    "id": "10.001_3_1_gavA_1189",
+    "key": "10.1|3|1|gavA",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गवा",
+      "slp1": "gavA",
+      "iast": "gavā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गवा",
+        "slp1": "gavA",
+        "iast": "gavā",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "10.001_3_2_goByAm_1190": {
+    "id": "10.001_3_2_goByAm_1190",
+    "key": "10.1|3|2|goByAm",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गोभ्याम्",
+      "slp1": "goByAm",
+      "iast": "gobhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गोभ्याम्",
+        "slp1": "goByAm",
+        "iast": "gobhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "10.001_3_3_goBiH_1191": {
+    "id": "10.001_3_3_goBiH_1191",
+    "key": "10.1|3|3|goBiH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गोभिः",
+      "slp1": "goBiH",
+      "iast": "gobhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गोभिस्",
+        "slp1": "goBis",
+        "iast": "gobhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गोभिरुँ",
+        "slp1": "goBiru~",
+        "iast": "gobhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गोभिः",
+        "slp1": "goBiH",
+        "iast": "gobhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_4_1_gave_1192": {
+    "id": "10.001_4_1_gave_1192",
+    "key": "10.1|4|1|gave",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गवे",
+      "slp1": "gave",
+      "iast": "gave"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गवे",
+        "slp1": "gave",
+        "iast": "gave",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "10.001_4_2_goByAm_1193": {
+    "id": "10.001_4_2_goByAm_1193",
+    "key": "10.1|4|2|goByAm",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गोभ्याम्",
+      "slp1": "goByAm",
+      "iast": "gobhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गोभ्याम्",
+        "slp1": "goByAm",
+        "iast": "gobhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "10.001_4_3_goByaH_1194": {
+    "id": "10.001_4_3_goByaH_1194",
+    "key": "10.1|4|3|goByaH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गोभ्यः",
+      "slp1": "goByaH",
+      "iast": "gobhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गोभ्यस्",
+        "slp1": "goByas",
+        "iast": "gobhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गोभ्यरुँ",
+        "slp1": "goByaru~",
+        "iast": "gobhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गोभ्यः",
+        "slp1": "goByaH",
+        "iast": "gobhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_5_1_goH_1195": {
+    "id": "10.001_5_1_goH_1195",
+    "key": "10.1|5|1|goH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गोः",
+      "slp1": "goH",
+      "iast": "goḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गोस्",
+        "slp1": "gos",
+        "iast": "gos",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गोरुँ",
+        "slp1": "goru~",
+        "iast": "gorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गोः",
+        "slp1": "goH",
+        "iast": "goḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_5_2_goByAm_1196": {
+    "id": "10.001_5_2_goByAm_1196",
+    "key": "10.1|5|2|goByAm",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गोभ्याम्",
+      "slp1": "goByAm",
+      "iast": "gobhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गोभ्याम्",
+        "slp1": "goByAm",
+        "iast": "gobhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "10.001_5_3_goByaH_1197": {
+    "id": "10.001_5_3_goByaH_1197",
+    "key": "10.1|5|3|goByaH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गोभ्यः",
+      "slp1": "goByaH",
+      "iast": "gobhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गोभ्यस्",
+        "slp1": "goByas",
+        "iast": "gobhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गोभ्यरुँ",
+        "slp1": "goByaru~",
+        "iast": "gobhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गोभ्यः",
+        "slp1": "goByaH",
+        "iast": "gobhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_6_1_goH_1198": {
+    "id": "10.001_6_1_goH_1198",
+    "key": "10.1|6|1|goH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गोः",
+      "slp1": "goH",
+      "iast": "goḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गोस्",
+        "slp1": "gos",
+        "iast": "gos",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गोरुँ",
+        "slp1": "goru~",
+        "iast": "gorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गोः",
+        "slp1": "goH",
+        "iast": "goḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_6_2_gavoH_1199": {
+    "id": "10.001_6_2_gavoH_1199",
+    "key": "10.1|6|2|gavoH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गवोः",
+      "slp1": "gavoH",
+      "iast": "gavoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गवोस्",
+        "slp1": "gavos",
+        "iast": "gavos",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गवोरुँ",
+        "slp1": "gavoru~",
+        "iast": "gavorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गवोः",
+        "slp1": "gavoH",
+        "iast": "gavoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_6_3_gavAm_1200": {
+    "id": "10.001_6_3_gavAm_1200",
+    "key": "10.1|6|3|gavAm",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गवाम्",
+      "slp1": "gavAm",
+      "iast": "gavām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गवाम्",
+        "slp1": "gavAm",
+        "iast": "gavām",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "10.001_7_1_gavi_1201": {
+    "id": "10.001_7_1_gavi_1201",
+    "key": "10.1|7|1|gavi",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गवि",
+      "slp1": "gavi",
+      "iast": "gavi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गवि",
+        "slp1": "gavi",
+        "iast": "gavi",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "10.001_7_2_gavoH_1202": {
+    "id": "10.001_7_2_gavoH_1202",
+    "key": "10.1|7|2|gavoH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गवोः",
+      "slp1": "gavoH",
+      "iast": "gavoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गवोस्",
+        "slp1": "gavos",
+        "iast": "gavos",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गवोरुँ",
+        "slp1": "gavoru~",
+        "iast": "gavorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गवोः",
+        "slp1": "gavoH",
+        "iast": "gavoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_7_3_gozu_1203": {
+    "id": "10.001_7_3_gozu_1203",
+    "key": "10.1|7|3|gozu",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "गोषु",
+      "slp1": "gozu",
+      "iast": "goṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गोषु",
+        "slp1": "gozu",
+        "iast": "goṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "10.001_8_1_he gOH_1204": {
+    "id": "10.001_8_1_he gOH_1204",
+    "key": "10.1|8|1|he gOH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "हे गौः",
+      "slp1": "he gOH",
+      "iast": "he gauḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गो+स्",
+        "slp1": "go+s",
+        "iast": "go+s",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गौ+स्",
+        "slp1": "gO+s",
+        "iast": "gau+s",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गौस्",
+        "slp1": "gOs",
+        "iast": "gaus",
+        "sutras": []
+      },
+      {
+        "index": 4,
+        "deva": "गौरुँ",
+        "slp1": "gOru~",
+        "iast": "gaurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हे गौः",
+        "slp1": "he gOH",
+        "iast": "he gauḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "10.001_8_2_he gAvO_1205": {
+    "id": "10.001_8_2_he gAvO_1205",
+    "key": "10.1|8|2|he gAvO",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "हे गावौ",
+      "slp1": "he gAvO",
+      "iast": "he gāvau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गो+औ",
+        "slp1": "go+O",
+        "iast": "go+au",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गौ+औ",
+        "slp1": "gO+O",
+        "iast": "gau+au",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे गावौ",
+        "slp1": "he gAvO",
+        "iast": "he gāvau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "10.001_8_3_he gAvaH_1206": {
+    "id": "10.001_8_3_he gAvaH_1206",
+    "key": "10.1|8|3|he gAvaH",
+    "baseindex": {
+      "raw": "10.001",
+      "normalized": "10.1"
+    },
+    "word": {
+      "deva": "गो",
+      "slp1": "go",
+      "iast": "go"
+    },
+    "form": {
+      "deva": "हे गावः",
+      "slp1": "he gAvaH",
+      "iast": "he gāvaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-10.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गो+अस्",
+        "slp1": "go+as",
+        "iast": "go+as",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गौ+अस्",
+        "slp1": "gO+as",
+        "iast": "gau+as",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गावस्",
+        "slp1": "gAvas",
+        "iast": "gāvas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "गावरुँ",
+        "slp1": "gAvaru~",
+        "iast": "gāvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हे गावः",
+        "slp1": "he gAvaH",
+        "iast": "he gāvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

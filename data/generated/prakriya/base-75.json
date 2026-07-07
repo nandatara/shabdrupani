@@ -1,0 +1,1123 @@
+{
+  "75.001_1_1_Urg_4511": {
+    "id": "75.001_1_1_Urg_4511",
+    "key": "75.1|1|1|Urg",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्ग्",
+      "slp1": "Urg",
+      "iast": "ūrg"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ज्",
+        "slp1": "Urj",
+        "iast": "ūrj",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्ग्",
+        "slp1": "Urg",
+        "iast": "ūrg",
+        "sutras": [
+          "8.2.30"
+        ]
+      }
+    ]
+  },
+  "75.001_1_1_Urk_4512": {
+    "id": "75.001_1_1_Urk_4512",
+    "key": "75.1|1|1|Urk",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्क्",
+      "slp1": "Urk",
+      "iast": "ūrk"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ज्",
+        "slp1": "Urj",
+        "iast": "ūrj",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्ग्",
+        "slp1": "Urg",
+        "iast": "ūrg",
+        "sutras": [
+          "8.2.30"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊर्क्",
+        "slp1": "Urk",
+        "iast": "ūrk",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "75.001_1_2_UrjI_4513": {
+    "id": "75.001_1_2_UrjI_4513",
+    "key": "75.1|1|2|UrjI",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्जी",
+      "slp1": "UrjI",
+      "iast": "ūrjī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्जी",
+        "slp1": "UrjI",
+        "iast": "ūrjī",
+        "sutras": [
+          "7.1.19"
+        ]
+      }
+    ]
+  },
+  "75.001_1_3_Unrji_4514": {
+    "id": "75.001_1_3_Unrji_4514",
+    "key": "75.1|1|3|Unrji",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊन्र्जि",
+      "slp1": "Unrji",
+      "iast": "ūnrji"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ज्+इ",
+        "slp1": "Urj+i",
+        "iast": "ūrj+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊन्+र्+जि",
+        "slp1": "Un+r+ji",
+        "iast": "ūn+r+ji",
+        "sutras": [
+          "7.1.72"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊन्र्जि",
+        "slp1": "Unrji",
+        "iast": "ūnrji",
+        "sutras": []
+      }
+    ]
+  },
+  "75.001_2_1_Urg_4515": {
+    "id": "75.001_2_1_Urg_4515",
+    "key": "75.1|2|1|Urg",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्ग्",
+      "slp1": "Urg",
+      "iast": "ūrg"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ज्",
+        "slp1": "Urj",
+        "iast": "ūrj",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्ग्",
+        "slp1": "Urg",
+        "iast": "ūrg",
+        "sutras": [
+          "8.2.30"
+        ]
+      }
+    ]
+  },
+  "75.001_2_1_Urk_4516": {
+    "id": "75.001_2_1_Urk_4516",
+    "key": "75.1|2|1|Urk",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्क्",
+      "slp1": "Urk",
+      "iast": "ūrk"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ज्",
+        "slp1": "Urj",
+        "iast": "ūrj",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्ग्",
+        "slp1": "Urg",
+        "iast": "ūrg",
+        "sutras": [
+          "8.2.30"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊर्क्",
+        "slp1": "Urk",
+        "iast": "ūrk",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "75.001_2_2_UrjI_4517": {
+    "id": "75.001_2_2_UrjI_4517",
+    "key": "75.1|2|2|UrjI",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्जी",
+      "slp1": "UrjI",
+      "iast": "ūrjī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्जी",
+        "slp1": "UrjI",
+        "iast": "ūrjī",
+        "sutras": [
+          "7.1.19"
+        ]
+      }
+    ]
+  },
+  "75.001_2_3_Unrji_4518": {
+    "id": "75.001_2_3_Unrji_4518",
+    "key": "75.1|2|3|Unrji",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊन्र्जि",
+      "slp1": "Unrji",
+      "iast": "ūnrji"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ज्+इ",
+        "slp1": "Urj+i",
+        "iast": "ūrj+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊन्+र्+जि",
+        "slp1": "Un+r+ji",
+        "iast": "ūn+r+ji",
+        "sutras": [
+          "7.1.72"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊन्र्जि",
+        "slp1": "Unrji",
+        "iast": "ūnrji",
+        "sutras": []
+      }
+    ]
+  },
+  "75.001_3_1_UrjA_4519": {
+    "id": "75.001_3_1_UrjA_4519",
+    "key": "75.1|3|1|UrjA",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्जा",
+      "slp1": "UrjA",
+      "iast": "ūrjā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्जा",
+        "slp1": "UrjA",
+        "iast": "ūrjā",
+        "sutras": []
+      }
+    ]
+  },
+  "75.001_3_2_UrgByAm_4520": {
+    "id": "75.001_3_2_UrgByAm_4520",
+    "key": "75.1|3|2|UrgByAm",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्ग्भ्याम्",
+      "slp1": "UrgByAm",
+      "iast": "ūrgbhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ग्भ्याम्",
+        "slp1": "UrgByAm",
+        "iast": "ūrgbhyām",
+        "sutras": [
+          "8.2.30"
+        ]
+      }
+    ]
+  },
+  "75.001_3_3_UrgBiH_4521": {
+    "id": "75.001_3_3_UrgBiH_4521",
+    "key": "75.1|3|3|UrgBiH",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्ग्भिः",
+      "slp1": "UrgBiH",
+      "iast": "ūrgbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ग्भिस्",
+        "slp1": "UrgBis",
+        "iast": "ūrgbhis",
+        "sutras": [
+          "8.2.30"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्ग्भिरुँ",
+        "slp1": "UrgBiru~",
+        "iast": "ūrgbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊर्ग्भिः",
+        "slp1": "UrgBiH",
+        "iast": "ūrgbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "75.001_4_1_Urje_4522": {
+    "id": "75.001_4_1_Urje_4522",
+    "key": "75.1|4|1|Urje",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्जे",
+      "slp1": "Urje",
+      "iast": "ūrje"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्जे",
+        "slp1": "Urje",
+        "iast": "ūrje",
+        "sutras": []
+      }
+    ]
+  },
+  "75.001_4_2_UrgByAm_4523": {
+    "id": "75.001_4_2_UrgByAm_4523",
+    "key": "75.1|4|2|UrgByAm",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्ग्भ्याम्",
+      "slp1": "UrgByAm",
+      "iast": "ūrgbhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ग्भ्याम्",
+        "slp1": "UrgByAm",
+        "iast": "ūrgbhyām",
+        "sutras": [
+          "8.2.30"
+        ]
+      }
+    ]
+  },
+  "75.001_4_3_UrgByaH_4524": {
+    "id": "75.001_4_3_UrgByaH_4524",
+    "key": "75.1|4|3|UrgByaH",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्ग्भ्यः",
+      "slp1": "UrgByaH",
+      "iast": "ūrgbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ग्भ्यस्",
+        "slp1": "UrgByas",
+        "iast": "ūrgbhyas",
+        "sutras": [
+          "8.2.30"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्ग्भ्यरुँ",
+        "slp1": "UrgByaru~",
+        "iast": "ūrgbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊर्ग्भ्यः",
+        "slp1": "UrgByaH",
+        "iast": "ūrgbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "75.001_5_1_UrjaH_4525": {
+    "id": "75.001_5_1_UrjaH_4525",
+    "key": "75.1|5|1|UrjaH",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्जः",
+      "slp1": "UrjaH",
+      "iast": "ūrjaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्जस्",
+        "slp1": "Urjas",
+        "iast": "ūrjas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्जरुँ",
+        "slp1": "Urjaru~",
+        "iast": "ūrjarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊर्जः",
+        "slp1": "UrjaH",
+        "iast": "ūrjaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "75.001_5_2_UrgByAm_4526": {
+    "id": "75.001_5_2_UrgByAm_4526",
+    "key": "75.1|5|2|UrgByAm",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्ग्भ्याम्",
+      "slp1": "UrgByAm",
+      "iast": "ūrgbhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ग्भ्याम्",
+        "slp1": "UrgByAm",
+        "iast": "ūrgbhyām",
+        "sutras": [
+          "8.2.30"
+        ]
+      }
+    ]
+  },
+  "75.001_5_3_UrgByaH_4527": {
+    "id": "75.001_5_3_UrgByaH_4527",
+    "key": "75.1|5|3|UrgByaH",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्ग्भ्यः",
+      "slp1": "UrgByaH",
+      "iast": "ūrgbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ग्भ्यस्",
+        "slp1": "UrgByas",
+        "iast": "ūrgbhyas",
+        "sutras": [
+          "8.2.30"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्ग्भ्यरुँ",
+        "slp1": "UrgByaru~",
+        "iast": "ūrgbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊर्ग्भ्यः",
+        "slp1": "UrgByaH",
+        "iast": "ūrgbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "75.001_6_1_UrjaH_4528": {
+    "id": "75.001_6_1_UrjaH_4528",
+    "key": "75.1|6|1|UrjaH",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्जः",
+      "slp1": "UrjaH",
+      "iast": "ūrjaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्जस्",
+        "slp1": "Urjas",
+        "iast": "ūrjas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्जरुँ",
+        "slp1": "Urjaru~",
+        "iast": "ūrjarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊर्जः",
+        "slp1": "UrjaH",
+        "iast": "ūrjaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "75.001_6_2_UrjoH_4529": {
+    "id": "75.001_6_2_UrjoH_4529",
+    "key": "75.1|6|2|UrjoH",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्जोः",
+      "slp1": "UrjoH",
+      "iast": "ūrjoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्जोस्",
+        "slp1": "Urjos",
+        "iast": "ūrjos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्जोरुँ",
+        "slp1": "Urjoru~",
+        "iast": "ūrjorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊर्जोः",
+        "slp1": "UrjoH",
+        "iast": "ūrjoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "75.001_6_3_UrjAm_4530": {
+    "id": "75.001_6_3_UrjAm_4530",
+    "key": "75.1|6|3|UrjAm",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्जाम्",
+      "slp1": "UrjAm",
+      "iast": "ūrjām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्जाम्",
+        "slp1": "UrjAm",
+        "iast": "ūrjām",
+        "sutras": []
+      }
+    ]
+  },
+  "75.001_7_1_Urji_4531": {
+    "id": "75.001_7_1_Urji_4531",
+    "key": "75.1|7|1|Urji",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्जि",
+      "slp1": "Urji",
+      "iast": "ūrji"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्जि",
+        "slp1": "Urji",
+        "iast": "ūrji",
+        "sutras": []
+      }
+    ]
+  },
+  "75.001_7_2_UrjoH_4532": {
+    "id": "75.001_7_2_UrjoH_4532",
+    "key": "75.1|7|2|UrjoH",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्जोः",
+      "slp1": "UrjoH",
+      "iast": "ūrjoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्जोस्",
+        "slp1": "Urjos",
+        "iast": "ūrjos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्जोरुँ",
+        "slp1": "Urjoru~",
+        "iast": "ūrjorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊर्जोः",
+        "slp1": "UrjoH",
+        "iast": "ūrjoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "75.001_7_3_Urkzu_4533": {
+    "id": "75.001_7_3_Urkzu_4533",
+    "key": "75.1|7|3|Urkzu",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "ऊर्क्षु",
+      "slp1": "Urkzu",
+      "iast": "ūrkṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ग्+सु",
+        "slp1": "Urg+su",
+        "iast": "ūrg+su",
+        "sutras": [
+          "8.2.30"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्ग्+षु",
+        "slp1": "Urg+zu",
+        "iast": "ūrg+ṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ऊर्क्षु",
+        "slp1": "Urkzu",
+        "iast": "ūrkṣu",
+        "sutras": [
+          "8.4.55"
+        ]
+      }
+    ]
+  },
+  "75.001_8_1_he Urg_4534": {
+    "id": "75.001_8_1_he Urg_4534",
+    "key": "75.1|8|1|he Urg",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "हे ऊर्ग्",
+      "slp1": "he Urg",
+      "iast": "he ūrg"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ज्",
+        "slp1": "Urj",
+        "iast": "ūrj",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे ऊर्ग्",
+        "slp1": "he Urg",
+        "iast": "he ūrg",
+        "sutras": [
+          "8.2.30"
+        ]
+      }
+    ]
+  },
+  "75.001_8_1_he Urk_4535": {
+    "id": "75.001_8_1_he Urk_4535",
+    "key": "75.1|8|1|he Urk",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "हे ऊर्क्",
+      "slp1": "he Urk",
+      "iast": "he ūrk"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ज्",
+        "slp1": "Urj",
+        "iast": "ūrj",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊर्ग्",
+        "slp1": "Urg",
+        "iast": "ūrg",
+        "sutras": [
+          "8.2.30"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे ऊर्क्",
+        "slp1": "he Urk",
+        "iast": "he ūrk",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "75.001_8_2_he UrjI_4536": {
+    "id": "75.001_8_2_he UrjI_4536",
+    "key": "75.1|8|2|he UrjI",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "हे ऊर्जी",
+      "slp1": "he UrjI",
+      "iast": "he ūrjī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे ऊर्जी",
+        "slp1": "he UrjI",
+        "iast": "he ūrjī",
+        "sutras": [
+          "7.1.19"
+        ]
+      }
+    ]
+  },
+  "75.001_8_3_he Unrji_4537": {
+    "id": "75.001_8_3_he Unrji_4537",
+    "key": "75.1|8|3|he Unrji",
+    "baseindex": {
+      "raw": "75.001",
+      "normalized": "75.1"
+    },
+    "word": {
+      "deva": "ऊर्ज्",
+      "slp1": "Urj",
+      "iast": "ūrj"
+    },
+    "form": {
+      "deva": "हे ऊन्र्जि",
+      "slp1": "he Unrji",
+      "iast": "he ūnrji"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-75.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ऊर्ज्+इ",
+        "slp1": "Urj+i",
+        "iast": "ūrj+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ऊन्+र्+जि",
+        "slp1": "Un+r+ji",
+        "iast": "ūn+r+ji",
+        "sutras": [
+          "7.1.72"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे ऊन्र्जि",
+        "slp1": "he Unrji",
+        "iast": "he ūnrji",
+        "sutras": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "41.001_1_3_catvAraH_2363": {
+    "id": "41.001_1_3_catvAraH_2363",
+    "key": "41.1|1|3|catvAraH",
+    "baseindex": {
+      "raw": "41.001",
+      "normalized": "41.1"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चत्वारः",
+      "slp1": "catvAraH",
+      "iast": "catvāraḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-41.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतु+आर्+अस्",
+        "slp1": "catu+Ar+as",
+        "iast": "catu+ār+as",
+        "sutras": [
+          "7.1.98"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चत्वारस्",
+        "slp1": "catvAras",
+        "iast": "catvāras",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चत्वाररुँ",
+        "slp1": "catvAraru~",
+        "iast": "catvārarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "चत्वारः",
+        "slp1": "catvAraH",
+        "iast": "catvāraḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "41.001_2_3_caturaH_2364": {
+    "id": "41.001_2_3_caturaH_2364",
+    "key": "41.1|2|3|caturaH",
+    "baseindex": {
+      "raw": "41.001",
+      "normalized": "41.1"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतुरः",
+      "slp1": "caturaH",
+      "iast": "caturaḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-41.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतुरस्",
+        "slp1": "caturas",
+        "iast": "caturas",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतुररुँ",
+        "slp1": "caturaru~",
+        "iast": "caturarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतुरः",
+        "slp1": "caturaH",
+        "iast": "caturaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "41.001_3_3_caturBiH_2365": {
+    "id": "41.001_3_3_caturBiH_2365",
+    "key": "41.1|3|3|caturBiH",
+    "baseindex": {
+      "raw": "41.001",
+      "normalized": "41.1"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतुर्भिः",
+      "slp1": "caturBiH",
+      "iast": "caturbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-41.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतुर्भिस्",
+        "slp1": "caturBis",
+        "iast": "caturbhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "चतुर्भिरुँ",
+        "slp1": "caturBiru~",
+        "iast": "caturbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतुर्भिः",
+        "slp1": "caturBiH",
+        "iast": "caturbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "41.001_4_3_caturByaH_2366": {
+    "id": "41.001_4_3_caturByaH_2366",
+    "key": "41.1|4|3|caturByaH",
+    "baseindex": {
+      "raw": "41.001",
+      "normalized": "41.1"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतुर्भ्यः",
+      "slp1": "caturByaH",
+      "iast": "caturbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-41.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतुर्भ्यस्",
+        "slp1": "caturByas",
+        "iast": "caturbhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "चतुर्भ्यरुँ",
+        "slp1": "caturByaru~",
+        "iast": "caturbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतुर्भ्यः",
+        "slp1": "caturByaH",
+        "iast": "caturbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "41.001_5_3_caturByaH_2367": {
+    "id": "41.001_5_3_caturByaH_2367",
+    "key": "41.1|5|3|caturByaH",
+    "baseindex": {
+      "raw": "41.001",
+      "normalized": "41.1"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतुर्भ्यः",
+      "slp1": "caturByaH",
+      "iast": "caturbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-41.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतुर्भ्यस्",
+        "slp1": "caturByas",
+        "iast": "caturbhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "चतुर्भ्यरुँ",
+        "slp1": "caturByaru~",
+        "iast": "caturbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतुर्भ्यः",
+        "slp1": "caturByaH",
+        "iast": "caturbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "41.001_6_3_caturRAm_2368": {
+    "id": "41.001_6_3_caturRAm_2368",
+    "key": "41.1|6|3|caturRAm",
+    "baseindex": {
+      "raw": "41.001",
+      "normalized": "41.1"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतुर्णाम्",
+      "slp1": "caturRAm",
+      "iast": "caturṇām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-41.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतुर्+न्+आम्",
+        "slp1": "catur+n+Am",
+        "iast": "catur+n+ām",
+        "sutras": [
+          "7.1.55"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतुर्णाम्",
+        "slp1": "caturRAm",
+        "iast": "caturṇām",
+        "sutras": [
+          "8.4.1"
+        ]
+      }
+    ]
+  },
+  "41.001_6_3_caturRRAm_2369": {
+    "id": "41.001_6_3_caturRRAm_2369",
+    "key": "41.1|6|3|caturRRAm",
+    "baseindex": {
+      "raw": "41.001",
+      "normalized": "41.1"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतुर्ण्णाम्",
+      "slp1": "caturRRAm",
+      "iast": "caturṇṇām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-41.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतुर्+न्+आम्",
+        "slp1": "catur+n+Am",
+        "iast": "catur+n+ām",
+        "sutras": [
+          "7.1.55"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतुर्णाम्",
+        "slp1": "caturRAm",
+        "iast": "caturṇām",
+        "sutras": [
+          "8.4.1"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतुर्ण्णाम्",
+        "slp1": "caturRRAm",
+        "iast": "caturṇṇām",
+        "sutras": [
+          "8.4.46"
+        ]
+      }
+    ]
+  },
+  "41.001_7_3_caturzu_2370": {
+    "id": "41.001_7_3_caturzu_2370",
+    "key": "41.1|7|3|caturzu",
+    "baseindex": {
+      "raw": "41.001",
+      "normalized": "41.1"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतुर्षु",
+      "slp1": "caturzu",
+      "iast": "caturṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-41.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतुर्+सु",
+        "slp1": "catur+su",
+        "iast": "catur+su",
+        "sutras": [
+          "8.3.16"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतुर्षु",
+        "slp1": "caturzu",
+        "iast": "caturṣu",
+        "sutras": [
+          "8.3.59",
+          "8.4.46.8.4.49"
+        ]
+      }
+    ]
+  }
+}

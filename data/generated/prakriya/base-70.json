@@ -1,0 +1,1174 @@
+{
+  "70.001_1_1_svanaqud_4323": {
+    "id": "70.001_1_1_svanaqud_4323",
+    "key": "70.1|1|1|svanaqud",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुद्",
+      "slp1": "svanaqud",
+      "iast": "svanaḍud"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुह्",
+        "slp1": "svanaquh",
+        "iast": "svanaḍuh",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुद्",
+        "slp1": "svanaqud",
+        "iast": "svanaḍud",
+        "sutras": [
+          "8.2.72"
+        ]
+      }
+    ]
+  },
+  "70.001_1_1_svanaqut_4324": {
+    "id": "70.001_1_1_svanaqut_4324",
+    "key": "70.1|1|1|svanaqut",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुत्",
+      "slp1": "svanaqut",
+      "iast": "svanaḍut"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुह्",
+        "slp1": "svanaquh",
+        "iast": "svanaḍuh",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुद्",
+        "slp1": "svanaqud",
+        "iast": "svanaḍud",
+        "sutras": [
+          "8.2.72"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडुत्",
+        "slp1": "svanaqut",
+        "iast": "svanaḍut",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "70.001_1_2_svanaquhI_4325": {
+    "id": "70.001_1_2_svanaquhI_4325",
+    "key": "70.1|1|2|svanaquhI",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुही",
+      "slp1": "svanaquhI",
+      "iast": "svanaḍuhī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुही",
+        "slp1": "svanaquhI",
+        "iast": "svanaḍuhī",
+        "sutras": [
+          "7.1.19"
+        ]
+      }
+    ]
+  },
+  "70.001_1_3_svanaqvAMhi_4326": {
+    "id": "70.001_1_3_svanaqvAMhi_4326",
+    "key": "70.1|1|3|svanaqvAMhi",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनड्वांहि",
+      "slp1": "svanaqvAMhi",
+      "iast": "svanaḍvāṃhi"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुह्+इ",
+        "slp1": "svanaquh+i",
+        "iast": "svanaḍuh+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडु+आ+ह्+इ",
+        "slp1": "svanaqu+A+h+i",
+        "iast": "svanaḍu+ā+h+i",
+        "sutras": [
+          "7.1.98"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडु+आ+न्+ह्+इ",
+        "slp1": "svanaqu+A+n+h+i",
+        "iast": "svanaḍu+ā+n+h+i",
+        "sutras": [
+          "7.1.72"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "स्वनड्वा+न्+ह्+इ",
+        "slp1": "svanaqvA+n+h+i",
+        "iast": "svanaḍvā+n+h+i",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "स्वनड्वांहि",
+        "slp1": "svanaqvAMhi",
+        "iast": "svanaḍvāṃhi",
+        "sutras": [
+          "8.3.24"
+        ]
+      }
+    ]
+  },
+  "70.001_1_1_svanaqud_4327": {
+    "id": "70.001_1_1_svanaqud_4327",
+    "key": "70.1|1|1|svanaqud",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुद्",
+      "slp1": "svanaqud",
+      "iast": "svanaḍud"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुह्",
+        "slp1": "svanaquh",
+        "iast": "svanaḍuh",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुद्",
+        "slp1": "svanaqud",
+        "iast": "svanaḍud",
+        "sutras": [
+          "8.2.72"
+        ]
+      }
+    ]
+  },
+  "70.001_1_1_svanaqut_4328": {
+    "id": "70.001_1_1_svanaqut_4328",
+    "key": "70.1|1|1|svanaqut",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुत्",
+      "slp1": "svanaqut",
+      "iast": "svanaḍut"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुह्",
+        "slp1": "svanaquh",
+        "iast": "svanaḍuh",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुद्",
+        "slp1": "svanaqud",
+        "iast": "svanaḍud",
+        "sutras": [
+          "8.2.72"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडुत्",
+        "slp1": "svanaqut",
+        "iast": "svanaḍut",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "70.001_2_2_svanaquhI_4329": {
+    "id": "70.001_2_2_svanaquhI_4329",
+    "key": "70.1|2|2|svanaquhI",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुही",
+      "slp1": "svanaquhI",
+      "iast": "svanaḍuhī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुही",
+        "slp1": "svanaquhI",
+        "iast": "svanaḍuhī",
+        "sutras": [
+          "7.1.19"
+        ]
+      }
+    ]
+  },
+  "70.001_2_3_svanaqvAMhi_4330": {
+    "id": "70.001_2_3_svanaqvAMhi_4330",
+    "key": "70.1|2|3|svanaqvAMhi",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनड्वांहि",
+      "slp1": "svanaqvAMhi",
+      "iast": "svanaḍvāṃhi"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुह्+इ",
+        "slp1": "svanaquh+i",
+        "iast": "svanaḍuh+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडु+आ+ह्+इ",
+        "slp1": "svanaqu+A+h+i",
+        "iast": "svanaḍu+ā+h+i",
+        "sutras": [
+          "7.1.98"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडु+आ+न्+ह्+इ",
+        "slp1": "svanaqu+A+n+h+i",
+        "iast": "svanaḍu+ā+n+h+i",
+        "sutras": [
+          "7.1.72"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "स्वनड्वा+न्+ह्+इ",
+        "slp1": "svanaqvA+n+h+i",
+        "iast": "svanaḍvā+n+h+i",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "स्वनड्वांहि",
+        "slp1": "svanaqvAMhi",
+        "iast": "svanaḍvāṃhi",
+        "sutras": [
+          "8.3.24"
+        ]
+      }
+    ]
+  },
+  "70.001_3_1_svanaquhA_4331": {
+    "id": "70.001_3_1_svanaquhA_4331",
+    "key": "70.1|3|1|svanaquhA",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुहा",
+      "slp1": "svanaquhA",
+      "iast": "svanaḍuhā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुहा",
+        "slp1": "svanaquhA",
+        "iast": "svanaḍuhā",
+        "sutras": []
+      }
+    ]
+  },
+  "70.001_3_2_svanaqudByAm_4332": {
+    "id": "70.001_3_2_svanaqudByAm_4332",
+    "key": "70.1|3|2|svanaqudByAm",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुद्भ्याम्",
+      "slp1": "svanaqudByAm",
+      "iast": "svanaḍudbhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुद्भ्याम्",
+        "slp1": "svanaqudByAm",
+        "iast": "svanaḍudbhyām",
+        "sutras": [
+          "8.2.72"
+        ]
+      }
+    ]
+  },
+  "70.001_3_3_svanaqudBiH_4333": {
+    "id": "70.001_3_3_svanaqudBiH_4333",
+    "key": "70.1|3|3|svanaqudBiH",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुद्भिः",
+      "slp1": "svanaqudBiH",
+      "iast": "svanaḍudbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुद्भिस्",
+        "slp1": "svanaqudBis",
+        "iast": "svanaḍudbhis",
+        "sutras": [
+          "8.2.72"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुद्भिरुँ",
+        "slp1": "svanaqudBiru~",
+        "iast": "svanaḍudbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडुद्भिः",
+        "slp1": "svanaqudBiH",
+        "iast": "svanaḍudbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "70.001_4_1_svanaquhe_4334": {
+    "id": "70.001_4_1_svanaquhe_4334",
+    "key": "70.1|4|1|svanaquhe",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुहे",
+      "slp1": "svanaquhe",
+      "iast": "svanaḍuhe"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुहे",
+        "slp1": "svanaquhe",
+        "iast": "svanaḍuhe",
+        "sutras": []
+      }
+    ]
+  },
+  "70.001_4_2_svanaqudByAm_4335": {
+    "id": "70.001_4_2_svanaqudByAm_4335",
+    "key": "70.1|4|2|svanaqudByAm",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुद्भ्याम्",
+      "slp1": "svanaqudByAm",
+      "iast": "svanaḍudbhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुद्भ्याम्",
+        "slp1": "svanaqudByAm",
+        "iast": "svanaḍudbhyām",
+        "sutras": [
+          "8.2.72"
+        ]
+      }
+    ]
+  },
+  "70.001_4_3_svanaqudByaH_4336": {
+    "id": "70.001_4_3_svanaqudByaH_4336",
+    "key": "70.1|4|3|svanaqudByaH",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुद्भ्यः",
+      "slp1": "svanaqudByaH",
+      "iast": "svanaḍudbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुद्भ्यस्",
+        "slp1": "svanaqudByas",
+        "iast": "svanaḍudbhyas",
+        "sutras": [
+          "8.2.72"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुद्भ्यरुँ",
+        "slp1": "svanaqudByaru~",
+        "iast": "svanaḍudbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडुद्भ्यः",
+        "slp1": "svanaqudByaH",
+        "iast": "svanaḍudbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "70.001_5_1_svanaquhaH_4337": {
+    "id": "70.001_5_1_svanaquhaH_4337",
+    "key": "70.1|5|1|svanaquhaH",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुहः",
+      "slp1": "svanaquhaH",
+      "iast": "svanaḍuhaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुहस्",
+        "slp1": "svanaquhas",
+        "iast": "svanaḍuhas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुहरुँ",
+        "slp1": "svanaquharu~",
+        "iast": "svanaḍuharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडुहः",
+        "slp1": "svanaquhaH",
+        "iast": "svanaḍuhaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "70.001_5_2_svanaqudByAm_4338": {
+    "id": "70.001_5_2_svanaqudByAm_4338",
+    "key": "70.1|5|2|svanaqudByAm",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुद्भ्याम्",
+      "slp1": "svanaqudByAm",
+      "iast": "svanaḍudbhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुद्भ्याम्",
+        "slp1": "svanaqudByAm",
+        "iast": "svanaḍudbhyām",
+        "sutras": [
+          "8.2.72"
+        ]
+      }
+    ]
+  },
+  "70.001_5_3_svanaqudByaH_4339": {
+    "id": "70.001_5_3_svanaqudByaH_4339",
+    "key": "70.1|5|3|svanaqudByaH",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुद्भ्यः",
+      "slp1": "svanaqudByaH",
+      "iast": "svanaḍudbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुद्भ्यस्",
+        "slp1": "svanaqudByas",
+        "iast": "svanaḍudbhyas",
+        "sutras": [
+          "8.2.72"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुद्भ्यरुँ",
+        "slp1": "svanaqudByaru~",
+        "iast": "svanaḍudbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडुद्भ्यः",
+        "slp1": "svanaqudByaH",
+        "iast": "svanaḍudbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "70.001_6_1_svanaquhaH_4340": {
+    "id": "70.001_6_1_svanaquhaH_4340",
+    "key": "70.1|6|1|svanaquhaH",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुहः",
+      "slp1": "svanaquhaH",
+      "iast": "svanaḍuhaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुहस्",
+        "slp1": "svanaquhas",
+        "iast": "svanaḍuhas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुहरुँ",
+        "slp1": "svanaquharu~",
+        "iast": "svanaḍuharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडुहः",
+        "slp1": "svanaquhaH",
+        "iast": "svanaḍuhaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "70.001_6_2_svanaquhoH_4341": {
+    "id": "70.001_6_2_svanaquhoH_4341",
+    "key": "70.1|6|2|svanaquhoH",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुहोः",
+      "slp1": "svanaquhoH",
+      "iast": "svanaḍuhoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुहोस्",
+        "slp1": "svanaquhos",
+        "iast": "svanaḍuhos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुहोरुँ",
+        "slp1": "svanaquhoru~",
+        "iast": "svanaḍuhorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडुहोः",
+        "slp1": "svanaquhoH",
+        "iast": "svanaḍuhoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "70.001_6_3_svanaquhAm_4342": {
+    "id": "70.001_6_3_svanaquhAm_4342",
+    "key": "70.1|6|3|svanaquhAm",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुहाम्",
+      "slp1": "svanaquhAm",
+      "iast": "svanaḍuhām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुहाम्",
+        "slp1": "svanaquhAm",
+        "iast": "svanaḍuhām",
+        "sutras": []
+      }
+    ]
+  },
+  "70.001_7_1_svanaquhi_4343": {
+    "id": "70.001_7_1_svanaquhi_4343",
+    "key": "70.1|7|1|svanaquhi",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुहि",
+      "slp1": "svanaquhi",
+      "iast": "svanaḍuhi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुहि",
+        "slp1": "svanaquhi",
+        "iast": "svanaḍuhi",
+        "sutras": []
+      }
+    ]
+  },
+  "70.001_7_2_svanaquhoH_4344": {
+    "id": "70.001_7_2_svanaquhoH_4344",
+    "key": "70.1|7|2|svanaquhoH",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुहोः",
+      "slp1": "svanaquhoH",
+      "iast": "svanaḍuhoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुहोस्",
+        "slp1": "svanaquhos",
+        "iast": "svanaḍuhos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुहोरुँ",
+        "slp1": "svanaquhoru~",
+        "iast": "svanaḍuhorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडुहोः",
+        "slp1": "svanaquhoH",
+        "iast": "svanaḍuhoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "70.001_7_3_svanaqutsu_4345": {
+    "id": "70.001_7_3_svanaqutsu_4345",
+    "key": "70.1|7|3|svanaqutsu",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "स्वनडुत्सु",
+      "slp1": "svanaqutsu",
+      "iast": "svanaḍutsu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुद्सु",
+        "slp1": "svanaqudsu",
+        "iast": "svanaḍudsu",
+        "sutras": [
+          "8.2.72"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुत्सु",
+        "slp1": "svanaqutsu",
+        "iast": "svanaḍutsu",
+        "sutras": [
+          "8.4.55"
+        ]
+      }
+    ]
+  },
+  "70.001_8_1_he svanaqud_4346": {
+    "id": "70.001_8_1_he svanaqud_4346",
+    "key": "70.1|8|1|he svanaqud",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "हे स्वनडुद्",
+      "slp1": "he svanaqud",
+      "iast": "he svanaḍud"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुह्",
+        "slp1": "svanaquh",
+        "iast": "svanaḍuh",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे स्वनडुद्",
+        "slp1": "he svanaqud",
+        "iast": "he svanaḍud",
+        "sutras": [
+          "8.2.72"
+        ]
+      }
+    ]
+  },
+  "70.001_8_1_he svanaqut_4347": {
+    "id": "70.001_8_1_he svanaqut_4347",
+    "key": "70.1|8|1|he svanaqut",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "हे स्वनडुत्",
+      "slp1": "he svanaqut",
+      "iast": "he svanaḍut"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुह्",
+        "slp1": "svanaquh",
+        "iast": "svanaḍuh",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडुद्",
+        "slp1": "svanaqud",
+        "iast": "svanaḍud",
+        "sutras": [
+          "8.2.72"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे स्वनडुत्",
+        "slp1": "he svanaqut",
+        "iast": "he svanaḍut",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "70.001_8_2_he svanaquhI_4348": {
+    "id": "70.001_8_2_he svanaquhI_4348",
+    "key": "70.1|8|2|he svanaquhI",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "हे स्वनडुही",
+      "slp1": "he svanaquhI",
+      "iast": "he svanaḍuhī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे स्वनडुही",
+        "slp1": "he svanaquhI",
+        "iast": "he svanaḍuhī",
+        "sutras": [
+          "7.1.19"
+        ]
+      }
+    ]
+  },
+  "70.001_8_3_he svanaqvAMhi_4349": {
+    "id": "70.001_8_3_he svanaqvAMhi_4349",
+    "key": "70.1|8|3|he svanaqvAMhi",
+    "baseindex": {
+      "raw": "70.001",
+      "normalized": "70.1"
+    },
+    "word": {
+      "deva": "स्वनडुह्",
+      "slp1": "svanaquh",
+      "iast": "svanaḍuh"
+    },
+    "form": {
+      "deva": "हे स्वनड्वांहि",
+      "slp1": "he svanaqvAMhi",
+      "iast": "he svanaḍvāṃhi"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-70.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "स्वनडुह्+इ",
+        "slp1": "svanaquh+i",
+        "iast": "svanaḍuh+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "स्वनडु+आ+ह्+इ",
+        "slp1": "svanaqu+A+h+i",
+        "iast": "svanaḍu+ā+h+i",
+        "sutras": [
+          "7.1.98"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "स्वनडु+आ+न्+ह्+इ",
+        "slp1": "svanaqu+A+n+h+i",
+        "iast": "svanaḍu+ā+n+h+i",
+        "sutras": [
+          "7.1.72"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "स्वनड्वा+न्+ह्+इ",
+        "slp1": "svanaqvA+n+h+i",
+        "iast": "svanaḍvā+n+h+i",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हे स्वनड्वांहि",
+        "slp1": "he svanaqvAMhi",
+        "iast": "he svanaḍvāṃhi",
+        "sutras": [
+          "8.3.24"
+        ]
+      }
+    ]
+  }
+}

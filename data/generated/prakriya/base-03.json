@@ -1,0 +1,4329 @@
+{
+  "03.003_1_1_hariH_600": {
+    "id": "03.003_1_1_hariH_600",
+    "key": "3.3|1|1|hariH",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरिः",
+      "slp1": "hariH",
+      "iast": "hariḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरि + स्",
+        "slp1": "hari + s",
+        "iast": "hari + s",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरि+ रुँ",
+        "slp1": "hari+ ru~",
+        "iast": "hari+ rum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरि + र्",
+        "slp1": "hari + r",
+        "iast": "hari + r",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हरिः",
+        "slp1": "hariH",
+        "iast": "hariḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.003_1_2_harI_601": {
+    "id": "03.003_1_2_harI_601",
+    "key": "3.3|1|2|harI",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरी",
+      "slp1": "harI",
+      "iast": "harī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरी",
+        "slp1": "harI",
+        "iast": "harī",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "03.003_1_3_harayaH_602": {
+    "id": "03.003_1_3_harayaH_602",
+    "key": "3.3|1|3|harayaH",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरयः",
+      "slp1": "harayaH",
+      "iast": "harayaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरि + अस्",
+        "slp1": "hari + as",
+        "iast": "hari + as",
+        "sutras": [
+          "1.3.7",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरे + अस्",
+        "slp1": "hare + as",
+        "iast": "hare + as",
+        "sutras": [
+          "7.3.109"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरय् + अस्",
+        "slp1": "haray + as",
+        "iast": "haray + as",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हरय् + रुँ",
+        "slp1": "haray + ru~",
+        "iast": "haray + rum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हरय् + र्",
+        "slp1": "haray + r",
+        "iast": "haray + r",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 6,
+        "deva": "हरयः",
+        "slp1": "harayaH",
+        "iast": "harayaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.003_2_1_harim_603": {
+    "id": "03.003_2_1_harim_603",
+    "key": "3.3|2|1|harim",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरिम्",
+      "slp1": "harim",
+      "iast": "harim"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरिम्",
+        "slp1": "harim",
+        "iast": "harim",
+        "sutras": [
+          "6.1.107"
+        ]
+      }
+    ]
+  },
+  "03.003_2_2_harI_604": {
+    "id": "03.003_2_2_harI_604",
+    "key": "3.3|2|2|harI",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरी",
+      "slp1": "harI",
+      "iast": "harī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरी",
+        "slp1": "harI",
+        "iast": "harī",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "03.003_2_3_harIn_605": {
+    "id": "03.003_2_3_harIn_605",
+    "key": "3.3|2|3|harIn",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरीन्",
+      "slp1": "harIn",
+      "iast": "harīn"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरि + अस्",
+        "slp1": "hari + as",
+        "iast": "hari + as",
+        "sutras": [
+          "1.3.7",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरी + स्",
+        "slp1": "harI + s",
+        "iast": "harī + s",
+        "sutras": [
+          "6.1.102"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरीन्",
+        "slp1": "harIn",
+        "iast": "harīn",
+        "sutras": [
+          "6.1.103"
+        ]
+      }
+    ]
+  },
+  "03.003_3_1_hariRA_606": {
+    "id": "03.003_3_1_hariRA_606",
+    "key": "3.3|3|1|hariRA",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरिणा",
+      "slp1": "hariRA",
+      "iast": "hariṇā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरि + ना",
+        "slp1": "hari + nA",
+        "iast": "hari + nā",
+        "sutras": [
+          "7.3.120"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरिणा",
+        "slp1": "hariRA",
+        "iast": "hariṇā",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "03.003_3_2_hariByAm_607": {
+    "id": "03.003_3_2_hariByAm_607",
+    "key": "3.3|3|2|hariByAm",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरिभ्याम्",
+      "slp1": "hariByAm",
+      "iast": "haribhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरिभ्याम्",
+        "slp1": "hariByAm",
+        "iast": "haribhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "03.003_3_3_hariBiH_608": {
+    "id": "03.003_3_3_hariBiH_608",
+    "key": "3.3|3|3|hariBiH",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरिभिः",
+      "slp1": "hariBiH",
+      "iast": "haribhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरि + भिरुँ",
+        "slp1": "hari + Biru~",
+        "iast": "hari + bhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरि + भिर्",
+        "slp1": "hari + Bir",
+        "iast": "hari + bhir",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरिभिः",
+        "slp1": "hariBiH",
+        "iast": "haribhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.003_4_1_haraye_609": {
+    "id": "03.003_4_1_haraye_609",
+    "key": "3.3|4|1|haraye",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरये",
+      "slp1": "haraye",
+      "iast": "haraye"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरे + ए",
+        "slp1": "hare + e",
+        "iast": "hare + e",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरये",
+        "slp1": "haraye",
+        "iast": "haraye",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "03.003_4_2_hariByAm_610": {
+    "id": "03.003_4_2_hariByAm_610",
+    "key": "3.3|4|2|hariByAm",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरिभ्याम्",
+      "slp1": "hariByAm",
+      "iast": "haribhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरिभ्याम्",
+        "slp1": "hariByAm",
+        "iast": "haribhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "03.003_4_3_hariByaH_611": {
+    "id": "03.003_4_3_hariByaH_611",
+    "key": "3.3|4|3|hariByaH",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरिभ्यः",
+      "slp1": "hariByaH",
+      "iast": "haribhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरि + भ्यरुँ",
+        "slp1": "hari + Byaru~",
+        "iast": "hari + bhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरि + भ्यर्",
+        "slp1": "hari + Byar",
+        "iast": "hari + bhyar",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरिभ्यः",
+        "slp1": "hariByaH",
+        "iast": "haribhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.003_5_1_hareH_612": {
+    "id": "03.003_5_1_hareH_612",
+    "key": "3.3|5|1|hareH",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरेः",
+      "slp1": "hareH",
+      "iast": "hareḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरे + अस्",
+        "slp1": "hare + as",
+        "iast": "hare + as",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरेस्",
+        "slp1": "hares",
+        "iast": "hares",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरे+ रुँ",
+        "slp1": "hare+ ru~",
+        "iast": "hare+ rum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हरे + र्",
+        "slp1": "hare + r",
+        "iast": "hare + r",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हरेः",
+        "slp1": "hareH",
+        "iast": "hareḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.003_5_2_hariByAm_613": {
+    "id": "03.003_5_2_hariByAm_613",
+    "key": "3.3|5|2|hariByAm",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरिभ्याम्",
+      "slp1": "hariByAm",
+      "iast": "haribhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरिभ्याम्",
+        "slp1": "hariByAm",
+        "iast": "haribhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "03.003_5_3_hariByaH_614": {
+    "id": "03.003_5_3_hariByaH_614",
+    "key": "3.3|5|3|hariByaH",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरिभ्यः",
+      "slp1": "hariByaH",
+      "iast": "haribhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरि + भ्यरुँ",
+        "slp1": "hari + Byaru~",
+        "iast": "hari + bhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरि + भ्यर्",
+        "slp1": "hari + Byar",
+        "iast": "hari + bhyar",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरिभ्यः",
+        "slp1": "hariByaH",
+        "iast": "haribhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.003_6_1_hareH_615": {
+    "id": "03.003_6_1_hareH_615",
+    "key": "3.3|6|1|hareH",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरेः",
+      "slp1": "hareH",
+      "iast": "hareḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरे + अस्",
+        "slp1": "hare + as",
+        "iast": "hare + as",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरेस्",
+        "slp1": "hares",
+        "iast": "hares",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरे+ रुँ",
+        "slp1": "hare+ ru~",
+        "iast": "hare+ rum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हरे + र्",
+        "slp1": "hare + r",
+        "iast": "hare + r",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हरेः",
+        "slp1": "hareH",
+        "iast": "hareḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.003_6_2_haryoH_616": {
+    "id": "03.003_6_2_haryoH_616",
+    "key": "3.3|6|2|haryoH",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हर्योः",
+      "slp1": "haryoH",
+      "iast": "haryoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हर्य् +ओस्",
+        "slp1": "hary +os",
+        "iast": "hary +os",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हर्य्+ओरुँ",
+        "slp1": "hary+oru~",
+        "iast": "hary+orum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हर्य् + ओर्",
+        "slp1": "hary + or",
+        "iast": "hary + or",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हर्योः",
+        "slp1": "haryoH",
+        "iast": "haryoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.003_6_3_harIRAm_617": {
+    "id": "03.003_6_3_harIRAm_617",
+    "key": "3.3|6|3|harIRAm",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरीणाम्",
+      "slp1": "harIRAm",
+      "iast": "harīṇām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरि + न् + आम्",
+        "slp1": "hari + n + Am",
+        "iast": "hari + n + ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरी + नाम्",
+        "slp1": "harI + nAm",
+        "iast": "harī + nām",
+        "sutras": [
+          "6.4.3"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरीणाम्",
+        "slp1": "harIRAm",
+        "iast": "harīṇām",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "03.003_7_1_harO_618": {
+    "id": "03.003_7_1_harO_618",
+    "key": "3.3|7|1|harO",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरौ",
+      "slp1": "harO",
+      "iast": "harau"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरि + औ",
+        "slp1": "hari + O",
+        "iast": "hari + au",
+        "sutras": [
+          "7.3.119"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हर + औ",
+        "slp1": "hara + O",
+        "iast": "hara + au",
+        "sutras": [
+          "7.3.119"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरौ",
+        "slp1": "harO",
+        "iast": "harau",
+        "sutras": [
+          "6.1.88"
+        ]
+      }
+    ]
+  },
+  "03.003_7_2_haryoH_619": {
+    "id": "03.003_7_2_haryoH_619",
+    "key": "3.3|7|2|haryoH",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हर्योः",
+      "slp1": "haryoH",
+      "iast": "haryoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हर्य् +ओस्",
+        "slp1": "hary +os",
+        "iast": "hary +os",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हर्य्+ओरुँ",
+        "slp1": "hary+oru~",
+        "iast": "hary+orum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हर्य् + ओर्",
+        "slp1": "hary + or",
+        "iast": "hary + or",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हर्योः",
+        "slp1": "haryoH",
+        "iast": "haryoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.003_7_3_harizu_620": {
+    "id": "03.003_7_3_harizu_620",
+    "key": "3.3|7|3|harizu",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हरिषु",
+      "slp1": "harizu",
+      "iast": "hariṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरिषु",
+        "slp1": "harizu",
+        "iast": "hariṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "03.003_8_1_he hare_621": {
+    "id": "03.003_8_1_he hare_621",
+    "key": "3.3|8|1|he hare",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हे हरे",
+      "slp1": "he hare",
+      "iast": "he hare"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरे + स्",
+        "slp1": "hare + s",
+        "iast": "hare + s",
+        "sutras": [
+          "7.3.108"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे हरे",
+        "slp1": "he hare",
+        "iast": "he hare",
+        "sutras": [
+          "6.1.69"
+        ]
+      }
+    ]
+  },
+  "03.003_8_2_he harI_622": {
+    "id": "03.003_8_2_he harI_622",
+    "key": "3.3|8|2|he harI",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हे हरी",
+      "slp1": "he harI",
+      "iast": "he harī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे हरी",
+        "slp1": "he harI",
+        "iast": "he harī",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "03.003_8_3_he harayaH_623": {
+    "id": "03.003_8_3_he harayaH_623",
+    "key": "3.3|8|3|he harayaH",
+    "baseindex": {
+      "raw": "03.003",
+      "normalized": "3.3"
+    },
+    "word": {
+      "deva": "हरि",
+      "slp1": "hari",
+      "iast": "hari"
+    },
+    "form": {
+      "deva": "हे हरयः",
+      "slp1": "he harayaH",
+      "iast": "he harayaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हरि + अस्",
+        "slp1": "hari + as",
+        "iast": "hari + as",
+        "sutras": [
+          "1.3.7",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हरे + अस्",
+        "slp1": "hare + as",
+        "iast": "hare + as",
+        "sutras": [
+          "7.3.109"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हरय् + अस्",
+        "slp1": "haray + as",
+        "iast": "haray + as",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हरय् + रुँ",
+        "slp1": "haray + ru~",
+        "iast": "haray + rum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हरय् + र्",
+        "slp1": "haray + r",
+        "iast": "haray + r",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 6,
+        "deva": "हे हरयः",
+        "slp1": "he harayaH",
+        "iast": "he harayaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.004_1_1_saKA_624": {
+    "id": "03.004_1_1_saKA_624",
+    "key": "3.4|1|1|saKA",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखा",
+      "slp1": "saKA",
+      "iast": "sakhā"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखन्+स्",
+        "slp1": "saKan+s",
+        "iast": "sakhan+s",
+        "sutras": [
+          "7.1.93"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सखान्+स्",
+        "slp1": "saKAn+s",
+        "iast": "sakhān+s",
+        "sutras": [
+          "6.4.8"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखान्",
+        "slp1": "saKAn",
+        "iast": "sakhān",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "सखा",
+        "slp1": "saKA",
+        "iast": "sakhā",
+        "sutras": [
+          "8.2.7"
+        ]
+      }
+    ]
+  },
+  "03.004_1_2_saKAyO_625": {
+    "id": "03.004_1_2_saKAyO_625",
+    "key": "3.4|1|2|saKAyO",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखायौ",
+      "slp1": "saKAyO",
+      "iast": "sakhāyau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखि+औ",
+        "slp1": "saKi+O",
+        "iast": "sakhi+au",
+        "sutras": [
+          "7.1.92"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सखै+औ",
+        "slp1": "saKE+O",
+        "iast": "sakhai+au",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखायौ",
+        "slp1": "saKAyO",
+        "iast": "sakhāyau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "03.004_1_3_saKAyaH_626": {
+    "id": "03.004_1_3_saKAyaH_626",
+    "key": "3.4|1|3|saKAyaH",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखायः",
+      "slp1": "saKAyaH",
+      "iast": "sakhāyaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखि+अस्",
+        "slp1": "saKi+as",
+        "iast": "sakhi+as",
+        "sutras": [
+          "7.1.92"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सखै+अस्",
+        "slp1": "saKE+as",
+        "iast": "sakhai+as",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखायस्",
+        "slp1": "saKAyas",
+        "iast": "sakhāyas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "सखायरुँ",
+        "slp1": "saKAyaru~",
+        "iast": "sakhāyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "सखायः",
+        "slp1": "saKAyaH",
+        "iast": "sakhāyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.004_2_1_saKAyam_627": {
+    "id": "03.004_2_1_saKAyam_627",
+    "key": "3.4|2|1|saKAyam",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखायम्",
+      "slp1": "saKAyam",
+      "iast": "sakhāyam"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखि+अम्",
+        "slp1": "saKi+am",
+        "iast": "sakhi+am",
+        "sutras": [
+          "7.1.92"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सखै+अम्",
+        "slp1": "saKE+am",
+        "iast": "sakhai+am",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखायम्",
+        "slp1": "saKAyam",
+        "iast": "sakhāyam",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "03.004_2_2_saKAyO_628": {
+    "id": "03.004_2_2_saKAyO_628",
+    "key": "3.4|2|2|saKAyO",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखायौ",
+      "slp1": "saKAyO",
+      "iast": "sakhāyau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखि+औ",
+        "slp1": "saKi+O",
+        "iast": "sakhi+au",
+        "sutras": [
+          "7.1.92"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सखै+औ",
+        "slp1": "saKE+O",
+        "iast": "sakhai+au",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखायौ",
+        "slp1": "saKAyO",
+        "iast": "sakhāyau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "03.004_2_3_saKIn_629": {
+    "id": "03.004_2_3_saKIn_629",
+    "key": "3.4|2|3|saKIn",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखीन्",
+      "slp1": "saKIn",
+      "iast": "sakhīn"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखि+अस्",
+        "slp1": "saKi+as",
+        "iast": "sakhi+as",
+        "sutras": [
+          "1.3.8",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सखीस्",
+        "slp1": "saKIs",
+        "iast": "sakhīs",
+        "sutras": [
+          "6.1.102"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखीन्",
+        "slp1": "saKIn",
+        "iast": "sakhīn",
+        "sutras": [
+          "6.1.103"
+        ]
+      }
+    ]
+  },
+  "03.004_3_1_saKyA_630": {
+    "id": "03.004_3_1_saKyA_630",
+    "key": "3.4|3|1|saKyA",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सख्या",
+      "slp1": "saKyA",
+      "iast": "sakhyā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सख्या",
+        "slp1": "saKyA",
+        "iast": "sakhyā",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "03.004_3_2_saKiByAm_631": {
+    "id": "03.004_3_2_saKiByAm_631",
+    "key": "3.4|3|2|saKiByAm",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखिभ्याम्",
+      "slp1": "saKiByAm",
+      "iast": "sakhibhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखिभ्याम्",
+        "slp1": "saKiByAm",
+        "iast": "sakhibhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "03.004_3_3_saKiBiH_632": {
+    "id": "03.004_3_3_saKiBiH_632",
+    "key": "3.4|3|3|saKiBiH",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखिभिः",
+      "slp1": "saKiBiH",
+      "iast": "sakhibhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखिभिस्",
+        "slp1": "saKiBis",
+        "iast": "sakhibhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सखिभिरुँ",
+        "slp1": "saKiBiru~",
+        "iast": "sakhibhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखिभिः",
+        "slp1": "saKiBiH",
+        "iast": "sakhibhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.004_4_1_saKye_633": {
+    "id": "03.004_4_1_saKye_633",
+    "key": "3.4|4|1|saKye",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सख्ये",
+      "slp1": "saKye",
+      "iast": "sakhye"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सख्ये",
+        "slp1": "saKye",
+        "iast": "sakhye",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "03.004_4_2_saKiByAm_634": {
+    "id": "03.004_4_2_saKiByAm_634",
+    "key": "3.4|4|2|saKiByAm",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखिभ्याम्",
+      "slp1": "saKiByAm",
+      "iast": "sakhibhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखिभ्याम्",
+        "slp1": "saKiByAm",
+        "iast": "sakhibhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "03.004_4_3_saKiByaH_635": {
+    "id": "03.004_4_3_saKiByaH_635",
+    "key": "3.4|4|3|saKiByaH",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखिभ्यः",
+      "slp1": "saKiByaH",
+      "iast": "sakhibhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखिभ्यस्",
+        "slp1": "saKiByas",
+        "iast": "sakhibhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सखिभ्यरुँ",
+        "slp1": "saKiByaru~",
+        "iast": "sakhibhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखिभ्यः",
+        "slp1": "saKiByaH",
+        "iast": "sakhibhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.004_5_1_saKyuH_636": {
+    "id": "03.004_5_1_saKyuH_636",
+    "key": "3.4|5|1|saKyuH",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सख्युः",
+      "slp1": "saKyuH",
+      "iast": "sakhyuḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सख्य्+अस्",
+        "slp1": "saKy+as",
+        "iast": "sakhy+as",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सख्य्+उस्",
+        "slp1": "saKy+us",
+        "iast": "sakhy+us",
+        "sutras": [
+          "6.1.112"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सख्युस्",
+        "slp1": "saKyus",
+        "iast": "sakhyus",
+        "sutras": []
+      },
+      {
+        "index": 4,
+        "deva": "सख्युरुँ",
+        "slp1": "saKyuru~",
+        "iast": "sakhyurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "सख्युः",
+        "slp1": "saKyuH",
+        "iast": "sakhyuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.004_5_2_saKiByAm_637": {
+    "id": "03.004_5_2_saKiByAm_637",
+    "key": "3.4|5|2|saKiByAm",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखिभ्याम्",
+      "slp1": "saKiByAm",
+      "iast": "sakhibhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखिभ्याम्",
+        "slp1": "saKiByAm",
+        "iast": "sakhibhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "03.004_5_3_saKiByaH_638": {
+    "id": "03.004_5_3_saKiByaH_638",
+    "key": "3.4|5|3|saKiByaH",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखिभ्यः",
+      "slp1": "saKiByaH",
+      "iast": "sakhibhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखिभ्यस्",
+        "slp1": "saKiByas",
+        "iast": "sakhibhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सखिभ्यरुँ",
+        "slp1": "saKiByaru~",
+        "iast": "sakhibhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखिभ्यः",
+        "slp1": "saKiByaH",
+        "iast": "sakhibhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.004_6_1_saKyuH_639": {
+    "id": "03.004_6_1_saKyuH_639",
+    "key": "3.4|6|1|saKyuH",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सख्युः",
+      "slp1": "saKyuH",
+      "iast": "sakhyuḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सख्य्+अस्",
+        "slp1": "saKy+as",
+        "iast": "sakhy+as",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सख्य्+उस्",
+        "slp1": "saKy+us",
+        "iast": "sakhy+us",
+        "sutras": [
+          "6.1.112"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सख्युस्",
+        "slp1": "saKyus",
+        "iast": "sakhyus",
+        "sutras": []
+      },
+      {
+        "index": 4,
+        "deva": "सख्युरुँ",
+        "slp1": "saKyuru~",
+        "iast": "sakhyurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "सख्युः",
+        "slp1": "saKyuH",
+        "iast": "sakhyuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.004_6_2_saKyoH_640": {
+    "id": "03.004_6_2_saKyoH_640",
+    "key": "3.4|6|2|saKyoH",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सख्योः",
+      "slp1": "saKyoH",
+      "iast": "sakhyoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सख्य्+ओस्",
+        "slp1": "saKy+os",
+        "iast": "sakhy+os",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सख्योस्",
+        "slp1": "saKyos",
+        "iast": "sakhyos",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "सख्योरुँ",
+        "slp1": "saKyoru~",
+        "iast": "sakhyorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "सख्योः",
+        "slp1": "saKyoH",
+        "iast": "sakhyoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.004_6_3_saKInAm_641": {
+    "id": "03.004_6_3_saKInAm_641",
+    "key": "3.4|6|3|saKInAm",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखीनाम्",
+      "slp1": "saKInAm",
+      "iast": "sakhīnām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखि+न्+आम्",
+        "slp1": "saKi+n+Am",
+        "iast": "sakhi+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सखी+नाम्",
+        "slp1": "saKI+nAm",
+        "iast": "sakhī+nām",
+        "sutras": [
+          "6.4.3"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखीनाम्",
+        "slp1": "saKInAm",
+        "iast": "sakhīnām",
+        "sutras": []
+      }
+    ]
+  },
+  "03.004_7_1_saKyO_642": {
+    "id": "03.004_7_1_saKyO_642",
+    "key": "3.4|7|1|saKyO",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सख्यौ",
+      "slp1": "saKyO",
+      "iast": "sakhyau"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखि+औ",
+        "slp1": "saKi+O",
+        "iast": "sakhi+au",
+        "sutras": [
+          "7.3.118"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सख्यौ",
+        "slp1": "saKyO",
+        "iast": "sakhyau",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "03.004_7_2_saKyoH_643": {
+    "id": "03.004_7_2_saKyoH_643",
+    "key": "3.4|7|2|saKyoH",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सख्योः",
+      "slp1": "saKyoH",
+      "iast": "sakhyoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सख्य्+ओस्",
+        "slp1": "saKy+os",
+        "iast": "sakhy+os",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सख्योस्",
+        "slp1": "saKyos",
+        "iast": "sakhyos",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "सख्योरुँ",
+        "slp1": "saKyoru~",
+        "iast": "sakhyorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "सख्योः",
+        "slp1": "saKyoH",
+        "iast": "sakhyoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.004_7_3_saKizu_644": {
+    "id": "03.004_7_3_saKizu_644",
+    "key": "3.4|7|3|saKizu",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "सखिषु",
+      "slp1": "saKizu",
+      "iast": "sakhiṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखिषु",
+        "slp1": "saKizu",
+        "iast": "sakhiṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "03.004_8_1_he saKe_645": {
+    "id": "03.004_8_1_he saKe_645",
+    "key": "3.4|8|1|he saKe",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "हे सखे",
+      "slp1": "he saKe",
+      "iast": "he sakhe"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखे+स्",
+        "slp1": "saKe+s",
+        "iast": "sakhe+s",
+        "sutras": [
+          "7.3.108"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे सखे",
+        "slp1": "he saKe",
+        "iast": "he sakhe",
+        "sutras": [
+          "6.1.69"
+        ]
+      }
+    ]
+  },
+  "03.004_8_2_he saKAyO_646": {
+    "id": "03.004_8_2_he saKAyO_646",
+    "key": "3.4|8|2|he saKAyO",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "हे सखायौ",
+      "slp1": "he saKAyO",
+      "iast": "he sakhāyau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखि+औ",
+        "slp1": "saKi+O",
+        "iast": "sakhi+au",
+        "sutras": [
+          "7.1.92"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सखै+औ",
+        "slp1": "saKE+O",
+        "iast": "sakhai+au",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे सखायौ",
+        "slp1": "he saKAyO",
+        "iast": "he sakhāyau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "03.004_8_3_he saKAyaH_647": {
+    "id": "03.004_8_3_he saKAyaH_647",
+    "key": "3.4|8|3|he saKAyaH",
+    "baseindex": {
+      "raw": "03.004",
+      "normalized": "3.4"
+    },
+    "word": {
+      "deva": "सखि",
+      "slp1": "saKi",
+      "iast": "sakhi"
+    },
+    "form": {
+      "deva": "हे सखायः",
+      "slp1": "he saKAyaH",
+      "iast": "he sakhāyaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सखि+अस्",
+        "slp1": "saKi+as",
+        "iast": "sakhi+as",
+        "sutras": [
+          "7.1.92"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सखै+अस्",
+        "slp1": "saKE+as",
+        "iast": "sakhai+as",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सखायस्",
+        "slp1": "saKAyas",
+        "iast": "sakhāyas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "सखायरुँ",
+        "slp1": "saKAyaru~",
+        "iast": "sakhāyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हे सखायः",
+        "slp1": "he saKAyaH",
+        "iast": "he sakhāyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.006_1_1_patiH_648": {
+    "id": "03.006_1_1_patiH_648",
+    "key": "3.6|1|1|patiH",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतिः",
+      "slp1": "patiH",
+      "iast": "patiḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पतिस्",
+        "slp1": "patis",
+        "iast": "patis",
+        "sutras": [
+          "1.3.2",
+          "1.3.9"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "पतिरुँ",
+        "slp1": "patiru~",
+        "iast": "patirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "पतिः",
+        "slp1": "patiH",
+        "iast": "patiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.006_1_2_patI_649": {
+    "id": "03.006_1_2_patI_649",
+    "key": "3.6|1|2|patI",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पती",
+      "slp1": "patI",
+      "iast": "patī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पती",
+        "slp1": "patI",
+        "iast": "patī",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "03.006_1_3_patayaH_650": {
+    "id": "03.006_1_3_patayaH_650",
+    "key": "3.6|1|3|patayaH",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतयः",
+      "slp1": "patayaH",
+      "iast": "patayaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पते+अस्",
+        "slp1": "pate+as",
+        "iast": "pate+as",
+        "sutras": [
+          "7.3.109"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "पतयस्",
+        "slp1": "patayas",
+        "iast": "patayas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "पतयरुँ",
+        "slp1": "patayaru~",
+        "iast": "patayarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "पतयः",
+        "slp1": "patayaH",
+        "iast": "patayaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.006_2_1_patim_651": {
+    "id": "03.006_2_1_patim_651",
+    "key": "3.6|2|1|patim",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतिम्",
+      "slp1": "patim",
+      "iast": "patim"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पतिम्",
+        "slp1": "patim",
+        "iast": "patim",
+        "sutras": [
+          "6.1.107"
+        ]
+      }
+    ]
+  },
+  "03.006_2_2_patI_652": {
+    "id": "03.006_2_2_patI_652",
+    "key": "3.6|2|2|patI",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पती",
+      "slp1": "patI",
+      "iast": "patī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पती",
+        "slp1": "patI",
+        "iast": "patī",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "03.006_2_3_patIn_653": {
+    "id": "03.006_2_3_patIn_653",
+    "key": "3.6|2|3|patIn",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतीन्",
+      "slp1": "patIn",
+      "iast": "patīn"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पती+स्",
+        "slp1": "patI+s",
+        "iast": "patī+s",
+        "sutras": [
+          "6.1.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "पतीन्",
+        "slp1": "patIn",
+        "iast": "patīn",
+        "sutras": [
+          "6.1.103"
+        ]
+      }
+    ]
+  },
+  "03.006_3_1_patyA_654": {
+    "id": "03.006_3_1_patyA_654",
+    "key": "3.6|3|1|patyA",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पत्या",
+      "slp1": "patyA",
+      "iast": "patyā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पत्या",
+        "slp1": "patyA",
+        "iast": "patyā",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "03.006_3_2_patiByAm_655": {
+    "id": "03.006_3_2_patiByAm_655",
+    "key": "3.6|3|2|patiByAm",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतिभ्याम्",
+      "slp1": "patiByAm",
+      "iast": "patibhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पतिभ्याम्",
+        "slp1": "patiByAm",
+        "iast": "patibhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "03.006_3_3_patiBiH_656": {
+    "id": "03.006_3_3_patiBiH_656",
+    "key": "3.6|3|3|patiBiH",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतिभिः",
+      "slp1": "patiBiH",
+      "iast": "patibhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पतिभिस्",
+        "slp1": "patiBis",
+        "iast": "patibhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "पतिभिरुँ",
+        "slp1": "patiBiru~",
+        "iast": "patibhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "पतिभिः",
+        "slp1": "patiBiH",
+        "iast": "patibhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.006_4_1_patye_657": {
+    "id": "03.006_4_1_patye_657",
+    "key": "3.6|4|1|patye",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पत्ये",
+      "slp1": "patye",
+      "iast": "patye"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पत्ये",
+        "slp1": "patye",
+        "iast": "patye",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "03.006_4_2_patiByAm_658": {
+    "id": "03.006_4_2_patiByAm_658",
+    "key": "3.6|4|2|patiByAm",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतिभ्याम्",
+      "slp1": "patiByAm",
+      "iast": "patibhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पतिभ्याम्",
+        "slp1": "patiByAm",
+        "iast": "patibhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "03.006_4_3_patiByaH_659": {
+    "id": "03.006_4_3_patiByaH_659",
+    "key": "3.6|4|3|patiByaH",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतिभ्यः",
+      "slp1": "patiByaH",
+      "iast": "patibhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पतिभ्यः",
+        "slp1": "patiByaH",
+        "iast": "patibhyaḥ",
+        "sutras": []
+      }
+    ]
+  },
+  "03.006_5_1_patyuH_660": {
+    "id": "03.006_5_1_patyuH_660",
+    "key": "3.6|5|1|patyuH",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पत्युः",
+      "slp1": "patyuH",
+      "iast": "patyuḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पत्य्+अस्",
+        "slp1": "paty+as",
+        "iast": "paty+as",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "पत्युस्",
+        "slp1": "patyus",
+        "iast": "patyus",
+        "sutras": [
+          "6.1.112"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "पत्युरुँ",
+        "slp1": "patyuru~",
+        "iast": "patyurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "पत्युः",
+        "slp1": "patyuH",
+        "iast": "patyuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.006_5_2_patiByAm_661": {
+    "id": "03.006_5_2_patiByAm_661",
+    "key": "3.6|5|2|patiByAm",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतिभ्याम्",
+      "slp1": "patiByAm",
+      "iast": "patibhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पतिभ्याम्",
+        "slp1": "patiByAm",
+        "iast": "patibhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "03.006_5_3_patiByaH_662": {
+    "id": "03.006_5_3_patiByaH_662",
+    "key": "3.6|5|3|patiByaH",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतिभ्यः",
+      "slp1": "patiByaH",
+      "iast": "patibhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पतिभ्यः",
+        "slp1": "patiByaH",
+        "iast": "patibhyaḥ",
+        "sutras": []
+      }
+    ]
+  },
+  "03.006_6_1_patyuH_663": {
+    "id": "03.006_6_1_patyuH_663",
+    "key": "3.6|6|1|patyuH",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पत्युः",
+      "slp1": "patyuH",
+      "iast": "patyuḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पत्य्+अस्",
+        "slp1": "paty+as",
+        "iast": "paty+as",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "पत्युस्",
+        "slp1": "patyus",
+        "iast": "patyus",
+        "sutras": [
+          "6.1.112"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "पत्युरुँ",
+        "slp1": "patyuru~",
+        "iast": "patyurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "पत्युः",
+        "slp1": "patyuH",
+        "iast": "patyuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.006_6_2_patyoH_664": {
+    "id": "03.006_6_2_patyoH_664",
+    "key": "3.6|6|2|patyoH",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पत्योः",
+      "slp1": "patyoH",
+      "iast": "patyoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पत्योस्",
+        "slp1": "patyos",
+        "iast": "patyos",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "पत्योरुँ",
+        "slp1": "patyoru~",
+        "iast": "patyorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "पत्योः",
+        "slp1": "patyoH",
+        "iast": "patyoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.006_6_3_patInAm_665": {
+    "id": "03.006_6_3_patInAm_665",
+    "key": "3.6|6|3|patInAm",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतीनाम्",
+      "slp1": "patInAm",
+      "iast": "patīnām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पति+न्+आम्",
+        "slp1": "pati+n+Am",
+        "iast": "pati+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "पतीनाम्",
+        "slp1": "patInAm",
+        "iast": "patīnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      }
+    ]
+  },
+  "03.006_7_1_patyO_666": {
+    "id": "03.006_7_1_patyO_666",
+    "key": "3.6|7|1|patyO",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पत्यौ",
+      "slp1": "patyO",
+      "iast": "patyau"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पति+औ",
+        "slp1": "pati+O",
+        "iast": "pati+au",
+        "sutras": [
+          "7.3.118"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "पत्यौ",
+        "slp1": "patyO",
+        "iast": "patyau",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "03.006_7_2_patyoH_667": {
+    "id": "03.006_7_2_patyoH_667",
+    "key": "3.6|7|2|patyoH",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पत्योः",
+      "slp1": "patyoH",
+      "iast": "patyoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पत्योस्",
+        "slp1": "patyos",
+        "iast": "patyos",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "पत्योरुँ",
+        "slp1": "patyoru~",
+        "iast": "patyorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "पत्योः",
+        "slp1": "patyoH",
+        "iast": "patyoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.006_7_3_patizu_668": {
+    "id": "03.006_7_3_patizu_668",
+    "key": "3.6|7|3|patizu",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "पतिषु",
+      "slp1": "patizu",
+      "iast": "patiṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पतिषु",
+        "slp1": "patizu",
+        "iast": "patiṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "03.006_8_1_he pate_669": {
+    "id": "03.006_8_1_he pate_669",
+    "key": "3.6|8|1|he pate",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "हे पते",
+      "slp1": "he pate",
+      "iast": "he pate"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पते+स्",
+        "slp1": "pate+s",
+        "iast": "pate+s",
+        "sutras": [
+          "7.3.108"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे पते",
+        "slp1": "he pate",
+        "iast": "he pate",
+        "sutras": [
+          "6.1.69"
+        ]
+      }
+    ]
+  },
+  "03.006_8_2_he patI_670": {
+    "id": "03.006_8_2_he patI_670",
+    "key": "3.6|8|2|he patI",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "हे पती",
+      "slp1": "he patI",
+      "iast": "he patī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे पती",
+        "slp1": "he patI",
+        "iast": "he patī",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "03.006_8_3_he patayaH_671": {
+    "id": "03.006_8_3_he patayaH_671",
+    "key": "3.6|8|3|he patayaH",
+    "baseindex": {
+      "raw": "03.006",
+      "normalized": "3.6"
+    },
+    "word": {
+      "deva": "पति",
+      "slp1": "pati",
+      "iast": "pati"
+    },
+    "form": {
+      "deva": "हे पतयः",
+      "slp1": "he patayaH",
+      "iast": "he patayaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "पते+अस्",
+        "slp1": "pate+as",
+        "iast": "pate+as",
+        "sutras": [
+          "7.3.109"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "पतयस्",
+        "slp1": "patayas",
+        "iast": "patayas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "पतयरुँ",
+        "slp1": "patayaru~",
+        "iast": "patayarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हे पतयः",
+        "slp1": "he patayaH",
+        "iast": "he patayaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.008_1_3_kati_672": {
+    "id": "03.008_1_3_kati_672",
+    "key": "3.8|1|3|kati",
+    "baseindex": {
+      "raw": "03.008",
+      "normalized": "3.8"
+    },
+    "word": {
+      "deva": "कति",
+      "slp1": "kati",
+      "iast": "kati"
+    },
+    "form": {
+      "deva": "कति",
+      "slp1": "kati",
+      "iast": "kati"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "कति",
+        "slp1": "kati",
+        "iast": "kati",
+        "sutras": [
+          "7.1.22"
+        ]
+      }
+    ]
+  },
+  "03.008_2_3_kati_673": {
+    "id": "03.008_2_3_kati_673",
+    "key": "3.8|2|3|kati",
+    "baseindex": {
+      "raw": "03.008",
+      "normalized": "3.8"
+    },
+    "word": {
+      "deva": "कति",
+      "slp1": "kati",
+      "iast": "kati"
+    },
+    "form": {
+      "deva": "कति",
+      "slp1": "kati",
+      "iast": "kati"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "कति",
+        "slp1": "kati",
+        "iast": "kati",
+        "sutras": [
+          "7.1.22"
+        ]
+      }
+    ]
+  },
+  "03.008_3_3_katiBiH_674": {
+    "id": "03.008_3_3_katiBiH_674",
+    "key": "3.8|3|3|katiBiH",
+    "baseindex": {
+      "raw": "03.008",
+      "normalized": "3.8"
+    },
+    "word": {
+      "deva": "कति",
+      "slp1": "kati",
+      "iast": "kati"
+    },
+    "form": {
+      "deva": "कतिभिः",
+      "slp1": "katiBiH",
+      "iast": "katibhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "कतिभिस्",
+        "slp1": "katiBis",
+        "iast": "katibhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "कतिभिरुँ",
+        "slp1": "katiBiru~",
+        "iast": "katibhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "कतिभिः",
+        "slp1": "katiBiH",
+        "iast": "katibhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.008_4_3_katiByaH_675": {
+    "id": "03.008_4_3_katiByaH_675",
+    "key": "3.8|4|3|katiByaH",
+    "baseindex": {
+      "raw": "03.008",
+      "normalized": "3.8"
+    },
+    "word": {
+      "deva": "कति",
+      "slp1": "kati",
+      "iast": "kati"
+    },
+    "form": {
+      "deva": "कतिभ्यः",
+      "slp1": "katiByaH",
+      "iast": "katibhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "कतिभ्यस्",
+        "slp1": "katiByas",
+        "iast": "katibhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "कतिभ्यरुँ",
+        "slp1": "katiByaru~",
+        "iast": "katibhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "कतिभ्यः",
+        "slp1": "katiByaH",
+        "iast": "katibhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.008_5_3_katiByaH_676": {
+    "id": "03.008_5_3_katiByaH_676",
+    "key": "3.8|5|3|katiByaH",
+    "baseindex": {
+      "raw": "03.008",
+      "normalized": "3.8"
+    },
+    "word": {
+      "deva": "कति",
+      "slp1": "kati",
+      "iast": "kati"
+    },
+    "form": {
+      "deva": "कतिभ्यः",
+      "slp1": "katiByaH",
+      "iast": "katibhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "कतिभ्यस्",
+        "slp1": "katiByas",
+        "iast": "katibhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "कतिभ्यरुँ",
+        "slp1": "katiByaru~",
+        "iast": "katibhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "कतिभ्यः",
+        "slp1": "katiByaH",
+        "iast": "katibhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.008_6_3_katInAm_677": {
+    "id": "03.008_6_3_katInAm_677",
+    "key": "3.8|6|3|katInAm",
+    "baseindex": {
+      "raw": "03.008",
+      "normalized": "3.8"
+    },
+    "word": {
+      "deva": "कति",
+      "slp1": "kati",
+      "iast": "kati"
+    },
+    "form": {
+      "deva": "कतीनाम्",
+      "slp1": "katInAm",
+      "iast": "katīnām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "कति+न्+आम्",
+        "slp1": "kati+n+Am",
+        "iast": "kati+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "कतीनाम्",
+        "slp1": "katInAm",
+        "iast": "katīnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      }
+    ]
+  },
+  "03.008_7_3_katizu_678": {
+    "id": "03.008_7_3_katizu_678",
+    "key": "3.8|7|3|katizu",
+    "baseindex": {
+      "raw": "03.008",
+      "normalized": "3.8"
+    },
+    "word": {
+      "deva": "कति",
+      "slp1": "kati",
+      "iast": "kati"
+    },
+    "form": {
+      "deva": "कतिषु",
+      "slp1": "katizu",
+      "iast": "katiṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "कतिषु",
+        "slp1": "katizu",
+        "iast": "katiṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "03.008_8_3_he kati_679": {
+    "id": "03.008_8_3_he kati_679",
+    "key": "3.8|8|3|he kati",
+    "baseindex": {
+      "raw": "03.008",
+      "normalized": "3.8"
+    },
+    "word": {
+      "deva": "कति",
+      "slp1": "kati",
+      "iast": "kati"
+    },
+    "form": {
+      "deva": "हे कति",
+      "slp1": "he kati",
+      "iast": "he kati"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे कति",
+        "slp1": "he kati",
+        "iast": "he kati",
+        "sutras": [
+          "7.1.22"
+        ]
+      }
+    ]
+  },
+  "03.009_1_3_trayaH_680": {
+    "id": "03.009_1_3_trayaH_680",
+    "key": "3.9|1|3|trayaH",
+    "baseindex": {
+      "raw": "03.009",
+      "normalized": "3.9"
+    },
+    "word": {
+      "deva": "त्रि",
+      "slp1": "tri",
+      "iast": "tri"
+    },
+    "form": {
+      "deva": "त्रयः",
+      "slp1": "trayaH",
+      "iast": "trayaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "त्रे+अस्",
+        "slp1": "tre+as",
+        "iast": "tre+as",
+        "sutras": [
+          "7.3.109"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "त्रयस्",
+        "slp1": "trayas",
+        "iast": "trayas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "त्रयरुँ",
+        "slp1": "trayaru~",
+        "iast": "trayarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "त्रयः",
+        "slp1": "trayaH",
+        "iast": "trayaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.009_2_3_trIn_681": {
+    "id": "03.009_2_3_trIn_681",
+    "key": "3.9|2|3|trIn",
+    "baseindex": {
+      "raw": "03.009",
+      "normalized": "3.9"
+    },
+    "word": {
+      "deva": "त्रि",
+      "slp1": "tri",
+      "iast": "tri"
+    },
+    "form": {
+      "deva": "त्रीन्",
+      "slp1": "trIn",
+      "iast": "trīn"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "त्री+स्",
+        "slp1": "trI+s",
+        "iast": "trī+s",
+        "sutras": [
+          "6.1.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "त्रीन्",
+        "slp1": "trIn",
+        "iast": "trīn",
+        "sutras": [
+          "6.1.103"
+        ]
+      }
+    ]
+  },
+  "03.009_3_3_triBiH_682": {
+    "id": "03.009_3_3_triBiH_682",
+    "key": "3.9|3|3|triBiH",
+    "baseindex": {
+      "raw": "03.009",
+      "normalized": "3.9"
+    },
+    "word": {
+      "deva": "त्रि",
+      "slp1": "tri",
+      "iast": "tri"
+    },
+    "form": {
+      "deva": "त्रिभिः",
+      "slp1": "triBiH",
+      "iast": "tribhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "त्रिभिस्",
+        "slp1": "triBis",
+        "iast": "tribhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "त्रिभिरुँ",
+        "slp1": "triBiru~",
+        "iast": "tribhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "त्रिभिः",
+        "slp1": "triBiH",
+        "iast": "tribhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.009_4_3_triByaH_683": {
+    "id": "03.009_4_3_triByaH_683",
+    "key": "3.9|4|3|triByaH",
+    "baseindex": {
+      "raw": "03.009",
+      "normalized": "3.9"
+    },
+    "word": {
+      "deva": "त्रि",
+      "slp1": "tri",
+      "iast": "tri"
+    },
+    "form": {
+      "deva": "त्रिभ्यः",
+      "slp1": "triByaH",
+      "iast": "tribhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "त्रिभ्यस्",
+        "slp1": "triByas",
+        "iast": "tribhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "त्रिभ्यरुँ",
+        "slp1": "triByaru~",
+        "iast": "tribhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "त्रिभ्यः",
+        "slp1": "triByaH",
+        "iast": "tribhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.009_5_3_triByaH_684": {
+    "id": "03.009_5_3_triByaH_684",
+    "key": "3.9|5|3|triByaH",
+    "baseindex": {
+      "raw": "03.009",
+      "normalized": "3.9"
+    },
+    "word": {
+      "deva": "त्रि",
+      "slp1": "tri",
+      "iast": "tri"
+    },
+    "form": {
+      "deva": "त्रिभ्यः",
+      "slp1": "triByaH",
+      "iast": "tribhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "त्रिभ्यस्",
+        "slp1": "triByas",
+        "iast": "tribhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "त्रिभ्यरुँ",
+        "slp1": "triByaru~",
+        "iast": "tribhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "त्रिभ्यः",
+        "slp1": "triByaH",
+        "iast": "tribhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.009_6_3_trayARAm_685": {
+    "id": "03.009_6_3_trayARAm_685",
+    "key": "3.9|6|3|trayARAm",
+    "baseindex": {
+      "raw": "03.009",
+      "normalized": "3.9"
+    },
+    "word": {
+      "deva": "त्रि",
+      "slp1": "tri",
+      "iast": "tri"
+    },
+    "form": {
+      "deva": "त्रयाणाम्",
+      "slp1": "trayARAm",
+      "iast": "trayāṇām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "त्रय",
+        "slp1": "traya",
+        "iast": "traya",
+        "sutras": [
+          "7.1.53"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "त्रय+न्+आम्",
+        "slp1": "traya+n+Am",
+        "iast": "traya+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "त्रयानाम्",
+        "slp1": "trayAnAm",
+        "iast": "trayānām",
+        "sutras": [
+          "6.4.3"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "त्रयाणाम्",
+        "slp1": "trayARAm",
+        "iast": "trayāṇām",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "03.009_7_3_trizu_686": {
+    "id": "03.009_7_3_trizu_686",
+    "key": "3.9|7|3|trizu",
+    "baseindex": {
+      "raw": "03.009",
+      "normalized": "3.9"
+    },
+    "word": {
+      "deva": "त्रि",
+      "slp1": "tri",
+      "iast": "tri"
+    },
+    "form": {
+      "deva": "त्रिषु",
+      "slp1": "trizu",
+      "iast": "triṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "त्रिषु",
+        "slp1": "trizu",
+        "iast": "triṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "03.009_8_3_he trayaH_687": {
+    "id": "03.009_8_3_he trayaH_687",
+    "key": "3.9|8|3|he trayaH",
+    "baseindex": {
+      "raw": "03.009",
+      "normalized": "3.9"
+    },
+    "word": {
+      "deva": "त्रि",
+      "slp1": "tri",
+      "iast": "tri"
+    },
+    "form": {
+      "deva": "हे त्रयः",
+      "slp1": "he trayaH",
+      "iast": "he trayaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "त्रे+अस्",
+        "slp1": "tre+as",
+        "iast": "tre+as",
+        "sutras": [
+          "7.3.109"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "त्रयस्",
+        "slp1": "trayas",
+        "iast": "trayas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "त्रयरुँ",
+        "slp1": "trayaru~",
+        "iast": "trayarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हे त्रयः",
+        "slp1": "he trayaH",
+        "iast": "he trayaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.013_1_2_dvO_688": {
+    "id": "03.013_1_2_dvO_688",
+    "key": "3.13|1|2|dvO",
+    "baseindex": {
+      "raw": "03.013",
+      "normalized": "3.13"
+    },
+    "word": {
+      "deva": "द्वि",
+      "slp1": "dvi",
+      "iast": "dvi"
+    },
+    "form": {
+      "deva": "द्वौ",
+      "slp1": "dvO",
+      "iast": "dvau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्व+औ",
+        "slp1": "dva+O",
+        "iast": "dva+au",
+        "sutras": [
+          "7.2.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्वौ",
+        "slp1": "dvO",
+        "iast": "dvau",
+        "sutras": [
+          "6.1.88"
+        ]
+      }
+    ]
+  },
+  "03.013_2_2_dvO_689": {
+    "id": "03.013_2_2_dvO_689",
+    "key": "3.13|2|2|dvO",
+    "baseindex": {
+      "raw": "03.013",
+      "normalized": "3.13"
+    },
+    "word": {
+      "deva": "द्वि",
+      "slp1": "dvi",
+      "iast": "dvi"
+    },
+    "form": {
+      "deva": "द्वौ",
+      "slp1": "dvO",
+      "iast": "dvau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्व+औ",
+        "slp1": "dva+O",
+        "iast": "dva+au",
+        "sutras": [
+          "7.2.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्वौ",
+        "slp1": "dvO",
+        "iast": "dvau",
+        "sutras": [
+          "6.1.88"
+        ]
+      }
+    ]
+  },
+  "03.013_3_2_dvAByAm_690": {
+    "id": "03.013_3_2_dvAByAm_690",
+    "key": "3.13|3|2|dvAByAm",
+    "baseindex": {
+      "raw": "03.013",
+      "normalized": "3.13"
+    },
+    "word": {
+      "deva": "द्वि",
+      "slp1": "dvi",
+      "iast": "dvi"
+    },
+    "form": {
+      "deva": "द्वाभ्याम्",
+      "slp1": "dvAByAm",
+      "iast": "dvābhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्व+भ्याम्",
+        "slp1": "dva+ByAm",
+        "iast": "dva+bhyām",
+        "sutras": [
+          "7.2.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्वाभ्याम्",
+        "slp1": "dvAByAm",
+        "iast": "dvābhyām",
+        "sutras": [
+          "7.3.102"
+        ]
+      }
+    ]
+  },
+  "03.013_4_2_dvAByAm_691": {
+    "id": "03.013_4_2_dvAByAm_691",
+    "key": "3.13|4|2|dvAByAm",
+    "baseindex": {
+      "raw": "03.013",
+      "normalized": "3.13"
+    },
+    "word": {
+      "deva": "द्वि",
+      "slp1": "dvi",
+      "iast": "dvi"
+    },
+    "form": {
+      "deva": "द्वाभ्याम्",
+      "slp1": "dvAByAm",
+      "iast": "dvābhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्व+भ्याम्",
+        "slp1": "dva+ByAm",
+        "iast": "dva+bhyām",
+        "sutras": [
+          "7.2.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्वाभ्याम्",
+        "slp1": "dvAByAm",
+        "iast": "dvābhyām",
+        "sutras": [
+          "7.3.102"
+        ]
+      }
+    ]
+  },
+  "03.013_5_2_dvAByAm_692": {
+    "id": "03.013_5_2_dvAByAm_692",
+    "key": "3.13|5|2|dvAByAm",
+    "baseindex": {
+      "raw": "03.013",
+      "normalized": "3.13"
+    },
+    "word": {
+      "deva": "द्वि",
+      "slp1": "dvi",
+      "iast": "dvi"
+    },
+    "form": {
+      "deva": "द्वाभ्याम्",
+      "slp1": "dvAByAm",
+      "iast": "dvābhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्व+भ्याम्",
+        "slp1": "dva+ByAm",
+        "iast": "dva+bhyām",
+        "sutras": [
+          "7.2.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्वाभ्याम्",
+        "slp1": "dvAByAm",
+        "iast": "dvābhyām",
+        "sutras": [
+          "7.3.102"
+        ]
+      }
+    ]
+  },
+  "03.013_6_2_dvayoH_693": {
+    "id": "03.013_6_2_dvayoH_693",
+    "key": "3.13|6|2|dvayoH",
+    "baseindex": {
+      "raw": "03.013",
+      "normalized": "3.13"
+    },
+    "word": {
+      "deva": "द्वि",
+      "slp1": "dvi",
+      "iast": "dvi"
+    },
+    "form": {
+      "deva": "द्वयोः",
+      "slp1": "dvayoH",
+      "iast": "dvayoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्व+ओस्",
+        "slp1": "dva+os",
+        "iast": "dva+os",
+        "sutras": [
+          "7.2.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्वे+ओस्",
+        "slp1": "dve+os",
+        "iast": "dve+os",
+        "sutras": [
+          "7.3.104"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्वयोस्",
+        "slp1": "dvayos",
+        "iast": "dvayos",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "द्वयोरुँ",
+        "slp1": "dvayoru~",
+        "iast": "dvayorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "द्वयोः",
+        "slp1": "dvayoH",
+        "iast": "dvayoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "03.013_7_2_dvayoH_694": {
+    "id": "03.013_7_2_dvayoH_694",
+    "key": "3.13|7|2|dvayoH",
+    "baseindex": {
+      "raw": "03.013",
+      "normalized": "3.13"
+    },
+    "word": {
+      "deva": "द्वि",
+      "slp1": "dvi",
+      "iast": "dvi"
+    },
+    "form": {
+      "deva": "द्वयोः",
+      "slp1": "dvayoH",
+      "iast": "dvayoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-03.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्व+ओस्",
+        "slp1": "dva+os",
+        "iast": "dva+os",
+        "sutras": [
+          "7.2.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्वे+ओस्",
+        "slp1": "dve+os",
+        "iast": "dve+os",
+        "sutras": [
+          "7.3.104"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्वयोस्",
+        "slp1": "dvayos",
+        "iast": "dvayos",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "द्वयोरुँ",
+        "slp1": "dvayoru~",
+        "iast": "dvayorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "द्वयोः",
+        "slp1": "dvayoH",
+        "iast": "dvayoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

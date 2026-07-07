@@ -1,0 +1,1047 @@
+{
+  "51.001_1_1_gub_3526": {
+    "id": "51.001_1_1_gub_3526",
+    "key": "51.1|1|1|gub",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुब्",
+      "slp1": "gub",
+      "iast": "gub"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुप्",
+        "slp1": "gup",
+        "iast": "gup",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गुब्",
+        "slp1": "gub",
+        "iast": "gub",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "51.001_1_1_gup_3527": {
+    "id": "51.001_1_1_gup_3527",
+    "key": "51.1|1|1|gup",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुप्",
+        "slp1": "gup",
+        "iast": "gup",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गुब्",
+        "slp1": "gub",
+        "iast": "gub",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गुप्",
+        "slp1": "gup",
+        "iast": "gup",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "51.001_1_2_gupO_3528": {
+    "id": "51.001_1_2_gupO_3528",
+    "key": "51.1|1|2|gupO",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपौ",
+      "slp1": "gupO",
+      "iast": "gupau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपौ",
+        "slp1": "gupO",
+        "iast": "gupau",
+        "sutras": []
+      }
+    ]
+  },
+  "51.001_1_3_gupaH_3529": {
+    "id": "51.001_1_3_gupaH_3529",
+    "key": "51.1|1|3|gupaH",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपः",
+      "slp1": "gupaH",
+      "iast": "gupaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपस्",
+        "slp1": "gupas",
+        "iast": "gupas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गुपरुँ",
+        "slp1": "guparu~",
+        "iast": "guparum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गुपः",
+        "slp1": "gupaH",
+        "iast": "gupaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "51.001_2_1_gupam_3530": {
+    "id": "51.001_2_1_gupam_3530",
+    "key": "51.1|2|1|gupam",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपम्",
+      "slp1": "gupam",
+      "iast": "gupam"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपम्",
+        "slp1": "gupam",
+        "iast": "gupam",
+        "sutras": []
+      }
+    ]
+  },
+  "51.001_2_2_gupO_3531": {
+    "id": "51.001_2_2_gupO_3531",
+    "key": "51.1|2|2|gupO",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपौ",
+      "slp1": "gupO",
+      "iast": "gupau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपौ",
+        "slp1": "gupO",
+        "iast": "gupau",
+        "sutras": []
+      }
+    ]
+  },
+  "51.001_2_3_gupaH_3532": {
+    "id": "51.001_2_3_gupaH_3532",
+    "key": "51.1|2|3|gupaH",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपः",
+      "slp1": "gupaH",
+      "iast": "gupaḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपस्",
+        "slp1": "gupas",
+        "iast": "gupas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गुपरुँ",
+        "slp1": "guparu~",
+        "iast": "guparum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गुपः",
+        "slp1": "gupaH",
+        "iast": "gupaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "51.001_3_1_gupA_3533": {
+    "id": "51.001_3_1_gupA_3533",
+    "key": "51.1|3|1|gupA",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपा",
+      "slp1": "gupA",
+      "iast": "gupā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपा",
+        "slp1": "gupA",
+        "iast": "gupā",
+        "sutras": []
+      }
+    ]
+  },
+  "51.001_3_2_gubByAm_3534": {
+    "id": "51.001_3_2_gubByAm_3534",
+    "key": "51.1|3|2|gubByAm",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुब्भ्याम्",
+      "slp1": "gubByAm",
+      "iast": "gubbhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुब्भ्याम्",
+        "slp1": "gubByAm",
+        "iast": "gubbhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "51.001_3_3_gubBiH_3535": {
+    "id": "51.001_3_3_gubBiH_3535",
+    "key": "51.1|3|3|gubBiH",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुब्भिः",
+      "slp1": "gubBiH",
+      "iast": "gubbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुब्भिस्",
+        "slp1": "gubBis",
+        "iast": "gubbhis",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गुब्भिरुँ",
+        "slp1": "gubBiru~",
+        "iast": "gubbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गुब्भिः",
+        "slp1": "gubBiH",
+        "iast": "gubbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "51.001_4_1_gupe_3536": {
+    "id": "51.001_4_1_gupe_3536",
+    "key": "51.1|4|1|gupe",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपे",
+      "slp1": "gupe",
+      "iast": "gupe"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपे",
+        "slp1": "gupe",
+        "iast": "gupe",
+        "sutras": []
+      }
+    ]
+  },
+  "51.001_4_2_gubByAm_3537": {
+    "id": "51.001_4_2_gubByAm_3537",
+    "key": "51.1|4|2|gubByAm",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुब्भ्याम्",
+      "slp1": "gubByAm",
+      "iast": "gubbhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुब्भ्याम्",
+        "slp1": "gubByAm",
+        "iast": "gubbhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "51.001_4_3_gubByaH_3538": {
+    "id": "51.001_4_3_gubByaH_3538",
+    "key": "51.1|4|3|gubByaH",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुब्भ्यः",
+      "slp1": "gubByaH",
+      "iast": "gubbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुब्भ्यस्",
+        "slp1": "gubByas",
+        "iast": "gubbhyas",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गुब्भ्यरुँ",
+        "slp1": "gubByaru~",
+        "iast": "gubbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गुब्भ्यः",
+        "slp1": "gubByaH",
+        "iast": "gubbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "51.001_5_1_gupaH_3539": {
+    "id": "51.001_5_1_gupaH_3539",
+    "key": "51.1|5|1|gupaH",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपः",
+      "slp1": "gupaH",
+      "iast": "gupaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपस्",
+        "slp1": "gupas",
+        "iast": "gupas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गुपरुँ",
+        "slp1": "guparu~",
+        "iast": "guparum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गुपः",
+        "slp1": "gupaH",
+        "iast": "gupaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "51.001_5_2_gubByAm_3540": {
+    "id": "51.001_5_2_gubByAm_3540",
+    "key": "51.1|5|2|gubByAm",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुब्भ्याम्",
+      "slp1": "gubByAm",
+      "iast": "gubbhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुब्भ्याम्",
+        "slp1": "gubByAm",
+        "iast": "gubbhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "51.001_5_3_gubByaH_3541": {
+    "id": "51.001_5_3_gubByaH_3541",
+    "key": "51.1|5|3|gubByaH",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुब्भ्यः",
+      "slp1": "gubByaH",
+      "iast": "gubbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुब्भ्यस्",
+        "slp1": "gubByas",
+        "iast": "gubbhyas",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गुब्भ्यरुँ",
+        "slp1": "gubByaru~",
+        "iast": "gubbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गुब्भ्यः",
+        "slp1": "gubByaH",
+        "iast": "gubbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "51.001_6_1_gupaH_3542": {
+    "id": "51.001_6_1_gupaH_3542",
+    "key": "51.1|6|1|gupaH",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपः",
+      "slp1": "gupaH",
+      "iast": "gupaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपस्",
+        "slp1": "gupas",
+        "iast": "gupas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गुपरुँ",
+        "slp1": "guparu~",
+        "iast": "guparum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गुपः",
+        "slp1": "gupaH",
+        "iast": "gupaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "51.001_6_2_gupoH_3543": {
+    "id": "51.001_6_2_gupoH_3543",
+    "key": "51.1|6|2|gupoH",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपोः",
+      "slp1": "gupoH",
+      "iast": "gupoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपोस्",
+        "slp1": "gupos",
+        "iast": "gupos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गुपोरुँ",
+        "slp1": "guporu~",
+        "iast": "guporum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गुपोः",
+        "slp1": "gupoH",
+        "iast": "gupoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "51.001_6_3_gupAm_3544": {
+    "id": "51.001_6_3_gupAm_3544",
+    "key": "51.1|6|3|gupAm",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपाम्",
+      "slp1": "gupAm",
+      "iast": "gupām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपाम्",
+        "slp1": "gupAm",
+        "iast": "gupām",
+        "sutras": []
+      }
+    ]
+  },
+  "51.001_7_1_gupi_3545": {
+    "id": "51.001_7_1_gupi_3545",
+    "key": "51.1|7|1|gupi",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपि",
+      "slp1": "gupi",
+      "iast": "gupi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपि",
+        "slp1": "gupi",
+        "iast": "gupi",
+        "sutras": []
+      }
+    ]
+  },
+  "51.001_7_2_gupoH_3546": {
+    "id": "51.001_7_2_gupoH_3546",
+    "key": "51.1|7|2|gupoH",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुपोः",
+      "slp1": "gupoH",
+      "iast": "gupoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपोस्",
+        "slp1": "gupos",
+        "iast": "gupos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गुपोरुँ",
+        "slp1": "guporu~",
+        "iast": "guporum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गुपोः",
+        "slp1": "gupoH",
+        "iast": "gupoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "51.001_7_3_gupsu_3547": {
+    "id": "51.001_7_3_gupsu_3547",
+    "key": "51.1|7|3|gupsu",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "गुप्सु",
+      "slp1": "gupsu",
+      "iast": "gupsu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुब्सु",
+        "slp1": "gubsu",
+        "iast": "gubsu",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गुप्सु",
+        "slp1": "gupsu",
+        "iast": "gupsu",
+        "sutras": [
+          "8.4.55"
+        ]
+      }
+    ]
+  },
+  "51.001_8_1_he gub_3548": {
+    "id": "51.001_8_1_he gub_3548",
+    "key": "51.1|8|1|he gub",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "हे गुब्",
+      "slp1": "he gub",
+      "iast": "he gub"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुप्",
+        "slp1": "gup",
+        "iast": "gup",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे गुब्",
+        "slp1": "he gub",
+        "iast": "he gub",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "51.001_8_1_he gup_3549": {
+    "id": "51.001_8_1_he gup_3549",
+    "key": "51.1|8|1|he gup",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "हे गुप्",
+      "slp1": "he gup",
+      "iast": "he gup"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुप्",
+        "slp1": "gup",
+        "iast": "gup",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गुब्",
+        "slp1": "gub",
+        "iast": "gub",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे गुप्",
+        "slp1": "he gup",
+        "iast": "he gup",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "51.001_8_2_he gupO_3550": {
+    "id": "51.001_8_2_he gupO_3550",
+    "key": "51.1|8|2|he gupO",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "हे गुपौ",
+      "slp1": "he gupO",
+      "iast": "he gupau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे गुपौ",
+        "slp1": "he gupO",
+        "iast": "he gupau",
+        "sutras": []
+      }
+    ]
+  },
+  "51.001_8_3_he gupaH_3551": {
+    "id": "51.001_8_3_he gupaH_3551",
+    "key": "51.1|8|3|he gupaH",
+    "baseindex": {
+      "raw": "51.001",
+      "normalized": "51.1"
+    },
+    "word": {
+      "deva": "गुप्",
+      "slp1": "gup",
+      "iast": "gup"
+    },
+    "form": {
+      "deva": "हे गुपः",
+      "slp1": "he gupaH",
+      "iast": "he gupaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-51.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गुपस्",
+        "slp1": "gupas",
+        "iast": "gupas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गुपरुँ",
+        "slp1": "guparu~",
+        "iast": "guparum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे गुपः",
+        "slp1": "he gupaH",
+        "iast": "he gupaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

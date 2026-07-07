@@ -1,0 +1,1088 @@
+{
+  "37.001_1_1_pradyu_2120": {
+    "id": "37.001_1_1_pradyu_2120",
+    "key": "37.1|1|1|pradyu",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्यु",
+      "slp1": "pradyu",
+      "iast": "pradyu"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्यु+स्",
+        "slp1": "pradyu+s",
+        "iast": "pradyu+s",
+        "sutras": [
+          "1.2.47",
+          "1.1.48"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्यु",
+        "slp1": "pradyu",
+        "iast": "pradyu",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "37.001_1_2_pradyunI_2121": {
+    "id": "37.001_1_2_pradyunI_2121",
+    "key": "37.1|1|2|pradyunI",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युनी",
+      "slp1": "pradyunI",
+      "iast": "pradyunī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्यु+ई",
+        "slp1": "pradyu+I",
+        "iast": "pradyu+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युन्+ई",
+        "slp1": "pradyun+I",
+        "iast": "pradyun+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्युनी",
+        "slp1": "pradyunI",
+        "iast": "pradyunī",
+        "sutras": []
+      }
+    ]
+  },
+  "37.001_1_3_pradyUni_2122": {
+    "id": "37.001_1_3_pradyUni_2122",
+    "key": "37.1|1|3|pradyUni",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्यूनि",
+      "slp1": "pradyUni",
+      "iast": "pradyūni"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्यु+इ",
+        "slp1": "pradyu+i",
+        "iast": "pradyu+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युन्+इ",
+        "slp1": "pradyun+i",
+        "iast": "pradyun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्यूनि",
+        "slp1": "pradyUni",
+        "iast": "pradyūni",
+        "sutras": [
+          "6.4.8"
+        ]
+      }
+    ]
+  },
+  "37.001_2_1_pradyu_2123": {
+    "id": "37.001_2_1_pradyu_2123",
+    "key": "37.1|2|1|pradyu",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्यु",
+      "slp1": "pradyu",
+      "iast": "pradyu"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्यु",
+        "slp1": "pradyu",
+        "iast": "pradyu",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "37.001_2_2_pradyunI_2124": {
+    "id": "37.001_2_2_pradyunI_2124",
+    "key": "37.1|2|2|pradyunI",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युनी",
+      "slp1": "pradyunI",
+      "iast": "pradyunī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्यु+ई",
+        "slp1": "pradyu+I",
+        "iast": "pradyu+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युन्+ई",
+        "slp1": "pradyun+I",
+        "iast": "pradyun+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्युनी",
+        "slp1": "pradyunI",
+        "iast": "pradyunī",
+        "sutras": []
+      }
+    ]
+  },
+  "37.001_2_3_pradyUni_2125": {
+    "id": "37.001_2_3_pradyUni_2125",
+    "key": "37.1|2|3|pradyUni",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्यूनि",
+      "slp1": "pradyUni",
+      "iast": "pradyūni"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्यु+इ",
+        "slp1": "pradyu+i",
+        "iast": "pradyu+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युन्+इ",
+        "slp1": "pradyun+i",
+        "iast": "pradyun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्यूनि",
+        "slp1": "pradyUni",
+        "iast": "pradyūni",
+        "sutras": [
+          "6.4.8"
+        ]
+      }
+    ]
+  },
+  "37.001_3_1_pradyunA_2126": {
+    "id": "37.001_3_1_pradyunA_2126",
+    "key": "37.1|3|1|pradyunA",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युना",
+      "slp1": "pradyunA",
+      "iast": "pradyunā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युना",
+        "slp1": "pradyunA",
+        "iast": "pradyunā",
+        "sutras": [
+          "7.3.120"
+        ]
+      }
+    ]
+  },
+  "37.001_3_2_pradyuByAm_2127": {
+    "id": "37.001_3_2_pradyuByAm_2127",
+    "key": "37.1|3|2|pradyuByAm",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युभ्याम्",
+      "slp1": "pradyuByAm",
+      "iast": "pradyubhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युभ्याम्",
+        "slp1": "pradyuByAm",
+        "iast": "pradyubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "37.001_3_3_pradyuBiH_2128": {
+    "id": "37.001_3_3_pradyuBiH_2128",
+    "key": "37.1|3|3|pradyuBiH",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युभिः",
+      "slp1": "pradyuBiH",
+      "iast": "pradyubhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युभिस्",
+        "slp1": "pradyuBis",
+        "iast": "pradyubhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युभिरुँ",
+        "slp1": "pradyuBiru~",
+        "iast": "pradyubhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्युभिः",
+        "slp1": "pradyuBiH",
+        "iast": "pradyubhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "37.001_4_1_pradyune_2129": {
+    "id": "37.001_4_1_pradyune_2129",
+    "key": "37.1|4|1|pradyune",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युने",
+      "slp1": "pradyune",
+      "iast": "pradyune"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युन्+ए",
+        "slp1": "pradyun+e",
+        "iast": "pradyun+e",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युने",
+        "slp1": "pradyune",
+        "iast": "pradyune",
+        "sutras": []
+      }
+    ]
+  },
+  "37.001_4_2_pradyuByAm_2130": {
+    "id": "37.001_4_2_pradyuByAm_2130",
+    "key": "37.1|4|2|pradyuByAm",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युभ्याम्",
+      "slp1": "pradyuByAm",
+      "iast": "pradyubhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युभ्याम्",
+        "slp1": "pradyuByAm",
+        "iast": "pradyubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "37.001_4_3_pradyuByaH_2131": {
+    "id": "37.001_4_3_pradyuByaH_2131",
+    "key": "37.1|4|3|pradyuByaH",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युभ्यः",
+      "slp1": "pradyuByaH",
+      "iast": "pradyubhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युभ्यस्",
+        "slp1": "pradyuByas",
+        "iast": "pradyubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युभ्यरुँ",
+        "slp1": "pradyuByaru~",
+        "iast": "pradyubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्युभ्यः",
+        "slp1": "pradyuByaH",
+        "iast": "pradyubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "37.001_5_1_pradyunaH_2132": {
+    "id": "37.001_5_1_pradyunaH_2132",
+    "key": "37.1|5|1|pradyunaH",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युनः",
+      "slp1": "pradyunaH",
+      "iast": "pradyunaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युन्+अस्",
+        "slp1": "pradyun+as",
+        "iast": "pradyun+as",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युनस्",
+        "slp1": "pradyunas",
+        "iast": "pradyunas",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्युनरुँ",
+        "slp1": "pradyunaru~",
+        "iast": "pradyunarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "प्रद्युनः",
+        "slp1": "pradyunaH",
+        "iast": "pradyunaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "37.001_5_2_pradyuByAm_2133": {
+    "id": "37.001_5_2_pradyuByAm_2133",
+    "key": "37.1|5|2|pradyuByAm",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युभ्याम्",
+      "slp1": "pradyuByAm",
+      "iast": "pradyubhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युभ्याम्",
+        "slp1": "pradyuByAm",
+        "iast": "pradyubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "37.001_5_3_pradyuByaH_2134": {
+    "id": "37.001_5_3_pradyuByaH_2134",
+    "key": "37.1|5|3|pradyuByaH",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युभ्यः",
+      "slp1": "pradyuByaH",
+      "iast": "pradyubhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युभ्यस्",
+        "slp1": "pradyuByas",
+        "iast": "pradyubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युभ्यरुँ",
+        "slp1": "pradyuByaru~",
+        "iast": "pradyubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्युभ्यः",
+        "slp1": "pradyuByaH",
+        "iast": "pradyubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "37.001_6_1_pradyunaH_2135": {
+    "id": "37.001_6_1_pradyunaH_2135",
+    "key": "37.1|6|1|pradyunaH",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युनः",
+      "slp1": "pradyunaH",
+      "iast": "pradyunaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युन्+अस्",
+        "slp1": "pradyun+as",
+        "iast": "pradyun+as",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युनस्",
+        "slp1": "pradyunas",
+        "iast": "pradyunas",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्युनरुँ",
+        "slp1": "pradyunaru~",
+        "iast": "pradyunarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "प्रद्युनः",
+        "slp1": "pradyunaH",
+        "iast": "pradyunaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "37.001_6_2_pradyunoH_2136": {
+    "id": "37.001_6_2_pradyunoH_2136",
+    "key": "37.1|6|2|pradyunoH",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युनोः",
+      "slp1": "pradyunoH",
+      "iast": "pradyunoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युन्+ओस्",
+        "slp1": "pradyun+os",
+        "iast": "pradyun+os",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युनोस्",
+        "slp1": "pradyunos",
+        "iast": "pradyunos",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्युनोरुँ",
+        "slp1": "pradyunoru~",
+        "iast": "pradyunorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "प्रद्युनोः",
+        "slp1": "pradyunoH",
+        "iast": "pradyunoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "37.001_6_3_pradyUnAm_2137": {
+    "id": "37.001_6_3_pradyUnAm_2137",
+    "key": "37.1|6|3|pradyUnAm",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्यूनाम्",
+      "slp1": "pradyUnAm",
+      "iast": "pradyūnām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्यु+न्+आम्",
+        "slp1": "pradyu+n+Am",
+        "iast": "pradyu+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्यूनाम्",
+        "slp1": "pradyUnAm",
+        "iast": "pradyūnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      }
+    ]
+  },
+  "37.001_7_1_pradyuni_2138": {
+    "id": "37.001_7_1_pradyuni_2138",
+    "key": "37.1|7|1|pradyuni",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युनि",
+      "slp1": "pradyuni",
+      "iast": "pradyuni"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युन्+इ",
+        "slp1": "pradyun+i",
+        "iast": "pradyun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युनि",
+        "slp1": "pradyuni",
+        "iast": "pradyuni",
+        "sutras": []
+      }
+    ]
+  },
+  "37.001_7_2_pradyunoH_2139": {
+    "id": "37.001_7_2_pradyunoH_2139",
+    "key": "37.1|7|2|pradyunoH",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युनोः",
+      "slp1": "pradyunoH",
+      "iast": "pradyunoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युन्+ओस्",
+        "slp1": "pradyun+os",
+        "iast": "pradyun+os",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युनोस्",
+        "slp1": "pradyunos",
+        "iast": "pradyunos",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "प्रद्युनोरुँ",
+        "slp1": "pradyunoru~",
+        "iast": "pradyunorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "प्रद्युनोः",
+        "slp1": "pradyunoH",
+        "iast": "pradyunoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "37.001_7_3_pradyuzu_2140": {
+    "id": "37.001_7_3_pradyuzu_2140",
+    "key": "37.1|7|3|pradyuzu",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "प्रद्युषु",
+      "slp1": "pradyuzu",
+      "iast": "pradyuṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्युषु",
+        "slp1": "pradyuzu",
+        "iast": "pradyuṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "37.001_8_1_he pradyu_2141": {
+    "id": "37.001_8_1_he pradyu_2141",
+    "key": "37.1|8|1|he pradyu",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "हे प्रद्यु",
+      "slp1": "he pradyu",
+      "iast": "he pradyu"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे प्रद्यु",
+        "slp1": "he pradyu",
+        "iast": "he pradyu",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "37.001_8_1_he pradyo_2142": {
+    "id": "37.001_8_1_he pradyo_2142",
+    "key": "37.1|8|1|he pradyo",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "हे प्रद्यो",
+      "slp1": "he pradyo",
+      "iast": "he pradyo"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्यु",
+        "slp1": "pradyu",
+        "iast": "pradyu",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे प्रद्यो",
+        "slp1": "he pradyo",
+        "iast": "he pradyo",
+        "sutras": [
+          "7.3.108"
+        ]
+      }
+    ]
+  },
+  "37.001_8_2_he pradyunI_2143": {
+    "id": "37.001_8_2_he pradyunI_2143",
+    "key": "37.1|8|2|he pradyunI",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "हे प्रद्युनी",
+      "slp1": "he pradyunI",
+      "iast": "he pradyunī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्यु+ई",
+        "slp1": "pradyu+I",
+        "iast": "pradyu+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युन्+ई",
+        "slp1": "pradyun+I",
+        "iast": "pradyun+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे प्रद्युनी",
+        "slp1": "he pradyunI",
+        "iast": "he pradyunī",
+        "sutras": []
+      }
+    ]
+  },
+  "37.001_8_3_he pradyUni_2144": {
+    "id": "37.001_8_3_he pradyUni_2144",
+    "key": "37.1|8|3|he pradyUni",
+    "baseindex": {
+      "raw": "37.001",
+      "normalized": "37.1"
+    },
+    "word": {
+      "deva": "प्रद्यो",
+      "slp1": "pradyo",
+      "iast": "pradyo"
+    },
+    "form": {
+      "deva": "हे प्रद्यूनि",
+      "slp1": "he pradyUni",
+      "iast": "he pradyūni"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-37.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रद्यु+इ",
+        "slp1": "pradyu+i",
+        "iast": "pradyu+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रद्युन्+इ",
+        "slp1": "pradyun+i",
+        "iast": "pradyun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे प्रद्यूनि",
+        "slp1": "he pradyUni",
+        "iast": "he pradyūni",
+        "sutras": [
+          "6.4.8"
+        ]
+      }
+    ]
+  }
+}

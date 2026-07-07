@@ -1,0 +1,2344 @@
+{
+  "55.001_1_1_upAnad_3923": {
+    "id": "55.001_1_1_upAnad_3923",
+    "key": "55.1|1|1|upAnad",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानद्",
+      "slp1": "upAnad",
+      "iast": "upānad"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानह्",
+        "slp1": "upAnah",
+        "iast": "upānah",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानध्",
+        "slp1": "upAnaD",
+        "iast": "upānadh",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानद्",
+        "slp1": "upAnad",
+        "iast": "upānad",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "55.001_1_1_upAnat_3924": {
+    "id": "55.001_1_1_upAnat_3924",
+    "key": "55.1|1|1|upAnat",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानत्",
+      "slp1": "upAnat",
+      "iast": "upānat"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानह्",
+        "slp1": "upAnah",
+        "iast": "upānah",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानध्",
+        "slp1": "upAnaD",
+        "iast": "upānadh",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानद्",
+        "slp1": "upAnad",
+        "iast": "upānad",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उपानत्",
+        "slp1": "upAnat",
+        "iast": "upānat",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "55.001_1_2_upAnahO_3925": {
+    "id": "55.001_1_2_upAnahO_3925",
+    "key": "55.1|1|2|upAnahO",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहौ",
+      "slp1": "upAnahO",
+      "iast": "upānahau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहौ",
+        "slp1": "upAnahO",
+        "iast": "upānahau",
+        "sutras": []
+      }
+    ]
+  },
+  "55.001_1_3_upAnahaH_3926": {
+    "id": "55.001_1_3_upAnahaH_3926",
+    "key": "55.1|1|3|upAnahaH",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहः",
+      "slp1": "upAnahaH",
+      "iast": "upānahaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहः",
+        "slp1": "upAnahaH",
+        "iast": "upānahaḥ",
+        "sutras": []
+      }
+    ]
+  },
+  "55.001_2_1_upAnaham_3927": {
+    "id": "55.001_2_1_upAnaham_3927",
+    "key": "55.1|2|1|upAnaham",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहम्",
+      "slp1": "upAnaham",
+      "iast": "upānaham"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहम्",
+        "slp1": "upAnaham",
+        "iast": "upānaham",
+        "sutras": []
+      }
+    ]
+  },
+  "55.001_2_2_upAnahO_3928": {
+    "id": "55.001_2_2_upAnahO_3928",
+    "key": "55.1|2|2|upAnahO",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहौ",
+      "slp1": "upAnahO",
+      "iast": "upānahau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहौ",
+        "slp1": "upAnahO",
+        "iast": "upānahau",
+        "sutras": []
+      }
+    ]
+  },
+  "55.001_2_3_upAnahaH_3929": {
+    "id": "55.001_2_3_upAnahaH_3929",
+    "key": "55.1|2|3|upAnahaH",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहः",
+      "slp1": "upAnahaH",
+      "iast": "upānahaḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहः",
+        "slp1": "upAnahaH",
+        "iast": "upānahaḥ",
+        "sutras": []
+      }
+    ]
+  },
+  "55.001_3_1_upAnahA_3930": {
+    "id": "55.001_3_1_upAnahA_3930",
+    "key": "55.1|3|1|upAnahA",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहा",
+      "slp1": "upAnahA",
+      "iast": "upānahā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहा",
+        "slp1": "upAnahA",
+        "iast": "upānahā",
+        "sutras": []
+      }
+    ]
+  },
+  "55.001_3_2_upAnadByAm_3931": {
+    "id": "55.001_3_2_upAnadByAm_3931",
+    "key": "55.1|3|2|upAnadByAm",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानद्भ्याम्",
+      "slp1": "upAnadByAm",
+      "iast": "upānadbhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानध्भ्याम्",
+        "slp1": "upAnaDByAm",
+        "iast": "upānadhbhyām",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानद्भ्याम्",
+        "slp1": "upAnadByAm",
+        "iast": "upānadbhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "55.001_3_3_upAnadBiH_3932": {
+    "id": "55.001_3_3_upAnadBiH_3932",
+    "key": "55.1|3|3|upAnadBiH",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानद्भिः",
+      "slp1": "upAnadBiH",
+      "iast": "upānadbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानध्भिस्",
+        "slp1": "upAnaDBis",
+        "iast": "upānadhbhis",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानद्भिस्",
+        "slp1": "upAnadBis",
+        "iast": "upānadbhis",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानद्भिरुँ",
+        "slp1": "upAnadBiru~",
+        "iast": "upānadbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उपानद्भिः",
+        "slp1": "upAnadBiH",
+        "iast": "upānadbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.001_4_1_upAnahe_3933": {
+    "id": "55.001_4_1_upAnahe_3933",
+    "key": "55.1|4|1|upAnahe",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहे",
+      "slp1": "upAnahe",
+      "iast": "upānahe"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहे",
+        "slp1": "upAnahe",
+        "iast": "upānahe",
+        "sutras": []
+      }
+    ]
+  },
+  "55.001_4_2_upAnadByAm_3934": {
+    "id": "55.001_4_2_upAnadByAm_3934",
+    "key": "55.1|4|2|upAnadByAm",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानद्भ्याम्",
+      "slp1": "upAnadByAm",
+      "iast": "upānadbhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानध्भ्याम्",
+        "slp1": "upAnaDByAm",
+        "iast": "upānadhbhyām",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानद्भ्याम्",
+        "slp1": "upAnadByAm",
+        "iast": "upānadbhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "55.001_4_3_upAnadByaH_3935": {
+    "id": "55.001_4_3_upAnadByaH_3935",
+    "key": "55.1|4|3|upAnadByaH",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानद्भ्यः",
+      "slp1": "upAnadByaH",
+      "iast": "upānadbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानध्भ्यस्",
+        "slp1": "upAnaDByas",
+        "iast": "upānadhbhyas",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानद्भ्यस्",
+        "slp1": "upAnadByas",
+        "iast": "upānadbhyas",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानद्भ्यरुँ",
+        "slp1": "upAnadByaru~",
+        "iast": "upānadbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उपानद्भ्यः",
+        "slp1": "upAnadByaH",
+        "iast": "upānadbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.001_5_1_upAnahaH_3936": {
+    "id": "55.001_5_1_upAnahaH_3936",
+    "key": "55.1|5|1|upAnahaH",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहः",
+      "slp1": "upAnahaH",
+      "iast": "upānahaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहस्",
+        "slp1": "upAnahas",
+        "iast": "upānahas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उपानहरुँ",
+        "slp1": "upAnaharu~",
+        "iast": "upānaharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानहः",
+        "slp1": "upAnahaH",
+        "iast": "upānahaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.001_5_2_upAnadByAm_3937": {
+    "id": "55.001_5_2_upAnadByAm_3937",
+    "key": "55.1|5|2|upAnadByAm",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानद्भ्याम्",
+      "slp1": "upAnadByAm",
+      "iast": "upānadbhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानध्भ्याम्",
+        "slp1": "upAnaDByAm",
+        "iast": "upānadhbhyām",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानद्भ्याम्",
+        "slp1": "upAnadByAm",
+        "iast": "upānadbhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "55.001_5_3_upAnadByaH_3938": {
+    "id": "55.001_5_3_upAnadByaH_3938",
+    "key": "55.1|5|3|upAnadByaH",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानद्भ्यः",
+      "slp1": "upAnadByaH",
+      "iast": "upānadbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानध्भ्यस्",
+        "slp1": "upAnaDByas",
+        "iast": "upānadhbhyas",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानद्भ्यस्",
+        "slp1": "upAnadByas",
+        "iast": "upānadbhyas",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानद्भ्यरुँ",
+        "slp1": "upAnadByaru~",
+        "iast": "upānadbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उपानद्भ्यः",
+        "slp1": "upAnadByaH",
+        "iast": "upānadbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.001_6_1_upAnahaH_3939": {
+    "id": "55.001_6_1_upAnahaH_3939",
+    "key": "55.1|6|1|upAnahaH",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहः",
+      "slp1": "upAnahaH",
+      "iast": "upānahaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहस्",
+        "slp1": "upAnahas",
+        "iast": "upānahas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उपानहरुँ",
+        "slp1": "upAnaharu~",
+        "iast": "upānaharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानहः",
+        "slp1": "upAnahaH",
+        "iast": "upānahaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.001_6_2_upAnahoH_3940": {
+    "id": "55.001_6_2_upAnahoH_3940",
+    "key": "55.1|6|2|upAnahoH",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहोः",
+      "slp1": "upAnahoH",
+      "iast": "upānahoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहोस्",
+        "slp1": "upAnahos",
+        "iast": "upānahos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उपानहोरुँ",
+        "slp1": "upAnahoru~",
+        "iast": "upānahorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानहोः",
+        "slp1": "upAnahoH",
+        "iast": "upānahoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.001_6_3_upAnahAm_3941": {
+    "id": "55.001_6_3_upAnahAm_3941",
+    "key": "55.1|6|3|upAnahAm",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहाम्",
+      "slp1": "upAnahAm",
+      "iast": "upānahām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहाम्",
+        "slp1": "upAnahAm",
+        "iast": "upānahām",
+        "sutras": []
+      }
+    ]
+  },
+  "55.001_7_1_upAnahi_3942": {
+    "id": "55.001_7_1_upAnahi_3942",
+    "key": "55.1|7|1|upAnahi",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहि",
+      "slp1": "upAnahi",
+      "iast": "upānahi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहि",
+        "slp1": "upAnahi",
+        "iast": "upānahi",
+        "sutras": []
+      }
+    ]
+  },
+  "55.001_7_2_upAnahoH_3943": {
+    "id": "55.001_7_2_upAnahoH_3943",
+    "key": "55.1|7|2|upAnahoH",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानहोः",
+      "slp1": "upAnahoH",
+      "iast": "upānahoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानहोस्",
+        "slp1": "upAnahos",
+        "iast": "upānahos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उपानहोरुँ",
+        "slp1": "upAnahoru~",
+        "iast": "upānahorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानहोः",
+        "slp1": "upAnahoH",
+        "iast": "upānahoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.001_7_3_upAnatsu_3944": {
+    "id": "55.001_7_3_upAnatsu_3944",
+    "key": "55.1|7|3|upAnatsu",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "उपानत्सु",
+      "slp1": "upAnatsu",
+      "iast": "upānatsu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानध्+सु",
+        "slp1": "upAnaD+su",
+        "iast": "upānadh+su",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानद्+सु",
+        "slp1": "upAnad+su",
+        "iast": "upānad+su",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानत्सु",
+        "slp1": "upAnatsu",
+        "iast": "upānatsu",
+        "sutras": [
+          "8.4.55"
+        ]
+      }
+    ]
+  },
+  "55.001_8_1_he upAnad_3945": {
+    "id": "55.001_8_1_he upAnad_3945",
+    "key": "55.1|8|1|he upAnad",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "हे उपानद्",
+      "slp1": "he upAnad",
+      "iast": "he upānad"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानह्",
+        "slp1": "upAnah",
+        "iast": "upānah",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानध्",
+        "slp1": "upAnaD",
+        "iast": "upānadh",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे उपानद्",
+        "slp1": "he upAnad",
+        "iast": "he upānad",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "55.001_8_1_he upAnat_3946": {
+    "id": "55.001_8_1_he upAnat_3946",
+    "key": "55.1|8|1|he upAnat",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "हे उपानत्",
+      "slp1": "he upAnat",
+      "iast": "he upānat"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उपानह्",
+        "slp1": "upAnah",
+        "iast": "upānah",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उपानध्",
+        "slp1": "upAnaD",
+        "iast": "upānadh",
+        "sutras": [
+          "8.2.34"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उपानद्",
+        "slp1": "upAnad",
+        "iast": "upānad",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हे उपानत्",
+        "slp1": "he upAnat",
+        "iast": "he upānat",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "55.001_8_2_he upAnahO_3947": {
+    "id": "55.001_8_2_he upAnahO_3947",
+    "key": "55.1|8|2|he upAnahO",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "हे उपानहौ",
+      "slp1": "he upAnahO",
+      "iast": "he upānahau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे उपानहौ",
+        "slp1": "he upAnahO",
+        "iast": "he upānahau",
+        "sutras": []
+      }
+    ]
+  },
+  "55.001_8_3_he upAnahaH_3948": {
+    "id": "55.001_8_3_he upAnahaH_3948",
+    "key": "55.1|8|3|he upAnahaH",
+    "baseindex": {
+      "raw": "55.001",
+      "normalized": "55.1"
+    },
+    "word": {
+      "deva": "उपानह्",
+      "slp1": "upAnah",
+      "iast": "upānah"
+    },
+    "form": {
+      "deva": "हे उपानहः",
+      "slp1": "he upAnahaH",
+      "iast": "he upānahaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे उपानहः",
+        "slp1": "he upAnahaH",
+        "iast": "he upānahaḥ",
+        "sutras": []
+      }
+    ]
+  },
+  "55.002_1_1_uzRig_3949": {
+    "id": "55.002_1_1_uzRig_3949",
+    "key": "55.2|1|1|uzRig",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिग्",
+      "slp1": "uzRig",
+      "iast": "uṣṇig"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिह्",
+        "slp1": "uzRih",
+        "iast": "uṣṇih",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिढ्",
+        "slp1": "uzRiQ",
+        "iast": "uṣṇiḍh",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिड्",
+        "slp1": "uzRiq",
+        "iast": "uṣṇiḍ",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उष्णिग्",
+        "slp1": "uzRig",
+        "iast": "uṣṇig",
+        "sutras": [
+          "8.2.62"
+        ]
+      }
+    ]
+  },
+  "55.002_1_1_uzRik_3950": {
+    "id": "55.002_1_1_uzRik_3950",
+    "key": "55.2|1|1|uzRik",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिक्",
+      "slp1": "uzRik",
+      "iast": "uṣṇik"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिह्",
+        "slp1": "uzRih",
+        "iast": "uṣṇih",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिढ्",
+        "slp1": "uzRiQ",
+        "iast": "uṣṇiḍh",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिड्",
+        "slp1": "uzRiq",
+        "iast": "uṣṇiḍ",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उष्णिग्",
+        "slp1": "uzRig",
+        "iast": "uṣṇig",
+        "sutras": [
+          "8.2.62"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "उष्णिक्",
+        "slp1": "uzRik",
+        "iast": "uṣṇik",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "55.002_1_2_uzRihO_3951": {
+    "id": "55.002_1_2_uzRihO_3951",
+    "key": "55.2|1|2|uzRihO",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहौ",
+      "slp1": "uzRihO",
+      "iast": "uṣṇihau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहौ",
+        "slp1": "uzRihO",
+        "iast": "uṣṇihau",
+        "sutras": []
+      }
+    ]
+  },
+  "55.002_1_3_uzRihaH_3952": {
+    "id": "55.002_1_3_uzRihaH_3952",
+    "key": "55.2|1|3|uzRihaH",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहः",
+      "slp1": "uzRihaH",
+      "iast": "uṣṇihaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहस्",
+        "slp1": "uzRihas",
+        "iast": "uṣṇihas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिहरुँ",
+        "slp1": "uzRiharu~",
+        "iast": "uṣṇiharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिहः",
+        "slp1": "uzRihaH",
+        "iast": "uṣṇihaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.002_2_1_uzRiham_3953": {
+    "id": "55.002_2_1_uzRiham_3953",
+    "key": "55.2|2|1|uzRiham",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहम्",
+      "slp1": "uzRiham",
+      "iast": "uṣṇiham"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहम्",
+        "slp1": "uzRiham",
+        "iast": "uṣṇiham",
+        "sutras": []
+      }
+    ]
+  },
+  "55.002_2_2_uzRihO_3954": {
+    "id": "55.002_2_2_uzRihO_3954",
+    "key": "55.2|2|2|uzRihO",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहौ",
+      "slp1": "uzRihO",
+      "iast": "uṣṇihau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहौ",
+        "slp1": "uzRihO",
+        "iast": "uṣṇihau",
+        "sutras": []
+      }
+    ]
+  },
+  "55.002_2_3_uzRihaH_3955": {
+    "id": "55.002_2_3_uzRihaH_3955",
+    "key": "55.2|2|3|uzRihaH",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहः",
+      "slp1": "uzRihaH",
+      "iast": "uṣṇihaḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहस्",
+        "slp1": "uzRihas",
+        "iast": "uṣṇihas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिहरुँ",
+        "slp1": "uzRiharu~",
+        "iast": "uṣṇiharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिहः",
+        "slp1": "uzRihaH",
+        "iast": "uṣṇihaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.002_3_1_uzRihA_3956": {
+    "id": "55.002_3_1_uzRihA_3956",
+    "key": "55.2|3|1|uzRihA",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहा",
+      "slp1": "uzRihA",
+      "iast": "uṣṇihā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहा",
+        "slp1": "uzRihA",
+        "iast": "uṣṇihā",
+        "sutras": []
+      }
+    ]
+  },
+  "55.002_3_2_uzRigByAm_3957": {
+    "id": "55.002_3_2_uzRigByAm_3957",
+    "key": "55.2|3|2|uzRigByAm",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिग्भ्याम्",
+      "slp1": "uzRigByAm",
+      "iast": "uṣṇigbhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिढ्+भ्याम्",
+        "slp1": "uzRiQ+ByAm",
+        "iast": "uṣṇiḍh+bhyām",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिड्+भ्याम्",
+        "slp1": "uzRiq+ByAm",
+        "iast": "uṣṇiḍ+bhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिग्भ्याम्",
+        "slp1": "uzRigByAm",
+        "iast": "uṣṇigbhyām",
+        "sutras": [
+          "8.2.62"
+        ]
+      }
+    ]
+  },
+  "55.002_3_3_uzRigBiH_3958": {
+    "id": "55.002_3_3_uzRigBiH_3958",
+    "key": "55.2|3|3|uzRigBiH",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिग्भिः",
+      "slp1": "uzRigBiH",
+      "iast": "uṣṇigbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिढ्+भिस्",
+        "slp1": "uzRiQ+Bis",
+        "iast": "uṣṇiḍh+bhis",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिड्+भिस्",
+        "slp1": "uzRiq+Bis",
+        "iast": "uṣṇiḍ+bhis",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिग्भिस्",
+        "slp1": "uzRigBis",
+        "iast": "uṣṇigbhis",
+        "sutras": [
+          "8.2.62"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उष्णिग्भिरुँ",
+        "slp1": "uzRigBiru~",
+        "iast": "uṣṇigbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "उष्णिग्भिः",
+        "slp1": "uzRigBiH",
+        "iast": "uṣṇigbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.002_4_1_uzRihe_3959": {
+    "id": "55.002_4_1_uzRihe_3959",
+    "key": "55.2|4|1|uzRihe",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहे",
+      "slp1": "uzRihe",
+      "iast": "uṣṇihe"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहे",
+        "slp1": "uzRihe",
+        "iast": "uṣṇihe",
+        "sutras": []
+      }
+    ]
+  },
+  "55.002_4_2_uzRigByAm_3960": {
+    "id": "55.002_4_2_uzRigByAm_3960",
+    "key": "55.2|4|2|uzRigByAm",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिग्भ्याम्",
+      "slp1": "uzRigByAm",
+      "iast": "uṣṇigbhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिढ्+भ्याम्",
+        "slp1": "uzRiQ+ByAm",
+        "iast": "uṣṇiḍh+bhyām",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिड्+भ्याम्",
+        "slp1": "uzRiq+ByAm",
+        "iast": "uṣṇiḍ+bhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिग्भ्याम्",
+        "slp1": "uzRigByAm",
+        "iast": "uṣṇigbhyām",
+        "sutras": [
+          "8.2.62"
+        ]
+      }
+    ]
+  },
+  "55.002_4_3_uzRigByaH_3961": {
+    "id": "55.002_4_3_uzRigByaH_3961",
+    "key": "55.2|4|3|uzRigByaH",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिग्भ्यः",
+      "slp1": "uzRigByaH",
+      "iast": "uṣṇigbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिढ्+भ्यस्",
+        "slp1": "uzRiQ+Byas",
+        "iast": "uṣṇiḍh+bhyas",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिड्+भ्यस्",
+        "slp1": "uzRiq+Byas",
+        "iast": "uṣṇiḍ+bhyas",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिग्भ्यस्",
+        "slp1": "uzRigByas",
+        "iast": "uṣṇigbhyas",
+        "sutras": [
+          "8.2.62"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उष्णिग्भ्यरुँ",
+        "slp1": "uzRigByaru~",
+        "iast": "uṣṇigbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "उष्णिग्भ्यः",
+        "slp1": "uzRigByaH",
+        "iast": "uṣṇigbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.002_5_1_uzRihaH_3962": {
+    "id": "55.002_5_1_uzRihaH_3962",
+    "key": "55.2|5|1|uzRihaH",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहः",
+      "slp1": "uzRihaH",
+      "iast": "uṣṇihaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहस्",
+        "slp1": "uzRihas",
+        "iast": "uṣṇihas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिहरुँ",
+        "slp1": "uzRiharu~",
+        "iast": "uṣṇiharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिहः",
+        "slp1": "uzRihaH",
+        "iast": "uṣṇihaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.002_5_2_uzRigByAm_3963": {
+    "id": "55.002_5_2_uzRigByAm_3963",
+    "key": "55.2|5|2|uzRigByAm",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिग्भ्याम्",
+      "slp1": "uzRigByAm",
+      "iast": "uṣṇigbhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिढ्+भ्याम्",
+        "slp1": "uzRiQ+ByAm",
+        "iast": "uṣṇiḍh+bhyām",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिड्+भ्याम्",
+        "slp1": "uzRiq+ByAm",
+        "iast": "uṣṇiḍ+bhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिग्भ्याम्",
+        "slp1": "uzRigByAm",
+        "iast": "uṣṇigbhyām",
+        "sutras": [
+          "8.2.62"
+        ]
+      }
+    ]
+  },
+  "55.002_5_3_uzRigByaH_3964": {
+    "id": "55.002_5_3_uzRigByaH_3964",
+    "key": "55.2|5|3|uzRigByaH",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिग्भ्यः",
+      "slp1": "uzRigByaH",
+      "iast": "uṣṇigbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिढ्+भ्यस्",
+        "slp1": "uzRiQ+Byas",
+        "iast": "uṣṇiḍh+bhyas",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिड्+भ्यस्",
+        "slp1": "uzRiq+Byas",
+        "iast": "uṣṇiḍ+bhyas",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिग्भ्यस्",
+        "slp1": "uzRigByas",
+        "iast": "uṣṇigbhyas",
+        "sutras": [
+          "8.2.62"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उष्णिग्भ्यरुँ",
+        "slp1": "uzRigByaru~",
+        "iast": "uṣṇigbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "उष्णिग्भ्यः",
+        "slp1": "uzRigByaH",
+        "iast": "uṣṇigbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.002_6_1_uzRihaH_3965": {
+    "id": "55.002_6_1_uzRihaH_3965",
+    "key": "55.2|6|1|uzRihaH",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहः",
+      "slp1": "uzRihaH",
+      "iast": "uṣṇihaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहस्",
+        "slp1": "uzRihas",
+        "iast": "uṣṇihas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिहरुँ",
+        "slp1": "uzRiharu~",
+        "iast": "uṣṇiharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिहः",
+        "slp1": "uzRihaH",
+        "iast": "uṣṇihaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.002_6_2_uzRihoH_3966": {
+    "id": "55.002_6_2_uzRihoH_3966",
+    "key": "55.2|6|2|uzRihoH",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहोः",
+      "slp1": "uzRihoH",
+      "iast": "uṣṇihoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहोस्",
+        "slp1": "uzRihos",
+        "iast": "uṣṇihos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिहोरुँ",
+        "slp1": "uzRihoru~",
+        "iast": "uṣṇihorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिहोः",
+        "slp1": "uzRihoH",
+        "iast": "uṣṇihoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.002_6_3_uzRihAm_3967": {
+    "id": "55.002_6_3_uzRihAm_3967",
+    "key": "55.2|6|3|uzRihAm",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहाम्",
+      "slp1": "uzRihAm",
+      "iast": "uṣṇihām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहाम्",
+        "slp1": "uzRihAm",
+        "iast": "uṣṇihām",
+        "sutras": []
+      }
+    ]
+  },
+  "55.002_7_1_uzRihi_3968": {
+    "id": "55.002_7_1_uzRihi_3968",
+    "key": "55.2|7|1|uzRihi",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहि",
+      "slp1": "uzRihi",
+      "iast": "uṣṇihi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहि",
+        "slp1": "uzRihi",
+        "iast": "uṣṇihi",
+        "sutras": []
+      }
+    ]
+  },
+  "55.002_7_2_uzRihoH_3969": {
+    "id": "55.002_7_2_uzRihoH_3969",
+    "key": "55.2|7|2|uzRihoH",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिहोः",
+      "slp1": "uzRihoH",
+      "iast": "uṣṇihoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहोस्",
+        "slp1": "uzRihos",
+        "iast": "uṣṇihos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिहोरुँ",
+        "slp1": "uzRihoru~",
+        "iast": "uṣṇihorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिहोः",
+        "slp1": "uzRihoH",
+        "iast": "uṣṇihoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "55.002_7_3_uzRikzu_3970": {
+    "id": "55.002_7_3_uzRikzu_3970",
+    "key": "55.2|7|3|uzRikzu",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "उष्णिक्षु",
+      "slp1": "uzRikzu",
+      "iast": "uṣṇikṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिढ्+सु",
+        "slp1": "uzRiQ+su",
+        "iast": "uṣṇiḍh+su",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिड्+सु",
+        "slp1": "uzRiq+su",
+        "iast": "uṣṇiḍ+su",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिग्+सु",
+        "slp1": "uzRig+su",
+        "iast": "uṣṇig+su",
+        "sutras": [
+          "8.2.62"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उष्णिग्+षु",
+        "slp1": "uzRig+zu",
+        "iast": "uṣṇig+ṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "उष्णिक्षु",
+        "slp1": "uzRikzu",
+        "iast": "uṣṇikṣu",
+        "sutras": [
+          "8.4.55"
+        ]
+      }
+    ]
+  },
+  "55.002_8_1_he uzRig_3971": {
+    "id": "55.002_8_1_he uzRig_3971",
+    "key": "55.2|8|1|he uzRig",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "हे उष्णिग्",
+      "slp1": "he uzRig",
+      "iast": "he uṣṇig"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिह्",
+        "slp1": "uzRih",
+        "iast": "uṣṇih",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिढ्",
+        "slp1": "uzRiQ",
+        "iast": "uṣṇiḍh",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिड्",
+        "slp1": "uzRiq",
+        "iast": "uṣṇiḍ",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हे उष्णिग्",
+        "slp1": "he uzRig",
+        "iast": "he uṣṇig",
+        "sutras": [
+          "8.2.62"
+        ]
+      }
+    ]
+  },
+  "55.002_8_1_he uzRik_3972": {
+    "id": "55.002_8_1_he uzRik_3972",
+    "key": "55.2|8|1|he uzRik",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "हे उष्णिक्",
+      "slp1": "he uzRik",
+      "iast": "he uṣṇik"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिह्",
+        "slp1": "uzRih",
+        "iast": "uṣṇih",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिढ्",
+        "slp1": "uzRiQ",
+        "iast": "uṣṇiḍh",
+        "sutras": [
+          "8.2.31"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "उष्णिड्",
+        "slp1": "uzRiq",
+        "iast": "uṣṇiḍ",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "उष्णिग्",
+        "slp1": "uzRig",
+        "iast": "uṣṇig",
+        "sutras": [
+          "8.2.62"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हे उष्णिक्",
+        "slp1": "he uzRik",
+        "iast": "he uṣṇik",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "55.002_8_2_he uzRihO_3973": {
+    "id": "55.002_8_2_he uzRihO_3973",
+    "key": "55.2|8|2|he uzRihO",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "हे उष्णिहौ",
+      "slp1": "he uzRihO",
+      "iast": "he uṣṇihau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे उष्णिहौ",
+        "slp1": "he uzRihO",
+        "iast": "he uṣṇihau",
+        "sutras": []
+      }
+    ]
+  },
+  "55.002_8_3_he uzRihaH_3974": {
+    "id": "55.002_8_3_he uzRihaH_3974",
+    "key": "55.2|8|3|he uzRihaH",
+    "baseindex": {
+      "raw": "55.002",
+      "normalized": "55.2"
+    },
+    "word": {
+      "deva": "उष्णिह्",
+      "slp1": "uzRih",
+      "iast": "uṣṇih"
+    },
+    "form": {
+      "deva": "हे उष्णिहः",
+      "slp1": "he uzRihaH",
+      "iast": "he uṣṇihaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-55.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "उष्णिहस्",
+        "slp1": "uzRihas",
+        "iast": "uṣṇihas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "उष्णिहरुँ",
+        "slp1": "uzRiharu~",
+        "iast": "uṣṇiharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे उष्णिहः",
+        "slp1": "he uzRihaH",
+        "iast": "he uṣṇihaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

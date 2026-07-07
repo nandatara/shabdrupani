@@ -1,0 +1,1325 @@
+{
+  "57.001_1_1_gIH_3999": {
+    "id": "57.001_1_1_gIH_3999",
+    "key": "57.1|1|1|gIH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गीः",
+      "slp1": "gIH",
+      "iast": "gīḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिर्",
+        "slp1": "gir",
+        "iast": "gir",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गीर्",
+        "slp1": "gIr",
+        "iast": "gīr",
+        "sutras": [
+          "8.2.76"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गीः",
+        "slp1": "gIH",
+        "iast": "gīḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_1_2_girO_4000": {
+    "id": "57.001_1_2_girO_4000",
+    "key": "57.1|1|2|girO",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरौ",
+      "slp1": "girO",
+      "iast": "girau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरौ",
+        "slp1": "girO",
+        "iast": "girau",
+        "sutras": []
+      }
+    ]
+  },
+  "57.001_1_3_giraH_4001": {
+    "id": "57.001_1_3_giraH_4001",
+    "key": "57.1|1|3|giraH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरः",
+      "slp1": "giraH",
+      "iast": "giraḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरस्",
+        "slp1": "giras",
+        "iast": "giras",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गिररुँ",
+        "slp1": "giraru~",
+        "iast": "girarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गिरः",
+        "slp1": "giraH",
+        "iast": "giraḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_2_1_giram_4002": {
+    "id": "57.001_2_1_giram_4002",
+    "key": "57.1|2|1|giram",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरम्",
+      "slp1": "giram",
+      "iast": "giram"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरम्",
+        "slp1": "giram",
+        "iast": "giram",
+        "sutras": []
+      }
+    ]
+  },
+  "57.001_2_2_girO_4003": {
+    "id": "57.001_2_2_girO_4003",
+    "key": "57.1|2|2|girO",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरौ",
+      "slp1": "girO",
+      "iast": "girau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरौ",
+        "slp1": "girO",
+        "iast": "girau",
+        "sutras": []
+      }
+    ]
+  },
+  "57.001_2_3_giraH_4004": {
+    "id": "57.001_2_3_giraH_4004",
+    "key": "57.1|2|3|giraH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरः",
+      "slp1": "giraH",
+      "iast": "giraḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरस्",
+        "slp1": "giras",
+        "iast": "giras",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गिररुँ",
+        "slp1": "giraru~",
+        "iast": "girarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गिरः",
+        "slp1": "giraH",
+        "iast": "giraḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_3_1_girA_4005": {
+    "id": "57.001_3_1_girA_4005",
+    "key": "57.1|3|1|girA",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरा",
+      "slp1": "girA",
+      "iast": "girā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरा",
+        "slp1": "girA",
+        "iast": "girā",
+        "sutras": []
+      }
+    ]
+  },
+  "57.001_3_2_gIrByAm_4006": {
+    "id": "57.001_3_2_gIrByAm_4006",
+    "key": "57.1|3|2|gIrByAm",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गीर्भ्याम्",
+      "slp1": "gIrByAm",
+      "iast": "gīrbhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गीर्भ्याम्",
+        "slp1": "gIrByAm",
+        "iast": "gīrbhyām",
+        "sutras": [
+          "8.2.76"
+        ]
+      }
+    ]
+  },
+  "57.001_3_3_gIrBiH_4007": {
+    "id": "57.001_3_3_gIrBiH_4007",
+    "key": "57.1|3|3|gIrBiH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गीर्भिः",
+      "slp1": "gIrBiH",
+      "iast": "gīrbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गीर्भिस्",
+        "slp1": "gIrBis",
+        "iast": "gīrbhis",
+        "sutras": [
+          "8.2.76"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गीर्भिरुँ",
+        "slp1": "gIrBiru~",
+        "iast": "gīrbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गीर्भिः",
+        "slp1": "gIrBiH",
+        "iast": "gīrbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_4_1_gire_4008": {
+    "id": "57.001_4_1_gire_4008",
+    "key": "57.1|4|1|gire",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरे",
+      "slp1": "gire",
+      "iast": "gire"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरे",
+        "slp1": "gire",
+        "iast": "gire",
+        "sutras": []
+      }
+    ]
+  },
+  "57.001_4_2_gIrByAm_4009": {
+    "id": "57.001_4_2_gIrByAm_4009",
+    "key": "57.1|4|2|gIrByAm",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गीर्भ्याम्",
+      "slp1": "gIrByAm",
+      "iast": "gīrbhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गीर्भ्याम्",
+        "slp1": "gIrByAm",
+        "iast": "gīrbhyām",
+        "sutras": [
+          "8.2.76"
+        ]
+      }
+    ]
+  },
+  "57.001_4_3_gIrByaH_4010": {
+    "id": "57.001_4_3_gIrByaH_4010",
+    "key": "57.1|4|3|gIrByaH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गीर्भ्यः",
+      "slp1": "gIrByaH",
+      "iast": "gīrbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गीर्भ्यस्",
+        "slp1": "gIrByas",
+        "iast": "gīrbhyas",
+        "sutras": [
+          "8.2.76"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गीर्भ्यरुँ",
+        "slp1": "gIrByaru~",
+        "iast": "gīrbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गीर्भ्यः",
+        "slp1": "gIrByaH",
+        "iast": "gīrbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_5_1_giraH_4011": {
+    "id": "57.001_5_1_giraH_4011",
+    "key": "57.1|5|1|giraH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरः",
+      "slp1": "giraH",
+      "iast": "giraḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरस्",
+        "slp1": "giras",
+        "iast": "giras",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गिररुँ",
+        "slp1": "giraru~",
+        "iast": "girarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गिरः",
+        "slp1": "giraH",
+        "iast": "giraḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_5_2_gIrByAm_4012": {
+    "id": "57.001_5_2_gIrByAm_4012",
+    "key": "57.1|5|2|gIrByAm",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गीर्भ्याम्",
+      "slp1": "gIrByAm",
+      "iast": "gīrbhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गीर्भ्याम्",
+        "slp1": "gIrByAm",
+        "iast": "gīrbhyām",
+        "sutras": [
+          "8.2.76"
+        ]
+      }
+    ]
+  },
+  "57.001_5_3_gIrByaH_4013": {
+    "id": "57.001_5_3_gIrByaH_4013",
+    "key": "57.1|5|3|gIrByaH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गीर्भ्यः",
+      "slp1": "gIrByaH",
+      "iast": "gīrbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गीर्भ्यस्",
+        "slp1": "gIrByas",
+        "iast": "gīrbhyas",
+        "sutras": [
+          "8.2.76"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गीर्भ्यरुँ",
+        "slp1": "gIrByaru~",
+        "iast": "gīrbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गीर्भ्यः",
+        "slp1": "gIrByaH",
+        "iast": "gīrbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_6_1_giraH_4014": {
+    "id": "57.001_6_1_giraH_4014",
+    "key": "57.1|6|1|giraH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरः",
+      "slp1": "giraH",
+      "iast": "giraḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरस्",
+        "slp1": "giras",
+        "iast": "giras",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गिररुँ",
+        "slp1": "giraru~",
+        "iast": "girarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गिरः",
+        "slp1": "giraH",
+        "iast": "giraḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_6_2_giroH_4015": {
+    "id": "57.001_6_2_giroH_4015",
+    "key": "57.1|6|2|giroH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरोः",
+      "slp1": "giroH",
+      "iast": "giroḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरोस्",
+        "slp1": "giros",
+        "iast": "giros",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गिरोरुँ",
+        "slp1": "giroru~",
+        "iast": "girorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गिरोः",
+        "slp1": "giroH",
+        "iast": "giroḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_6_3_girAm_4016": {
+    "id": "57.001_6_3_girAm_4016",
+    "key": "57.1|6|3|girAm",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिराम्",
+      "slp1": "girAm",
+      "iast": "girām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिराम्",
+        "slp1": "girAm",
+        "iast": "girām",
+        "sutras": []
+      }
+    ]
+  },
+  "57.001_7_1_giri_4017": {
+    "id": "57.001_7_1_giri_4017",
+    "key": "57.1|7|1|giri",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरि",
+      "slp1": "giri",
+      "iast": "giri"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरि",
+        "slp1": "giri",
+        "iast": "giri",
+        "sutras": []
+      }
+    ]
+  },
+  "57.001_7_2_giroH_4018": {
+    "id": "57.001_7_2_giroH_4018",
+    "key": "57.1|7|2|giroH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गिरोः",
+      "slp1": "giroH",
+      "iast": "giroḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरोस्",
+        "slp1": "giros",
+        "iast": "giros",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गिरोरुँ",
+        "slp1": "giroru~",
+        "iast": "girorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "गिरोः",
+        "slp1": "giroH",
+        "iast": "giroḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_7_3_gIrzu_4019": {
+    "id": "57.001_7_3_gIrzu_4019",
+    "key": "57.1|7|3|gIrzu",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "गीर्षु",
+      "slp1": "gIrzu",
+      "iast": "gīrṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गीर्सु",
+        "slp1": "gIrsu",
+        "iast": "gīrsu",
+        "sutras": [
+          "8.2.76"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गीर्षु",
+        "slp1": "gIrzu",
+        "iast": "gīrṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "57.001_8_1_he gIH_4020": {
+    "id": "57.001_8_1_he gIH_4020",
+    "key": "57.1|8|1|he gIH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "हे गीः",
+      "slp1": "he gIH",
+      "iast": "he gīḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिर्",
+        "slp1": "gir",
+        "iast": "gir",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "गीर्",
+        "slp1": "gIr",
+        "iast": "gīr",
+        "sutras": [
+          "8.2.76"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे गीः",
+        "slp1": "he gIH",
+        "iast": "he gīḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.001_8_2_he girO_4021": {
+    "id": "57.001_8_2_he girO_4021",
+    "key": "57.1|8|2|he girO",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "हे गिरौ",
+      "slp1": "he girO",
+      "iast": "he girau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे गिरौ",
+        "slp1": "he girO",
+        "iast": "he girau",
+        "sutras": []
+      }
+    ]
+  },
+  "57.001_8_3_he giraH_4022": {
+    "id": "57.001_8_3_he giraH_4022",
+    "key": "57.1|8|3|he giraH",
+    "baseindex": {
+      "raw": "57.001",
+      "normalized": "57.1"
+    },
+    "word": {
+      "deva": "गिर्",
+      "slp1": "gir",
+      "iast": "gir"
+    },
+    "form": {
+      "deva": "हे गिरः",
+      "slp1": "he giraH",
+      "iast": "he giraḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "गिरस्",
+        "slp1": "giras",
+        "iast": "giras",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "गिररुँ",
+        "slp1": "giraru~",
+        "iast": "girarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे गिरः",
+        "slp1": "he giraH",
+        "iast": "he giraḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.002_1_3_catasraH_4023": {
+    "id": "57.002_1_3_catasraH_4023",
+    "key": "57.2|1|3|catasraH",
+    "baseindex": {
+      "raw": "57.002",
+      "normalized": "57.2"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतस्रः",
+      "slp1": "catasraH",
+      "iast": "catasraḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतसृ+स्",
+        "slp1": "catasf+s",
+        "iast": "catasṛ+s",
+        "sutras": [
+          "7.2.99"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतस्रस्",
+        "slp1": "catasras",
+        "iast": "catasras",
+        "sutras": [
+          "7.2.100"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतस्ररुँ",
+        "slp1": "catasraru~",
+        "iast": "catasrarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "चतस्रः",
+        "slp1": "catasraH",
+        "iast": "catasraḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.002_2_3_catasraH_4024": {
+    "id": "57.002_2_3_catasraH_4024",
+    "key": "57.2|2|3|catasraH",
+    "baseindex": {
+      "raw": "57.002",
+      "normalized": "57.2"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतस्रः",
+      "slp1": "catasraH",
+      "iast": "catasraḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतसृ+स्",
+        "slp1": "catasf+s",
+        "iast": "catasṛ+s",
+        "sutras": [
+          "7.2.99"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतस्रस्",
+        "slp1": "catasras",
+        "iast": "catasras",
+        "sutras": [
+          "7.2.100"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतस्ररुँ",
+        "slp1": "catasraru~",
+        "iast": "catasrarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "चतस्रः",
+        "slp1": "catasraH",
+        "iast": "catasraḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.002_3_3_catasfBiH_4025": {
+    "id": "57.002_3_3_catasfBiH_4025",
+    "key": "57.2|3|3|catasfBiH",
+    "baseindex": {
+      "raw": "57.002",
+      "normalized": "57.2"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतसृभिः",
+      "slp1": "catasfBiH",
+      "iast": "catasṛbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतसृभिस्",
+        "slp1": "catasfBis",
+        "iast": "catasṛbhis",
+        "sutras": [
+          "7.2.99"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतसृभिरुँ",
+        "slp1": "catasfBiru~",
+        "iast": "catasṛbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतसृभिः",
+        "slp1": "catasfBiH",
+        "iast": "catasṛbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.002_4_3_catasfByaH_4026": {
+    "id": "57.002_4_3_catasfByaH_4026",
+    "key": "57.2|4|3|catasfByaH",
+    "baseindex": {
+      "raw": "57.002",
+      "normalized": "57.2"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतसृभ्यः",
+      "slp1": "catasfByaH",
+      "iast": "catasṛbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतसृभ्यस्",
+        "slp1": "catasfByas",
+        "iast": "catasṛbhyas",
+        "sutras": [
+          "7.2.99"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतसृभ्यरुँ",
+        "slp1": "catasfByaru~",
+        "iast": "catasṛbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतसृभ्यः",
+        "slp1": "catasfByaH",
+        "iast": "catasṛbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.002_5_3_catasfByaH_4027": {
+    "id": "57.002_5_3_catasfByaH_4027",
+    "key": "57.2|5|3|catasfByaH",
+    "baseindex": {
+      "raw": "57.002",
+      "normalized": "57.2"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतसृभ्यः",
+      "slp1": "catasfByaH",
+      "iast": "catasṛbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतसृभ्यस्",
+        "slp1": "catasfByas",
+        "iast": "catasṛbhyas",
+        "sutras": [
+          "7.2.99"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतसृभ्यरुँ",
+        "slp1": "catasfByaru~",
+        "iast": "catasṛbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतसृभ्यः",
+        "slp1": "catasfByaH",
+        "iast": "catasṛbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "57.002_6_3_catasfRAm_4028": {
+    "id": "57.002_6_3_catasfRAm_4028",
+    "key": "57.2|6|3|catasfRAm",
+    "baseindex": {
+      "raw": "57.002",
+      "normalized": "57.2"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतसृणाम्",
+      "slp1": "catasfRAm",
+      "iast": "catasṛṇām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतसृ+आम्",
+        "slp1": "catasf+Am",
+        "iast": "catasṛ+ām",
+        "sutras": [
+          "7.2.99"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतसृ+नाम्",
+        "slp1": "catasf+nAm",
+        "iast": "catasṛ+nām",
+        "sutras": [
+          "7.1.54",
+          "6.4.4"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "चतसृणाम्",
+        "slp1": "catasfRAm",
+        "iast": "catasṛṇām",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "57.002_7_3_catasfzu_4029": {
+    "id": "57.002_7_3_catasfzu_4029",
+    "key": "57.2|7|3|catasfzu",
+    "baseindex": {
+      "raw": "57.002",
+      "normalized": "57.2"
+    },
+    "word": {
+      "deva": "चतुर्",
+      "slp1": "catur",
+      "iast": "catur"
+    },
+    "form": {
+      "deva": "चतसृषु",
+      "slp1": "catasfzu",
+      "iast": "catasṛṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-57.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "चतसृ+सु",
+        "slp1": "catasf+su",
+        "iast": "catasṛ+su",
+        "sutras": [
+          "7.2.99"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "चतसृषु",
+        "slp1": "catasfzu",
+        "iast": "catasṛṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  }
+}

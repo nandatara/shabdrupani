@@ -1,0 +1,1372 @@
+{
+  "32.001_1_1_sulu_2030": {
+    "id": "32.001_1_1_sulu_2030",
+    "key": "32.1|1|1|sulu",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलु",
+      "slp1": "sulu",
+      "iast": "sulu"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलु",
+        "slp1": "sulu",
+        "iast": "sulu",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "32.001_1_2_sulunI_2031": {
+    "id": "32.001_1_2_sulunI_2031",
+    "key": "32.1|1|2|sulunI",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुनी",
+      "slp1": "sulunI",
+      "iast": "sulunī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलु+ई",
+        "slp1": "sulu+I",
+        "iast": "sulu+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलुन्+ई",
+        "slp1": "sulun+I",
+        "iast": "sulun+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलुनी",
+        "slp1": "sulunI",
+        "iast": "sulunī",
+        "sutras": []
+      }
+    ]
+  },
+  "32.001_1_3_sulUni_2032": {
+    "id": "32.001_1_3_sulUni_2032",
+    "key": "32.1|1|3|sulUni",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलूनि",
+      "slp1": "sulUni",
+      "iast": "sulūni"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलु+इ",
+        "slp1": "sulu+i",
+        "iast": "sulu+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलुन्+इ",
+        "slp1": "sulun+i",
+        "iast": "sulun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलूनि",
+        "slp1": "sulUni",
+        "iast": "sulūni",
+        "sutras": [
+          "6.4.8"
+        ]
+      }
+    ]
+  },
+  "32.001_2_1_sulu_2033": {
+    "id": "32.001_2_1_sulu_2033",
+    "key": "32.1|2|1|sulu",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलु",
+      "slp1": "sulu",
+      "iast": "sulu"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलु",
+        "slp1": "sulu",
+        "iast": "sulu",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "32.001_2_2_sulunI_2034": {
+    "id": "32.001_2_2_sulunI_2034",
+    "key": "32.1|2|2|sulunI",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुनी",
+      "slp1": "sulunI",
+      "iast": "sulunī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलु+ई",
+        "slp1": "sulu+I",
+        "iast": "sulu+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलुन्+ई",
+        "slp1": "sulun+I",
+        "iast": "sulun+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलुनी",
+        "slp1": "sulunI",
+        "iast": "sulunī",
+        "sutras": []
+      }
+    ]
+  },
+  "32.001_2_3_sulUni_2035": {
+    "id": "32.001_2_3_sulUni_2035",
+    "key": "32.1|2|3|sulUni",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलूनि",
+      "slp1": "sulUni",
+      "iast": "sulūni"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलु+इ",
+        "slp1": "sulu+i",
+        "iast": "sulu+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलुन्+इ",
+        "slp1": "sulun+i",
+        "iast": "sulun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलूनि",
+        "slp1": "sulUni",
+        "iast": "sulūni",
+        "sutras": [
+          "6.4.8"
+        ]
+      }
+    ]
+  },
+  "32.001_3_1_sulvA_2036": {
+    "id": "32.001_3_1_sulvA_2036",
+    "key": "32.1|3|1|sulvA",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुल्वा",
+      "slp1": "sulvA",
+      "iast": "sulvā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुल्वा",
+        "slp1": "sulvA",
+        "iast": "sulvā",
+        "sutras": [
+          "7.1.74",
+          "6.4.83"
+        ]
+      }
+    ]
+  },
+  "32.001_3_1_sulunA_2037": {
+    "id": "32.001_3_1_sulunA_2037",
+    "key": "32.1|3|1|sulunA",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुना",
+      "slp1": "sulunA",
+      "iast": "sulunā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुना",
+        "slp1": "sulunA",
+        "iast": "sulunā",
+        "sutras": [
+          "7.3.120"
+        ]
+      }
+    ]
+  },
+  "32.001_3_2_suluByAm_2038": {
+    "id": "32.001_3_2_suluByAm_2038",
+    "key": "32.1|3|2|suluByAm",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुभ्याम्",
+      "slp1": "suluByAm",
+      "iast": "sulubhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुभ्याम्",
+        "slp1": "suluByAm",
+        "iast": "sulubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "32.001_3_3_suluBiH_2039": {
+    "id": "32.001_3_3_suluBiH_2039",
+    "key": "32.1|3|3|suluBiH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुभिः",
+      "slp1": "suluBiH",
+      "iast": "sulubhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुभिस्",
+        "slp1": "suluBis",
+        "iast": "sulubhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सुलुभिरुँ",
+        "slp1": "suluBiru~",
+        "iast": "sulubhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलुभिः",
+        "slp1": "suluBiH",
+        "iast": "sulubhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_4_1_sulve_2040": {
+    "id": "32.001_4_1_sulve_2040",
+    "key": "32.1|4|1|sulve",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुल्वे",
+      "slp1": "sulve",
+      "iast": "sulve"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुल्वे",
+        "slp1": "sulve",
+        "iast": "sulve",
+        "sutras": [
+          "7.1.74",
+          "6.4.83"
+        ]
+      }
+    ]
+  },
+  "32.001_4_1_sulune_2041": {
+    "id": "32.001_4_1_sulune_2041",
+    "key": "32.1|4|1|sulune",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुने",
+      "slp1": "sulune",
+      "iast": "sulune"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुने",
+        "slp1": "sulune",
+        "iast": "sulune",
+        "sutras": [
+          "7.1.73"
+        ]
+      }
+    ]
+  },
+  "32.001_4_2_suluByAm_2042": {
+    "id": "32.001_4_2_suluByAm_2042",
+    "key": "32.1|4|2|suluByAm",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुभ्याम्",
+      "slp1": "suluByAm",
+      "iast": "sulubhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुभ्याम्",
+        "slp1": "suluByAm",
+        "iast": "sulubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "32.001_4_3_suluByaH_2043": {
+    "id": "32.001_4_3_suluByaH_2043",
+    "key": "32.1|4|3|suluByaH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुभ्यः",
+      "slp1": "suluByaH",
+      "iast": "sulubhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुभ्यस्",
+        "slp1": "suluByas",
+        "iast": "sulubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सुलुभ्यरुँ",
+        "slp1": "suluByaru~",
+        "iast": "sulubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलुभ्यः",
+        "slp1": "suluByaH",
+        "iast": "sulubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_5_1_sulvaH_2044": {
+    "id": "32.001_5_1_sulvaH_2044",
+    "key": "32.1|5|1|sulvaH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुल्वः",
+      "slp1": "sulvaH",
+      "iast": "sulvaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुल्वस्",
+        "slp1": "sulvas",
+        "iast": "sulvas",
+        "sutras": [
+          "7.1.74",
+          "6.4.83"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुल्वरुँ",
+        "slp1": "sulvaru~",
+        "iast": "sulvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुल्वः",
+        "slp1": "sulvaH",
+        "iast": "sulvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_5_1_sulunaH_2045": {
+    "id": "32.001_5_1_sulunaH_2045",
+    "key": "32.1|5|1|sulunaH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुनः",
+      "slp1": "sulunaH",
+      "iast": "sulunaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुनस्",
+        "slp1": "sulunas",
+        "iast": "sulunas",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलुनरुँ",
+        "slp1": "sulunaru~",
+        "iast": "sulunarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलुनः",
+        "slp1": "sulunaH",
+        "iast": "sulunaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_5_2_suluByAm_2046": {
+    "id": "32.001_5_2_suluByAm_2046",
+    "key": "32.1|5|2|suluByAm",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुभ्याम्",
+      "slp1": "suluByAm",
+      "iast": "sulubhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुभ्याम्",
+        "slp1": "suluByAm",
+        "iast": "sulubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "32.001_5_3_suluByaH_2047": {
+    "id": "32.001_5_3_suluByaH_2047",
+    "key": "32.1|5|3|suluByaH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुभ्यः",
+      "slp1": "suluByaH",
+      "iast": "sulubhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुभ्यस्",
+        "slp1": "suluByas",
+        "iast": "sulubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सुलुभ्यरुँ",
+        "slp1": "suluByaru~",
+        "iast": "sulubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलुभ्यः",
+        "slp1": "suluByaH",
+        "iast": "sulubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_6_1_sulvaH_2048": {
+    "id": "32.001_6_1_sulvaH_2048",
+    "key": "32.1|6|1|sulvaH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुल्वः",
+      "slp1": "sulvaH",
+      "iast": "sulvaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुल्वस्",
+        "slp1": "sulvas",
+        "iast": "sulvas",
+        "sutras": [
+          "7.1.74",
+          "6.4.83"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुल्वरुँ",
+        "slp1": "sulvaru~",
+        "iast": "sulvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुल्वः",
+        "slp1": "sulvaH",
+        "iast": "sulvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_6_1_sulunaH_2049": {
+    "id": "32.001_6_1_sulunaH_2049",
+    "key": "32.1|6|1|sulunaH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुनः",
+      "slp1": "sulunaH",
+      "iast": "sulunaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुनस्",
+        "slp1": "sulunas",
+        "iast": "sulunas",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलुनरुँ",
+        "slp1": "sulunaru~",
+        "iast": "sulunarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलुनः",
+        "slp1": "sulunaH",
+        "iast": "sulunaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_6_2_sulvoH_2050": {
+    "id": "32.001_6_2_sulvoH_2050",
+    "key": "32.1|6|2|sulvoH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुल्वोः",
+      "slp1": "sulvoH",
+      "iast": "sulvoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुल्वोस्",
+        "slp1": "sulvos",
+        "iast": "sulvos",
+        "sutras": [
+          "7.1.74",
+          "6.4.83"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुल्वोरुँ",
+        "slp1": "sulvoru~",
+        "iast": "sulvorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुल्वोः",
+        "slp1": "sulvoH",
+        "iast": "sulvoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_6_2_sulunoH_2051": {
+    "id": "32.001_6_2_sulunoH_2051",
+    "key": "32.1|6|2|sulunoH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुनोः",
+      "slp1": "sulunoH",
+      "iast": "sulunoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुनोस्",
+        "slp1": "sulunos",
+        "iast": "sulunos",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलुनोरुँ",
+        "slp1": "sulunoru~",
+        "iast": "sulunorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलुनोः",
+        "slp1": "sulunoH",
+        "iast": "sulunoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_6_3_sulvAm_2052": {
+    "id": "32.001_6_3_sulvAm_2052",
+    "key": "32.1|6|3|sulvAm",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुल्वाम्",
+      "slp1": "sulvAm",
+      "iast": "sulvām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुल्वाम्",
+        "slp1": "sulvAm",
+        "iast": "sulvām",
+        "sutras": [
+          "7.1.74",
+          "6.4.83"
+        ]
+      }
+    ]
+  },
+  "32.001_6_3_sulUnAm_2053": {
+    "id": "32.001_6_3_sulUnAm_2053",
+    "key": "32.1|6|3|sulUnAm",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलूनाम्",
+      "slp1": "sulUnAm",
+      "iast": "sulūnām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलूनाम्",
+        "slp1": "sulUnAm",
+        "iast": "sulūnām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलूनाम्",
+        "slp1": "sulUnAm",
+        "iast": "sulūnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      }
+    ]
+  },
+  "32.001_7_1_sulvi_2054": {
+    "id": "32.001_7_1_sulvi_2054",
+    "key": "32.1|7|1|sulvi",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुल्वि",
+      "slp1": "sulvi",
+      "iast": "sulvi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुल्वि",
+        "slp1": "sulvi",
+        "iast": "sulvi",
+        "sutras": [
+          "7.1.74",
+          "6.4.83"
+        ]
+      }
+    ]
+  },
+  "32.001_7_1_suluni_2055": {
+    "id": "32.001_7_1_suluni_2055",
+    "key": "32.1|7|1|suluni",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुनि",
+      "slp1": "suluni",
+      "iast": "suluni"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुनि",
+        "slp1": "suluni",
+        "iast": "suluni",
+        "sutras": [
+          "7.1.73"
+        ]
+      }
+    ]
+  },
+  "32.001_7_2_sulvoH_2056": {
+    "id": "32.001_7_2_sulvoH_2056",
+    "key": "32.1|7|2|sulvoH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुल्वोः",
+      "slp1": "sulvoH",
+      "iast": "sulvoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुल्वोस्",
+        "slp1": "sulvos",
+        "iast": "sulvos",
+        "sutras": [
+          "7.1.74",
+          "6.4.83"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुल्वोरुँ",
+        "slp1": "sulvoru~",
+        "iast": "sulvorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुल्वोः",
+        "slp1": "sulvoH",
+        "iast": "sulvoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_7_2_sulunoH_2057": {
+    "id": "32.001_7_2_sulunoH_2057",
+    "key": "32.1|7|2|sulunoH",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुनोः",
+      "slp1": "sulunoH",
+      "iast": "sulunoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुनोस्",
+        "slp1": "sulunos",
+        "iast": "sulunos",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलुनोरुँ",
+        "slp1": "sulunoru~",
+        "iast": "sulunorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुलुनोः",
+        "slp1": "sulunoH",
+        "iast": "sulunoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "32.001_7_3_suluzu_2058": {
+    "id": "32.001_7_3_suluzu_2058",
+    "key": "32.1|7|3|suluzu",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "सुलुषु",
+      "slp1": "suluzu",
+      "iast": "suluṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलुषु",
+        "slp1": "suluzu",
+        "iast": "suluṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "32.001_8_1_he sulu_2059": {
+    "id": "32.001_8_1_he sulu_2059",
+    "key": "32.1|8|1|he sulu",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "हे सुलु",
+      "slp1": "he sulu",
+      "iast": "he sulu"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे सुलु",
+        "slp1": "he sulu",
+        "iast": "he sulu",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "32.001_8_1_he sulo_2060": {
+    "id": "32.001_8_1_he sulo_2060",
+    "key": "32.1|8|1|he sulo",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "हे सुलो",
+      "slp1": "he sulo",
+      "iast": "he sulo"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलु",
+        "slp1": "sulu",
+        "iast": "sulu",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे सुलो",
+        "slp1": "he sulo",
+        "iast": "he sulo",
+        "sutras": [
+          "7.3.108"
+        ]
+      }
+    ]
+  },
+  "32.001_8_2_he sulunI_2061": {
+    "id": "32.001_8_2_he sulunI_2061",
+    "key": "32.1|8|2|he sulunI",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "हे सुलुनी",
+      "slp1": "he sulunI",
+      "iast": "he sulunī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलु+ई",
+        "slp1": "sulu+I",
+        "iast": "sulu+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलुन्+ई",
+        "slp1": "sulun+I",
+        "iast": "sulun+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे सुलुनी",
+        "slp1": "he sulunI",
+        "iast": "he sulunī",
+        "sutras": []
+      }
+    ]
+  },
+  "32.001_8_3_he sulUni_2062": {
+    "id": "32.001_8_3_he sulUni_2062",
+    "key": "32.1|8|3|he sulUni",
+    "baseindex": {
+      "raw": "32.001",
+      "normalized": "32.1"
+    },
+    "word": {
+      "deva": "सुलू",
+      "slp1": "sulU",
+      "iast": "sulū"
+    },
+    "form": {
+      "deva": "हे सुलूनि",
+      "slp1": "he sulUni",
+      "iast": "he sulūni"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-32.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुलु+इ",
+        "slp1": "sulu+i",
+        "iast": "sulu+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुलुन्+इ",
+        "slp1": "sulun+i",
+        "iast": "sulun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे सुलूनि",
+        "slp1": "he sulUni",
+        "iast": "he sulūni",
+        "sutras": [
+          "6.4.8"
+        ]
+      }
+    ]
+  }
+}

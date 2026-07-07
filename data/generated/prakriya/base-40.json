@@ -1,0 +1,1037 @@
+{
+  "40.001_1_1_sudyOH_2339": {
+    "id": "40.001_1_1_sudyOH_2339",
+    "key": "40.1|1|1|sudyOH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुद्यौः",
+      "slp1": "sudyOH",
+      "iast": "sudyauḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदि+औ+स्",
+        "slp1": "sudi+O+s",
+        "iast": "sudi+au+s",
+        "sutras": [
+          "7.1.84"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुद्यौस्",
+        "slp1": "sudyOs",
+        "iast": "sudyaus",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुद्यौरुँ",
+        "slp1": "sudyOru~",
+        "iast": "sudyaurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "सुद्यौः",
+        "slp1": "sudyOH",
+        "iast": "sudyauḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_1_2_sudivO_2340": {
+    "id": "40.001_1_2_sudivO_2340",
+    "key": "40.1|1|2|sudivO",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवौ",
+      "slp1": "sudivO",
+      "iast": "sudivau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवौ",
+        "slp1": "sudivO",
+        "iast": "sudivau",
+        "sutras": []
+      }
+    ]
+  },
+  "40.001_1_3_sudivaH_2341": {
+    "id": "40.001_1_3_sudivaH_2341",
+    "key": "40.1|1|3|sudivaH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवः",
+      "slp1": "sudivaH",
+      "iast": "sudivaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवस्",
+        "slp1": "sudivas",
+        "iast": "sudivas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सुदिवरुँ",
+        "slp1": "sudivaru~",
+        "iast": "sudivarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुदिवः",
+        "slp1": "sudivaH",
+        "iast": "sudivaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_2_1_sudivam_2342": {
+    "id": "40.001_2_1_sudivam_2342",
+    "key": "40.1|2|1|sudivam",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवम्",
+      "slp1": "sudivam",
+      "iast": "sudivam"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवम्",
+        "slp1": "sudivam",
+        "iast": "sudivam",
+        "sutras": []
+      }
+    ]
+  },
+  "40.001_2_2_sudivO_2343": {
+    "id": "40.001_2_2_sudivO_2343",
+    "key": "40.1|2|2|sudivO",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवौ",
+      "slp1": "sudivO",
+      "iast": "sudivau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवौ",
+        "slp1": "sudivO",
+        "iast": "sudivau",
+        "sutras": []
+      }
+    ]
+  },
+  "40.001_2_3_sudivaH_2344": {
+    "id": "40.001_2_3_sudivaH_2344",
+    "key": "40.1|2|3|sudivaH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवः",
+      "slp1": "sudivaH",
+      "iast": "sudivaḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवस्",
+        "slp1": "sudivas",
+        "iast": "sudivas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सुदिवरुँ",
+        "slp1": "sudivaru~",
+        "iast": "sudivarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुदिवः",
+        "slp1": "sudivaH",
+        "iast": "sudivaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_3_1_sudivA_2345": {
+    "id": "40.001_3_1_sudivA_2345",
+    "key": "40.1|3|1|sudivA",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवा",
+      "slp1": "sudivA",
+      "iast": "sudivā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवा",
+        "slp1": "sudivA",
+        "iast": "sudivā",
+        "sutras": []
+      }
+    ]
+  },
+  "40.001_3_2_sudyuByAm_2346": {
+    "id": "40.001_3_2_sudyuByAm_2346",
+    "key": "40.1|3|2|sudyuByAm",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुद्युभ्याम्",
+      "slp1": "sudyuByAm",
+      "iast": "sudyubhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदि+उ+भ्याम्",
+        "slp1": "sudi+u+ByAm",
+        "iast": "sudi+u+bhyām",
+        "sutras": [
+          "6.1.131"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुद्युभ्याम्",
+        "slp1": "sudyuByAm",
+        "iast": "sudyubhyām",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "40.001_3_3_sudyuBiH_2347": {
+    "id": "40.001_3_3_sudyuBiH_2347",
+    "key": "40.1|3|3|sudyuBiH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुद्युभिः",
+      "slp1": "sudyuBiH",
+      "iast": "sudyubhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदि+उ+भिस्",
+        "slp1": "sudi+u+Bis",
+        "iast": "sudi+u+bhis",
+        "sutras": [
+          "6.1.131"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुद्युभिस्",
+        "slp1": "sudyuBis",
+        "iast": "sudyubhis",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुद्युभिरुँ",
+        "slp1": "sudyuBiru~",
+        "iast": "sudyubhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "सुद्युभिः",
+        "slp1": "sudyuBiH",
+        "iast": "sudyubhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_4_1_sudive_2348": {
+    "id": "40.001_4_1_sudive_2348",
+    "key": "40.1|4|1|sudive",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवे",
+      "slp1": "sudive",
+      "iast": "sudive"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवे",
+        "slp1": "sudive",
+        "iast": "sudive",
+        "sutras": []
+      }
+    ]
+  },
+  "40.001_4_2_sudyuByAm_2349": {
+    "id": "40.001_4_2_sudyuByAm_2349",
+    "key": "40.1|4|2|sudyuByAm",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुद्युभ्याम्",
+      "slp1": "sudyuByAm",
+      "iast": "sudyubhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदि+उ+भ्याम्",
+        "slp1": "sudi+u+ByAm",
+        "iast": "sudi+u+bhyām",
+        "sutras": [
+          "6.1.131"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुद्युभ्याम्",
+        "slp1": "sudyuByAm",
+        "iast": "sudyubhyām",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "40.001_4_3_sudyuByaH_2350": {
+    "id": "40.001_4_3_sudyuByaH_2350",
+    "key": "40.1|4|3|sudyuByaH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुद्युभ्यः",
+      "slp1": "sudyuByaH",
+      "iast": "sudyubhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदि+उ+भ्यस्",
+        "slp1": "sudi+u+Byas",
+        "iast": "sudi+u+bhyas",
+        "sutras": [
+          "6.1.131"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुद्युभ्यस्",
+        "slp1": "sudyuByas",
+        "iast": "sudyubhyas",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुद्युभ्यरुँ",
+        "slp1": "sudyuByaru~",
+        "iast": "sudyubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "सुद्युभ्यः",
+        "slp1": "sudyuByaH",
+        "iast": "sudyubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_5_1_sudivaH_2351": {
+    "id": "40.001_5_1_sudivaH_2351",
+    "key": "40.1|5|1|sudivaH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवः",
+      "slp1": "sudivaH",
+      "iast": "sudivaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवस्",
+        "slp1": "sudivas",
+        "iast": "sudivas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सुदिवरुँ",
+        "slp1": "sudivaru~",
+        "iast": "sudivarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुदिवः",
+        "slp1": "sudivaH",
+        "iast": "sudivaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_5_2_sudyuByAm_2352": {
+    "id": "40.001_5_2_sudyuByAm_2352",
+    "key": "40.1|5|2|sudyuByAm",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुद्युभ्याम्",
+      "slp1": "sudyuByAm",
+      "iast": "sudyubhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदि+उ+भ्याम्",
+        "slp1": "sudi+u+ByAm",
+        "iast": "sudi+u+bhyām",
+        "sutras": [
+          "6.1.131"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुद्युभ्याम्",
+        "slp1": "sudyuByAm",
+        "iast": "sudyubhyām",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "40.001_5_3_sudyuByaH_2353": {
+    "id": "40.001_5_3_sudyuByaH_2353",
+    "key": "40.1|5|3|sudyuByaH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुद्युभ्यः",
+      "slp1": "sudyuByaH",
+      "iast": "sudyubhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदि+उ+भ्यस्",
+        "slp1": "sudi+u+Byas",
+        "iast": "sudi+u+bhyas",
+        "sutras": [
+          "6.1.131"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुद्युभ्यस्",
+        "slp1": "sudyuByas",
+        "iast": "sudyubhyas",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुद्युभ्यरुँ",
+        "slp1": "sudyuByaru~",
+        "iast": "sudyubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "सुद्युभ्यः",
+        "slp1": "sudyuByaH",
+        "iast": "sudyubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_6_1_sudivaH_2354": {
+    "id": "40.001_6_1_sudivaH_2354",
+    "key": "40.1|6|1|sudivaH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवः",
+      "slp1": "sudivaH",
+      "iast": "sudivaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवस्",
+        "slp1": "sudivas",
+        "iast": "sudivas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सुदिवरुँ",
+        "slp1": "sudivaru~",
+        "iast": "sudivarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुदिवः",
+        "slp1": "sudivaH",
+        "iast": "sudivaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_6_2_sudivoH_2355": {
+    "id": "40.001_6_2_sudivoH_2355",
+    "key": "40.1|6|2|sudivoH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवोः",
+      "slp1": "sudivoH",
+      "iast": "sudivoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवोस्",
+        "slp1": "sudivos",
+        "iast": "sudivos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सुदिवोरुँ",
+        "slp1": "sudivoru~",
+        "iast": "sudivorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुदिवोः",
+        "slp1": "sudivoH",
+        "iast": "sudivoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_6_3_sudivAm_2356": {
+    "id": "40.001_6_3_sudivAm_2356",
+    "key": "40.1|6|3|sudivAm",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवाम्",
+      "slp1": "sudivAm",
+      "iast": "sudivām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवाम्",
+        "slp1": "sudivAm",
+        "iast": "sudivām",
+        "sutras": []
+      }
+    ]
+  },
+  "40.001_7_1_sudivi_2357": {
+    "id": "40.001_7_1_sudivi_2357",
+    "key": "40.1|7|1|sudivi",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवि",
+      "slp1": "sudivi",
+      "iast": "sudivi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवि",
+        "slp1": "sudivi",
+        "iast": "sudivi",
+        "sutras": []
+      }
+    ]
+  },
+  "40.001_7_2_sudivoH_2358": {
+    "id": "40.001_7_2_sudivoH_2358",
+    "key": "40.1|7|2|sudivoH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुदिवोः",
+      "slp1": "sudivoH",
+      "iast": "sudivoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवोस्",
+        "slp1": "sudivos",
+        "iast": "sudivos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सुदिवोरुँ",
+        "slp1": "sudivoru~",
+        "iast": "sudivorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुदिवोः",
+        "slp1": "sudivoH",
+        "iast": "sudivoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_7_3_sudyuzu_2359": {
+    "id": "40.001_7_3_sudyuzu_2359",
+    "key": "40.1|7|3|sudyuzu",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "सुद्युषु",
+      "slp1": "sudyuzu",
+      "iast": "sudyuṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदि+उ+सु",
+        "slp1": "sudi+u+su",
+        "iast": "sudi+u+su",
+        "sutras": [
+          "6.1.131"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुद्युषु",
+        "slp1": "sudyuzu",
+        "iast": "sudyuṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "40.001_8_1_he sudyOH_2360": {
+    "id": "40.001_8_1_he sudyOH_2360",
+    "key": "40.1|8|1|he sudyOH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "हे सुद्यौः",
+      "slp1": "he sudyOH",
+      "iast": "he sudyauḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदि+औ+स्",
+        "slp1": "sudi+O+s",
+        "iast": "sudi+au+s",
+        "sutras": [
+          "7.1.84"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "सुद्यौस्",
+        "slp1": "sudyOs",
+        "iast": "sudyaus",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "सुद्यौरुँ",
+        "slp1": "sudyOru~",
+        "iast": "sudyaurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हे सुद्यौः",
+        "slp1": "he sudyOH",
+        "iast": "he sudyauḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "40.001_8_2_he sudivO_2361": {
+    "id": "40.001_8_2_he sudivO_2361",
+    "key": "40.1|8|2|he sudivO",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "हे सुदिवौ",
+      "slp1": "he sudivO",
+      "iast": "he sudivau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे सुदिवौ",
+        "slp1": "he sudivO",
+        "iast": "he sudivau",
+        "sutras": []
+      }
+    ]
+  },
+  "40.001_8_3_he sudivaH_2362": {
+    "id": "40.001_8_3_he sudivaH_2362",
+    "key": "40.1|8|3|he sudivaH",
+    "baseindex": {
+      "raw": "40.001",
+      "normalized": "40.1"
+    },
+    "word": {
+      "deva": "सुदिव्",
+      "slp1": "sudiv",
+      "iast": "sudiv"
+    },
+    "form": {
+      "deva": "हे सुदिवः",
+      "slp1": "he sudivaH",
+      "iast": "he sudivaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-40.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "सुदिवस्",
+        "slp1": "sudivas",
+        "iast": "sudivas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "सुदिवरुँ",
+        "slp1": "sudivaru~",
+        "iast": "sudivarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे सुदिवः",
+        "slp1": "he sudivaH",
+        "iast": "he sudivaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

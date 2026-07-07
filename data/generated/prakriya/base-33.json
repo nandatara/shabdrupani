@@ -1,0 +1,1495 @@
+{
+  "33.001_1_1_DAtf_2063": {
+    "id": "33.001_1_1_DAtf_2063",
+    "key": "33.1|1|1|DAtf",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ",
+        "slp1": "DAtf",
+        "iast": "dhātṛ",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "33.001_1_2_DAtfRI_2064": {
+    "id": "33.001_1_2_DAtfRI_2064",
+    "key": "33.1|1|2|DAtfRI",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृणी",
+      "slp1": "DAtfRI",
+      "iast": "dhātṛṇī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ+ई",
+        "slp1": "DAtf+I",
+        "iast": "dhātṛ+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृन्+ई",
+        "slp1": "DAtfn+I",
+        "iast": "dhātṛn+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातृणी",
+        "slp1": "DAtfRI",
+        "iast": "dhātṛṇī",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "33.001_1_3_DAtFRi_2065": {
+    "id": "33.001_1_3_DAtFRi_2065",
+    "key": "33.1|1|3|DAtFRi",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातॄणि",
+      "slp1": "DAtFRi",
+      "iast": "dhātṝṇi"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ+इ",
+        "slp1": "DAtf+i",
+        "iast": "dhātṛ+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृन्+इ",
+        "slp1": "DAtfn+i",
+        "iast": "dhātṛn+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातॄनि",
+        "slp1": "DAtFni",
+        "iast": "dhātṝni",
+        "sutras": [
+          "6.4.8"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धातॄणि",
+        "slp1": "DAtFRi",
+        "iast": "dhātṝṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "33.001_2_1_DAtf_2066": {
+    "id": "33.001_2_1_DAtf_2066",
+    "key": "33.1|2|1|DAtf",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ",
+        "slp1": "DAtf",
+        "iast": "dhātṛ",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "33.001_2_2_DAtfRI_2067": {
+    "id": "33.001_2_2_DAtfRI_2067",
+    "key": "33.1|2|2|DAtfRI",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृणी",
+      "slp1": "DAtfRI",
+      "iast": "dhātṛṇī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ+ई",
+        "slp1": "DAtf+I",
+        "iast": "dhātṛ+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृन्+ई",
+        "slp1": "DAtfn+I",
+        "iast": "dhātṛn+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातृणी",
+        "slp1": "DAtfRI",
+        "iast": "dhātṛṇī",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "33.001_2_3_DAtFRi_2068": {
+    "id": "33.001_2_3_DAtFRi_2068",
+    "key": "33.1|2|3|DAtFRi",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातॄणि",
+      "slp1": "DAtFRi",
+      "iast": "dhātṝṇi"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ+इ",
+        "slp1": "DAtf+i",
+        "iast": "dhātṛ+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृन्+इ",
+        "slp1": "DAtfn+i",
+        "iast": "dhātṛn+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातॄनि",
+        "slp1": "DAtFni",
+        "iast": "dhātṝni",
+        "sutras": [
+          "6.4.8"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धातॄणि",
+        "slp1": "DAtFRi",
+        "iast": "dhātṝṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "33.001_3_1_DAtrA_2069": {
+    "id": "33.001_3_1_DAtrA_2069",
+    "key": "33.1|3|1|DAtrA",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धात्रा",
+      "slp1": "DAtrA",
+      "iast": "dhātrā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धात्रा",
+        "slp1": "DAtrA",
+        "iast": "dhātrā",
+        "sutras": [
+          "7.1.74",
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "33.001_3_1_DAtfRA_2070": {
+    "id": "33.001_3_1_DAtfRA_2070",
+    "key": "33.1|3|1|DAtfRA",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृणा",
+      "slp1": "DAtfRA",
+      "iast": "dhātṛṇā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृना",
+        "slp1": "DAtfnA",
+        "iast": "dhātṛnā",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृणा",
+        "slp1": "DAtfRA",
+        "iast": "dhātṛṇā",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "33.001_3_2_DAtfByAm_2071": {
+    "id": "33.001_3_2_DAtfByAm_2071",
+    "key": "33.1|3|2|DAtfByAm",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृभ्याम्",
+      "slp1": "DAtfByAm",
+      "iast": "dhātṛbhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृभ्याम्",
+        "slp1": "DAtfByAm",
+        "iast": "dhātṛbhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "33.001_3_3_DAtfBiH_2072": {
+    "id": "33.001_3_3_DAtfBiH_2072",
+    "key": "33.1|3|3|DAtfBiH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृभिः",
+      "slp1": "DAtfBiH",
+      "iast": "dhātṛbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृभिस्",
+        "slp1": "DAtfBis",
+        "iast": "dhātṛbhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धातृभिरुँ",
+        "slp1": "DAtfBiru~",
+        "iast": "dhātṛbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातृभिः",
+        "slp1": "DAtfBiH",
+        "iast": "dhātṛbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_4_1_DAtre_2073": {
+    "id": "33.001_4_1_DAtre_2073",
+    "key": "33.1|4|1|DAtre",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धात्रे",
+      "slp1": "DAtre",
+      "iast": "dhātre"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धात्रे",
+        "slp1": "DAtre",
+        "iast": "dhātre",
+        "sutras": [
+          "7.1.74",
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "33.001_4_1_DAtfRe_2074": {
+    "id": "33.001_4_1_DAtfRe_2074",
+    "key": "33.1|4|1|DAtfRe",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृणे",
+      "slp1": "DAtfRe",
+      "iast": "dhātṛṇe"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृने",
+        "slp1": "DAtfne",
+        "iast": "dhātṛne",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृणे",
+        "slp1": "DAtfRe",
+        "iast": "dhātṛṇe",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "33.001_4_2_DAtfByAm_2075": {
+    "id": "33.001_4_2_DAtfByAm_2075",
+    "key": "33.1|4|2|DAtfByAm",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृभ्याम्",
+      "slp1": "DAtfByAm",
+      "iast": "dhātṛbhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृभ्याम्",
+        "slp1": "DAtfByAm",
+        "iast": "dhātṛbhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "33.001_4_3_DAtfByaH_2076": {
+    "id": "33.001_4_3_DAtfByaH_2076",
+    "key": "33.1|4|3|DAtfByaH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृभ्यः",
+      "slp1": "DAtfByaH",
+      "iast": "dhātṛbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृभ्यस्",
+        "slp1": "DAtfByas",
+        "iast": "dhātṛbhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धातृभ्यरुँ",
+        "slp1": "DAtfByaru~",
+        "iast": "dhātṛbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातृभ्यः",
+        "slp1": "DAtfByaH",
+        "iast": "dhātṛbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_5_1_DAtuH_2077": {
+    "id": "33.001_5_1_DAtuH_2077",
+    "key": "33.1|5|1|DAtuH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातुः",
+      "slp1": "DAtuH",
+      "iast": "dhātuḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धात्+उ+स्",
+        "slp1": "DAt+u+s",
+        "iast": "dhāt+u+s",
+        "sutras": [
+          "7.1.74",
+          "6.1.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धात्+उर्+स्",
+        "slp1": "DAt+ur+s",
+        "iast": "dhāt+ur+s",
+        "sutras": [
+          "1.1.51"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धात्+उर्",
+        "slp1": "DAt+ur",
+        "iast": "dhāt+ur",
+        "sutras": [
+          "8.2.24"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धातुः",
+        "slp1": "DAtuH",
+        "iast": "dhātuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_5_1_DAtfRaH_2078": {
+    "id": "33.001_5_1_DAtfRaH_2078",
+    "key": "33.1|5|1|DAtfRaH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृणः",
+      "slp1": "DAtfRaH",
+      "iast": "dhātṛṇaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृनस्",
+        "slp1": "DAtfnas",
+        "iast": "dhātṛnas",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृणस्",
+        "slp1": "DAtfRas",
+        "iast": "dhātṛṇas",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातृणरुँ",
+        "slp1": "DAtfRaru~",
+        "iast": "dhātṛṇarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धातृणः",
+        "slp1": "DAtfRaH",
+        "iast": "dhātṛṇaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_5_2_DAtfByAm_2079": {
+    "id": "33.001_5_2_DAtfByAm_2079",
+    "key": "33.1|5|2|DAtfByAm",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृभ्याम्",
+      "slp1": "DAtfByAm",
+      "iast": "dhātṛbhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृभ्याम्",
+        "slp1": "DAtfByAm",
+        "iast": "dhātṛbhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "33.001_5_3_DAtfByaH_2080": {
+    "id": "33.001_5_3_DAtfByaH_2080",
+    "key": "33.1|5|3|DAtfByaH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृभ्यः",
+      "slp1": "DAtfByaH",
+      "iast": "dhātṛbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृभ्यस्",
+        "slp1": "DAtfByas",
+        "iast": "dhātṛbhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "धातृभ्यरुँ",
+        "slp1": "DAtfByaru~",
+        "iast": "dhātṛbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातृभ्यः",
+        "slp1": "DAtfByaH",
+        "iast": "dhātṛbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_6_1_DAtuH_2081": {
+    "id": "33.001_6_1_DAtuH_2081",
+    "key": "33.1|6|1|DAtuH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातुः",
+      "slp1": "DAtuH",
+      "iast": "dhātuḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धात्+उ+स्",
+        "slp1": "DAt+u+s",
+        "iast": "dhāt+u+s",
+        "sutras": [
+          "7.1.74",
+          "6.1.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धात्+उर्+स्",
+        "slp1": "DAt+ur+s",
+        "iast": "dhāt+ur+s",
+        "sutras": [
+          "1.1.51"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धात्+उर्",
+        "slp1": "DAt+ur",
+        "iast": "dhāt+ur",
+        "sutras": [
+          "8.2.24"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धातुः",
+        "slp1": "DAtuH",
+        "iast": "dhātuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_6_1_DAtfRaH_2082": {
+    "id": "33.001_6_1_DAtfRaH_2082",
+    "key": "33.1|6|1|DAtfRaH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृणः",
+      "slp1": "DAtfRaH",
+      "iast": "dhātṛṇaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृनस्",
+        "slp1": "DAtfnas",
+        "iast": "dhātṛnas",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृणस्",
+        "slp1": "DAtfRas",
+        "iast": "dhātṛṇas",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातृणरुँ",
+        "slp1": "DAtfRaru~",
+        "iast": "dhātṛṇarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धातृणः",
+        "slp1": "DAtfRaH",
+        "iast": "dhātṛṇaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_6_2_DAtroH_2083": {
+    "id": "33.001_6_2_DAtroH_2083",
+    "key": "33.1|6|2|DAtroH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धात्रोः",
+      "slp1": "DAtroH",
+      "iast": "dhātroḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धात्रोस्",
+        "slp1": "DAtros",
+        "iast": "dhātros",
+        "sutras": [
+          "7.1.74",
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धात्रोरुँ",
+        "slp1": "DAtroru~",
+        "iast": "dhātrorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धात्रोः",
+        "slp1": "DAtroH",
+        "iast": "dhātroḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_6_2_DAtfRoH_2084": {
+    "id": "33.001_6_2_DAtfRoH_2084",
+    "key": "33.1|6|2|DAtfRoH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृणोः",
+      "slp1": "DAtfRoH",
+      "iast": "dhātṛṇoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृनोस्",
+        "slp1": "DAtfnos",
+        "iast": "dhātṛnos",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृणोस्",
+        "slp1": "DAtfRos",
+        "iast": "dhātṛṇos",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातृणोरुँ",
+        "slp1": "DAtfRoru~",
+        "iast": "dhātṛṇorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धातृणोः",
+        "slp1": "DAtfRoH",
+        "iast": "dhātṛṇoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_6_3_DAtFRAm_2085": {
+    "id": "33.001_6_3_DAtFRAm_2085",
+    "key": "33.1|6|3|DAtFRAm",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातॄणाम्",
+      "slp1": "DAtFRAm",
+      "iast": "dhātṝṇām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ+आम्",
+        "slp1": "DAtf+Am",
+        "iast": "dhātṛ+ām",
+        "sutras": [
+          "7.1.74"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृ+न्+आम्",
+        "slp1": "DAtf+n+Am",
+        "iast": "dhātṛ+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातॄनाम्",
+        "slp1": "DAtFnAm",
+        "iast": "dhātṝnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धातॄणाम्",
+        "slp1": "DAtFRAm",
+        "iast": "dhātṝṇām",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "33.001_7_1_DAtari_2086": {
+    "id": "33.001_7_1_DAtari_2086",
+    "key": "33.1|7|1|DAtari",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातरि",
+      "slp1": "DAtari",
+      "iast": "dhātari"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ+इ",
+        "slp1": "DAtf+i",
+        "iast": "dhātṛ+i",
+        "sutras": [
+          "7.1.74"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धात्+अर्+इ",
+        "slp1": "DAt+ar+i",
+        "iast": "dhāt+ar+i",
+        "sutras": [
+          "7.3.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातरि",
+        "slp1": "DAtari",
+        "iast": "dhātari",
+        "sutras": []
+      }
+    ]
+  },
+  "33.001_7_1_DAtfRi_2087": {
+    "id": "33.001_7_1_DAtfRi_2087",
+    "key": "33.1|7|1|DAtfRi",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृणि",
+      "slp1": "DAtfRi",
+      "iast": "dhātṛṇi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृनि",
+        "slp1": "DAtfni",
+        "iast": "dhātṛni",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृणि",
+        "slp1": "DAtfRi",
+        "iast": "dhātṛṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "33.001_7_2_DAtroH_2088": {
+    "id": "33.001_7_2_DAtroH_2088",
+    "key": "33.1|7|2|DAtroH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धात्रोः",
+      "slp1": "DAtroH",
+      "iast": "dhātroḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धात्रोस्",
+        "slp1": "DAtros",
+        "iast": "dhātros",
+        "sutras": [
+          "7.1.74",
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धात्रोरुँ",
+        "slp1": "DAtroru~",
+        "iast": "dhātrorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धात्रोः",
+        "slp1": "DAtroH",
+        "iast": "dhātroḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_7_2_DAtfRoH_2089": {
+    "id": "33.001_7_2_DAtfRoH_2089",
+    "key": "33.1|7|2|DAtfRoH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृणोः",
+      "slp1": "DAtfRoH",
+      "iast": "dhātṛṇoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृनोस्",
+        "slp1": "DAtfnos",
+        "iast": "dhātṛnos",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृणोस्",
+        "slp1": "DAtfRos",
+        "iast": "dhātṛṇos",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातृणोरुँ",
+        "slp1": "DAtfRoru~",
+        "iast": "dhātṛṇorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "धातृणोः",
+        "slp1": "DAtfRoH",
+        "iast": "dhātṛṇoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_7_3_DAtfzu_2090": {
+    "id": "33.001_7_3_DAtfzu_2090",
+    "key": "33.1|7|3|DAtfzu",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "धातृषु",
+      "slp1": "DAtfzu",
+      "iast": "dhātṛṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृषु",
+        "slp1": "DAtfzu",
+        "iast": "dhātṛṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "33.001_8_1_he DAtf_2091": {
+    "id": "33.001_8_1_he DAtf_2091",
+    "key": "33.1|8|1|he DAtf",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "हे धातृ",
+      "slp1": "he DAtf",
+      "iast": "he dhātṛ"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे धातृ",
+        "slp1": "he DAtf",
+        "iast": "he dhātṛ",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "33.001_8_1_he DAtaH_2092": {
+    "id": "33.001_8_1_he DAtaH_2092",
+    "key": "33.1|8|1|he DAtaH",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "हे धातः",
+      "slp1": "he DAtaH",
+      "iast": "he dhātaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ",
+        "slp1": "DAtf",
+        "iast": "dhātṛ",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातर्",
+        "slp1": "DAtar",
+        "iast": "dhātar",
+        "sutras": [
+          "7.3.108"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे धातः",
+        "slp1": "he DAtaH",
+        "iast": "he dhātaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "33.001_8_2_he DAtfRI_2093": {
+    "id": "33.001_8_2_he DAtfRI_2093",
+    "key": "33.1|8|2|he DAtfRI",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "हे धातृणी",
+      "slp1": "he DAtfRI",
+      "iast": "he dhātṛṇī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ+ई",
+        "slp1": "DAtf+I",
+        "iast": "dhātṛ+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृन्+ई",
+        "slp1": "DAtfn+I",
+        "iast": "dhātṛn+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे धातृणी",
+        "slp1": "he DAtfRI",
+        "iast": "he dhātṛṇī",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "33.001_8_3_he DAtFRi_2094": {
+    "id": "33.001_8_3_he DAtFRi_2094",
+    "key": "33.1|8|3|he DAtFRi",
+    "baseindex": {
+      "raw": "33.001",
+      "normalized": "33.1"
+    },
+    "word": {
+      "deva": "धातृ",
+      "slp1": "DAtf",
+      "iast": "dhātṛ"
+    },
+    "form": {
+      "deva": "हे धातॄणि",
+      "slp1": "he DAtFRi",
+      "iast": "he dhātṝṇi"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-33.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "धातृ+इ",
+        "slp1": "DAtf+i",
+        "iast": "dhātṛ+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "धातृन्+इ",
+        "slp1": "DAtfn+i",
+        "iast": "dhātṛn+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "धातॄनि",
+        "slp1": "DAtFni",
+        "iast": "dhātṝni",
+        "sutras": [
+          "6.4.8"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हे धातॄणि",
+        "slp1": "he DAtFRi",
+        "iast": "he dhātṝṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  }
+}

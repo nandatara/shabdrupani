@@ -1,0 +1,2501 @@
+{
+  "05.002_1_1_SamBuH_935": {
+    "id": "05.002_1_1_SamBuH_935",
+    "key": "5.2|1|1|SamBuH",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भुः",
+      "slp1": "SamBuH",
+      "iast": "śambhuḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भुस्",
+        "slp1": "SamBus",
+        "iast": "śambhus",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "शम्भुरुँ",
+        "slp1": "SamBuru~",
+        "iast": "śambhurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भुः",
+        "slp1": "SamBuH",
+        "iast": "śambhuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.002_1_2_SamBU_936": {
+    "id": "05.002_1_2_SamBU_936",
+    "key": "5.2|1|2|SamBU",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भू",
+      "slp1": "SamBU",
+      "iast": "śambhū"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भू",
+        "slp1": "SamBU",
+        "iast": "śambhū",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "05.002_1_3_SamBavaH_937": {
+    "id": "05.002_1_3_SamBavaH_937",
+    "key": "5.2|1|3|SamBavaH",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भवः",
+      "slp1": "SamBavaH",
+      "iast": "śambhavaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भो+अस्",
+        "slp1": "SamBo+as",
+        "iast": "śambho+as",
+        "sutras": [
+          "7.3.109"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "शम्भवस्",
+        "slp1": "SamBavas",
+        "iast": "śambhavas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भवरुँ",
+        "slp1": "SamBavaru~",
+        "iast": "śambhavarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "शम्भवः",
+        "slp1": "SamBavaH",
+        "iast": "śambhavaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.002_2_1_SamBum_938": {
+    "id": "05.002_2_1_SamBum_938",
+    "key": "5.2|2|1|SamBum",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भुम्",
+      "slp1": "SamBum",
+      "iast": "śambhum"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भुम्",
+        "slp1": "SamBum",
+        "iast": "śambhum",
+        "sutras": [
+          "6.1.107"
+        ]
+      }
+    ]
+  },
+  "05.002_2_2_SamBU_939": {
+    "id": "05.002_2_2_SamBU_939",
+    "key": "5.2|2|2|SamBU",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भू",
+      "slp1": "SamBU",
+      "iast": "śambhū"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भू",
+        "slp1": "SamBU",
+        "iast": "śambhū",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "05.002_2_3_SamBUn_940": {
+    "id": "05.002_2_3_SamBUn_940",
+    "key": "5.2|2|3|SamBUn",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भून्",
+      "slp1": "SamBUn",
+      "iast": "śambhūn"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भूस्",
+        "slp1": "SamBUs",
+        "iast": "śambhūs",
+        "sutras": [
+          "6.1.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "शम्भून्",
+        "slp1": "SamBUn",
+        "iast": "śambhūn",
+        "sutras": [
+          "6.1.103"
+        ]
+      }
+    ]
+  },
+  "05.002_3_1_SamBunA_941": {
+    "id": "05.002_3_1_SamBunA_941",
+    "key": "5.2|3|1|SamBunA",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भुना",
+      "slp1": "SamBunA",
+      "iast": "śambhunā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भुना",
+        "slp1": "SamBunA",
+        "iast": "śambhunā",
+        "sutras": [
+          "7.3.120"
+        ]
+      }
+    ]
+  },
+  "05.002_3_2_SamBuByAm_942": {
+    "id": "05.002_3_2_SamBuByAm_942",
+    "key": "5.2|3|2|SamBuByAm",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भुभ्याम्",
+      "slp1": "SamBuByAm",
+      "iast": "śambhubhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भुभ्याम्",
+        "slp1": "SamBuByAm",
+        "iast": "śambhubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "05.002_3_3_SamBuBiH_943": {
+    "id": "05.002_3_3_SamBuBiH_943",
+    "key": "5.2|3|3|SamBuBiH",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भुभिः",
+      "slp1": "SamBuBiH",
+      "iast": "śambhubhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भुभिस्",
+        "slp1": "SamBuBis",
+        "iast": "śambhubhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "शम्भुभिरुँ",
+        "slp1": "SamBuBiru~",
+        "iast": "śambhubhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भुभिः",
+        "slp1": "SamBuBiH",
+        "iast": "śambhubhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.002_4_1_SamBave_944": {
+    "id": "05.002_4_1_SamBave_944",
+    "key": "5.2|4|1|SamBave",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भवे",
+      "slp1": "SamBave",
+      "iast": "śambhave"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भो+ए",
+        "slp1": "SamBo+e",
+        "iast": "śambho+e",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "शम्भवे",
+        "slp1": "SamBave",
+        "iast": "śambhave",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "05.002_4_2_SamBuByAm_945": {
+    "id": "05.002_4_2_SamBuByAm_945",
+    "key": "5.2|4|2|SamBuByAm",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भुभ्याम्",
+      "slp1": "SamBuByAm",
+      "iast": "śambhubhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भुभ्याम्",
+        "slp1": "SamBuByAm",
+        "iast": "śambhubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "05.002_4_3_SamBuByaH_946": {
+    "id": "05.002_4_3_SamBuByaH_946",
+    "key": "5.2|4|3|SamBuByaH",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भुभ्यः",
+      "slp1": "SamBuByaH",
+      "iast": "śambhubhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भुभ्यस्",
+        "slp1": "SamBuByas",
+        "iast": "śambhubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "शम्भुभ्यरुँ",
+        "slp1": "SamBuByaru~",
+        "iast": "śambhubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भुभ्यः",
+        "slp1": "SamBuByaH",
+        "iast": "śambhubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.002_5_1_SamBoH_947": {
+    "id": "05.002_5_1_SamBoH_947",
+    "key": "5.2|5|1|SamBoH",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भोः",
+      "slp1": "SamBoH",
+      "iast": "śambhoḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भो+अस्",
+        "slp1": "SamBo+as",
+        "iast": "śambho+as",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "शम्भोस्",
+        "slp1": "SamBos",
+        "iast": "śambhos",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भोरुँ",
+        "slp1": "SamBoru~",
+        "iast": "śambhorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "शम्भोः",
+        "slp1": "SamBoH",
+        "iast": "śambhoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.002_5_2_SamBuByAm_948": {
+    "id": "05.002_5_2_SamBuByAm_948",
+    "key": "5.2|5|2|SamBuByAm",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भुभ्याम्",
+      "slp1": "SamBuByAm",
+      "iast": "śambhubhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भुभ्याम्",
+        "slp1": "SamBuByAm",
+        "iast": "śambhubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "05.002_5_3_SamBuByaH_949": {
+    "id": "05.002_5_3_SamBuByaH_949",
+    "key": "5.2|5|3|SamBuByaH",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भुभ्यः",
+      "slp1": "SamBuByaH",
+      "iast": "śambhubhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भुभ्यस्",
+        "slp1": "SamBuByas",
+        "iast": "śambhubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "शम्भुभ्यरुँ",
+        "slp1": "SamBuByaru~",
+        "iast": "śambhubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भुभ्यः",
+        "slp1": "SamBuByaH",
+        "iast": "śambhubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.002_6_1_SamBoH_950": {
+    "id": "05.002_6_1_SamBoH_950",
+    "key": "5.2|6|1|SamBoH",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भोः",
+      "slp1": "SamBoH",
+      "iast": "śambhoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भो+अस्",
+        "slp1": "SamBo+as",
+        "iast": "śambho+as",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "शम्भोस्",
+        "slp1": "SamBos",
+        "iast": "śambhos",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भोरुँ",
+        "slp1": "SamBoru~",
+        "iast": "śambhorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "शम्भोः",
+        "slp1": "SamBoH",
+        "iast": "śambhoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.002_6_2_SamBvoH_951": {
+    "id": "05.002_6_2_SamBvoH_951",
+    "key": "5.2|6|2|SamBvoH",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भ्वोः",
+      "slp1": "SamBvoH",
+      "iast": "śambhvoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भ्वोस्",
+        "slp1": "SamBvos",
+        "iast": "śambhvos",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "शम्भ्वोरुँ",
+        "slp1": "SamBvoru~",
+        "iast": "śambhvorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भ्वोः",
+        "slp1": "SamBvoH",
+        "iast": "śambhvoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.002_6_3_SamBUnAm_952": {
+    "id": "05.002_6_3_SamBUnAm_952",
+    "key": "5.2|6|3|SamBUnAm",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भूनाम्",
+      "slp1": "SamBUnAm",
+      "iast": "śambhūnām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भु+न्+आम्",
+        "slp1": "SamBu+n+Am",
+        "iast": "śambhu+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "शम्भूनाम्",
+        "slp1": "SamBUnAm",
+        "iast": "śambhūnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      }
+    ]
+  },
+  "05.002_7_1_SamBO_953": {
+    "id": "05.002_7_1_SamBO_953",
+    "key": "5.2|7|1|SamBO",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भौ",
+      "slp1": "SamBO",
+      "iast": "śambhau"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भु+औ",
+        "slp1": "SamBu+O",
+        "iast": "śambhu+au",
+        "sutras": [
+          "7.3.119"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "शम्भ+औ",
+        "slp1": "SamBa+O",
+        "iast": "śambha+au",
+        "sutras": [
+          "7.3.119"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भौ",
+        "slp1": "SamBO",
+        "iast": "śambhau",
+        "sutras": [
+          "6.1.88"
+        ]
+      }
+    ]
+  },
+  "05.002_7_2_SamBvoH_954": {
+    "id": "05.002_7_2_SamBvoH_954",
+    "key": "5.2|7|2|SamBvoH",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भ्वोः",
+      "slp1": "SamBvoH",
+      "iast": "śambhvoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भ्वोस्",
+        "slp1": "SamBvos",
+        "iast": "śambhvos",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "शम्भ्वोरुँ",
+        "slp1": "SamBvoru~",
+        "iast": "śambhvorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भ्वोः",
+        "slp1": "SamBvoH",
+        "iast": "śambhvoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.002_7_3_SamBuzu_955": {
+    "id": "05.002_7_3_SamBuzu_955",
+    "key": "5.2|7|3|SamBuzu",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "शम्भुषु",
+      "slp1": "SamBuzu",
+      "iast": "śambhuṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भुषु",
+        "slp1": "SamBuzu",
+        "iast": "śambhuṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "05.002_8_1_he SamBo_956": {
+    "id": "05.002_8_1_he SamBo_956",
+    "key": "5.2|8|1|he SamBo",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "हे शम्भो",
+      "slp1": "he SamBo",
+      "iast": "he śambho"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भो+स्",
+        "slp1": "SamBo+s",
+        "iast": "śambho+s",
+        "sutras": [
+          "7.3.108"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे शम्भो",
+        "slp1": "he SamBo",
+        "iast": "he śambho",
+        "sutras": [
+          "6.1.69"
+        ]
+      }
+    ]
+  },
+  "05.002_8_2_he SamBU_957": {
+    "id": "05.002_8_2_he SamBU_957",
+    "key": "5.2|8|2|he SamBU",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "हे शम्भू",
+      "slp1": "he SamBU",
+      "iast": "he śambhū"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे शम्भू",
+        "slp1": "he SamBU",
+        "iast": "he śambhū",
+        "sutras": [
+          "6.1.102"
+        ]
+      }
+    ]
+  },
+  "05.002_8_3_he SamBavaH_958": {
+    "id": "05.002_8_3_he SamBavaH_958",
+    "key": "5.2|8|3|he SamBavaH",
+    "baseindex": {
+      "raw": "05.002",
+      "normalized": "5.2"
+    },
+    "word": {
+      "deva": "शम्भु",
+      "slp1": "SamBu",
+      "iast": "śambhu"
+    },
+    "form": {
+      "deva": "हे शम्भवः",
+      "slp1": "he SamBavaH",
+      "iast": "he śambhavaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "शम्भो+अस्",
+        "slp1": "SamBo+as",
+        "iast": "śambho+as",
+        "sutras": [
+          "7.3.109"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "शम्भवस्",
+        "slp1": "SamBavas",
+        "iast": "śambhavas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "शम्भवरुँ",
+        "slp1": "SamBavaru~",
+        "iast": "śambhavarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हे शम्भवः",
+        "slp1": "he SamBavaH",
+        "iast": "he śambhavaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_1_1_krozwA_959": {
+    "id": "05.004_1_1_krozwA_959",
+    "key": "5.4|1|1|krozwA",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टा",
+      "slp1": "krozwA",
+      "iast": "kroṣṭā"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+स्",
+        "slp1": "krozwf+s",
+        "iast": "kroṣṭṛ+s",
+        "sutras": [
+          "7.1.95"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्+अन्+स्",
+        "slp1": "krozw+an+s",
+        "iast": "kroṣṭ+an+s",
+        "sutras": [
+          "7.1.94"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्ट्+आन्+स्",
+        "slp1": "krozw+An+s",
+        "iast": "kroṣṭ+ān+s",
+        "sutras": [
+          "6.4.11"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "कोष्टान्",
+        "slp1": "kozwAn",
+        "iast": "koṣṭān",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "क्रोष्टा",
+        "slp1": "krozwA",
+        "iast": "kroṣṭā",
+        "sutras": [
+          "8.2.7"
+        ]
+      }
+    ]
+  },
+  "05.004_1_2_krozwArO_960": {
+    "id": "05.004_1_2_krozwArO_960",
+    "key": "5.4|1|2|krozwArO",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टारौ",
+      "slp1": "krozwArO",
+      "iast": "kroṣṭārau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+औ",
+        "slp1": "krozwf+O",
+        "iast": "kroṣṭṛ+au",
+        "sutras": [
+          "7.1.95"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्+अर्+औ",
+        "slp1": "krozw+ar+O",
+        "iast": "kroṣṭ+ar+au",
+        "sutras": [
+          "7.3.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्टारौ",
+        "slp1": "krozwArO",
+        "iast": "kroṣṭārau",
+        "sutras": [
+          "6.4.11"
+        ]
+      }
+    ]
+  },
+  "05.004_1_3_krozwAraH_961": {
+    "id": "05.004_1_3_krozwAraH_961",
+    "key": "5.4|1|3|krozwAraH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टारः",
+      "slp1": "krozwAraH",
+      "iast": "kroṣṭāraḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+अस्",
+        "slp1": "krozwf+as",
+        "iast": "kroṣṭṛ+as",
+        "sutras": [
+          "7.1.95"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्+अर्+अस्",
+        "slp1": "krozw+ar+as",
+        "iast": "kroṣṭ+ar+as",
+        "sutras": [
+          "7.3.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्टारस्",
+        "slp1": "krozwAras",
+        "iast": "kroṣṭāras",
+        "sutras": [
+          "6.4.11"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "क्रोष्टाररुँ",
+        "slp1": "krozwAraru~",
+        "iast": "kroṣṭārarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "क्रोष्टारः",
+        "slp1": "krozwAraH",
+        "iast": "kroṣṭāraḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_2_1_krozwAram_962": {
+    "id": "05.004_2_1_krozwAram_962",
+    "key": "5.4|2|1|krozwAram",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टारम्",
+      "slp1": "krozwAram",
+      "iast": "kroṣṭāram"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+अम्",
+        "slp1": "krozwf+am",
+        "iast": "kroṣṭṛ+am",
+        "sutras": [
+          "7.1.95"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्+अर्+अम्",
+        "slp1": "krozw+ar+am",
+        "iast": "kroṣṭ+ar+am",
+        "sutras": [
+          "7.3.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्टारम्",
+        "slp1": "krozwAram",
+        "iast": "kroṣṭāram",
+        "sutras": [
+          "6.4.11"
+        ]
+      }
+    ]
+  },
+  "05.004_2_2_krozwArO_963": {
+    "id": "05.004_2_2_krozwArO_963",
+    "key": "5.4|2|2|krozwArO",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टारौ",
+      "slp1": "krozwArO",
+      "iast": "kroṣṭārau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+औ",
+        "slp1": "krozwf+O",
+        "iast": "kroṣṭṛ+au",
+        "sutras": [
+          "7.1.95"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्+अर्+औ",
+        "slp1": "krozw+ar+O",
+        "iast": "kroṣṭ+ar+au",
+        "sutras": [
+          "7.3.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्टारौ",
+        "slp1": "krozwArO",
+        "iast": "kroṣṭārau",
+        "sutras": [
+          "6.4.11"
+        ]
+      }
+    ]
+  },
+  "05.004_2_3_krozwUn_964": {
+    "id": "05.004_2_3_krozwUn_964",
+    "key": "5.4|2|3|krozwUn",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टून्",
+      "slp1": "krozwUn",
+      "iast": "kroṣṭūn"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टू+स्",
+        "slp1": "krozwU+s",
+        "iast": "kroṣṭū+s",
+        "sutras": [
+          "6.1.102"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्टून्",
+        "slp1": "krozwUn",
+        "iast": "kroṣṭūn",
+        "sutras": [
+          "6.1.103"
+        ]
+      }
+    ]
+  },
+  "05.004_3_1_krozwrA_965": {
+    "id": "05.004_3_1_krozwrA_965",
+    "key": "5.4|3|1|krozwrA",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्ट्रा",
+      "slp1": "krozwrA",
+      "iast": "kroṣṭrā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+आ",
+        "slp1": "krozwf+A",
+        "iast": "kroṣṭṛ+ā",
+        "sutras": [
+          "7.1.97"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्रा",
+        "slp1": "krozwrA",
+        "iast": "kroṣṭrā",
+        "sutras": [
+          "6.1.77"
+        ]
+      }
+    ]
+  },
+  "05.004_3_1_krozwunA_966": {
+    "id": "05.004_3_1_krozwunA_966",
+    "key": "5.4|3|1|krozwunA",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टुना",
+      "slp1": "krozwunA",
+      "iast": "kroṣṭunā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टुना",
+        "slp1": "krozwunA",
+        "iast": "kroṣṭunā",
+        "sutras": [
+          "7.3.120"
+        ]
+      }
+    ]
+  },
+  "05.004_3_2_krozwuByAm_967": {
+    "id": "05.004_3_2_krozwuByAm_967",
+    "key": "5.4|3|2|krozwuByAm",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टुभ्याम्",
+      "slp1": "krozwuByAm",
+      "iast": "kroṣṭubhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टुभ्याम्",
+        "slp1": "krozwuByAm",
+        "iast": "kroṣṭubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "05.004_3_3_krozwuBiH_968": {
+    "id": "05.004_3_3_krozwuBiH_968",
+    "key": "5.4|3|3|krozwuBiH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टुभिः",
+      "slp1": "krozwuBiH",
+      "iast": "kroṣṭubhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टुभिस्",
+        "slp1": "krozwuBis",
+        "iast": "kroṣṭubhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्टुभिरुँ",
+        "slp1": "krozwuBiru~",
+        "iast": "kroṣṭubhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्टुभिः",
+        "slp1": "krozwuBiH",
+        "iast": "kroṣṭubhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_4_1_krozwre_969": {
+    "id": "05.004_4_1_krozwre_969",
+    "key": "5.4|4|1|krozwre",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्ट्रे",
+      "slp1": "krozwre",
+      "iast": "kroṣṭre"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्ट्रे",
+        "slp1": "krozwre",
+        "iast": "kroṣṭre",
+        "sutras": [
+          "7.1.97"
+        ]
+      }
+    ]
+  },
+  "05.004_4_1_krozwave_970": {
+    "id": "05.004_4_1_krozwave_970",
+    "key": "5.4|4|1|krozwave",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टवे",
+      "slp1": "krozwave",
+      "iast": "kroṣṭave"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टो+ए",
+        "slp1": "krozwo+e",
+        "iast": "kroṣṭo+e",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्टवे",
+        "slp1": "krozwave",
+        "iast": "kroṣṭave",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "05.004_4_2_krozwuByAm_971": {
+    "id": "05.004_4_2_krozwuByAm_971",
+    "key": "5.4|4|2|krozwuByAm",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टुभ्याम्",
+      "slp1": "krozwuByAm",
+      "iast": "kroṣṭubhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टुभ्याम्",
+        "slp1": "krozwuByAm",
+        "iast": "kroṣṭubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "05.004_4_3_krozwuByaH_972": {
+    "id": "05.004_4_3_krozwuByaH_972",
+    "key": "5.4|4|3|krozwuByaH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टुभ्यः",
+      "slp1": "krozwuByaH",
+      "iast": "kroṣṭubhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टुभ्यस्",
+        "slp1": "krozwuByas",
+        "iast": "kroṣṭubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्टुभ्यरुँ",
+        "slp1": "krozwuByaru~",
+        "iast": "kroṣṭubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्टुभ्यः",
+        "slp1": "krozwuByaH",
+        "iast": "kroṣṭubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_5_1_krozwuH_973": {
+    "id": "05.004_5_1_krozwuH_973",
+    "key": "5.4|5|1|krozwuH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टुः",
+      "slp1": "krozwuH",
+      "iast": "kroṣṭuḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+अस्",
+        "slp1": "krozwf+as",
+        "iast": "kroṣṭṛ+as",
+        "sutras": [
+          "7.1.97"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्+उर्+स्",
+        "slp1": "krozw+ur+s",
+        "iast": "kroṣṭ+ur+s",
+        "sutras": [
+          "6.1.111.1.1.51"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्ट्+उर्",
+        "slp1": "krozw+ur",
+        "iast": "kroṣṭ+ur",
+        "sutras": [
+          "8.2.24"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "क्रोष्टुः",
+        "slp1": "krozwuH",
+        "iast": "kroṣṭuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_5_1_krozwoH_974": {
+    "id": "05.004_5_1_krozwoH_974",
+    "key": "5.4|5|1|krozwoH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टोः",
+      "slp1": "krozwoH",
+      "iast": "kroṣṭoḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टो+अस्",
+        "slp1": "krozwo+as",
+        "iast": "kroṣṭo+as",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्टोस्",
+        "slp1": "krozwos",
+        "iast": "kroṣṭos",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्टोरुँ",
+        "slp1": "krozworu~",
+        "iast": "kroṣṭorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "क्रोष्टोः",
+        "slp1": "krozwoH",
+        "iast": "kroṣṭoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_5_2_krozwuByAm_975": {
+    "id": "05.004_5_2_krozwuByAm_975",
+    "key": "5.4|5|2|krozwuByAm",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टुभ्याम्",
+      "slp1": "krozwuByAm",
+      "iast": "kroṣṭubhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टुभ्याम्",
+        "slp1": "krozwuByAm",
+        "iast": "kroṣṭubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "05.004_5_3_krozwuByaH_976": {
+    "id": "05.004_5_3_krozwuByaH_976",
+    "key": "5.4|5|3|krozwuByaH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टुभ्यः",
+      "slp1": "krozwuByaH",
+      "iast": "kroṣṭubhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टुभ्यस्",
+        "slp1": "krozwuByas",
+        "iast": "kroṣṭubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्टुभ्यरुँ",
+        "slp1": "krozwuByaru~",
+        "iast": "kroṣṭubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्टुभ्यः",
+        "slp1": "krozwuByaH",
+        "iast": "kroṣṭubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_6_1_krozwuH_977": {
+    "id": "05.004_6_1_krozwuH_977",
+    "key": "5.4|6|1|krozwuH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टुः",
+      "slp1": "krozwuH",
+      "iast": "kroṣṭuḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+अस्",
+        "slp1": "krozwf+as",
+        "iast": "kroṣṭṛ+as",
+        "sutras": [
+          "7.1.97"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्+उर्+स्",
+        "slp1": "krozw+ur+s",
+        "iast": "kroṣṭ+ur+s",
+        "sutras": [
+          "6.1.111.1.1.51"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्ट्+उर्",
+        "slp1": "krozw+ur",
+        "iast": "kroṣṭ+ur",
+        "sutras": [
+          "8.2.24"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "क्रोष्टुः",
+        "slp1": "krozwuH",
+        "iast": "kroṣṭuḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_6_1_krozwoH_978": {
+    "id": "05.004_6_1_krozwoH_978",
+    "key": "5.4|6|1|krozwoH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टोः",
+      "slp1": "krozwoH",
+      "iast": "kroṣṭoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टो+अस्",
+        "slp1": "krozwo+as",
+        "iast": "kroṣṭo+as",
+        "sutras": [
+          "7.3.111"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्टोस्",
+        "slp1": "krozwos",
+        "iast": "kroṣṭos",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्टोरुँ",
+        "slp1": "krozworu~",
+        "iast": "kroṣṭorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "क्रोष्टोः",
+        "slp1": "krozwoH",
+        "iast": "kroṣṭoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_6_2_krozwroH_979": {
+    "id": "05.004_6_2_krozwroH_979",
+    "key": "5.4|6|2|krozwroH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्ट्रोः",
+      "slp1": "krozwroH",
+      "iast": "kroṣṭroḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+ओस्",
+        "slp1": "krozwf+os",
+        "iast": "kroṣṭṛ+os",
+        "sutras": [
+          "7.1.97"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्रोस्",
+        "slp1": "krozwros",
+        "iast": "kroṣṭros",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्ट्रोरुँ",
+        "slp1": "krozwroru~",
+        "iast": "kroṣṭrorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "क्रोष्ट्रोः",
+        "slp1": "krozwroH",
+        "iast": "kroṣṭroḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_6_2_krozwvoH_980": {
+    "id": "05.004_6_2_krozwvoH_980",
+    "key": "5.4|6|2|krozwvoH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्ट्वोः",
+      "slp1": "krozwvoH",
+      "iast": "kroṣṭvoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्ट्वोस्",
+        "slp1": "krozwvos",
+        "iast": "kroṣṭvos",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्वोरुँ",
+        "slp1": "krozwvoru~",
+        "iast": "kroṣṭvorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्ट्वोः",
+        "slp1": "krozwvoH",
+        "iast": "kroṣṭvoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_6_3_krozwUnAm_981": {
+    "id": "05.004_6_3_krozwUnAm_981",
+    "key": "5.4|6|3|krozwUnAm",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टूनाम्",
+      "slp1": "krozwUnAm",
+      "iast": "kroṣṭūnām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टु+न्+आम्",
+        "slp1": "krozwu+n+Am",
+        "iast": "kroṣṭu+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्टूनाम्",
+        "slp1": "krozwUnAm",
+        "iast": "kroṣṭūnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      }
+    ]
+  },
+  "05.004_7_1_krozwari_982": {
+    "id": "05.004_7_1_krozwari_982",
+    "key": "5.4|7|1|krozwari",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टरि",
+      "slp1": "krozwari",
+      "iast": "kroṣṭari"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+इ",
+        "slp1": "krozwf+i",
+        "iast": "kroṣṭṛ+i",
+        "sutras": [
+          "7.1.97"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्टरि",
+        "slp1": "krozwari",
+        "iast": "kroṣṭari",
+        "sutras": [
+          "7.3.110"
+        ]
+      }
+    ]
+  },
+  "05.004_7_1_krozwO_983": {
+    "id": "05.004_7_1_krozwO_983",
+    "key": "5.4|7|1|krozwO",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टौ",
+      "slp1": "krozwO",
+      "iast": "kroṣṭau"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्ट+औ",
+        "slp1": "krozwa+O",
+        "iast": "kroṣṭa+au",
+        "sutras": [
+          "7.3.119"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्टौ",
+        "slp1": "krozwO",
+        "iast": "kroṣṭau",
+        "sutras": [
+          "6.1.88"
+        ]
+      }
+    ]
+  },
+  "05.004_7_2_krozwroH_984": {
+    "id": "05.004_7_2_krozwroH_984",
+    "key": "5.4|7|2|krozwroH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्ट्रोः",
+      "slp1": "krozwroH",
+      "iast": "kroṣṭroḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+ओस्",
+        "slp1": "krozwf+os",
+        "iast": "kroṣṭṛ+os",
+        "sutras": [
+          "7.1.97"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्रोस्",
+        "slp1": "krozwros",
+        "iast": "kroṣṭros",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्ट्रोरुँ",
+        "slp1": "krozwroru~",
+        "iast": "kroṣṭrorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "क्रोष्ट्रोः",
+        "slp1": "krozwroH",
+        "iast": "kroṣṭroḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_7_2_krozwvoH_985": {
+    "id": "05.004_7_2_krozwvoH_985",
+    "key": "5.4|7|2|krozwvoH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्ट्वोः",
+      "slp1": "krozwvoH",
+      "iast": "kroṣṭvoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्ट्वोस्",
+        "slp1": "krozwvos",
+        "iast": "kroṣṭvos",
+        "sutras": [
+          "6.1.77"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्वोरुँ",
+        "slp1": "krozwvoru~",
+        "iast": "kroṣṭvorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्ट्वोः",
+        "slp1": "krozwvoH",
+        "iast": "kroṣṭvoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "05.004_7_3_krozwuzu_986": {
+    "id": "05.004_7_3_krozwuzu_986",
+    "key": "5.4|7|3|krozwuzu",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "क्रोष्टुषु",
+      "slp1": "krozwuzu",
+      "iast": "kroṣṭuṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टुषु",
+        "slp1": "krozwuzu",
+        "iast": "kroṣṭuṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "05.004_8_1_he krozwo_987": {
+    "id": "05.004_8_1_he krozwo_987",
+    "key": "5.4|8|1|he krozwo",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "हे क्रोष्टो",
+      "slp1": "he krozwo",
+      "iast": "he kroṣṭo"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टो+स्",
+        "slp1": "krozwo+s",
+        "iast": "kroṣṭo+s",
+        "sutras": [
+          "7.3.108"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे क्रोष्टो",
+        "slp1": "he krozwo",
+        "iast": "he kroṣṭo",
+        "sutras": [
+          "6.1.69"
+        ]
+      }
+    ]
+  },
+  "05.004_8_2_he krozwArO_988": {
+    "id": "05.004_8_2_he krozwArO_988",
+    "key": "5.4|8|2|he krozwArO",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "हे क्रोष्टारौ",
+      "slp1": "he krozwArO",
+      "iast": "he kroṣṭārau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+औ",
+        "slp1": "krozwf+O",
+        "iast": "kroṣṭṛ+au",
+        "sutras": [
+          "7.1.95"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्+अर्+औ",
+        "slp1": "krozw+ar+O",
+        "iast": "kroṣṭ+ar+au",
+        "sutras": [
+          "7.3.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे क्रोष्टारौ",
+        "slp1": "he krozwArO",
+        "iast": "he kroṣṭārau",
+        "sutras": [
+          "6.4.11"
+        ]
+      }
+    ]
+  },
+  "05.004_8_3_he krozwAraH_989": {
+    "id": "05.004_8_3_he krozwAraH_989",
+    "key": "5.4|8|3|he krozwAraH",
+    "baseindex": {
+      "raw": "05.004",
+      "normalized": "5.4"
+    },
+    "word": {
+      "deva": "क्रोष्टु",
+      "slp1": "krozwu",
+      "iast": "kroṣṭu"
+    },
+    "form": {
+      "deva": "हे क्रोष्टारः",
+      "slp1": "he krozwAraH",
+      "iast": "he kroṣṭāraḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-05.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "क्रोष्टृ+अस्",
+        "slp1": "krozwf+as",
+        "iast": "kroṣṭṛ+as",
+        "sutras": [
+          "7.1.95"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "क्रोष्ट्+अर्+अस्",
+        "slp1": "krozw+ar+as",
+        "iast": "kroṣṭ+ar+as",
+        "sutras": [
+          "7.3.110"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "क्रोष्टारस्",
+        "slp1": "krozwAras",
+        "iast": "kroṣṭāras",
+        "sutras": [
+          "6.4.11"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "क्रोष्टाररुँ",
+        "slp1": "krozwAraru~",
+        "iast": "kroṣṭārarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हे क्रोष्टारः",
+        "slp1": "he krozwAraH",
+        "iast": "he kroṣṭāraḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

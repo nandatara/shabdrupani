@@ -1,0 +1,1078 @@
+{
+  "31.001_1_1_maDu_2005": {
+    "id": "31.001_1_1_maDu_2005",
+    "key": "31.1|1|1|maDu",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधु",
+        "slp1": "maDu",
+        "iast": "madhu",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "31.001_1_2_maDunI_2006": {
+    "id": "31.001_1_2_maDunI_2006",
+    "key": "31.1|1|2|maDunI",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुनी",
+      "slp1": "maDunI",
+      "iast": "madhunī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधु+ई",
+        "slp1": "maDu+I",
+        "iast": "madhu+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुन्+ई",
+        "slp1": "maDun+I",
+        "iast": "madhun+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "मधुनी",
+        "slp1": "maDunI",
+        "iast": "madhunī",
+        "sutras": []
+      }
+    ]
+  },
+  "31.001_1_3_maDUni_2007": {
+    "id": "31.001_1_3_maDUni_2007",
+    "key": "31.1|1|3|maDUni",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधूनि",
+      "slp1": "maDUni",
+      "iast": "madhūni"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधु+इ",
+        "slp1": "maDu+i",
+        "iast": "madhu+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुन्+इ",
+        "slp1": "maDun+i",
+        "iast": "madhun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "मधूनि",
+        "slp1": "maDUni",
+        "iast": "madhūni",
+        "sutras": [
+          "6.4.8"
+        ]
+      }
+    ]
+  },
+  "31.001_2_1_maDu_2008": {
+    "id": "31.001_2_1_maDu_2008",
+    "key": "31.1|2|1|maDu",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधु",
+        "slp1": "maDu",
+        "iast": "madhu",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "31.001_2_2_maDunI_2009": {
+    "id": "31.001_2_2_maDunI_2009",
+    "key": "31.1|2|2|maDunI",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुनी",
+      "slp1": "maDunI",
+      "iast": "madhunī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधु+ई",
+        "slp1": "maDu+I",
+        "iast": "madhu+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुन्+ई",
+        "slp1": "maDun+I",
+        "iast": "madhun+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "मधुनी",
+        "slp1": "maDunI",
+        "iast": "madhunī",
+        "sutras": []
+      }
+    ]
+  },
+  "31.001_2_3_maDUni_2010": {
+    "id": "31.001_2_3_maDUni_2010",
+    "key": "31.1|2|3|maDUni",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधूनि",
+      "slp1": "maDUni",
+      "iast": "madhūni"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधु+इ",
+        "slp1": "maDu+i",
+        "iast": "madhu+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुन्+इ",
+        "slp1": "maDun+i",
+        "iast": "madhun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "मधूनि",
+        "slp1": "maDUni",
+        "iast": "madhūni",
+        "sutras": [
+          "6.4.8"
+        ]
+      }
+    ]
+  },
+  "31.001_3_1_maDunA_2011": {
+    "id": "31.001_3_1_maDunA_2011",
+    "key": "31.1|3|1|maDunA",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुना",
+      "slp1": "maDunA",
+      "iast": "madhunā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुना",
+        "slp1": "maDunA",
+        "iast": "madhunā",
+        "sutras": [
+          "7.3.120"
+        ]
+      }
+    ]
+  },
+  "31.001_3_2_maDuByAm_2012": {
+    "id": "31.001_3_2_maDuByAm_2012",
+    "key": "31.1|3|2|maDuByAm",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुभ्याम्",
+      "slp1": "maDuByAm",
+      "iast": "madhubhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुभ्याम्",
+        "slp1": "maDuByAm",
+        "iast": "madhubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "31.001_3_3_maDuBiH_2013": {
+    "id": "31.001_3_3_maDuBiH_2013",
+    "key": "31.1|3|3|maDuBiH",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुभिः",
+      "slp1": "maDuBiH",
+      "iast": "madhubhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुभिस्",
+        "slp1": "maDuBis",
+        "iast": "madhubhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "मधुभिरुँ",
+        "slp1": "maDuBiru~",
+        "iast": "madhubhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "मधुभिः",
+        "slp1": "maDuBiH",
+        "iast": "madhubhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "31.001_4_1_maDune_2014": {
+    "id": "31.001_4_1_maDune_2014",
+    "key": "31.1|4|1|maDune",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुने",
+      "slp1": "maDune",
+      "iast": "madhune"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुन्+ए",
+        "slp1": "maDun+e",
+        "iast": "madhun+e",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुने",
+        "slp1": "maDune",
+        "iast": "madhune",
+        "sutras": []
+      }
+    ]
+  },
+  "31.001_4_2_maDuByAm_2015": {
+    "id": "31.001_4_2_maDuByAm_2015",
+    "key": "31.1|4|2|maDuByAm",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुभ्याम्",
+      "slp1": "maDuByAm",
+      "iast": "madhubhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुभ्याम्",
+        "slp1": "maDuByAm",
+        "iast": "madhubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "31.001_4_3_maDuByaH_2016": {
+    "id": "31.001_4_3_maDuByaH_2016",
+    "key": "31.1|4|3|maDuByaH",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुभ्यः",
+      "slp1": "maDuByaH",
+      "iast": "madhubhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुभ्यस्",
+        "slp1": "maDuByas",
+        "iast": "madhubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "मधुभ्यरुँ",
+        "slp1": "maDuByaru~",
+        "iast": "madhubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "मधुभ्यः",
+        "slp1": "maDuByaH",
+        "iast": "madhubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "31.001_5_1_maDunaH_2017": {
+    "id": "31.001_5_1_maDunaH_2017",
+    "key": "31.1|5|1|maDunaH",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुनः",
+      "slp1": "maDunaH",
+      "iast": "madhunaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुन्+अस्",
+        "slp1": "maDun+as",
+        "iast": "madhun+as",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुनस्",
+        "slp1": "maDunas",
+        "iast": "madhunas",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "मधुनरुँ",
+        "slp1": "maDunaru~",
+        "iast": "madhunarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "मधुनः",
+        "slp1": "maDunaH",
+        "iast": "madhunaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "31.001_5_2_maDuByAm_2018": {
+    "id": "31.001_5_2_maDuByAm_2018",
+    "key": "31.1|5|2|maDuByAm",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुभ्याम्",
+      "slp1": "maDuByAm",
+      "iast": "madhubhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुभ्याम्",
+        "slp1": "maDuByAm",
+        "iast": "madhubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "31.001_5_3_maDuByaH_2019": {
+    "id": "31.001_5_3_maDuByaH_2019",
+    "key": "31.1|5|3|maDuByaH",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुभ्यः",
+      "slp1": "maDuByaH",
+      "iast": "madhubhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुभ्यस्",
+        "slp1": "maDuByas",
+        "iast": "madhubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "मधुभ्यरुँ",
+        "slp1": "maDuByaru~",
+        "iast": "madhubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "मधुभ्यः",
+        "slp1": "maDuByaH",
+        "iast": "madhubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "31.001_6_1_maDunaH_2020": {
+    "id": "31.001_6_1_maDunaH_2020",
+    "key": "31.1|6|1|maDunaH",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुनः",
+      "slp1": "maDunaH",
+      "iast": "madhunaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुन्+अस्",
+        "slp1": "maDun+as",
+        "iast": "madhun+as",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुनस्",
+        "slp1": "maDunas",
+        "iast": "madhunas",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "मधुनरुँ",
+        "slp1": "maDunaru~",
+        "iast": "madhunarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "मधुनः",
+        "slp1": "maDunaH",
+        "iast": "madhunaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "31.001_6_2_maDunoH_2021": {
+    "id": "31.001_6_2_maDunoH_2021",
+    "key": "31.1|6|2|maDunoH",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुनोः",
+      "slp1": "maDunoH",
+      "iast": "madhunoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुन्+ओस्",
+        "slp1": "maDun+os",
+        "iast": "madhun+os",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुनोस्",
+        "slp1": "maDunos",
+        "iast": "madhunos",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "मधुनोरुँ",
+        "slp1": "maDunoru~",
+        "iast": "madhunorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "मधुनोः",
+        "slp1": "maDunoH",
+        "iast": "madhunoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "31.001_6_3_maDUnAm_2022": {
+    "id": "31.001_6_3_maDUnAm_2022",
+    "key": "31.1|6|3|maDUnAm",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधूनाम्",
+      "slp1": "maDUnAm",
+      "iast": "madhūnām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधु+न्+आम्",
+        "slp1": "maDu+n+Am",
+        "iast": "madhu+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधूनाम्",
+        "slp1": "maDUnAm",
+        "iast": "madhūnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      }
+    ]
+  },
+  "31.001_7_1_maDuni_2023": {
+    "id": "31.001_7_1_maDuni_2023",
+    "key": "31.1|7|1|maDuni",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुनि",
+      "slp1": "maDuni",
+      "iast": "madhuni"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुन्+इ",
+        "slp1": "maDun+i",
+        "iast": "madhun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुनि",
+        "slp1": "maDuni",
+        "iast": "madhuni",
+        "sutras": []
+      }
+    ]
+  },
+  "31.001_7_2_maDunoH_2024": {
+    "id": "31.001_7_2_maDunoH_2024",
+    "key": "31.1|7|2|maDunoH",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुनोः",
+      "slp1": "maDunoH",
+      "iast": "madhunoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुन्+ओस्",
+        "slp1": "maDun+os",
+        "iast": "madhun+os",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुनोस्",
+        "slp1": "maDunos",
+        "iast": "madhunos",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "मधुनोरुँ",
+        "slp1": "maDunoru~",
+        "iast": "madhunorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "मधुनोः",
+        "slp1": "maDunoH",
+        "iast": "madhunoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "31.001_7_3_maDuzu_2025": {
+    "id": "31.001_7_3_maDuzu_2025",
+    "key": "31.1|7|3|maDuzu",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "मधुषु",
+      "slp1": "maDuzu",
+      "iast": "madhuṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधुषु",
+        "slp1": "maDuzu",
+        "iast": "madhuṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "31.001_8_1_he maDu_2026": {
+    "id": "31.001_8_1_he maDu_2026",
+    "key": "31.1|8|1|he maDu",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "हे मधु",
+      "slp1": "he maDu",
+      "iast": "he madhu"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे मधु",
+        "slp1": "he maDu",
+        "iast": "he madhu",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "31.001_8_1_he maDo_2027": {
+    "id": "31.001_8_1_he maDo_2027",
+    "key": "31.1|8|1|he maDo",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "हे मधो",
+      "slp1": "he maDo",
+      "iast": "he madho"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधु",
+        "slp1": "maDu",
+        "iast": "madhu",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे मधो",
+        "slp1": "he maDo",
+        "iast": "he madho",
+        "sutras": [
+          "7.3.108"
+        ]
+      }
+    ]
+  },
+  "31.001_8_2_he maDunI_2028": {
+    "id": "31.001_8_2_he maDunI_2028",
+    "key": "31.1|8|2|he maDunI",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "हे मधुनी",
+      "slp1": "he maDunI",
+      "iast": "he madhunī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधु+ई",
+        "slp1": "maDu+I",
+        "iast": "madhu+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुन्+ई",
+        "slp1": "maDun+I",
+        "iast": "madhun+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे मधुनी",
+        "slp1": "he maDunI",
+        "iast": "he madhunī",
+        "sutras": []
+      }
+    ]
+  },
+  "31.001_8_3_he maDUni_2029": {
+    "id": "31.001_8_3_he maDUni_2029",
+    "key": "31.1|8|3|he maDUni",
+    "baseindex": {
+      "raw": "31.001",
+      "normalized": "31.1"
+    },
+    "word": {
+      "deva": "मधु",
+      "slp1": "maDu",
+      "iast": "madhu"
+    },
+    "form": {
+      "deva": "हे मधूनि",
+      "slp1": "he maDUni",
+      "iast": "he madhūni"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-31.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "मधु+इ",
+        "slp1": "maDu+i",
+        "iast": "madhu+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "मधुन्+इ",
+        "slp1": "maDun+i",
+        "iast": "madhun+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे मधूनि",
+        "slp1": "he maDUni",
+        "iast": "he madhūni",
+        "sutras": [
+          "6.4.8"
+        ]
+      }
+    ]
+  }
+}

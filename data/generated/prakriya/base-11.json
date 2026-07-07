@@ -1,0 +1,943 @@
+{
+  "11.001_1_1_rAH_1207": {
+    "id": "11.001_1_1_rAH_1207",
+    "key": "11.1|1|1|rAH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "राः",
+      "slp1": "rAH",
+      "iast": "rāḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रा+स्",
+        "slp1": "rA+s",
+        "iast": "rā+s",
+        "sutras": [
+          "7.2.85"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "रा+रुँ",
+        "slp1": "rA+ru~",
+        "iast": "rā+rum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "रा+ः",
+        "slp1": "rA+H",
+        "iast": "rā+ḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "राः",
+        "slp1": "rAH",
+        "iast": "rāḥ",
+        "sutras": []
+      }
+    ]
+  },
+  "11.001_1_2_rAyO_1208": {
+    "id": "11.001_1_2_rAyO_1208",
+    "key": "11.1|1|2|rAyO",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायौ",
+      "slp1": "rAyO",
+      "iast": "rāyau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायौ",
+        "slp1": "rAyO",
+        "iast": "rāyau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "11.001_1_3_rAyaH_1209": {
+    "id": "11.001_1_3_rAyaH_1209",
+    "key": "11.1|1|3|rAyaH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायः",
+      "slp1": "rAyaH",
+      "iast": "rāyaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायस्",
+        "slp1": "rAyas",
+        "iast": "rāyas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "रायरुँ",
+        "slp1": "rAyaru~",
+        "iast": "rāyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "रायः",
+        "slp1": "rAyaH",
+        "iast": "rāyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "11.001_2_1_rAyam_1210": {
+    "id": "11.001_2_1_rAyam_1210",
+    "key": "11.1|2|1|rAyam",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायम्",
+      "slp1": "rAyam",
+      "iast": "rāyam"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायम्",
+        "slp1": "rAyam",
+        "iast": "rāyam",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "11.001_2_2_rAyO_1211": {
+    "id": "11.001_2_2_rAyO_1211",
+    "key": "11.1|2|2|rAyO",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायौ",
+      "slp1": "rAyO",
+      "iast": "rāyau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायौ",
+        "slp1": "rAyO",
+        "iast": "rāyau",
+        "sutras": []
+      }
+    ]
+  },
+  "11.001_2_3_rAyaH_1212": {
+    "id": "11.001_2_3_rAyaH_1212",
+    "key": "11.1|2|3|rAyaH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायः",
+      "slp1": "rAyaH",
+      "iast": "rāyaḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायः",
+        "slp1": "rAyaH",
+        "iast": "rāyaḥ",
+        "sutras": []
+      }
+    ]
+  },
+  "11.001_3_1_rAyA_1213": {
+    "id": "11.001_3_1_rAyA_1213",
+    "key": "11.1|3|1|rAyA",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "राया",
+      "slp1": "rAyA",
+      "iast": "rāyā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "राया",
+        "slp1": "rAyA",
+        "iast": "rāyā",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "11.001_3_2_rAByAm_1214": {
+    "id": "11.001_3_2_rAByAm_1214",
+    "key": "11.1|3|2|rAByAm",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "राभ्याम्",
+      "slp1": "rAByAm",
+      "iast": "rābhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "राभ्याम्",
+        "slp1": "rAByAm",
+        "iast": "rābhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "11.001_3_3_rABiH_1215": {
+    "id": "11.001_3_3_rABiH_1215",
+    "key": "11.1|3|3|rABiH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "राभिः",
+      "slp1": "rABiH",
+      "iast": "rābhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "राभिः",
+        "slp1": "rABiH",
+        "iast": "rābhiḥ",
+        "sutras": []
+      }
+    ]
+  },
+  "11.001_4_1_rAye_1216": {
+    "id": "11.001_4_1_rAye_1216",
+    "key": "11.1|4|1|rAye",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "राये",
+      "slp1": "rAye",
+      "iast": "rāye"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "राये",
+        "slp1": "rAye",
+        "iast": "rāye",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "11.001_4_2_rAByAm_1217": {
+    "id": "11.001_4_2_rAByAm_1217",
+    "key": "11.1|4|2|rAByAm",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "राभ्याम्",
+      "slp1": "rAByAm",
+      "iast": "rābhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "राभ्याम्",
+        "slp1": "rAByAm",
+        "iast": "rābhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "11.001_4_3_rAByaH_1218": {
+    "id": "11.001_4_3_rAByaH_1218",
+    "key": "11.1|4|3|rAByaH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "राभ्यः",
+      "slp1": "rAByaH",
+      "iast": "rābhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "राभ्यस्",
+        "slp1": "rAByas",
+        "iast": "rābhyas",
+        "sutras": [
+          "7.2.85"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "राभ्यरुँ",
+        "slp1": "rAByaru~",
+        "iast": "rābhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "राभ्यः",
+        "slp1": "rAByaH",
+        "iast": "rābhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "11.001_5_1_rAyaH_1219": {
+    "id": "11.001_5_1_rAyaH_1219",
+    "key": "11.1|5|1|rAyaH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायः",
+      "slp1": "rAyaH",
+      "iast": "rāyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायस्",
+        "slp1": "rAyas",
+        "iast": "rāyas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "रायरुँ",
+        "slp1": "rAyaru~",
+        "iast": "rāyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "रायः",
+        "slp1": "rAyaH",
+        "iast": "rāyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "11.001_5_2_rAByAm_1220": {
+    "id": "11.001_5_2_rAByAm_1220",
+    "key": "11.1|5|2|rAByAm",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "राभ्याम्",
+      "slp1": "rAByAm",
+      "iast": "rābhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "राभ्याम्",
+        "slp1": "rAByAm",
+        "iast": "rābhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "11.001_5_3_rAByaH_1221": {
+    "id": "11.001_5_3_rAByaH_1221",
+    "key": "11.1|5|3|rAByaH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "राभ्यः",
+      "slp1": "rAByaH",
+      "iast": "rābhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "राभ्यस्",
+        "slp1": "rAByas",
+        "iast": "rābhyas",
+        "sutras": [
+          "7.2.85"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "राभ्यरुँ",
+        "slp1": "rAByaru~",
+        "iast": "rābhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "राभ्यः",
+        "slp1": "rAByaH",
+        "iast": "rābhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "11.001_6_1_rAyaH_1222": {
+    "id": "11.001_6_1_rAyaH_1222",
+    "key": "11.1|6|1|rAyaH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायः",
+      "slp1": "rAyaH",
+      "iast": "rāyaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायस्",
+        "slp1": "rAyas",
+        "iast": "rāyas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "रायरुँ",
+        "slp1": "rAyaru~",
+        "iast": "rāyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "रायः",
+        "slp1": "rAyaH",
+        "iast": "rāyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "11.001_6_2_rAyoH_1223": {
+    "id": "11.001_6_2_rAyoH_1223",
+    "key": "11.1|6|2|rAyoH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायोः",
+      "slp1": "rAyoH",
+      "iast": "rāyoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायोस्",
+        "slp1": "rAyos",
+        "iast": "rāyos",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "रायोरुँ",
+        "slp1": "rAyoru~",
+        "iast": "rāyorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "रायोः",
+        "slp1": "rAyoH",
+        "iast": "rāyoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "11.001_6_3_rAyAm_1224": {
+    "id": "11.001_6_3_rAyAm_1224",
+    "key": "11.1|6|3|rAyAm",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायाम्",
+      "slp1": "rAyAm",
+      "iast": "rāyām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायाम्",
+        "slp1": "rAyAm",
+        "iast": "rāyām",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "11.001_7_1_rAyi_1225": {
+    "id": "11.001_7_1_rAyi_1225",
+    "key": "11.1|7|1|rAyi",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायि",
+      "slp1": "rAyi",
+      "iast": "rāyi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायि",
+        "slp1": "rAyi",
+        "iast": "rāyi",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "11.001_7_2_rAyoH_1226": {
+    "id": "11.001_7_2_rAyoH_1226",
+    "key": "11.1|7|2|rAyoH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रायोः",
+      "slp1": "rAyoH",
+      "iast": "rāyoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायोस्",
+        "slp1": "rAyos",
+        "iast": "rāyos",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "रायोरुँ",
+        "slp1": "rAyoru~",
+        "iast": "rāyorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "रायोः",
+        "slp1": "rAyoH",
+        "iast": "rāyoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "11.001_7_3_rAsu_1227": {
+    "id": "11.001_7_3_rAsu_1227",
+    "key": "11.1|7|3|rAsu",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "रासु",
+      "slp1": "rAsu",
+      "iast": "rāsu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रासु",
+        "slp1": "rAsu",
+        "iast": "rāsu",
+        "sutras": []
+      }
+    ]
+  },
+  "11.001_8_1_he rAH_1228": {
+    "id": "11.001_8_1_he rAH_1228",
+    "key": "11.1|8|1|he rAH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "हे राः",
+      "slp1": "he rAH",
+      "iast": "he rāḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रास्",
+        "slp1": "rAs",
+        "iast": "rās",
+        "sutras": [
+          "7.2.85"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "रारुँ",
+        "slp1": "rAru~",
+        "iast": "rārum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे राः",
+        "slp1": "he rAH",
+        "iast": "he rāḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "11.001_8_2_he rAyO_1229": {
+    "id": "11.001_8_2_he rAyO_1229",
+    "key": "11.1|8|2|he rAyO",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "हे रायौ",
+      "slp1": "he rAyO",
+      "iast": "he rāyau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे रायौ",
+        "slp1": "he rAyO",
+        "iast": "he rāyau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "11.001_8_3_he rAyaH_1230": {
+    "id": "11.001_8_3_he rAyaH_1230",
+    "key": "11.1|8|3|he rAyaH",
+    "baseindex": {
+      "raw": "11.001",
+      "normalized": "11.1"
+    },
+    "word": {
+      "deva": "रै",
+      "slp1": "rE",
+      "iast": "rai"
+    },
+    "form": {
+      "deva": "हे रायः",
+      "slp1": "he rAyaH",
+      "iast": "he rāyaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-11.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "रायस्",
+        "slp1": "rAyas",
+        "iast": "rāyas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "रायरुँ",
+        "slp1": "rAyaru~",
+        "iast": "rāyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे रायः",
+        "slp1": "he rAyaH",
+        "iast": "he rāyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

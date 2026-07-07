@@ -1,0 +1,1141 @@
+{
+  "27.001_1_1_vAri_1921": {
+    "id": "27.001_1_1_vAri_1921",
+    "key": "27.1|1|1|vAri",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारि",
+        "slp1": "vAri",
+        "iast": "vāri",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "27.001_1_2_vAriRI_1922": {
+    "id": "27.001_1_2_vAriRI_1922",
+    "key": "27.1|1|2|vAriRI",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिणी",
+      "slp1": "vAriRI",
+      "iast": "vāriṇī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारि+ई",
+        "slp1": "vAri+I",
+        "iast": "vāri+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिन्+ई",
+        "slp1": "vArin+I",
+        "iast": "vārin+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारिणी",
+        "slp1": "vAriRI",
+        "iast": "vāriṇī",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "27.001_1_3_vArIRi_1923": {
+    "id": "27.001_1_3_vArIRi_1923",
+    "key": "27.1|1|3|vArIRi",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारीणि",
+      "slp1": "vArIRi",
+      "iast": "vārīṇi"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारि+इ",
+        "slp1": "vAri+i",
+        "iast": "vāri+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिन्+इ",
+        "slp1": "vArin+i",
+        "iast": "vārin+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारीनि",
+        "slp1": "vArIni",
+        "iast": "vārīni",
+        "sutras": [
+          "6.4.8"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "वारीणि",
+        "slp1": "vArIRi",
+        "iast": "vārīṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "27.001_2_1_vAri_1924": {
+    "id": "27.001_2_1_vAri_1924",
+    "key": "27.1|2|1|vAri",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारि",
+        "slp1": "vAri",
+        "iast": "vāri",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "27.001_2_2_vAriRI_1925": {
+    "id": "27.001_2_2_vAriRI_1925",
+    "key": "27.1|2|2|vAriRI",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिणी",
+      "slp1": "vAriRI",
+      "iast": "vāriṇī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारि+ई",
+        "slp1": "vAri+I",
+        "iast": "vāri+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिन्+ई",
+        "slp1": "vArin+I",
+        "iast": "vārin+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारिणी",
+        "slp1": "vAriRI",
+        "iast": "vāriṇī",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "27.001_2_3_vArIRi_1926": {
+    "id": "27.001_2_3_vArIRi_1926",
+    "key": "27.1|2|3|vArIRi",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारीणि",
+      "slp1": "vArIRi",
+      "iast": "vārīṇi"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारि+इ",
+        "slp1": "vAri+i",
+        "iast": "vāri+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिन्+इ",
+        "slp1": "vArin+i",
+        "iast": "vārin+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारीनि",
+        "slp1": "vArIni",
+        "iast": "vārīni",
+        "sutras": [
+          "6.4.8"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "वारीणि",
+        "slp1": "vArIRi",
+        "iast": "vārīṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "27.001_3_1_vAriRA_1927": {
+    "id": "27.001_3_1_vAriRA_1927",
+    "key": "27.1|3|1|vAriRA",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिणा",
+      "slp1": "vAriRA",
+      "iast": "vāriṇā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिना",
+        "slp1": "vArinA",
+        "iast": "vārinā",
+        "sutras": [
+          "7.3.120"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिणा",
+        "slp1": "vAriRA",
+        "iast": "vāriṇā",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "27.001_3_2_vAriByAm_1928": {
+    "id": "27.001_3_2_vAriByAm_1928",
+    "key": "27.1|3|2|vAriByAm",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिभ्याम्",
+      "slp1": "vAriByAm",
+      "iast": "vāribhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिभ्याम्",
+        "slp1": "vAriByAm",
+        "iast": "vāribhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "27.001_3_3_vAriBiH_1929": {
+    "id": "27.001_3_3_vAriBiH_1929",
+    "key": "27.1|3|3|vAriBiH",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिभिः",
+      "slp1": "vAriBiH",
+      "iast": "vāribhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिभिस्",
+        "slp1": "vAriBis",
+        "iast": "vāribhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "वारिभिरुँ",
+        "slp1": "vAriBiru~",
+        "iast": "vāribhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारिभिः",
+        "slp1": "vAriBiH",
+        "iast": "vāribhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "27.001_4_1_vAriRe_1930": {
+    "id": "27.001_4_1_vAriRe_1930",
+    "key": "27.1|4|1|vAriRe",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिणे",
+      "slp1": "vAriRe",
+      "iast": "vāriṇe"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिन्+ए",
+        "slp1": "vArin+e",
+        "iast": "vārin+e",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिणे",
+        "slp1": "vAriRe",
+        "iast": "vāriṇe",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "27.001_4_2_vAriByAm_1931": {
+    "id": "27.001_4_2_vAriByAm_1931",
+    "key": "27.1|4|2|vAriByAm",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिभ्याम्",
+      "slp1": "vAriByAm",
+      "iast": "vāribhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिभ्याम्",
+        "slp1": "vAriByAm",
+        "iast": "vāribhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "27.001_4_3_vAriByaH_1932": {
+    "id": "27.001_4_3_vAriByaH_1932",
+    "key": "27.1|4|3|vAriByaH",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिभ्यः",
+      "slp1": "vAriByaH",
+      "iast": "vāribhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिभ्यस्",
+        "slp1": "vAriByas",
+        "iast": "vāribhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "वारिभ्यरुँ",
+        "slp1": "vAriByaru~",
+        "iast": "vāribhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारिभ्यः",
+        "slp1": "vAriByaH",
+        "iast": "vāribhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "27.001_5_1_vAriRaH_1933": {
+    "id": "27.001_5_1_vAriRaH_1933",
+    "key": "27.1|5|1|vAriRaH",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिणः",
+      "slp1": "vAriRaH",
+      "iast": "vāriṇaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिन्+अस्",
+        "slp1": "vArin+as",
+        "iast": "vārin+as",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिणस्",
+        "slp1": "vAriRas",
+        "iast": "vāriṇas",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारिणरुँ",
+        "slp1": "vAriRaru~",
+        "iast": "vāriṇarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "वारिणः",
+        "slp1": "vAriRaH",
+        "iast": "vāriṇaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "27.001_5_2_vAriByAm_1934": {
+    "id": "27.001_5_2_vAriByAm_1934",
+    "key": "27.1|5|2|vAriByAm",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिभ्याम्",
+      "slp1": "vAriByAm",
+      "iast": "vāribhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिभ्याम्",
+        "slp1": "vAriByAm",
+        "iast": "vāribhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "27.001_5_3_vAriByaH_1935": {
+    "id": "27.001_5_3_vAriByaH_1935",
+    "key": "27.1|5|3|vAriByaH",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिभ्यः",
+      "slp1": "vAriByaH",
+      "iast": "vāribhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिभ्यस्",
+        "slp1": "vAriByas",
+        "iast": "vāribhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "वारिभ्यरुँ",
+        "slp1": "vAriByaru~",
+        "iast": "vāribhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारिभ्यः",
+        "slp1": "vAriByaH",
+        "iast": "vāribhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "27.001_6_1_vAriRaH_1936": {
+    "id": "27.001_6_1_vAriRaH_1936",
+    "key": "27.1|6|1|vAriRaH",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिणः",
+      "slp1": "vAriRaH",
+      "iast": "vāriṇaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिन्+अस्",
+        "slp1": "vArin+as",
+        "iast": "vārin+as",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिणस्",
+        "slp1": "vAriRas",
+        "iast": "vāriṇas",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारिणरुँ",
+        "slp1": "vAriRaru~",
+        "iast": "vāriṇarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "वारिणः",
+        "slp1": "vAriRaH",
+        "iast": "vāriṇaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "27.001_6_2_vAriRoH_1937": {
+    "id": "27.001_6_2_vAriRoH_1937",
+    "key": "27.1|6|2|vAriRoH",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिणोः",
+      "slp1": "vAriRoH",
+      "iast": "vāriṇoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिन्+ओस्",
+        "slp1": "vArin+os",
+        "iast": "vārin+os",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिणोस्",
+        "slp1": "vAriRos",
+        "iast": "vāriṇos",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारिणोरुँ",
+        "slp1": "vAriRoru~",
+        "iast": "vāriṇorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "वारिणोः",
+        "slp1": "vAriRoH",
+        "iast": "vāriṇoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "27.001_6_3_vArIRAm_1938": {
+    "id": "27.001_6_3_vArIRAm_1938",
+    "key": "27.1|6|3|vArIRAm",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारीणाम्",
+      "slp1": "vArIRAm",
+      "iast": "vārīṇām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारि+न्+आम्",
+        "slp1": "vAri+n+Am",
+        "iast": "vāri+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारीनाम्",
+        "slp1": "vArInAm",
+        "iast": "vārīnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारीणाम्",
+        "slp1": "vArIRAm",
+        "iast": "vārīṇām",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "27.001_7_1_vAriRi_1939": {
+    "id": "27.001_7_1_vAriRi_1939",
+    "key": "27.1|7|1|vAriRi",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिणि",
+      "slp1": "vAriRi",
+      "iast": "vāriṇi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिन्+इ",
+        "slp1": "vArin+i",
+        "iast": "vārin+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिणि",
+        "slp1": "vAriRi",
+        "iast": "vāriṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "27.001_7_2_vAriRoH_1940": {
+    "id": "27.001_7_2_vAriRoH_1940",
+    "key": "27.1|7|2|vAriRoH",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिणोः",
+      "slp1": "vAriRoH",
+      "iast": "vāriṇoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिन्+ओस्",
+        "slp1": "vArin+os",
+        "iast": "vārin+os",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिणोस्",
+        "slp1": "vAriRos",
+        "iast": "vāriṇos",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारिणोरुँ",
+        "slp1": "vAriRoru~",
+        "iast": "vāriṇorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "वारिणोः",
+        "slp1": "vAriRoH",
+        "iast": "vāriṇoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "27.001_7_3_vArizu_1941": {
+    "id": "27.001_7_3_vArizu_1941",
+    "key": "27.1|7|3|vArizu",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "वारिषु",
+      "slp1": "vArizu",
+      "iast": "vāriṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारिषु",
+        "slp1": "vArizu",
+        "iast": "vāriṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "27.001_8_1_he vAri_1942": {
+    "id": "27.001_8_1_he vAri_1942",
+    "key": "27.1|8|1|he vAri",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "हे वारि",
+      "slp1": "he vAri",
+      "iast": "he vāri"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे वारि",
+        "slp1": "he vAri",
+        "iast": "he vāri",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "27.001_8_1_he vAre_1943": {
+    "id": "27.001_8_1_he vAre_1943",
+    "key": "27.1|8|1|he vAre",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "हे वारे",
+      "slp1": "he vAre",
+      "iast": "he vāre"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारि",
+        "slp1": "vAri",
+        "iast": "vāri",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे वारे",
+        "slp1": "he vAre",
+        "iast": "he vāre",
+        "sutras": [
+          "7.3.108"
+        ]
+      }
+    ]
+  },
+  "27.001_8_2_he vAriRI_1944": {
+    "id": "27.001_8_2_he vAriRI_1944",
+    "key": "27.1|8|2|he vAriRI",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "हे वारिणी",
+      "slp1": "he vAriRI",
+      "iast": "he vāriṇī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारि+ई",
+        "slp1": "vAri+I",
+        "iast": "vāri+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिन्+ई",
+        "slp1": "vArin+I",
+        "iast": "vārin+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे वारिणी",
+        "slp1": "he vAriRI",
+        "iast": "he vāriṇī",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "27.001_8_3_he vArIRi_1945": {
+    "id": "27.001_8_3_he vArIRi_1945",
+    "key": "27.1|8|3|he vArIRi",
+    "baseindex": {
+      "raw": "27.001",
+      "normalized": "27.1"
+    },
+    "word": {
+      "deva": "वारि",
+      "slp1": "vAri",
+      "iast": "vāri"
+    },
+    "form": {
+      "deva": "हे वारीणि",
+      "slp1": "he vArIRi",
+      "iast": "he vārīṇi"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-27.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "वारि+इ",
+        "slp1": "vAri+i",
+        "iast": "vāri+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "वारिन्+इ",
+        "slp1": "vArin+i",
+        "iast": "vārin+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "वारीनि",
+        "slp1": "vArIni",
+        "iast": "vārīni",
+        "sutras": [
+          "6.4.8"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हे वारीणि",
+        "slp1": "he vArIRi",
+        "iast": "he vārīṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  }
+}

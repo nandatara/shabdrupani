@@ -1,0 +1,970 @@
+{
+  "12.001_1_1_glOH_1231": {
+    "id": "12.001_1_1_glOH_1231",
+    "key": "12.1|1|1|glOH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लौः",
+      "slp1": "glOH",
+      "iast": "glauḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लौस्",
+        "slp1": "glOs",
+        "iast": "glaus",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "ग्लौरुँ",
+        "slp1": "glOru~",
+        "iast": "glaurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ग्लौः",
+        "slp1": "glOH",
+        "iast": "glauḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_1_2_glAvO_1232": {
+    "id": "12.001_1_2_glAvO_1232",
+    "key": "12.1|1|2|glAvO",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावौ",
+      "slp1": "glAvO",
+      "iast": "glāvau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावौ",
+        "slp1": "glAvO",
+        "iast": "glāvau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "12.001_1_3_glAvaH_1233": {
+    "id": "12.001_1_3_glAvaH_1233",
+    "key": "12.1|1|3|glAvaH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावः",
+      "slp1": "glAvaH",
+      "iast": "glāvaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावस्",
+        "slp1": "glAvas",
+        "iast": "glāvas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ग्लावरुँ",
+        "slp1": "glAvaru~",
+        "iast": "glāvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ग्लावः",
+        "slp1": "glAvaH",
+        "iast": "glāvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_2_1_glAvam_1234": {
+    "id": "12.001_2_1_glAvam_1234",
+    "key": "12.1|2|1|glAvam",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावम्",
+      "slp1": "glAvam",
+      "iast": "glāvam"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावम्",
+        "slp1": "glAvam",
+        "iast": "glāvam",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "12.001_2_2_glAvO_1235": {
+    "id": "12.001_2_2_glAvO_1235",
+    "key": "12.1|2|2|glAvO",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावौ",
+      "slp1": "glAvO",
+      "iast": "glāvau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावौ",
+        "slp1": "glAvO",
+        "iast": "glāvau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "12.001_2_3_glAvaH_1236": {
+    "id": "12.001_2_3_glAvaH_1236",
+    "key": "12.1|2|3|glAvaH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावः",
+      "slp1": "glAvaH",
+      "iast": "glāvaḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावस्",
+        "slp1": "glAvas",
+        "iast": "glāvas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ग्लावरुँ",
+        "slp1": "glAvaru~",
+        "iast": "glāvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ग्लावः",
+        "slp1": "glAvaH",
+        "iast": "glāvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_3_1_glAvA_1237": {
+    "id": "12.001_3_1_glAvA_1237",
+    "key": "12.1|3|1|glAvA",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावा",
+      "slp1": "glAvA",
+      "iast": "glāvā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावा",
+        "slp1": "glAvA",
+        "iast": "glāvā",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "12.001_3_2_glOByAm_1238": {
+    "id": "12.001_3_2_glOByAm_1238",
+    "key": "12.1|3|2|glOByAm",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लौभ्याम्",
+      "slp1": "glOByAm",
+      "iast": "glaubhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लौभ्याम्",
+        "slp1": "glOByAm",
+        "iast": "glaubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "12.001_3_3_glOBiH_1239": {
+    "id": "12.001_3_3_glOBiH_1239",
+    "key": "12.1|3|3|glOBiH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लौभिः",
+      "slp1": "glOBiH",
+      "iast": "glaubhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लौभिस्",
+        "slp1": "glOBis",
+        "iast": "glaubhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "ग्लौभिरुँ",
+        "slp1": "glOBiru~",
+        "iast": "glaubhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ग्लौभिः",
+        "slp1": "glOBiH",
+        "iast": "glaubhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_4_1_glAve_1240": {
+    "id": "12.001_4_1_glAve_1240",
+    "key": "12.1|4|1|glAve",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावे",
+      "slp1": "glAve",
+      "iast": "glāve"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावे",
+        "slp1": "glAve",
+        "iast": "glāve",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "12.001_4_2_glOByAm_1241": {
+    "id": "12.001_4_2_glOByAm_1241",
+    "key": "12.1|4|2|glOByAm",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लौभ्याम्",
+      "slp1": "glOByAm",
+      "iast": "glaubhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लौभ्याम्",
+        "slp1": "glOByAm",
+        "iast": "glaubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "12.001_4_3_glOByaH_1242": {
+    "id": "12.001_4_3_glOByaH_1242",
+    "key": "12.1|4|3|glOByaH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लौभ्यः",
+      "slp1": "glOByaH",
+      "iast": "glaubhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लौभ्यस्",
+        "slp1": "glOByas",
+        "iast": "glaubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "ग्लौभ्यरुँ",
+        "slp1": "glOByaru~",
+        "iast": "glaubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ग्लौभ्यः",
+        "slp1": "glOByaH",
+        "iast": "glaubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_5_1_glAvaH_1243": {
+    "id": "12.001_5_1_glAvaH_1243",
+    "key": "12.1|5|1|glAvaH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावः",
+      "slp1": "glAvaH",
+      "iast": "glāvaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावस्",
+        "slp1": "glAvas",
+        "iast": "glāvas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ग्लावरुँ",
+        "slp1": "glAvaru~",
+        "iast": "glāvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ग्लावः",
+        "slp1": "glAvaH",
+        "iast": "glāvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_5_2_glOByAm_1244": {
+    "id": "12.001_5_2_glOByAm_1244",
+    "key": "12.1|5|2|glOByAm",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लौभ्याम्",
+      "slp1": "glOByAm",
+      "iast": "glaubhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लौभ्याम्",
+        "slp1": "glOByAm",
+        "iast": "glaubhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "12.001_5_3_glOByaH_1245": {
+    "id": "12.001_5_3_glOByaH_1245",
+    "key": "12.1|5|3|glOByaH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लौभ्यः",
+      "slp1": "glOByaH",
+      "iast": "glaubhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लौभ्यस्",
+        "slp1": "glOByas",
+        "iast": "glaubhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "ग्लौभ्यरुँ",
+        "slp1": "glOByaru~",
+        "iast": "glaubhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ग्लौभ्यः",
+        "slp1": "glOByaH",
+        "iast": "glaubhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_6_1_glAvaH_1246": {
+    "id": "12.001_6_1_glAvaH_1246",
+    "key": "12.1|6|1|glAvaH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावः",
+      "slp1": "glAvaH",
+      "iast": "glāvaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावस्",
+        "slp1": "glAvas",
+        "iast": "glāvas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ग्लावरुँ",
+        "slp1": "glAvaru~",
+        "iast": "glāvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ग्लावः",
+        "slp1": "glAvaH",
+        "iast": "glāvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_6_2_glAvoH_1247": {
+    "id": "12.001_6_2_glAvoH_1247",
+    "key": "12.1|6|2|glAvoH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावोः",
+      "slp1": "glAvoH",
+      "iast": "glāvoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावोस्",
+        "slp1": "glAvos",
+        "iast": "glāvos",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ग्लावोरुँ",
+        "slp1": "glAvoru~",
+        "iast": "glāvorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ग्लावोः",
+        "slp1": "glAvoH",
+        "iast": "glāvoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_6_3_glAvAm_1248": {
+    "id": "12.001_6_3_glAvAm_1248",
+    "key": "12.1|6|3|glAvAm",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावाम्",
+      "slp1": "glAvAm",
+      "iast": "glāvām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावाम्",
+        "slp1": "glAvAm",
+        "iast": "glāvām",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "12.001_7_1_glAvi_1249": {
+    "id": "12.001_7_1_glAvi_1249",
+    "key": "12.1|7|1|glAvi",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावि",
+      "slp1": "glAvi",
+      "iast": "glāvi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावि",
+        "slp1": "glAvi",
+        "iast": "glāvi",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "12.001_7_2_glAvoH_1250": {
+    "id": "12.001_7_2_glAvoH_1250",
+    "key": "12.1|7|2|glAvoH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लावोः",
+      "slp1": "glAvoH",
+      "iast": "glāvoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावोस्",
+        "slp1": "glAvos",
+        "iast": "glāvos",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ग्लावोरुँ",
+        "slp1": "glAvoru~",
+        "iast": "glāvorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "ग्लावोः",
+        "slp1": "glAvoH",
+        "iast": "glāvoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_7_3_glOzu_1251": {
+    "id": "12.001_7_3_glOzu_1251",
+    "key": "12.1|7|3|glOzu",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "ग्लौषु",
+      "slp1": "glOzu",
+      "iast": "glauṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लौषु",
+        "slp1": "glOzu",
+        "iast": "glauṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "12.001_8_1_he glOH_1252": {
+    "id": "12.001_8_1_he glOH_1252",
+    "key": "12.1|8|1|he glOH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "हे ग्लौः",
+      "slp1": "he glOH",
+      "iast": "he glauḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लौस्",
+        "slp1": "glOs",
+        "iast": "glaus",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "ग्लौरुँ",
+        "slp1": "glOru~",
+        "iast": "glaurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे ग्लौः",
+        "slp1": "he glOH",
+        "iast": "he glauḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "12.001_8_2_he glAvO_1253": {
+    "id": "12.001_8_2_he glAvO_1253",
+    "key": "12.1|8|2|he glAvO",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "हे ग्लावौ",
+      "slp1": "he glAvO",
+      "iast": "he glāvau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे ग्लावौ",
+        "slp1": "he glAvO",
+        "iast": "he glāvau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "12.001_8_3_he glAvaH_1254": {
+    "id": "12.001_8_3_he glAvaH_1254",
+    "key": "12.1|8|3|he glAvaH",
+    "baseindex": {
+      "raw": "12.001",
+      "normalized": "12.1"
+    },
+    "word": {
+      "deva": "ग्लौ",
+      "slp1": "glO",
+      "iast": "glau"
+    },
+    "form": {
+      "deva": "हे ग्लावः",
+      "slp1": "he glAvaH",
+      "iast": "he glāvaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-12.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "ग्लावस्",
+        "slp1": "glAvas",
+        "iast": "glāvas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "ग्लावरुँ",
+        "slp1": "glAvaru~",
+        "iast": "glāvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे ग्लावः",
+        "slp1": "he glAvaH",
+        "iast": "he glāvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1047 @@
+{
+  "48.001_1_1_agnimad_3154": {
+    "id": "48.001_1_1_agnimad_3154",
+    "key": "48.1|1|1|agnimad",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमद्",
+      "slp1": "agnimad",
+      "iast": "agnimad"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथ्",
+        "slp1": "agnimaT",
+        "iast": "agnimath",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमद्",
+        "slp1": "agnimad",
+        "iast": "agnimad",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "48.001_1_1_agnimat_3155": {
+    "id": "48.001_1_1_agnimat_3155",
+    "key": "48.1|1|1|agnimat",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमत्",
+      "slp1": "agnimat",
+      "iast": "agnimat"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथ्",
+        "slp1": "agnimaT",
+        "iast": "agnimath",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमद्",
+        "slp1": "agnimad",
+        "iast": "agnimad",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "अग्निमत्",
+        "slp1": "agnimat",
+        "iast": "agnimat",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "48.001_1_2_agnimaTO_3156": {
+    "id": "48.001_1_2_agnimaTO_3156",
+    "key": "48.1|1|2|agnimaTO",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथौ",
+      "slp1": "agnimaTO",
+      "iast": "agnimathau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथौ",
+        "slp1": "agnimaTO",
+        "iast": "agnimathau",
+        "sutras": []
+      }
+    ]
+  },
+  "48.001_1_3_agnimaTaH_3157": {
+    "id": "48.001_1_3_agnimaTaH_3157",
+    "key": "48.1|1|3|agnimaTaH",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथः",
+      "slp1": "agnimaTaH",
+      "iast": "agnimathaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथस्",
+        "slp1": "agnimaTas",
+        "iast": "agnimathas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमथरुँ",
+        "slp1": "agnimaTaru~",
+        "iast": "agnimatharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "अग्निमथः",
+        "slp1": "agnimaTaH",
+        "iast": "agnimathaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "48.001_2_1_agnimaTam_3158": {
+    "id": "48.001_2_1_agnimaTam_3158",
+    "key": "48.1|2|1|agnimaTam",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथम्",
+      "slp1": "agnimaTam",
+      "iast": "agnimatham"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथम्",
+        "slp1": "agnimaTam",
+        "iast": "agnimatham",
+        "sutras": []
+      }
+    ]
+  },
+  "48.001_2_2_agnimaTO_3159": {
+    "id": "48.001_2_2_agnimaTO_3159",
+    "key": "48.1|2|2|agnimaTO",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथौ",
+      "slp1": "agnimaTO",
+      "iast": "agnimathau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथौ",
+        "slp1": "agnimaTO",
+        "iast": "agnimathau",
+        "sutras": []
+      }
+    ]
+  },
+  "48.001_2_3_agnimaTaH_3160": {
+    "id": "48.001_2_3_agnimaTaH_3160",
+    "key": "48.1|2|3|agnimaTaH",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथः",
+      "slp1": "agnimaTaH",
+      "iast": "agnimathaḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथस्",
+        "slp1": "agnimaTas",
+        "iast": "agnimathas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमथरुँ",
+        "slp1": "agnimaTaru~",
+        "iast": "agnimatharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "अग्निमथः",
+        "slp1": "agnimaTaH",
+        "iast": "agnimathaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "48.001_3_1_agnimaTA_3161": {
+    "id": "48.001_3_1_agnimaTA_3161",
+    "key": "48.1|3|1|agnimaTA",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथा",
+      "slp1": "agnimaTA",
+      "iast": "agnimathā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथा",
+        "slp1": "agnimaTA",
+        "iast": "agnimathā",
+        "sutras": []
+      }
+    ]
+  },
+  "48.001_3_2_agnimadByAm_3162": {
+    "id": "48.001_3_2_agnimadByAm_3162",
+    "key": "48.1|3|2|agnimadByAm",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमद्भ्याम्",
+      "slp1": "agnimadByAm",
+      "iast": "agnimadbhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमद्भ्याम्",
+        "slp1": "agnimadByAm",
+        "iast": "agnimadbhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "48.001_3_3_agnimadBiH_3163": {
+    "id": "48.001_3_3_agnimadBiH_3163",
+    "key": "48.1|3|3|agnimadBiH",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमद्भिः",
+      "slp1": "agnimadBiH",
+      "iast": "agnimadbhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमद्भिस्",
+        "slp1": "agnimadBis",
+        "iast": "agnimadbhis",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमद्भिरुँ",
+        "slp1": "agnimadBiru~",
+        "iast": "agnimadbhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "अग्निमद्भिः",
+        "slp1": "agnimadBiH",
+        "iast": "agnimadbhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "48.001_4_1_agnimaTe_3164": {
+    "id": "48.001_4_1_agnimaTe_3164",
+    "key": "48.1|4|1|agnimaTe",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथे",
+      "slp1": "agnimaTe",
+      "iast": "agnimathe"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथे",
+        "slp1": "agnimaTe",
+        "iast": "agnimathe",
+        "sutras": []
+      }
+    ]
+  },
+  "48.001_4_2_agnimadByAm_3165": {
+    "id": "48.001_4_2_agnimadByAm_3165",
+    "key": "48.1|4|2|agnimadByAm",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमद्भ्याम्",
+      "slp1": "agnimadByAm",
+      "iast": "agnimadbhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमद्भ्याम्",
+        "slp1": "agnimadByAm",
+        "iast": "agnimadbhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "48.001_4_3_agnimadByaH_3166": {
+    "id": "48.001_4_3_agnimadByaH_3166",
+    "key": "48.1|4|3|agnimadByaH",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमद्भ्यः",
+      "slp1": "agnimadByaH",
+      "iast": "agnimadbhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमद्भ्यस्",
+        "slp1": "agnimadByas",
+        "iast": "agnimadbhyas",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमद्भ्यरुँ",
+        "slp1": "agnimadByaru~",
+        "iast": "agnimadbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "अग्निमद्भ्यः",
+        "slp1": "agnimadByaH",
+        "iast": "agnimadbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "48.001_5_1_agnimaTaH_3167": {
+    "id": "48.001_5_1_agnimaTaH_3167",
+    "key": "48.1|5|1|agnimaTaH",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथः",
+      "slp1": "agnimaTaH",
+      "iast": "agnimathaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथस्",
+        "slp1": "agnimaTas",
+        "iast": "agnimathas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमथरुँ",
+        "slp1": "agnimaTaru~",
+        "iast": "agnimatharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "अग्निमथः",
+        "slp1": "agnimaTaH",
+        "iast": "agnimathaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "48.001_5_2_agnimadByAm_3168": {
+    "id": "48.001_5_2_agnimadByAm_3168",
+    "key": "48.1|5|2|agnimadByAm",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमद्भ्याम्",
+      "slp1": "agnimadByAm",
+      "iast": "agnimadbhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमद्भ्याम्",
+        "slp1": "agnimadByAm",
+        "iast": "agnimadbhyām",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "48.001_5_3_agnimadByaH_3169": {
+    "id": "48.001_5_3_agnimadByaH_3169",
+    "key": "48.1|5|3|agnimadByaH",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमद्भ्यः",
+      "slp1": "agnimadByaH",
+      "iast": "agnimadbhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमद्भ्यस्",
+        "slp1": "agnimadByas",
+        "iast": "agnimadbhyas",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमद्भ्यरुँ",
+        "slp1": "agnimadByaru~",
+        "iast": "agnimadbhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "अग्निमद्भ्यः",
+        "slp1": "agnimadByaH",
+        "iast": "agnimadbhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "48.001_6_1_agnimaTaH_3170": {
+    "id": "48.001_6_1_agnimaTaH_3170",
+    "key": "48.1|6|1|agnimaTaH",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथः",
+      "slp1": "agnimaTaH",
+      "iast": "agnimathaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथस्",
+        "slp1": "agnimaTas",
+        "iast": "agnimathas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमथरुँ",
+        "slp1": "agnimaTaru~",
+        "iast": "agnimatharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "अग्निमथः",
+        "slp1": "agnimaTaH",
+        "iast": "agnimathaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "48.001_6_2_agnimaToH_3171": {
+    "id": "48.001_6_2_agnimaToH_3171",
+    "key": "48.1|6|2|agnimaToH",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथोः",
+      "slp1": "agnimaToH",
+      "iast": "agnimathoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथोस्",
+        "slp1": "agnimaTos",
+        "iast": "agnimathos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमथोरुँ",
+        "slp1": "agnimaToru~",
+        "iast": "agnimathorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "अग्निमथोः",
+        "slp1": "agnimaToH",
+        "iast": "agnimathoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "48.001_6_3_agnimaTAm_3172": {
+    "id": "48.001_6_3_agnimaTAm_3172",
+    "key": "48.1|6|3|agnimaTAm",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथाम्",
+      "slp1": "agnimaTAm",
+      "iast": "agnimathām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथाम्",
+        "slp1": "agnimaTAm",
+        "iast": "agnimathām",
+        "sutras": []
+      }
+    ]
+  },
+  "48.001_7_1_agnimaTi_3173": {
+    "id": "48.001_7_1_agnimaTi_3173",
+    "key": "48.1|7|1|agnimaTi",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथि",
+      "slp1": "agnimaTi",
+      "iast": "agnimathi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथि",
+        "slp1": "agnimaTi",
+        "iast": "agnimathi",
+        "sutras": []
+      }
+    ]
+  },
+  "48.001_7_2_agnimaToH_3174": {
+    "id": "48.001_7_2_agnimaToH_3174",
+    "key": "48.1|7|2|agnimaToH",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमथोः",
+      "slp1": "agnimaToH",
+      "iast": "agnimathoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथोस्",
+        "slp1": "agnimaTos",
+        "iast": "agnimathos",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमथोरुँ",
+        "slp1": "agnimaToru~",
+        "iast": "agnimathorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "अग्निमथोः",
+        "slp1": "agnimaToH",
+        "iast": "agnimathoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "48.001_7_3_agnimatsu_3175": {
+    "id": "48.001_7_3_agnimatsu_3175",
+    "key": "48.1|7|3|agnimatsu",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "अग्निमत्सु",
+      "slp1": "agnimatsu",
+      "iast": "agnimatsu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमद्+सु",
+        "slp1": "agnimad+su",
+        "iast": "agnimad+su",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमत्सु",
+        "slp1": "agnimatsu",
+        "iast": "agnimatsu",
+        "sutras": [
+          "8.4.55"
+        ]
+      }
+    ]
+  },
+  "48.001_8_1_he agnimad_3176": {
+    "id": "48.001_8_1_he agnimad_3176",
+    "key": "48.1|8|1|he agnimad",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "हे अग्निमद्",
+      "slp1": "he agnimad",
+      "iast": "he agnimad"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथ्",
+        "slp1": "agnimaT",
+        "iast": "agnimath",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे अग्निमद्",
+        "slp1": "he agnimad",
+        "iast": "he agnimad",
+        "sutras": [
+          "8.2.39"
+        ]
+      }
+    ]
+  },
+  "48.001_8_1_he agnimat_3177": {
+    "id": "48.001_8_1_he agnimat_3177",
+    "key": "48.1|8|1|he agnimat",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "हे अग्निमत्",
+      "slp1": "he agnimat",
+      "iast": "he agnimat"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथ्",
+        "slp1": "agnimaT",
+        "iast": "agnimath",
+        "sutras": [
+          "6.1.68"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमद्",
+        "slp1": "agnimad",
+        "iast": "agnimad",
+        "sutras": [
+          "8.2.39"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे अग्निमत्",
+        "slp1": "he agnimat",
+        "iast": "he agnimat",
+        "sutras": [
+          "8.4.56"
+        ]
+      }
+    ]
+  },
+  "48.001_8_2_he agnimaTO_3178": {
+    "id": "48.001_8_2_he agnimaTO_3178",
+    "key": "48.1|8|2|he agnimaTO",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "हे अग्निमथौ",
+      "slp1": "he agnimaTO",
+      "iast": "he agnimathau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे अग्निमथौ",
+        "slp1": "he agnimaTO",
+        "iast": "he agnimathau",
+        "sutras": []
+      }
+    ]
+  },
+  "48.001_8_3_he agnimaTaH_3179": {
+    "id": "48.001_8_3_he agnimaTaH_3179",
+    "key": "48.1|8|3|he agnimaTaH",
+    "baseindex": {
+      "raw": "48.001",
+      "normalized": "48.1"
+    },
+    "word": {
+      "deva": "अग्निमथ्",
+      "slp1": "agnimaT",
+      "iast": "agnimath"
+    },
+    "form": {
+      "deva": "हे अग्निमथः",
+      "slp1": "he agnimaTaH",
+      "iast": "he agnimathaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-48.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "अग्निमथस्",
+        "slp1": "agnimaTas",
+        "iast": "agnimathas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "अग्निमथरुँ",
+        "slp1": "agnimaTaru~",
+        "iast": "agnimatharum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे अग्निमथः",
+        "slp1": "he agnimaTaH",
+        "iast": "he agnimathaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

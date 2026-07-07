@@ -1,0 +1,1110 @@
+{
+  "22.002_1_1_dyOH_1771": {
+    "id": "22.002_1_1_dyOH_1771",
+    "key": "22.2|1|1|dyOH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्यौः",
+      "slp1": "dyOH",
+      "iast": "dyauḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यो+स्",
+        "slp1": "dyo+s",
+        "iast": "dyo+s",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्यौ+स्",
+        "slp1": "dyO+s",
+        "iast": "dyau+s",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्यौस्",
+        "slp1": "dyOs",
+        "iast": "dyaus",
+        "sutras": []
+      },
+      {
+        "index": 4,
+        "deva": "द्यौरुँ",
+        "slp1": "dyOru~",
+        "iast": "dyaurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "द्यौः",
+        "slp1": "dyOH",
+        "iast": "dyauḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_1_2_dyAvO_1772": {
+    "id": "22.002_1_2_dyAvO_1772",
+    "key": "22.2|1|2|dyAvO",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्यावौ",
+      "slp1": "dyAvO",
+      "iast": "dyāvau"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यो+औ",
+        "slp1": "dyo+O",
+        "iast": "dyo+au",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्यौ+औ",
+        "slp1": "dyO+O",
+        "iast": "dyau+au",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्यावौ",
+        "slp1": "dyAvO",
+        "iast": "dyāvau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "22.002_1_3_dyAvaH_1773": {
+    "id": "22.002_1_3_dyAvaH_1773",
+    "key": "22.2|1|3|dyAvaH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्यावः",
+      "slp1": "dyAvaH",
+      "iast": "dyāvaḥ"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यो+अस्",
+        "slp1": "dyo+as",
+        "iast": "dyo+as",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्यौ+अस्",
+        "slp1": "dyO+as",
+        "iast": "dyau+as",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्यावस्",
+        "slp1": "dyAvas",
+        "iast": "dyāvas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "द्यावरुँ",
+        "slp1": "dyAvaru~",
+        "iast": "dyāvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "द्यावः",
+        "slp1": "dyAvaH",
+        "iast": "dyāvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_2_1_dyAm_1774": {
+    "id": "22.002_2_1_dyAm_1774",
+    "key": "22.2|2|1|dyAm",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्याम्",
+      "slp1": "dyAm",
+      "iast": "dyām"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्य्+आ+म्",
+        "slp1": "dy+A+m",
+        "iast": "dy+ā+m",
+        "sutras": [
+          "6.1.93"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्याम्",
+        "slp1": "dyAm",
+        "iast": "dyām",
+        "sutras": []
+      }
+    ]
+  },
+  "22.002_2_2_dyAvO_1775": {
+    "id": "22.002_2_2_dyAvO_1775",
+    "key": "22.2|2|2|dyAvO",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्यावौ",
+      "slp1": "dyAvO",
+      "iast": "dyāvau"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यो+औ",
+        "slp1": "dyo+O",
+        "iast": "dyo+au",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्यौ+औ",
+        "slp1": "dyO+O",
+        "iast": "dyau+au",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्यावौ",
+        "slp1": "dyAvO",
+        "iast": "dyāvau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "22.002_2_3_dyAH_1776": {
+    "id": "22.002_2_3_dyAH_1776",
+    "key": "22.2|2|3|dyAH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्याः",
+      "slp1": "dyAH",
+      "iast": "dyāḥ"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्य्+आ+स्",
+        "slp1": "dy+A+s",
+        "iast": "dy+ā+s",
+        "sutras": [
+          "6.1.93"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्यास्",
+        "slp1": "dyAs",
+        "iast": "dyās",
+        "sutras": []
+      },
+      {
+        "index": 3,
+        "deva": "द्यारुँ",
+        "slp1": "dyAru~",
+        "iast": "dyārum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "द्याः",
+        "slp1": "dyAH",
+        "iast": "dyāḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_3_1_dyavA_1777": {
+    "id": "22.002_3_1_dyavA_1777",
+    "key": "22.2|3|1|dyavA",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्यवा",
+      "slp1": "dyavA",
+      "iast": "dyavā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यवा",
+        "slp1": "dyavA",
+        "iast": "dyavā",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "22.002_3_2_dyoByAm_1778": {
+    "id": "22.002_3_2_dyoByAm_1778",
+    "key": "22.2|3|2|dyoByAm",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्योभ्याम्",
+      "slp1": "dyoByAm",
+      "iast": "dyobhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्योभ्याम्",
+        "slp1": "dyoByAm",
+        "iast": "dyobhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "22.002_3_3_dyoBiH_1779": {
+    "id": "22.002_3_3_dyoBiH_1779",
+    "key": "22.2|3|3|dyoBiH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्योभिः",
+      "slp1": "dyoBiH",
+      "iast": "dyobhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्योभिस्",
+        "slp1": "dyoBis",
+        "iast": "dyobhis",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "द्योभिरुँ",
+        "slp1": "dyoBiru~",
+        "iast": "dyobhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्योभिः",
+        "slp1": "dyoBiH",
+        "iast": "dyobhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_4_1_dyave_1780": {
+    "id": "22.002_4_1_dyave_1780",
+    "key": "22.2|4|1|dyave",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्यवे",
+      "slp1": "dyave",
+      "iast": "dyave"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यवे",
+        "slp1": "dyave",
+        "iast": "dyave",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "22.002_4_2_dyoByAm_1781": {
+    "id": "22.002_4_2_dyoByAm_1781",
+    "key": "22.2|4|2|dyoByAm",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्योभ्याम्",
+      "slp1": "dyoByAm",
+      "iast": "dyobhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्योभ्याम्",
+        "slp1": "dyoByAm",
+        "iast": "dyobhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "22.002_4_3_dyoByaH_1782": {
+    "id": "22.002_4_3_dyoByaH_1782",
+    "key": "22.2|4|3|dyoByaH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्योभ्यः",
+      "slp1": "dyoByaH",
+      "iast": "dyobhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्योभ्यस्",
+        "slp1": "dyoByas",
+        "iast": "dyobhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "द्योभ्यरुँ",
+        "slp1": "dyoByaru~",
+        "iast": "dyobhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्योभ्यः",
+        "slp1": "dyoByaH",
+        "iast": "dyobhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_5_1_dyoH_1783": {
+    "id": "22.002_5_1_dyoH_1783",
+    "key": "22.2|5|1|dyoH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्योः",
+      "slp1": "dyoH",
+      "iast": "dyoḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्योस्",
+        "slp1": "dyos",
+        "iast": "dyos",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्योरुँ",
+        "slp1": "dyoru~",
+        "iast": "dyorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्योः",
+        "slp1": "dyoH",
+        "iast": "dyoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_5_2_dyoByAm_1784": {
+    "id": "22.002_5_2_dyoByAm_1784",
+    "key": "22.2|5|2|dyoByAm",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्योभ्याम्",
+      "slp1": "dyoByAm",
+      "iast": "dyobhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्योभ्याम्",
+        "slp1": "dyoByAm",
+        "iast": "dyobhyām",
+        "sutras": []
+      }
+    ]
+  },
+  "22.002_5_3_dyoByaH_1785": {
+    "id": "22.002_5_3_dyoByaH_1785",
+    "key": "22.2|5|3|dyoByaH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्योभ्यः",
+      "slp1": "dyoByaH",
+      "iast": "dyobhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्योभ्यस्",
+        "slp1": "dyoByas",
+        "iast": "dyobhyas",
+        "sutras": []
+      },
+      {
+        "index": 2,
+        "deva": "द्योभ्यरुँ",
+        "slp1": "dyoByaru~",
+        "iast": "dyobhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्योभ्यः",
+        "slp1": "dyoByaH",
+        "iast": "dyobhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_6_1_dyoH_1786": {
+    "id": "22.002_6_1_dyoH_1786",
+    "key": "22.2|6|1|dyoH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्योः",
+      "slp1": "dyoH",
+      "iast": "dyoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्योस्",
+        "slp1": "dyos",
+        "iast": "dyos",
+        "sutras": [
+          "6.1.110"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्योरुँ",
+        "slp1": "dyoru~",
+        "iast": "dyorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्योः",
+        "slp1": "dyoH",
+        "iast": "dyoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_6_2_dyavoH_1787": {
+    "id": "22.002_6_2_dyavoH_1787",
+    "key": "22.2|6|2|dyavoH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्यवोः",
+      "slp1": "dyavoH",
+      "iast": "dyavoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यवोस्",
+        "slp1": "dyavos",
+        "iast": "dyavos",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्यवोरुँ",
+        "slp1": "dyavoru~",
+        "iast": "dyavorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्यवोः",
+        "slp1": "dyavoH",
+        "iast": "dyavoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_6_3_dyavAm_1788": {
+    "id": "22.002_6_3_dyavAm_1788",
+    "key": "22.2|6|3|dyavAm",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्यवाम्",
+      "slp1": "dyavAm",
+      "iast": "dyavām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यवाम्",
+        "slp1": "dyavAm",
+        "iast": "dyavām",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "22.002_7_1_dyavi_1789": {
+    "id": "22.002_7_1_dyavi_1789",
+    "key": "22.2|7|1|dyavi",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्यवि",
+      "slp1": "dyavi",
+      "iast": "dyavi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यवि",
+        "slp1": "dyavi",
+        "iast": "dyavi",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "22.002_7_2_dyavoH_1790": {
+    "id": "22.002_7_2_dyavoH_1790",
+    "key": "22.2|7|2|dyavoH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्यवोः",
+      "slp1": "dyavoH",
+      "iast": "dyavoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यवोस्",
+        "slp1": "dyavos",
+        "iast": "dyavos",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्यवोरुँ",
+        "slp1": "dyavoru~",
+        "iast": "dyavorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्यवोः",
+        "slp1": "dyavoH",
+        "iast": "dyavoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_7_3_dyozu_1791": {
+    "id": "22.002_7_3_dyozu_1791",
+    "key": "22.2|7|3|dyozu",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "द्योषु",
+      "slp1": "dyozu",
+      "iast": "dyoṣu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्योषु",
+        "slp1": "dyozu",
+        "iast": "dyoṣu",
+        "sutras": [
+          "8.3.59"
+        ]
+      }
+    ]
+  },
+  "22.002_8_1_he dyOH_1792": {
+    "id": "22.002_8_1_he dyOH_1792",
+    "key": "22.2|8|1|he dyOH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "हे द्यौः",
+      "slp1": "he dyOH",
+      "iast": "he dyauḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यो+स्",
+        "slp1": "dyo+s",
+        "iast": "dyo+s",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्यौ+स्",
+        "slp1": "dyO+s",
+        "iast": "dyau+s",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्यौस्",
+        "slp1": "dyOs",
+        "iast": "dyaus",
+        "sutras": []
+      },
+      {
+        "index": 4,
+        "deva": "द्यौरुँ",
+        "slp1": "dyOru~",
+        "iast": "dyaurum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हे द्यौः",
+        "slp1": "he dyOH",
+        "iast": "he dyauḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "22.002_8_2_he dyAvO_1793": {
+    "id": "22.002_8_2_he dyAvO_1793",
+    "key": "22.2|8|2|he dyAvO",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "हे द्यावौ",
+      "slp1": "he dyAvO",
+      "iast": "he dyāvau"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यो+औ",
+        "slp1": "dyo+O",
+        "iast": "dyo+au",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्यौ+औ",
+        "slp1": "dyO+O",
+        "iast": "dyau+au",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे द्यावौ",
+        "slp1": "he dyAvO",
+        "iast": "he dyāvau",
+        "sutras": [
+          "6.1.78"
+        ]
+      }
+    ]
+  },
+  "22.002_8_3_he dyAvaH_1794": {
+    "id": "22.002_8_3_he dyAvaH_1794",
+    "key": "22.2|8|3|he dyAvaH",
+    "baseindex": {
+      "raw": "22.002",
+      "normalized": "22.2"
+    },
+    "word": {
+      "deva": "द्यो",
+      "slp1": "dyo",
+      "iast": "dyo"
+    },
+    "form": {
+      "deva": "हे द्यावः",
+      "slp1": "he dyAvaH",
+      "iast": "he dyāvaḥ"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-22.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "द्यो+अस्",
+        "slp1": "dyo+as",
+        "iast": "dyo+as",
+        "sutras": [
+          "7.1.90"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "द्यौ+अस्",
+        "slp1": "dyO+as",
+        "iast": "dyau+as",
+        "sutras": [
+          "7.2.115"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "द्यावस्",
+        "slp1": "dyAvas",
+        "iast": "dyāvas",
+        "sutras": [
+          "6.1.78"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "द्यावरुँ",
+        "slp1": "dyAvaru~",
+        "iast": "dyāvarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 5,
+        "deva": "हे द्यावः",
+        "slp1": "he dyAvaH",
+        "iast": "he dyāvaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  }
+}

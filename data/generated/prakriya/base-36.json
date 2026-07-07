@@ -1,0 +1,1162 @@
+{
+  "36.001_1_1_prari_2095": {
+    "id": "36.001_1_1_prari_2095",
+    "key": "36.1|1|1|prari",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररि",
+      "slp1": "prari",
+      "iast": "prari"
+    },
+    "vibhakti": "1",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररि+स्",
+        "slp1": "prari+s",
+        "iast": "prari+s",
+        "sutras": [
+          "1.1.48"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररि",
+        "slp1": "prari",
+        "iast": "prari",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "36.001_1_2_prariRI_2096": {
+    "id": "36.001_1_2_prariRI_2096",
+    "key": "36.1|1|2|prariRI",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररिणी",
+      "slp1": "prariRI",
+      "iast": "prariṇī"
+    },
+    "vibhakti": "1",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररि+ई",
+        "slp1": "prari+I",
+        "iast": "prari+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिन्+ई",
+        "slp1": "prarin+I",
+        "iast": "prarin+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्ररिणी",
+        "slp1": "prariRI",
+        "iast": "prariṇī",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "36.001_1_3_prarIRi_2097": {
+    "id": "36.001_1_3_prarIRi_2097",
+    "key": "36.1|1|3|prarIRi",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररीणि",
+      "slp1": "prarIRi",
+      "iast": "prarīṇi"
+    },
+    "vibhakti": "1",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररि+इ",
+        "slp1": "prari+i",
+        "iast": "prari+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिन्+इ",
+        "slp1": "prarin+i",
+        "iast": "prarin+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्ररीनि",
+        "slp1": "prarIni",
+        "iast": "prarīni",
+        "sutras": [
+          "6.4.8"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "प्ररीणि",
+        "slp1": "prarIRi",
+        "iast": "prarīṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "36.001_2_1_prari_2098": {
+    "id": "36.001_2_1_prari_2098",
+    "key": "36.1|2|1|prari",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररि",
+      "slp1": "prari",
+      "iast": "prari"
+    },
+    "vibhakti": "2",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररि",
+        "slp1": "prari",
+        "iast": "prari",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "36.001_2_2_prariRI_2099": {
+    "id": "36.001_2_2_prariRI_2099",
+    "key": "36.1|2|2|prariRI",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररिणी",
+      "slp1": "prariRI",
+      "iast": "prariṇī"
+    },
+    "vibhakti": "2",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररि+ई",
+        "slp1": "prari+I",
+        "iast": "prari+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिन्+ई",
+        "slp1": "prarin+I",
+        "iast": "prarin+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्ररिणी",
+        "slp1": "prariRI",
+        "iast": "prariṇī",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "36.001_2_3_prarIRi_2100": {
+    "id": "36.001_2_3_prarIRi_2100",
+    "key": "36.1|2|3|prarIRi",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररीणि",
+      "slp1": "prarIRi",
+      "iast": "prarīṇi"
+    },
+    "vibhakti": "2",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररि+इ",
+        "slp1": "prari+i",
+        "iast": "prari+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिन्+इ",
+        "slp1": "prarin+i",
+        "iast": "prarin+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्ररीनि",
+        "slp1": "prarIni",
+        "iast": "prarīni",
+        "sutras": [
+          "6.4.8"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "प्ररीणि",
+        "slp1": "prarIRi",
+        "iast": "prarīṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "36.001_3_1_prariRA_2101": {
+    "id": "36.001_3_1_prariRA_2101",
+    "key": "36.1|3|1|prariRA",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररिणा",
+      "slp1": "prariRA",
+      "iast": "prariṇā"
+    },
+    "vibhakti": "3",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररिना",
+        "slp1": "prarinA",
+        "iast": "prarinā",
+        "sutras": [
+          "7.3.120"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिणा",
+        "slp1": "prariRA",
+        "iast": "prariṇā",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "36.001_3_2_prarAByAm_2102": {
+    "id": "36.001_3_2_prarAByAm_2102",
+    "key": "36.1|3|2|prarAByAm",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्रराभ्याम्",
+      "slp1": "prarAByAm",
+      "iast": "prarābhyām"
+    },
+    "vibhakti": "3",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रराभ्याम्",
+        "slp1": "prarAByAm",
+        "iast": "prarābhyām",
+        "sutras": [
+          "7.2.85"
+        ]
+      }
+    ]
+  },
+  "36.001_3_3_prarABiH_2103": {
+    "id": "36.001_3_3_prarABiH_2103",
+    "key": "36.1|3|3|prarABiH",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्रराभिः",
+      "slp1": "prarABiH",
+      "iast": "prarābhiḥ"
+    },
+    "vibhakti": "3",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रराभिस्",
+        "slp1": "prarABis",
+        "iast": "prarābhis",
+        "sutras": [
+          "7.2.85"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रराभिरुँ",
+        "slp1": "prarABiru~",
+        "iast": "prarābhirum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्रराभिः",
+        "slp1": "prarABiH",
+        "iast": "prarābhiḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "36.001_4_1_prariRe_2104": {
+    "id": "36.001_4_1_prariRe_2104",
+    "key": "36.1|4|1|prariRe",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररिणे",
+      "slp1": "prariRe",
+      "iast": "prariṇe"
+    },
+    "vibhakti": "4",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररिन्+ए",
+        "slp1": "prarin+e",
+        "iast": "prarin+e",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिणे",
+        "slp1": "prariRe",
+        "iast": "prariṇe",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "36.001_4_2_prarAByAm_2105": {
+    "id": "36.001_4_2_prarAByAm_2105",
+    "key": "36.1|4|2|prarAByAm",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्रराभ्याम्",
+      "slp1": "prarAByAm",
+      "iast": "prarābhyām"
+    },
+    "vibhakti": "4",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रराभ्याम्",
+        "slp1": "prarAByAm",
+        "iast": "prarābhyām",
+        "sutras": [
+          "7.2.85"
+        ]
+      }
+    ]
+  },
+  "36.001_4_3_prarAByaH_2106": {
+    "id": "36.001_4_3_prarAByaH_2106",
+    "key": "36.1|4|3|prarAByaH",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्रराभ्यः",
+      "slp1": "prarAByaH",
+      "iast": "prarābhyaḥ"
+    },
+    "vibhakti": "4",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रराभ्यस्",
+        "slp1": "prarAByas",
+        "iast": "prarābhyas",
+        "sutras": [
+          "7.2.85"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रराभ्यरुँ",
+        "slp1": "prarAByaru~",
+        "iast": "prarābhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्रराभ्यः",
+        "slp1": "prarAByaH",
+        "iast": "prarābhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "36.001_5_1_prariRaH_2107": {
+    "id": "36.001_5_1_prariRaH_2107",
+    "key": "36.1|5|1|prariRaH",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररिणः",
+      "slp1": "prariRaH",
+      "iast": "prariṇaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररिन्+अस्",
+        "slp1": "prarin+as",
+        "iast": "prarin+as",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिणस्",
+        "slp1": "prariRas",
+        "iast": "prariṇas",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्ररिणरुँ",
+        "slp1": "prariRaru~",
+        "iast": "prariṇarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "प्ररिणः",
+        "slp1": "prariRaH",
+        "iast": "prariṇaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "36.001_5_2_prarAByAm_2108": {
+    "id": "36.001_5_2_prarAByAm_2108",
+    "key": "36.1|5|2|prarAByAm",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्रराभ्याम्",
+      "slp1": "prarAByAm",
+      "iast": "prarābhyām"
+    },
+    "vibhakti": "5",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रराभ्याम्",
+        "slp1": "prarAByAm",
+        "iast": "prarābhyām",
+        "sutras": [
+          "7.2.85"
+        ]
+      }
+    ]
+  },
+  "36.001_5_3_prarAByaH_2109": {
+    "id": "36.001_5_3_prarAByaH_2109",
+    "key": "36.1|5|3|prarAByaH",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्रराभ्यः",
+      "slp1": "prarAByaH",
+      "iast": "prarābhyaḥ"
+    },
+    "vibhakti": "5",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्रराभ्यस्",
+        "slp1": "prarAByas",
+        "iast": "prarābhyas",
+        "sutras": [
+          "7.2.85"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्रराभ्यरुँ",
+        "slp1": "prarAByaru~",
+        "iast": "prarābhyarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्रराभ्यः",
+        "slp1": "prarAByaH",
+        "iast": "prarābhyaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "36.001_6_1_prariRaH_2110": {
+    "id": "36.001_6_1_prariRaH_2110",
+    "key": "36.1|6|1|prariRaH",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररिणः",
+      "slp1": "prariRaH",
+      "iast": "prariṇaḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररिन्+अस्",
+        "slp1": "prarin+as",
+        "iast": "prarin+as",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिणस्",
+        "slp1": "prariRas",
+        "iast": "prariṇas",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्ररिणरुँ",
+        "slp1": "prariRaru~",
+        "iast": "prariṇarum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "प्ररिणः",
+        "slp1": "prariRaH",
+        "iast": "prariṇaḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "36.001_6_2_prariRoH_2111": {
+    "id": "36.001_6_2_prariRoH_2111",
+    "key": "36.1|6|2|prariRoH",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररिणोः",
+      "slp1": "prariRoH",
+      "iast": "prariṇoḥ"
+    },
+    "vibhakti": "6",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररिन्+ओस्",
+        "slp1": "prarin+os",
+        "iast": "prarin+os",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिणोस्",
+        "slp1": "prariRos",
+        "iast": "prariṇos",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्ररिणोरुँ",
+        "slp1": "prariRoru~",
+        "iast": "prariṇorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "प्ररिणोः",
+        "slp1": "prariRoH",
+        "iast": "prariṇoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "36.001_6_3_prarIRAm_2112": {
+    "id": "36.001_6_3_prarIRAm_2112",
+    "key": "36.1|6|3|prarIRAm",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररीणाम्",
+      "slp1": "prarIRAm",
+      "iast": "prarīṇām"
+    },
+    "vibhakti": "6",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररि+न्+आम्",
+        "slp1": "prari+n+Am",
+        "iast": "prari+n+ām",
+        "sutras": [
+          "7.1.54"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररीनाम्",
+        "slp1": "prarInAm",
+        "iast": "prarīnām",
+        "sutras": [
+          "6.4.3"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्ररीणाम्",
+        "slp1": "prarIRAm",
+        "iast": "prarīṇām",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "36.001_7_1_prariRi_2113": {
+    "id": "36.001_7_1_prariRi_2113",
+    "key": "36.1|7|1|prariRi",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररिणि",
+      "slp1": "prariRi",
+      "iast": "prariṇi"
+    },
+    "vibhakti": "7",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररिन्+इ",
+        "slp1": "prarin+i",
+        "iast": "prarin+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिणि",
+        "slp1": "prariRi",
+        "iast": "prariṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "36.001_7_2_prariRoH_2114": {
+    "id": "36.001_7_2_prariRoH_2114",
+    "key": "36.1|7|2|prariRoH",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररिणोः",
+      "slp1": "prariRoH",
+      "iast": "prariṇoḥ"
+    },
+    "vibhakti": "7",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररिन्+ओस्",
+        "slp1": "prarin+os",
+        "iast": "prarin+os",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिणोस्",
+        "slp1": "prariRos",
+        "iast": "prariṇos",
+        "sutras": [
+          "8.4.2"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्ररिणोरुँ",
+        "slp1": "prariRoru~",
+        "iast": "prariṇorum̐",
+        "sutras": [
+          "8.2.66"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "प्ररिणोः",
+        "slp1": "prariRoH",
+        "iast": "prariṇoḥ",
+        "sutras": [
+          "8.3.15"
+        ]
+      }
+    ]
+  },
+  "36.001_7_3_prarAsu_2115": {
+    "id": "36.001_7_3_prarAsu_2115",
+    "key": "36.1|7|3|prarAsu",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "प्ररासु",
+      "slp1": "prarAsu",
+      "iast": "prarāsu"
+    },
+    "vibhakti": "7",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररासु",
+        "slp1": "prarAsu",
+        "iast": "prarāsu",
+        "sutras": [
+          "7.2.85"
+        ]
+      }
+    ]
+  },
+  "36.001_8_1_he prari_2116": {
+    "id": "36.001_8_1_he prari_2116",
+    "key": "36.1|8|1|he prari",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "हे प्ररि",
+      "slp1": "he prari",
+      "iast": "he prari"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "हे प्ररि",
+        "slp1": "he prari",
+        "iast": "he prari",
+        "sutras": [
+          "7.1.23"
+        ]
+      }
+    ]
+  },
+  "36.001_8_1_he prare_2117": {
+    "id": "36.001_8_1_he prare_2117",
+    "key": "36.1|8|1|he prare",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "हे प्ररे",
+      "slp1": "he prare",
+      "iast": "he prare"
+    },
+    "vibhakti": "8",
+    "vachan": "1",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररि",
+        "slp1": "prari",
+        "iast": "prari",
+        "sutras": [
+          "7.1.23"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "हे प्ररे",
+        "slp1": "he prare",
+        "iast": "he prare",
+        "sutras": [
+          "7.3.108"
+        ]
+      }
+    ]
+  },
+  "36.001_8_2_he prariRI_2118": {
+    "id": "36.001_8_2_he prariRI_2118",
+    "key": "36.1|8|2|he prariRI",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "हे प्ररिणी",
+      "slp1": "he prariRI",
+      "iast": "he prariṇī"
+    },
+    "vibhakti": "8",
+    "vachan": "2",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररि+ई",
+        "slp1": "prari+I",
+        "iast": "prari+ī",
+        "sutras": [
+          "7.1.19"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिन्+ई",
+        "slp1": "prarin+I",
+        "iast": "prarin+ī",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "हे प्ररिणी",
+        "slp1": "he prariRI",
+        "iast": "he prariṇī",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  },
+  "36.001_8_3_he prarIRi_2119": {
+    "id": "36.001_8_3_he prarIRi_2119",
+    "key": "36.1|8|3|he prarIRi",
+    "baseindex": {
+      "raw": "36.001",
+      "normalized": "36.1"
+    },
+    "word": {
+      "deva": "प्ररै",
+      "slp1": "prarE",
+      "iast": "prarai"
+    },
+    "form": {
+      "deva": "हे प्ररीणि",
+      "slp1": "he prarIRi",
+      "iast": "he prarīṇi"
+    },
+    "vibhakti": "8",
+    "vachan": "3",
+    "chunkFile": "prakriya/base-36.json",
+    "steps": [
+      {
+        "index": 1,
+        "deva": "प्ररि+इ",
+        "slp1": "prari+i",
+        "iast": "prari+i",
+        "sutras": [
+          "7.1.20"
+        ]
+      },
+      {
+        "index": 2,
+        "deva": "प्ररिन्+इ",
+        "slp1": "prarin+i",
+        "iast": "prarin+i",
+        "sutras": [
+          "7.1.73"
+        ]
+      },
+      {
+        "index": 3,
+        "deva": "प्ररीनि",
+        "slp1": "prarIni",
+        "iast": "prarīni",
+        "sutras": [
+          "6.4.8"
+        ]
+      },
+      {
+        "index": 4,
+        "deva": "हे प्ररीणि",
+        "slp1": "he prarIRi",
+        "iast": "he prarīṇi",
+        "sutras": [
+          "8.4.2"
+        ]
+      }
+    ]
+  }
+}
