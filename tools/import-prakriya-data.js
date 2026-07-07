@@ -200,6 +200,33 @@ function removeOldGeneratedPrakriya() {
   fs.mkdirSync(PRAKRIYA_DIR, { recursive: true });
 }
 
+function buildPrakriyaLookup(indexEntries) {
+  const lookup = {};
+
+  for (const entry of indexEntries) {
+    if (!lookup[entry.key]) {
+      lookup[entry.key] = [];
+    }
+
+    lookup[entry.key].push({
+      id: entry.id,
+      chunkFile: entry.chunkFile,
+      stepCount: entry.stepCount,
+      wordDeva: entry.wordDeva,
+      wordSlp1: entry.wordSlp1,
+      formDeva: entry.formDeva,
+      formSlp1: entry.formSlp1,
+      formIast: entry.formIast,
+      baseindexRaw: entry.baseindexRaw,
+      baseindexNorm: entry.baseindexNorm,
+      vibhakti: entry.vibhakti,
+      vachan: entry.vachan
+    });
+  }
+
+  return lookup;
+}
+
 function main() {
   fs.mkdirSync(OUTPUT_DIR, { recursive: true });
   removeOldGeneratedPrakriya();
@@ -257,7 +284,8 @@ function main() {
     increment(report.baseindexCounts, indexEntry.baseindexRaw);
     increment(report.normalizedBaseindexCounts, indexEntry.baseindexNorm);
     increment(report.caseNumberCounts, `${indexEntry.vibhakti}.${indexEntry.vachan}`);
-
+    
+    
     report.validEntries += 1;
   }
 
@@ -265,11 +293,18 @@ function main() {
   report.baseindexCounts = sortedObject(report.baseindexCounts);
   report.normalizedBaseindexCounts = sortedObject(report.normalizedBaseindexCounts);
   report.caseNumberCounts = sortedObject(report.caseNumberCounts);
+  const prakriyaLookup = buildPrakriyaLookup(indexEntries);
 
   fs.writeFileSync(
     path.join(OUTPUT_DIR, "prakriya-index.json"),
     JSON.stringify(indexEntries, null, 2),
     "utf8"
+  );
+  
+  fs.writeFileSync(
+  path.join(OUTPUT_DIR, "prakriya-lookup.json"),
+  JSON.stringify(prakriyaLookup, null, 2),
+  "utf8"
   );
 
   for (const [relativeFile, chunk] of Object.entries(chunks)) {
@@ -299,6 +334,7 @@ function main() {
   console.log("  data/generated/prakriya-index.json");
   console.log(`  data/generated/prakriya/ (${report.chunkCount} chunks)`);
   console.log("  data/generated/prakriya-report.json");
+  console.log("  data/generated/prakriya-lookup.json");
 
   if (report.duplicateKeys.length) {
     console.log("");
