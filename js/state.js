@@ -5,6 +5,7 @@ window.ShabdaState = {
 
   prakriyaLookup: {},
   prakriyaChunkCache: {},
+  sutraTexts: {},
 
   query: "",
 

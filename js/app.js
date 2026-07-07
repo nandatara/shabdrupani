@@ -35,15 +35,17 @@
 
   async function init() {
     try {
-      const [index, filters, prakriyaLookup] = await Promise.all([
+      const [index, filters, prakriyaLookup, sutraTexts] = await Promise.all([
           loadJson("data/generated/shabda-index.json"),
           loadJson("data/generated/filter-counts.json"),
-          loadJson("data/generated/prakriya-lookup.json")
+          loadJson("data/generated/prakriya-lookup.json"),
+          loadJson("data/generated/sutra-texts.json")
         ]);
 
       state.index = index;
       state.filters = ShabdaFilters.sortFilters(filters);
       state.prakriyaLookup = prakriyaLookup;
+      state.sutraTexts = sutraTexts;
       state.recentIds = loadRecentIds().filter(id =>
         state.index.some(entry => entry.id === id)
       );
@@ -446,6 +448,25 @@ function escapeHtml(value) {
     .replaceAll("'", "&#039;");
 }
 
+function renderSutraChip(sutraCode) {
+  const sutra = state.sutraTexts[sutraCode];
+
+  if (!sutra) {
+    return `
+      <span class="sutra-chip sutra-chip-missing">
+        ${escapeHtml(sutraCode)}
+      </span>
+    `;
+  }
+
+  return `
+    <span class="sutra-chip sutra-chip-rich" title="${escapeHtml(sutra.iast)} · ${escapeHtml(sutra.slp1)}">
+      <span class="sutra-code">${escapeHtml(sutra.code)}</span>
+      <span class="sutra-deva">${escapeHtml(sutra.deva)}</span>
+    </span>
+  `;
+}
+
 function renderPrakriyaEntries(entries) {
   if (!entries.length) {
     els.prakriyaPanel.className = "prakriya-panel empty-prakriya";
@@ -464,9 +485,7 @@ function renderPrakriyaEntries(entries) {
               <div class="prakriya-step-deva">${escapeHtml(step.deva)}</div>
               <div class="prakriya-step-iast">${escapeHtml(step.iast)}</div>
               <div class="prakriya-sutras">
-                ${step.sutras.map(sutra => `
-                  <span class="sutra-chip">${escapeHtml(sutra)}</span>
-                `).join("")}
+                ${step.sutras.map(sutra => renderSutraChip(sutra)).join("")}
               </div>
             </div>
           </div>

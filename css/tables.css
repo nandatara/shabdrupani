@@ -506,3 +506,25 @@
   font-size: 0.82rem;
   font-weight: 800;
 }
+
+.sutra-chip-rich {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+}
+
+.sutra-code {
+  font-family: "Consolas", "Courier New", monospace;
+  font-weight: 900;
+}
+
+.sutra-deva {
+  font-family: var(--font-devanagari);
+  font-weight: 800;
+}
+
+.sutra-chip-missing {
+  background: #FFF7ED;
+  border-color: #FDBA74;
+  color: #9A3412;
+}
