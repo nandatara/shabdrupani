@@ -63,7 +63,7 @@
     }
   }
 
-function bindEvents() {
+  function bindEvents() {
   els.searchInput.addEventListener("input", () => {
     state.query = els.searchInput.value.trim();
     updateResults();
@@ -453,18 +453,87 @@ function renderSutraChip(sutraCode) {
 
   if (!sutra) {
     return `
-      <span class="sutra-chip sutra-chip-missing">
+      <button
+        type="button"
+        class="sutra-chip sutra-chip-missing"
+        data-sutra-code="${escapeHtml(sutraCode)}"
+      >
         ${escapeHtml(sutraCode)}
-      </span>
+      </button>
     `;
   }
 
   return `
-    <span class="sutra-chip sutra-chip-rich" title="${escapeHtml(sutra.iast)} · ${escapeHtml(sutra.slp1)}">
+    <button
+      type="button"
+      class="sutra-chip sutra-chip-rich"
+      data-sutra-code="${escapeHtml(sutra.code)}"
+      title="${escapeHtml(sutra.iast)} · ${escapeHtml(sutra.slp1)}"
+    >
       <span class="sutra-code">${escapeHtml(sutra.code)}</span>
       <span class="sutra-deva">${escapeHtml(sutra.deva)}</span>
-    </span>
+    </button>
   `;
+}
+
+function renderSutraDetail(sutraCode) {
+  const panel = document.getElementById("sutraDetailPanel");
+
+  if (!panel) return;
+
+  const sutra = state.sutraTexts[sutraCode];
+
+  if (!sutra) {
+    panel.className = "sutra-detail-panel";
+    panel.innerHTML = `
+      <div class="sutra-detail-title">Sūtra not found</div>
+      <div class="sutra-detail-row">
+        <span>Code</span>
+        <strong>${escapeHtml(sutraCode)}</strong>
+      </div>
+      <div class="muted">
+        This sūtra number is present in the prakriyā data but missing from the sūtra text file.
+      </div>
+    `;
+    return;
+  }
+
+  panel.className = "sutra-detail-panel";
+  panel.innerHTML = `
+    <div class="sutra-detail-title">Sūtra Detail</div>
+
+    <div class="sutra-detail-main">
+      <div class="sutra-detail-code">${escapeHtml(sutra.code)}</div>
+      <div class="sutra-detail-deva">${escapeHtml(sutra.deva)}</div>
+    </div>
+
+    <div class="sutra-detail-grid">
+      <div class="sutra-detail-row">
+        <span>IAST</span>
+        <strong>${escapeHtml(sutra.iast)}</strong>
+      </div>
+
+      <div class="sutra-detail-row">
+        <span>SLP1</span>
+        <code>${escapeHtml(sutra.slp1)}</code>
+      </div>
+    </div>
+  `;
+}
+
+function bindSutraChipButtons() {
+  els.prakriyaPanel.querySelectorAll("[data-sutra-code]").forEach(button => {
+    button.addEventListener("click", () => {
+      const sutraCode = button.dataset.sutraCode;
+
+      els.prakriyaPanel.querySelectorAll(".sutra-chip.active").forEach(activeChip => {
+        activeChip.classList.remove("active");
+      });
+
+      button.classList.add("active");
+      renderSutraDetail(sutraCode);
+    });
+  });
 }
 
 function renderPrakriyaEntries(entries) {
@@ -476,7 +545,7 @@ function renderPrakriyaEntries(entries) {
 
   els.prakriyaPanel.className = "prakriya-panel";
 
-  els.prakriyaPanel.innerHTML = entries.map((entry, entryIndex) => {
+  const entriesHtml = entries.map((entry, entryIndex) => {
     const stepsHtml = entry.steps.length
       ? entry.steps.map(step => `
           <div class="prakriya-step">
@@ -516,6 +585,16 @@ function renderPrakriyaEntries(entries) {
       </section>
     `;
   }).join("");
+
+els.prakriyaPanel.innerHTML = `
+  ${entriesHtml}
+
+  <div id="sutraDetailPanel" class="sutra-detail-panel empty-sutra-detail">
+    Click a sūtra chip to view its full details.
+  </div>
+`;
+
+bindSutraChipButtons();
 }
 
 function bindPrakriyaButtons() {
