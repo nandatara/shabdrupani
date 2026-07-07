@@ -31,6 +31,20 @@
     return String(value || "").trim().length > 0;
   }
 
+  function getPrakriyaInfo(entry, caseKey, numberKey, form, prakriyaLookup) {
+    if (!prakriyaLookup || !entry?.zbaseindex || !form?.slp1) {
+      return { key: "", refs: [] };
+    }
+
+    return ShabdaPrakriya.getRefsForForm(
+      prakriyaLookup,
+      entry.zbaseindex,
+      caseKey,
+      numberKey,
+      form.slp1
+    );
+  }
+
   function renderOneForm(form, displayMode) {
     if (displayMode === "deva") {
       return `<span class="form-deva">${escapeHtml(form.deva)}</span>`;
@@ -50,13 +64,40 @@
     `;
   }
 
-  function renderFormCell(forms, displayMode) {
+  function renderFormCell(forms, displayMode, context) {
     if (!forms || forms.length === 0) {
       return `<span class="muted">—</span>`;
     }
 
     return forms.map((form, index) => {
       const sep = index > 0 ? `<span class="alt-separator">/</span>` : "";
+      const info = getPrakriyaInfo(
+        context.entry,
+        context.caseKey,
+        context.numberKey,
+        form,
+        context.prakriyaLookup
+      );
+
+      const hasPrakriya = info.refs.length > 0;
+      const countBadge = info.refs.length > 1
+        ? `<span class="prakriya-count">${info.refs.length}</span>`
+        : "";
+
+      if (hasPrakriya) {
+        return `
+          ${sep}
+          <button
+            type="button"
+            class="form-alt form-button has-prakriya"
+            data-prakriya-key="${escapeHtml(info.key)}"
+            title="Show derivation"
+          >
+            ${renderOneForm(form, displayMode)}
+            ${countBadge}
+          </button>
+        `;
+      }
 
       return `
         ${sep}
@@ -149,7 +190,7 @@
     `;
   }
 
-  function renderTable(entry, displayMode = "deva-iast") {
+  function renderTable(entry, displayMode = "deva-iast", options = {}) {
     if (!entry) {
       return `<div class="empty-table">Select a stem to view its declension table.</div>`;
     }
@@ -160,7 +201,12 @@
 
     const rows = CASES.map(([caseKey, caseDeva, caseIast]) => {
       const cells = NUMBERS.map(([numKey]) => {
-        return `<td>${renderFormCell(entry.forms[caseKey]?.[numKey], displayMode)}</td>`;
+        return `<td>${renderFormCell(entry.forms[caseKey]?.[numKey], displayMode, {
+          entry,
+          caseKey,
+          numberKey: numKey,
+          prakriyaLookup: options.prakriyaLookup
+        })}</td>`;
       }).join("");
 
       return `
@@ -195,79 +241,64 @@
     `;
   }
 
-function formToCopyText(form, displayMode) {
-  if (displayMode === "deva") {
-    return form.deva;
+  function formToCopyText(form, displayMode) {
+    if (displayMode === "deva") return form.deva;
+    if (displayMode === "iast") return form.iast;
+    if (displayMode === "slp1") return form.slp1;
+    return `${form.deva} (${form.iast})`;
   }
 
-  if (displayMode === "iast") {
-    return form.iast;
+  function formCellToCopyText(forms, displayMode) {
+    if (!forms || forms.length === 0) return "—";
+
+    return forms
+      .map(form => formToCopyText(form, displayMode))
+      .join(" / ");
   }
 
-  if (displayMode === "slp1") {
-    return form.slp1;
+  function buildCopyText(entry, displayMode = "deva-iast") {
+    if (!entry || !entry.forms) return "";
+
+    const lines = [];
+
+    lines.push("Shabdrupāṇi");
+    lines.push(`Stem\t${entry.word.deva}`);
+    lines.push(`IAST\t${entry.word.iast}`);
+    lines.push(`SLP1\t${entry.word.slp1}`);
+    lines.push(`Gender\t${entry.linga.deva} / ${entry.linga.english}`);
+    lines.push(`Ending\t${entry.ending.deva} / ${entry.ending.iast}`);
+    lines.push(`Source\t${entry.zbaseindex || entry.urlid || ""}`);
+
+    const meanings = [
+      entry.meaning?.english,
+      entry.meaning?.hindi,
+      entry.meaning?.sanskrit
+    ].filter(Boolean);
+
+    if (meanings.length) {
+      lines.push(`Meaning\t${meanings.join(" | ")}`);
+    }
+
+    lines.push("");
+    lines.push(["विभक्ति", "एकवचन", "द्विवचन", "बहुवचन"].join("\t"));
+
+    for (const [caseKey, caseDeva, caseIast] of CASES) {
+      lines.push([
+        `${caseDeva} (${caseIast})`,
+        formCellToCopyText(entry.forms[caseKey]?.sg, displayMode),
+        formCellToCopyText(entry.forms[caseKey]?.du, displayMode),
+        formCellToCopyText(entry.forms[caseKey]?.pl, displayMode)
+      ].join("\t"));
+    }
+
+    lines.push("");
+    lines.push("Generated from Shabdrupāṇi");
+
+    return lines.join("\n");
   }
 
-  return `${form.deva} (${form.iast})`;
-}
-
-function formCellToCopyText(forms, displayMode) {
-  if (!forms || forms.length === 0) {
-    return "—";
-  }
-
-  return forms
-    .map(form => formToCopyText(form, displayMode))
-    .join(" / ");
-}
-
-function buildCopyText(entry, displayMode = "deva-iast") {
-  if (!entry || !entry.forms) {
-    return "";
-  }
-
-  const lines = [];
-
-  lines.push("Shabdrupāṇi");
-  lines.push(`Stem\t${entry.word.deva}`);
-  lines.push(`IAST\t${entry.word.iast}`);
-  lines.push(`SLP1\t${entry.word.slp1}`);
-  lines.push(`Gender\t${entry.linga.deva} / ${entry.linga.english}`);
-  lines.push(`Ending\t${entry.ending.deva} / ${entry.ending.iast}`);
-  lines.push(`Source\t${entry.zbaseindex || entry.urlid || ""}`);
-
-  const meanings = [
-    entry.meaning?.english,
-    entry.meaning?.hindi,
-    entry.meaning?.sanskrit
-  ].filter(Boolean);
-
-  if (meanings.length) {
-    lines.push(`Meaning\t${meanings.join(" | ")}`);
-  }
-
-  lines.push("");
-  lines.push(["विभक्ति", "एकवचन", "द्विवचन", "बहुवचन"].join("\t"));
-
-  for (const [caseKey, caseDeva, caseIast] of CASES) {
-    const row = [
-      `${caseDeva} (${caseIast})`,
-      formCellToCopyText(entry.forms[caseKey]?.sg, displayMode),
-      formCellToCopyText(entry.forms[caseKey]?.du, displayMode),
-      formCellToCopyText(entry.forms[caseKey]?.pl, displayMode)
-    ];
-
-    lines.push(row.join("\t"));
-  }
-
-  lines.push("");
-  lines.push("Generated from Shabdrupāṇi");
-
-  return lines.join("\n");
-}
-
-global.ShabdaTableRenderer = {
-  renderTable,
-  buildCopyText
-};
+  global.ShabdaTableRenderer = {
+    renderTable,
+    buildCopyText
+  };
 })(window);

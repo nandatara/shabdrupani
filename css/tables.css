@@ -365,3 +365,144 @@
     justify-content: flex-start;
   }
 }
+
+.form-button {
+  border: 0;
+  background: transparent;
+  padding: 4px 6px;
+  border-radius: 10px;
+  cursor: pointer;
+  text-align: left;
+  position: relative;
+}
+
+.form-button.has-prakriya {
+  background: var(--accent-soft);
+  box-shadow: inset 0 0 0 1px var(--accent-line);
+}
+
+.form-button.has-prakriya:hover,
+.form-button.has-prakriya.active {
+  background: var(--primary-soft);
+  box-shadow: inset 0 0 0 2px var(--primary);
+}
+
+.prakriya-count {
+  position: absolute;
+  top: -6px;
+  right: -6px;
+  min-width: 18px;
+  height: 18px;
+  border-radius: 999px;
+  background: var(--primary);
+  color: white;
+  font-size: 0.72rem;
+  font-weight: 900;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.prakriya-panel {
+  margin-top: 20px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: #FFFDF8;
+  padding: 18px;
+}
+
+.empty-prakriya {
+  color: var(--ink-muted);
+  text-align: center;
+}
+
+.prakriya-entry + .prakriya-entry {
+  border-top: 1px dashed var(--border-strong);
+  margin-top: 18px;
+  padding-top: 18px;
+}
+
+.prakriya-heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 14px;
+  align-items: flex-start;
+  margin-bottom: 14px;
+}
+
+.prakriya-title {
+  font-family: var(--font-devanagari);
+  font-size: 1.7rem;
+  color: var(--primary-deep);
+  font-weight: 900;
+}
+
+.prakriya-subtitle {
+  font-family: var(--font-main);
+  color: var(--ink-muted);
+}
+
+.prakriya-alt-label {
+  background: var(--primary-soft);
+  border: 1px solid #CAD8EA;
+  color: var(--primary);
+  border-radius: 999px;
+  padding: 5px 9px;
+  font-size: 0.82rem;
+  font-weight: 900;
+  white-space: nowrap;
+}
+
+.prakriya-step {
+  display: grid;
+  grid-template-columns: 36px 1fr;
+  gap: 12px;
+  align-items: flex-start;
+  padding: 10px 0;
+  border-top: 1px solid rgba(216, 203, 180, 0.55);
+}
+
+.prakriya-step:first-child {
+  border-top: 0;
+}
+
+.prakriya-step-number {
+  width: 30px;
+  height: 30px;
+  border-radius: 999px;
+  background: var(--primary);
+  color: white;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+}
+
+.prakriya-step-deva {
+  font-family: var(--font-devanagari);
+  font-size: 1.35rem;
+  color: var(--ink-main);
+}
+
+.prakriya-step-iast {
+  font-family: var(--font-main);
+  color: var(--ink-muted);
+  margin-top: 2px;
+}
+
+.prakriya-sutras {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+.sutra-chip {
+  background: var(--primary-soft);
+  color: var(--primary);
+  border: 1px solid #CAD8EA;
+  border-radius: 999px;
+  padding: 3px 8px;
+  font-size: 0.82rem;
+  font-weight: 800;
+}

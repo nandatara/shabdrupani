@@ -18,6 +18,7 @@
     recentList: document.getElementById("recentList"),
     clearRecentBtn: document.getElementById("clearRecentBtn"),
     tableOutput: document.getElementById("tableOutput"),
+    prakriyaPanel: document.getElementById("prakriyaPanel"),
     copyTableBtn: document.getElementById("copyTableBtn"),
     printTableBtn: document.getElementById("printTableBtn")
   };
@@ -34,13 +35,15 @@
 
   async function init() {
     try {
-      const [index, filters] = await Promise.all([
-        loadJson("data/generated/shabda-index.json"),
-        loadJson("data/generated/filter-counts.json")
-      ]);
+      const [index, filters, prakriyaLookup] = await Promise.all([
+          loadJson("data/generated/shabda-index.json"),
+          loadJson("data/generated/filter-counts.json"),
+          loadJson("data/generated/prakriya-lookup.json")
+        ]);
 
       state.index = index;
       state.filters = ShabdaFilters.sortFilters(filters);
+      state.prakriyaLookup = prakriyaLookup;
       state.recentIds = loadRecentIds().filter(id =>
         state.index.some(entry => entry.id === id)
       );
@@ -416,6 +419,117 @@ els.copyTableBtn.addEventListener("click", () => {
     throw new Error("Fallback copy failed.");
   }
 }  
+
+  function renderSelectedTable(entry) {
+  els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(
+    entry,
+    state.displayMode,
+    {
+      prakriyaLookup: state.prakriyaLookup
+    }
+  );
+
+  bindPrakriyaButtons();
+}
+
+function clearPrakriyaPanel() {
+  els.prakriyaPanel.className = "prakriya-panel empty-prakriya";
+  els.prakriyaPanel.innerHTML = "Select a highlighted form to view its derivation.";
+}
+
+function escapeHtml(value) {
+  return String(value || "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#039;");
+}
+
+function renderPrakriyaEntries(entries) {
+  if (!entries.length) {
+    els.prakriyaPanel.className = "prakriya-panel empty-prakriya";
+    els.prakriyaPanel.innerHTML = "No derivation steps found for this form.";
+    return;
+  }
+
+  els.prakriyaPanel.className = "prakriya-panel";
+
+  els.prakriyaPanel.innerHTML = entries.map((entry, entryIndex) => {
+    const stepsHtml = entry.steps.length
+      ? entry.steps.map(step => `
+          <div class="prakriya-step">
+            <div class="prakriya-step-number">${step.index}</div>
+            <div class="prakriya-step-body">
+              <div class="prakriya-step-deva">${escapeHtml(step.deva)}</div>
+              <div class="prakriya-step-iast">${escapeHtml(step.iast)}</div>
+              <div class="prakriya-sutras">
+                ${step.sutras.map(sutra => `
+                  <span class="sutra-chip">${escapeHtml(sutra)}</span>
+                `).join("")}
+              </div>
+            </div>
+          </div>
+        `).join("")
+      : `<div class="empty-prakriya">Derivation entry exists, but no steps are available.</div>`;
+
+    const multipleLabel = entries.length > 1
+      ? `<span class="prakriya-alt-label">Derivation ${entryIndex + 1} of ${entries.length}</span>`
+      : "";
+
+    return `
+      <section class="prakriya-entry">
+        <div class="prakriya-heading">
+          <div>
+            <div class="prakriya-title">
+              ${escapeHtml(entry.word.deva)} → ${escapeHtml(entry.form.deva)}
+            </div>
+            <div class="prakriya-subtitle">
+              ${escapeHtml(entry.word.iast)} → ${escapeHtml(entry.form.iast)}
+            </div>
+          </div>
+          ${multipleLabel}
+        </div>
+
+        <div class="prakriya-steps">
+          ${stepsHtml}
+        </div>
+      </section>
+    `;
+  }).join("");
+}
+
+function bindPrakriyaButtons() {
+  els.tableOutput.querySelectorAll("[data-prakriya-key]").forEach(button => {
+    button.addEventListener("click", async () => {
+      const key = button.dataset.prakriyaKey;
+
+      els.tableOutput.querySelectorAll(".form-button.active").forEach(activeButton => {
+        activeButton.classList.remove("active");
+      });
+
+      button.classList.add("active");
+
+      els.prakriyaPanel.className = "prakriya-panel empty-prakriya";
+      els.prakriyaPanel.innerHTML = "Loading derivation...";
+
+      try {
+        const entries = await ShabdaPrakriya.loadEntriesForKey(
+          key,
+          state.prakriyaLookup,
+          state.prakriyaChunkCache
+        );
+
+        renderPrakriyaEntries(entries);
+      } catch (error) {
+        console.error(error);
+        els.prakriyaPanel.className = "prakriya-panel empty-prakriya";
+        els.prakriyaPanel.innerHTML = "Could not load derivation data.";
+      }
+    });
+  });
+}
+
   async function selectEntry(id) {
     state.selectedId = id;
 
@@ -427,10 +541,8 @@ els.copyTableBtn.addEventListener("click", () => {
       const entry = await loadTableEntry(id);
         state.selectedEntry = entry;
 
-        els.tableOutput.innerHTML = ShabdaTableRenderer.renderTable(
-          entry,
-          state.displayMode
-        );
+       renderSelectedTable(entry);
+       clearPrakriyaPanel();
 
       addRecentId(id);
       renderRecent();
