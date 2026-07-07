@@ -649,3 +649,26 @@
     flex-direction: column;
   }
 }
+
+.prakriya-toolbar-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.secondary-copy-button {
+  background: var(--bg-card);
+  color: var(--primary);
+  border: 1px solid var(--border-strong);
+}
+
+.secondary-copy-button:hover {
+  background: var(--primary-soft);
+}
+
+@media (max-width: 760px) {
+  .prakriya-toolbar-actions {
+    justify-content: flex-start;
+  }
+}

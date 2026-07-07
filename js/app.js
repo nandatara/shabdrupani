@@ -565,6 +565,35 @@ function bindCopyPrakriyaButton() {
   });
 }
 
+function bindPrintPrakriyaButton() {
+  const button = document.getElementById("printPrakriyaBtn");
+
+  if (!button) return;
+
+  button.addEventListener("click", () => {
+    if (!state.selectedPrakriyaEntries.length) {
+      alert("No derivation is currently selected.");
+      return;
+    }
+
+    const printWindow = window.open("", "_blank");
+
+    if (!printWindow) {
+      alert("Could not open the print window. Please allow popups for this site.");
+      return;
+    }
+
+    printWindow.document.open();
+    printWindow.document.write(buildPrakriyaPrintHtml(state.selectedPrakriyaEntries));
+    printWindow.document.close();
+
+    printWindow.onload = () => {
+      printWindow.focus();
+      printWindow.print();
+    };
+  });
+}
+
 function sutraForCopy(sutraCode) {
   const sutra = state.sutraTexts[sutraCode];
 
@@ -623,6 +652,232 @@ function buildPrakriyaCopyText(entries) {
   lines.push("Generated from Shabdrupāṇi");
 
   return lines.join("\n");
+}
+
+function buildPrakriyaPrintHtml(entries) {
+  const today = new Date().toLocaleString();
+
+  const entriesHtml = entries.map((entry, entryIndex) => {
+    const derivationHeading = entries.length > 1
+      ? `<div class="alt-heading">Derivation ${entryIndex + 1} of ${entries.length}</div>`
+      : "";
+
+    const stepsHtml = entry.steps && entry.steps.length
+      ? entry.steps.map(step => {
+          const sutrasHtml = step.sutras && step.sutras.length
+            ? `
+              <ul class="sutra-list">
+                ${step.sutras.map(sutraCode => {
+                  const sutra = state.sutraTexts[sutraCode];
+
+                  if (!sutra) {
+                    return `<li><strong>${escapeHtml(sutraCode)}</strong></li>`;
+                  }
+
+                  return `
+                    <li>
+                      <strong>${escapeHtml(sutra.code)}</strong>
+                      <span class="sutra-deva">${escapeHtml(sutra.deva)}</span>
+                      <span class="sutra-iast">${escapeHtml(sutra.iast)}</span>
+                      <code>${escapeHtml(sutra.slp1)}</code>
+                    </li>
+                  `;
+                }).join("")}
+              </ul>
+            `
+            : "";
+
+          return `
+            <div class="step">
+              <div class="step-number">${escapeHtml(step.index)}</div>
+              <div class="step-body">
+                <div class="step-deva">${escapeHtml(step.deva)}</div>
+                <div class="step-iast">${escapeHtml(step.iast)}</div>
+                ${sutrasHtml}
+              </div>
+            </div>
+          `;
+        }).join("")
+      : `<div class="empty-note">Derivation entry exists, but no steps are available.</div>`;
+
+    return `
+      <section class="entry">
+        ${derivationHeading}
+
+        <div class="entry-title">
+          <span>${escapeHtml(entry.word.deva)}</span>
+          <span class="arrow">→</span>
+          <span>${escapeHtml(entry.form.deva)}</span>
+        </div>
+
+        <div class="entry-subtitle">
+          ${escapeHtml(entry.word.iast)} → ${escapeHtml(entry.form.iast)}
+        </div>
+
+        <div class="meta">
+          <div><strong>Base index:</strong> ${escapeHtml(entry.baseindex?.raw || entry.baseindex?.normalized || "")}</div>
+          <div><strong>Vibhakti:</strong> ${escapeHtml(entry.vibhakti)}</div>
+          <div><strong>Vachana:</strong> ${escapeHtml(entry.vachan)}</div>
+        </div>
+
+        ${stepsHtml}
+      </section>
+    `;
+  }).join("");
+
+  return `
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Shabdrupāṇi Derivation</title>
+  <style>
+    body {
+      font-family: Georgia, "Times New Roman", serif;
+      color: #1F2933;
+      background: white;
+      margin: 32px;
+      line-height: 1.45;
+    }
+
+    .page-title {
+      font-size: 24px;
+      font-weight: 800;
+      color: #1E3A5F;
+      border-bottom: 2px solid #D8CBB4;
+      padding-bottom: 8px;
+      margin-bottom: 6px;
+    }
+
+    .generated {
+      color: #64748B;
+      font-size: 12px;
+      margin-bottom: 24px;
+    }
+
+    .entry {
+      page-break-inside: avoid;
+      margin-bottom: 28px;
+    }
+
+    .alt-heading {
+      font-size: 13px;
+      font-weight: 800;
+      color: #B7791F;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      margin-bottom: 8px;
+    }
+
+    .entry-title {
+      font-family: "Noto Serif Devanagari", "Mangal", serif;
+      font-size: 28px;
+      font-weight: 900;
+      color: #1E3A5F;
+      margin-bottom: 2px;
+    }
+
+    .arrow {
+      margin: 0 8px;
+      color: #B7791F;
+    }
+
+    .entry-subtitle {
+      color: #64748B;
+      margin-bottom: 10px;
+    }
+
+    .meta {
+      display: flex;
+      gap: 18px;
+      flex-wrap: wrap;
+      font-size: 13px;
+      color: #374151;
+      border: 1px solid #D8CBB4;
+      padding: 8px 10px;
+      margin-bottom: 14px;
+    }
+
+    .step {
+      display: grid;
+      grid-template-columns: 34px 1fr;
+      gap: 10px;
+      border-top: 1px solid #E4D8C5;
+      padding: 10px 0;
+      page-break-inside: avoid;
+    }
+
+    .step-number {
+      width: 26px;
+      height: 26px;
+      border-radius: 999px;
+      background: #1E3A5F;
+      color: white;
+      font-weight: 900;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 13px;
+    }
+
+    .step-deva {
+      font-family: "Noto Serif Devanagari", "Mangal", serif;
+      font-size: 21px;
+      font-weight: 700;
+    }
+
+    .step-iast {
+      color: #64748B;
+      font-size: 14px;
+      margin-top: 2px;
+    }
+
+    .sutra-list {
+      margin: 7px 0 0 0;
+      padding-left: 18px;
+      font-size: 13px;
+    }
+
+    .sutra-list li {
+      margin: 3px 0;
+    }
+
+    .sutra-deva {
+      font-family: "Noto Serif Devanagari", "Mangal", serif;
+      margin-left: 6px;
+      font-weight: 700;
+    }
+
+    .sutra-iast {
+      margin-left: 6px;
+      color: #64748B;
+    }
+
+    code {
+      margin-left: 6px;
+      font-family: Consolas, "Courier New", monospace;
+      color: #1E3A5F;
+    }
+
+    .empty-note {
+      color: #64748B;
+      border: 1px dashed #D8CBB4;
+      padding: 12px;
+    }
+
+    @page {
+      margin: 0.65in;
+    }
+  </style>
+</head>
+<body>
+  <div class="page-title">Shabdrupāṇi — Derivation</div>
+  <div class="generated">Generated ${escapeHtml(today)}</div>
+
+  ${entriesHtml}
+</body>
+</html>
+  `;
 }
 
 function renderPrakriyaEntries(entries) {
@@ -686,9 +941,15 @@ function renderPrakriyaEntries(entries) {
         </div>
       </div>
 
+      <div class="prakriya-toolbar-actions">
       <button id="copyPrakriyaBtn" class="copy-button" type="button">
         Copy derivation
       </button>
+
+      <button id="printPrakriyaBtn" class="copy-button secondary-copy-button" type="button">
+        Print derivation
+      </button>
+</div>
     </div>
 
     ${entriesHtml}
@@ -700,6 +961,7 @@ function renderPrakriyaEntries(entries) {
 
   bindSutraChipButtons();
   bindCopyPrakriyaButton();
+  bindPrintPrakriyaButton();
 }
 function bindPrakriyaButtons() {
   els.tableOutput.querySelectorAll("[data-prakriya-key]").forEach(button => {
