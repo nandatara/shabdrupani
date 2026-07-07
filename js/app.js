@@ -435,6 +435,7 @@ els.copyTableBtn.addEventListener("click", () => {
 }
 
 function clearPrakriyaPanel() {
+  state.selectedPrakriyaEntries = [];
   els.prakriyaPanel.className = "prakriya-panel empty-prakriya";
   els.prakriyaPanel.innerHTML = "Select a highlighted form to view its derivation.";
 }
@@ -536,7 +537,97 @@ function bindSutraChipButtons() {
   });
 }
 
+function bindCopyPrakriyaButton() {
+  const button = document.getElementById("copyPrakriyaBtn");
+
+  if (!button) return;
+
+  button.addEventListener("click", () => {
+    if (!state.selectedPrakriyaEntries.length) {
+      alert("No derivation is currently selected.");
+      return;
+    }
+
+    try {
+      const text = buildPrakriyaCopyText(state.selectedPrakriyaEntries);
+      copyTextToClipboard(text);
+
+      const oldText = button.textContent;
+      button.textContent = "Copied!";
+
+      setTimeout(() => {
+        button.textContent = oldText;
+      }, 1200);
+    } catch (error) {
+      console.error(error);
+      alert("Could not copy this derivation.");
+    }
+  });
+}
+
+function sutraForCopy(sutraCode) {
+  const sutra = state.sutraTexts[sutraCode];
+
+  if (!sutra) {
+    return sutraCode;
+  }
+
+  return `${sutra.code} ${sutra.deva} (${sutra.iast}; ${sutra.slp1})`;
+}
+
+function buildPrakriyaCopyText(entries) {
+  if (!entries || !entries.length) {
+    return "";
+  }
+
+  const lines = [];
+
+  lines.push("Shabdrupāṇi — Derivation");
+  lines.push("");
+
+  entries.forEach((entry, entryIndex) => {
+    if (entries.length > 1) {
+      lines.push(`Derivation ${entryIndex + 1} of ${entries.length}`);
+    }
+
+    lines.push(`Word\t${entry.word.deva}`);
+    lines.push(`Form\t${entry.form.deva}`);
+    lines.push(`IAST\t${entry.word.iast} → ${entry.form.iast}`);
+    lines.push(`SLP1\t${entry.word.slp1} → ${entry.form.slp1}`);
+    lines.push(`Base index\t${entry.baseindex?.raw || entry.baseindex?.normalized || ""}`);
+    lines.push(`Vibhakti\t${entry.vibhakti}`);
+    lines.push(`Vachana\t${entry.vachan}`);
+    lines.push("");
+
+    if (!entry.steps || !entry.steps.length) {
+      lines.push("Derivation entry exists, but no steps are available.");
+      lines.push("");
+      return;
+    }
+
+    entry.steps.forEach(step => {
+      lines.push(`${step.index}. ${step.deva}`);
+      lines.push(`   IAST: ${step.iast}`);
+
+      if (step.sutras && step.sutras.length) {
+        lines.push("   Sūtras:");
+        step.sutras.forEach(sutraCode => {
+          lines.push(`   - ${sutraForCopy(sutraCode)}`);
+        });
+      }
+
+      lines.push("");
+    });
+  });
+
+  lines.push("Generated from Shabdrupāṇi");
+
+  return lines.join("\n");
+}
+
 function renderPrakriyaEntries(entries) {
+  state.selectedPrakriyaEntries = entries;
+
   if (!entries.length) {
     els.prakriyaPanel.className = "prakriya-panel empty-prakriya";
     els.prakriyaPanel.innerHTML = "No derivation steps found for this form.";
@@ -586,17 +677,30 @@ function renderPrakriyaEntries(entries) {
     `;
   }).join("");
 
-els.prakriyaPanel.innerHTML = `
-  ${entriesHtml}
+  els.prakriyaPanel.innerHTML = `
+    <div class="prakriya-toolbar">
+      <div>
+        <div class="prakriya-toolbar-title">Derivation</div>
+        <div class="prakriya-toolbar-subtitle">
+          ${entries.length > 1 ? `${entries.length} derivations available` : "1 derivation available"}
+        </div>
+      </div>
 
-  <div id="sutraDetailPanel" class="sutra-detail-panel empty-sutra-detail">
-    Click a sūtra chip to view its full details.
-  </div>
-`;
+      <button id="copyPrakriyaBtn" class="copy-button" type="button">
+        Copy derivation
+      </button>
+    </div>
 
-bindSutraChipButtons();
+    ${entriesHtml}
+
+    <div id="sutraDetailPanel" class="sutra-detail-panel empty-sutra-detail">
+      Click a sūtra chip to view its full details.
+    </div>
+  `;
+
+  bindSutraChipButtons();
+  bindCopyPrakriyaButton();
 }
-
 function bindPrakriyaButtons() {
   els.tableOutput.querySelectorAll("[data-prakriya-key]").forEach(button => {
     button.addEventListener("click", async () => {

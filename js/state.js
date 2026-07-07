@@ -14,6 +14,7 @@ window.ShabdaState = {
 
   selectedId: null,
   selectedEntry: null,
+  selectedPrakriyaEntries: [],
   recentIds: [],
 
   displayMode: "deva-iast"
